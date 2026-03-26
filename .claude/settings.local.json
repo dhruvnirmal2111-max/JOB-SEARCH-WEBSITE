@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python -c \":*)",
+      "Bash(python main.py)",
+      "WebSearch",
+      "WebFetch(domain:www.p-i.com.au)",
+      "Bash(DATABASE_URL=\"postgresql://postgres:Heymista123*@127.0.0.1:5432/jobsearch\" npx prisma db push)",
+      "Bash(for f:*)",
+      "Bash(do)",
+      "Bash(sed -i 's/indigo/orange/g; s/violet/orange/g; s/purple/orange/g' \"$f\")",
+      "Bash(echo \"Updated: $f\")",
+      "Bash(done)"
+    ]
+  }
+}

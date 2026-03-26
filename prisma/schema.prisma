@@ -1,0 +1,133 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  name      String
+  password  String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  jobs             Job[]
+  resumes          Resume[]
+  contacts         Contact[]
+  networkingResults NetworkingResult[]
+  careerAnalyses   CareerAnalysis[]
+  projects         Project[]
+}
+
+model Job {
+  id         String   @id @default(cuid())
+  userId     String
+  company    String   @default("Unknown")
+  role       String   @default("Unknown")
+  jdText     String
+  resumeText String   @default("")
+  status     String   @default("active")
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  user             User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  resumes          Resume[]
+  contacts         Contact[]
+  networkingResult NetworkingResult?
+  careerAnalysis   CareerAnalysis?
+}
+
+model Resume {
+  id            String   @id @default(cuid())
+  userId        String
+  jobId         String?
+  originalText  String
+  optimizedText String?
+  coverLetter   String?
+  matchRate     Int?
+  keywordData   String?  // JSON string
+  fullData      String?  // JSON: complete API response (bulletRewrites, recommendations, summary)
+  createdAt     DateTime @default(now())
+
+  user User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  job  Job?  @relation(fields: [jobId], references: [id])
+}
+
+model Contact {
+  id          String   @id @default(cuid())
+  userId      String
+  jobId       String?
+  name        String
+  role        String
+  company     String
+  persona     String
+  score       Float?
+  searchQuery String?
+  messages    String?  // JSON
+  status      String   @default("pending")
+  createdAt   DateTime @default(now())
+
+  user User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  job  Job?  @relation(fields: [jobId], references: [id])
+}
+
+model NetworkingResult {
+  id        String   @id @default(cuid())
+  userId    String
+  jobId     String   @unique
+  fullData  String   // JSON: company, role, contacts, weeklyPlan, outreachRules
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  job  Job  @relation(fields: [jobId], references: [id])
+}
+
+model CareerAnalysis {
+  id        String   @id @default(cuid())
+  userId    String
+  jobId     String   @unique
+  fullData  String   // JSON: complete career coach result
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  job  Job  @relation(fields: [jobId], references: [id])
+}
+
+model Project {
+  id          String   @id @default(cuid())
+  userId      String
+  title       String
+  description String
+  techStack   String   // JSON array of strings
+  status      String   @default("in-progress") // in-progress | completed | paused
+  githubUrl   String?
+  liveUrl     String?
+  highlights  String?  // JSON array of bullet strings
+  startDate   String?  // "YYYY-MM" format
+  endDate     String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model SharedContact {
+  id          String   @id @default(cuid())
+  companyKey  String
+  roleKey     String
+  name        String
+  jobTitle    String
+  persona     String   // peer | manager | recruiter | senior
+  score       Float?
+  searchQuery String?
+  linkedinTip String?
+  useCount    Int      @default(1)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([companyKey, roleKey])
+}

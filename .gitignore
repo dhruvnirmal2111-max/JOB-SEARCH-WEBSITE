@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment files
+*.env.local
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database
+*.db
+*.db-journal
+prisma/dev.db
+prisma/*.db
+
+# Build artifacts
+tsconfig.tsbuildinfo
+
+# Generated output (job search results, resumes, cover letters)
+output/
+
+# Personal documents / PDFs
+*.pdf
+
+# Claude Code memory (project-specific, not for sharing)
+.claude/projects/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
