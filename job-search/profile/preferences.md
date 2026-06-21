@@ -3,10 +3,13 @@
 > Pre-filled by `/intake` from the resume. Items tagged **[ASSUMED]** are my best guess — please correct them.
 
 ## Target roles
-- Data Engineer (mid / senior)
+- Data Engineer
 - Analytics Engineer
 - Data Scientist
 - ML / AI Engineer (given agentic-AI + LLM workflow experience)
+- Data Analyst
+- Product Analyst
+- Procurement Data Analyst
 
 ## Seniority
 - Mid-level (2+ yrs), targeting **mid → senior**. **[ASSUMED]**
@@ -17,21 +20,18 @@
 - Onsite: open within Melbourne. **[ASSUMED]**
 
 ## Compensation
-- Target base: **AUD 120,000–145,000** **[ASSUMED — confirm your number]**
-- Minimum acceptable: **AUD 110,000** **[ASSUMED — confirm]**
+- Target base: **AUD 100,000–125,000** **[ASSUMED — confirm your number]**
+- Minimum acceptable: **AUD 100,000** **[ASSUMED — confirm]**
 
 ## Must-haves
-- **Work rights / visa: [CONFIRM]** — do you have permanent work rights in Australia, or do you need sponsorship? This strongly affects targeting.
-- Meaningful data engineering / ML work (not pure reporting).
+- I have full working rights.
 
 ## Dealbreakers
-- **[CONFIRM]** — e.g. fully onsite 5 days, no AI/ML scope, etc.
+- no AI/ML scope, etc.
 
 ## Industries / domains of interest
 - Data analytics & consulting, fintech, AI/ML products, government/public sector, supply chain / procurement (existing domain strength).
 
-## Industries to avoid
-- **[CONFIRM]**
 
 ## Strengths to lead with (from resume)
 - 20+ production ETL pipelines; ~15% client cost savings via anomaly detection.

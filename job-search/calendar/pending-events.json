@@ -48,5 +48,35 @@
     "notes": "Run /activate-schedules to turn on daily 7am standup and Sunday 6pm weekly-review. Also connect Google Calendar if not already done (see calendar-sync skill).",
     "source": "campaign",
     "status": "pending"
+  },
+  {
+    "id": "quantium-apply-review-submit-20260622",
+    "title": "Quantium Analyst: review drafts & submit application",
+    "kind": "deadline",
+    "start": "2026-06-22T13:00:00",
+    "end": "2026-06-22T14:00:00",
+    "notes": "Review resume-tailored.md + cover-letter.md in job-search/pipeline/quantium--analyst-financial-services/, tweak as needed, then submit on the Quantium/LinkedIn posting. Confirm the real application deadline. After submitting, mark Applied in pipeline.md.",
+    "source": "quantium--analyst-financial-services",
+    "status": "pending"
+  },
+  {
+    "id": "quantium-outreach-week1-20260623",
+    "title": "Quantium Analyst: send week-1 outreach (recruiter + peer)",
+    "kind": "follow-up",
+    "start": "2026-06-23T09:00:00",
+    "end": "2026-06-23T09:30:00",
+    "notes": "After /review-outreach: send connection requests to Ash Reedy-McGann (recruiter) and Melina Mackey (peer). Verify Melina's 'Current' Quantium badge before sending. Messages are drafts in outreach.md — you send manually.",
+    "source": "quantium--analyst-financial-services",
+    "status": "pending"
+  },
+  {
+    "id": "quantium-prep-r-consulting-20260624",
+    "title": "Quantium Analyst: ramp R basics + consulting case framing",
+    "kind": "prep",
+    "start": "2026-06-24T18:00:00",
+    "end": "2026-06-24T19:00:00",
+    "notes": "Two JD gaps to close: (1) R (listed alongside Python/SQL) — do an intro; (2) consulting problem-framing for client-facing analytics. Run /career-coach on this role for a full learning plan + interview prep.",
+    "source": "quantium--analyst-financial-services",
+    "status": "pending"
   }
 ]
