@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "campaign-foundation-focus-20260621",
+    "title": "Job Hunt: Mark shortlist targets & run first /apply",
+    "kind": "focus",
+    "start": "2026-06-21T09:00:00",
+    "end": "2026-06-21T11:00:00",
+    "notes": "Day 1 action block. Mark Pursue?=yes on shortlist.md (recommend Capital.com, Kogan.com, Karbon, SDG Group), then run /apply Capital.com. Also confirm visa/work-rights in preferences.md.",
+    "source": "campaign",
+    "status": "pending"
+  },
+  {
+    "id": "campaign-preferences-confirm-20260621",
+    "title": "Job Hunt: Confirm preferences (visa, comp, dealbreakers)",
+    "kind": "focus",
+    "start": "2026-06-21T11:00:00",
+    "end": "2026-06-21T11:30:00",
+    "notes": "Fix all [CONFIRM] items in job-search/profile/preferences.md: (1) visa/work-rights status — critical for targeting; (2) confirm comp floor and target; (3) list dealbreakers; (4) industries to avoid.",
+    "source": "campaign",
+    "status": "pending"
+  },
+  {
+    "id": "campaign-apply-kogan-20260622",
+    "title": "Job Hunt: /apply Kogan.com (Data & ML Engineer)",
+    "kind": "focus",
+    "start": "2026-06-22T09:00:00",
+    "end": "2026-06-22T10:30:00",
+    "notes": "Run /apply Kogan.com — fit 9/10, specific posting, hits DE + ML sides. Then /review-outreach + /review-calendar.",
+    "source": "campaign",
+    "status": "pending"
+  },
+  {
+    "id": "campaign-apply-karbon-20260622",
+    "title": "Job Hunt: /apply Karbon (Data Engineer)",
+    "kind": "focus",
+    "start": "2026-06-22T10:30:00",
+    "end": "2026-06-22T12:00:00",
+    "notes": "Run /apply Karbon — fit 8/10, agentic-AI/LLM edge aligns well with Karbon's AI-powered SaaS. Confirm posting is still live first.",
+    "source": "campaign",
+    "status": "pending"
+  },
+  {
+    "id": "campaign-activate-schedules-20260621",
+    "title": "Job Hunt: Run /activate-schedules + connect Google Calendar",
+    "kind": "focus",
+    "start": "2026-06-21T12:00:00",
+    "end": "2026-06-21T12:30:00",
+    "notes": "Run /activate-schedules to turn on daily 7am standup and Sunday 6pm weekly-review. Also connect Google Calendar if not already done (see calendar-sync skill).",
+    "source": "campaign",
+    "status": "pending"
+  }
+]
