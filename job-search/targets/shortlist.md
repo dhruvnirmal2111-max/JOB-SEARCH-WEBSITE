@@ -16,6 +16,12 @@
 | 8 | Cognizant | Data Engineer | Melbourne | verify | High-volume DE; Azure/AWS match | 6 | Company target | |
 | 9 | Australian Electoral Commission (AEC) | Data Engineer (Enterprise Integration, Azure) | Melbourne/remote | verify | Azure data integration; gov (may skew senior) | 6 | Specific posting | |
 | 10 | Hays (recruiter) | Multiple DE/DS roles | Melbourne | verify | Recruiter pipeline for breadth | 6 | Recruiter | |
+| 11 | ANZ | Data Engineer | Melbourne (Docklands, hybrid) | Jun 2026 | Big-4 bank; modern data stack; ADF/SQL/Python; salary avg $126K–$172K ceiling | 8 | Specific posting | |
+| 12 | REA Group | Senior Data Engineer | Melbourne (Richmond, hybrid) | ~Jun 2026 | Australia's #1 prop-tech; data pipelines + agile; Airflow/Docker/SQL; $130–155K | 8 | Specific posting | |
+| 13 | Xero | Senior Data Engineer – Platforms | Melbourne (hybrid) | ~Jun 2026 | Fintech/accounting SaaS; Terraform + AWS + Kafka + Python match; $140–175K | 8 | Specific posting | |
+| 14 | Entain | Data Scientist | Melbourne (hybrid) | Jun 2026 | ML/fraud/customer analytics; Python + Databricks + AWS; end-to-end DS scope; $120–170K | 7 | Specific posting | |
+| 15 | IAG | Lead AI Engineer | Melbourne | Jun 2026 | Insurance GenAI; LLM + agentic-AI edge directly matches rare profile strength; ~$130–160K+ | 9 | Specific posting | |
+| 16 | Sportsbet | Senior Data Scientist | Melbourne (hybrid) | ~Jun 2026 | Best-in-class ML stack; fraud/betting/customer domains; $130–150K | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -35,3 +41,9 @@
 - [Data Engineer jobs Melbourne — Wellfound (Karbon, Kogan, etc.)](https://wellfound.com/role/l/data-engineer/melbourne)
 - [Data Engineer (Snowflake & dbt) — SDG Group](https://careers.sdggroup.com/jobs/2545743-data-engineer-snowflake-dbt)
 - [AI jobs in Melbourne — Built In Melbourne](https://builtinmelbourne.com/jobs/dev-engineering/search/artificial-intelligence)
+- [ANZ — Data Engineer, Melbourne (Docklands)](https://careers.anz.com/job/Melbourne-Data-Engineer/1061754166/)
+- [REA Group — Senior Data Engineer, Melbourne](https://reagroup.wd3.myworkdayjobs.com/reacareers)
+- [Xero — Senior Data Engineer – Platforms, Melbourne](https://careers.xero.com/jobs/)
+- [Entain — Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-scientist-at-entain-australia-new-zealand-4237519623)
+- [IAG — Lead AI Engineer, Melbourne](https://careers.iag.com.au/global/en/job/49216/Lead-AI-Engineer)
+- [Sportsbet — Senior Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-scientist-at-sportsbet-3799256583)
