@@ -1,5 +1,7 @@
-# Personal documents / PDFs (resume, JDs — keep these local)
+# Stray PDFs (root copies, sample JDs) stay local — but track the working resume
+# inside the workspace so cloud runs have it (repo is private).
 *.pdf
+!job-search/profile/resume.pdf
 
 # Claude Code memory (project-specific, not for sharing)
 .claude/projects/
@@ -7,8 +9,8 @@
 # Local Claude settings (may contain credentials/permissions — keep local)
 .claude/settings.local.json
 
-# Parsed resume cache + raw extract (regenerable)
-job-search/profile/base-resume.json
+# Raw resume text dump (regenerable). base-resume.json IS tracked so cloud
+# runs have the structured resume.
 job-search/profile/_resume_raw.txt
 
 # OS files

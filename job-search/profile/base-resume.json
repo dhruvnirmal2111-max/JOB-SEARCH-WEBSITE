@@ -1,0 +1,81 @@
+{
+  "name": "Dhruv Nirmal",
+  "email": "dhruvnirmal2111@gmail.com",
+  "phone": "+61406259619",
+  "location": "Melbourne, Australia",
+  "linkedin": "LinkedIn (URL on resume)",
+  "summary": "Data Engineer with 2+ years building scalable data pipelines and analytics systems across enterprise datasets. Designed/deployed 20+ automated ETL pipelines processing millions of transactions monthly, cutting manual reporting effort 40% and improving turnaround 50%. Strong in Python, SQL, workflow automation, ML models, and AI/LLM-driven analytics workflows.",
+  "skills": {
+    "Programming & Data Engineering": ["Python", "SQL", "Snowflake", "Data Modelling", "Data Cleaning", "Feature Engineering", "ETL pipelines", "KNIME"],
+    "Cloud & Infrastructure": ["Azure", "AWS (S3, Lambda, IAM, EC2)", "Databricks", "Docker", "Terraform (IaC)"],
+    "Machine Learning & AI": ["Scikit-learn", "TF-IDF Vectorisation", "Logistic Regression", "Forecasting Models", "Anomaly Detection", "PySpark", "LLM Workflows (Claude, ChatGPT)", "Multi-agent / agentic AI workflows"],
+    "Visualisation & BI": ["Power BI", "Tableau", "Data Storytelling", "KPI Analytics"]
+  },
+  "experience": [
+    {
+      "company": "Purchasing Index Data Analytics (Comprara Group)",
+      "title": "Data Engineer",
+      "dates": "Jun 2024 – Present",
+      "location": "Melbourne, Australia",
+      "summary": "Client-facing analytics consulting; supplier/transaction datasets for enterprise clients across Australia and New Zealand.",
+      "bullets": [
+        "Built and maintained 20+ automated ETL pipelines processing millions of procurement transactions monthly across 5 enterprise clients (Python, SQL, batch files) deployed on Azure-hosted servers with Windows Task Scheduler.",
+        "Automated client reporting/analytics workflows (Python, SQL, KNIME), integrating LLM tools (Claude, ChatGPT) to accelerate analytics script development and delivery.",
+        "Developed and maintained 16+ Tableau dashboards for procurement/finance teams to monitor supplier spend, track KPIs, and find cost-optimisation opportunities.",
+        "Performed anomaly detection on procurement datasets, identifying cost-leakage patterns contributing to ~15% client savings.",
+        "Built/deployed client-facing analytics platforms and dashboards across 5 enterprise clients, communicating technical outputs as actionable insights for senior executives."
+      ],
+      "ml_ai_bullets": [
+        "Built an ML model to predict chemical consumption for industrial clients, improving production planning and inventory management.",
+        "Developed a binary classification model (TF-IDF + Logistic Regression) to categorise transaction descriptions, cutting manual effort 40%.",
+        "Built an agentic AI workflow with Claude to auto-generate structured client progress reports from analytics outputs.",
+        "Developed a multi-agent data QA validation workflow (5 agents + orchestrator) to validate client datasets prior to delivery.",
+        "Implemented an LLM-driven sentiment analysis workflow on sales call transcripts to identify customer sentiment trends.",
+        "Built an automated presentation-generation workflow using Claude to convert analytics outputs into PowerPoint decks."
+      ]
+    },
+    {
+      "company": "Victorian Centre for Data Insights (VCDI)",
+      "title": "Data Engineer Intern",
+      "dates": "Aug 2023 – Nov 2023",
+      "location": "Melbourne, Australia",
+      "bullets": [
+        "Built a distributed anomaly detection pipeline in Databricks using PySpark, improving detection accuracy 20%.",
+        "Engineered scalable transformation layers to process procurement data in cloud environments.",
+        "Deployed a Power BI analytics solution adopted by senior Department of Transport stakeholders.",
+        "Presented system architecture and model outcomes to cross-functional stakeholders."
+      ]
+    },
+    {
+      "company": "Terminal Ballistics Research Laboratory (TBRL), DRDO",
+      "title": "Research Data Analyst",
+      "dates": "Jan 2021 – Jul 2021",
+      "bullets": [
+        "Analysed blast-wave data with statistical models to predict noise levels, improving prediction accuracy 20% and design efficiency of defence equipment.",
+        "Filtered noise using Butterworth filter, reducing noise levels 20%.",
+        "Compiled findings into a 70-page report using MATLAB and Excel, refining defence equipment designs by 10%."
+      ]
+    }
+  ],
+  "education": [
+    {"institution": "Monash University", "degree": "Master of Data Science", "dates": "Feb 2022 – Dec 2023", "notes": "Statistics I/II, Machine Learning, Communicating with Data, Supply Chain Management, High Dimensional Analysis, Web App Development, Applied Forecasting."},
+    {"institution": "Thapar University", "degree": "Bachelor of Engineering", "dates": "May 2017 – May 2021", "notes": "Statistics, C, C++, Analog & Digital Electronics, Entrepreneurship, Mathematics I/II/III."}
+  ],
+  "projects": [
+    {
+      "title": "Cloud Data Platform with Terraform",
+      "tech": ["AWS", "Terraform", "Snowflake", "Docker", "Power BI"],
+      "highlights": [
+        "Provisioned full cloud infrastructure with Terraform (S3, IAM, EC2, networking).",
+        "Infrastructure-as-Code for reproducible, version-controlled deployments.",
+        "Automated data ingestion pipeline from external APIs to Snowflake on Terraform-managed infra.",
+        "Modular Terraform patterns for scalable multi-environment deployment (dev/staging/prod)."
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "job-search/profile/resume.pdf",
+    "parsed_on": "2026-06-21",
+    "note": "Generated by /intake. Regenerable; gitignored."
+  }
+}
