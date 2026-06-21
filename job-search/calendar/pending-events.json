@@ -25,7 +25,7 @@
     "kind": "focus",
     "start": "2026-06-22T09:00:00",
     "end": "2026-06-22T10:30:00",
-    "notes": "Run /apply Kogan.com — fit 9/10, specific posting, hits DE + ML sides. Then /review-outreach + /review-calendar.",
+    "notes": "DONE by batch-apply engine (2026-06-21). Full package in job-search/pipeline/kogan-com--data-ml-engineer/. Run /review-outreach + /review-calendar, then submit.",
     "source": "campaign",
     "status": "pending"
   },
@@ -77,6 +77,66 @@
     "end": "2026-06-24T19:00:00",
     "notes": "Two JD gaps to close: (1) R (listed alongside Python/SQL) — do an intro; (2) consulting problem-framing for client-facing analytics. Run /career-coach on this role for a full learning plan + interview prep.",
     "source": "quantium--analyst-financial-services",
+    "status": "pending"
+  },
+  {
+    "id": "capital-com-review-submit-20260622",
+    "title": "Capital.com Data Engineer: review package & submit application",
+    "kind": "deadline",
+    "start": "2026-06-22T14:00:00",
+    "end": "2026-06-22T15:00:00",
+    "notes": "Review resume PDF at job-search/pipeline/capital-com--data-engineer-financial-analytics/Dhruv_Nirmal_Capital-com_Data-Engineer.pdf. Confirm job posting still live at careers.capital.com. Revise via /revise-resume if needed. Then submit. After submitting, update pipeline.md status to Applied.",
+    "source": "capital-com--data-engineer-financial-analytics",
+    "status": "pending"
+  },
+  {
+    "id": "capital-com-outreach-week1-20260623",
+    "title": "Capital.com Data Engineer: send week-1 outreach (recruiter + manager)",
+    "kind": "follow-up",
+    "start": "2026-06-23T09:30:00",
+    "end": "2026-06-23T10:00:00",
+    "notes": "After /review-outreach: find and verify contacts on LinkedIn (Capital.com Melbourne, data/analytics team). Priority 1: recruiter; Priority 2: hiring manager. Messages drafted in outreach.md — you send manually. Verify all contacts are currently at Capital.com before sending.",
+    "source": "capital-com--data-engineer-financial-analytics",
+    "status": "pending"
+  },
+  {
+    "id": "capital-com-prep-airflow-postgresql-20260623",
+    "title": "Capital.com Prep: Airflow DAG + PostgreSQL SQL gap-close",
+    "kind": "prep",
+    "start": "2026-06-23T18:00:00",
+    "end": "2026-06-23T20:00:00",
+    "notes": "Two skill gaps for Capital.com: (1) Airflow — complete Astronomer Docs intro, build a local DAG; (2) PostgreSQL — pgexercises.com: CTEs, window functions, SCD2 UPSERT pattern, EXPLAIN ANALYZE. Budget ~2 hrs total. See analysis.md for full learning plan.",
+    "source": "capital-com--data-engineer-financial-analytics",
+    "status": "pending"
+  },
+  {
+    "id": "kogan-com-review-submit-20260622",
+    "title": "Kogan.com Data & ML Engineer: review package & submit application",
+    "kind": "deadline",
+    "start": "2026-06-22T15:00:00",
+    "end": "2026-06-22T16:00:00",
+    "notes": "Review resume PDF at job-search/pipeline/kogan-com--data-ml-engineer/Dhruv_Nirmal_Kogan-com_Data-ML-Engineer.pdf. Confirm job posting still live at careers.kogan.com or jobs.lever.co/kogan. Revise via /revise-resume if needed. Then submit. After submitting, update pipeline.md status to Applied.",
+    "source": "kogan-com--data-ml-engineer",
+    "status": "pending"
+  },
+  {
+    "id": "kogan-com-outreach-week1-20260623",
+    "title": "Kogan.com Data & ML Engineer: send week-1 outreach (recruiter + manager)",
+    "kind": "follow-up",
+    "start": "2026-06-24T09:00:00",
+    "end": "2026-06-24T09:30:00",
+    "notes": "After /review-outreach: find and verify contacts on LinkedIn (Kogan.com Melbourne, data/ML/engineering team). Priority 1: recruiter; Priority 2: hiring manager. Potential peer contacts: Victor Wenas, Hayden Briese — verify current employment before messaging. Messages in outreach.md — you send manually.",
+    "source": "kogan-com--data-ml-engineer",
+    "status": "pending"
+  },
+  {
+    "id": "kogan-com-prep-dbt-bigquery-20260624",
+    "title": "Kogan.com Prep: dbt fundamentals + BigQuery sandbox",
+    "kind": "prep",
+    "start": "2026-06-24T18:00:00",
+    "end": "2026-06-24T20:00:00",
+    "notes": "Two skill gaps for Kogan.com: (1) dbt — complete dbt fundamentals free course at courses.getdbt.com (~3 hrs); (2) BigQuery — run queries in BigQuery free sandbox at cloud.google.com/bigquery/docs/sandbox (~2 hrs). See analysis.md for full learning plan.",
+    "source": "kogan-com--data-ml-engineer",
     "status": "pending"
   }
 ]
