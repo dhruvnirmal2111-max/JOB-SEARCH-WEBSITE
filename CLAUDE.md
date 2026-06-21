@@ -11,7 +11,7 @@ It is for **one person (the owner)**. There is no UI for anyone else.
 ### Hard rules
 
 1. **No paid API keys.** All reasoning runs on the Claude Code subscription via agents and skills. Never reintroduce `lib/claude.ts`, Anthropic/Gemini/Tavily SDK calls, or any `*_API_KEY`. Web research uses the built-in `WebSearch` / `WebFetch`.
-2. **Review gate — generate → stage → human review → act.** Every CV, cover letter, message, and calendar event is produced as a **draft/staged** artifact. Nothing is sent, and nothing hits Google Calendar, until the owner approves it via a `/review-*` command. The system **never sends a message on the owner's behalf** — it drafts; the owner sends manually.
+2. **Review gate — generate → stage → human review → act.** Every CV, cover letter, message, and calendar event is produced as a **draft/staged** artifact. Nothing is sent, and nothing hits Google Calendar, until the owner approves it via a `/review-*` command. The system **never sends a message on the owner's behalf** — it drafts; the owner sends manually. **Calendar staging is outreach reminders only** ("Send outreach: <Company>") — no prep/submit/setup events; the owner handles prep and submission.
 3. **Never fabricate experience.** Resumes and bullets are tailored from real history only; add JD keywords only where they truthfully fit.
 4. **Truth in reporting.** Pipeline status reflects reality. Don't mark things "applied"/"sent" unless they were.
 
@@ -39,9 +39,10 @@ Four layers, all Claude-Code-native:
 |---------|------|------|
 | `/intake` | One-time: parse master resume → `base-resume.json`, build `preferences.md` | Owner confirms preferences |
 | `/find-targets` | Research + rank roles/companies → `targets/shortlist.md` | Owner picks which to pursue |
-| `/apply <company>` | Full pipeline for one target: gap analysis → tailored resume + **2-page PDF** → cover letter → outreach → **stage** calendar events | Drafts only |
-| `/quick-apply <JD>` | Office fast-flow: paste a JD → tailored 2-page resume **PDF** + cover letter only (resume as template + projects library). Skips coaching/outreach | Drafts only |
-| `/batch-apply [N]` | **Autonomous engine** — builds full application packages for the next N targets end to end (also runs on a schedule). Commits after each | Drafts only |
+| `/apply <company>` | One target: tailored resume + **2-page PDF** → cover letter → outreach → **stage outreach reminder**. (No gap analysis by default.) | Drafts only |
+| `/quick-apply <JD>` | Paste a JD → tailored 2-page resume **PDF** + cover letter only | Drafts only |
+| `/batch-apply [N]` | **Autonomous engine** — builds resume + cover letter + outreach for the next N targets (also runs on a schedule). Commits after each | Drafts only |
+| `/career-coach <company>` | On-demand gap analysis + interview prep for one target (kept out of the volume path) | — |
 | `/revise-resume <company> "<feedback>"` | Apply your feedback to a tailored resume and regenerate the PDF (the iterate loop) | Drafts only |
 | `/standup` | Daily: today's actions, follow-ups due, calendar, blockers → `reports/daily/` | Report only |
 | `/weekly-review` | Weekly metrics + plan adjustment → `reports/weekly/` | Report only |
@@ -88,7 +89,7 @@ Reused job-search skills: `parse-resume`, `parse-jd`, `extract-skills`, `extract
 
 Run automatically (created via the `schedule` skill); each invokes `job-hunt-commander` and ends with a push notification. Output still respects the review gate.
 
-- **Application Engine** — daily 05:30 AEST: autonomously builds full application packages (`/batch-apply`) for the next ~2 targets, commits after each, notifies "N ready to review". This is the heavy lifting done while you're away.
+- **Application Engine** — daily 05:30 AEST: autonomously builds resume + cover letter + outreach (`/batch-apply`) for the next ~3 targets, stages an outreach reminder per target, commits after each, notifies "N ready to review". The heavy lifting done while you're away. (Gap analysis is on-demand only via `/career-coach`.)
 - **Daily standup** — 07:00 AEST: writes `reports/daily/`, notifies today's actions (incl. packages awaiting review).
 - **Weekly review** — Sun 18:00 AEST: writes `reports/weekly/`, notifies.
 - Follow-up checks are folded into the daily standup (scans `pipeline/*/log.md`, **stages** reminders).

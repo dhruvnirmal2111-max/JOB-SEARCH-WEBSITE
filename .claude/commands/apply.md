@@ -15,11 +15,11 @@ Goal: produce everything needed to apply to one target, as reviewable drafts. No
 2. **Create the pipeline folder** and an initial `log.md` (created date, status = Applying, empty follow-up schedule).
 
 3. **Delegate to specialists via the Task tool** (pass them the JD path, `base-resume.json`, `job-search/profile/projects.md`, and the target folder to write into):
-   - `career-coach` → `analysis.md` (readiness + skill gaps + interview prep + learning plan).
    - `resume-intelligence` → `resume-tailored.md` + `cover-letter.md` + the **2-page PDF** (`Dhruv_Nirmal_<Company>_<Role>.pdf`). It pulls relevant projects from `projects.md`, bridges role differences (e.g. Data Engineering → Data Scientist) honestly, and runs `scripts/build_resume_pdf.py`.
    - `outreach` → `outreach.md` (5 contacts: 2 peer/1 manager/1 recruiter/1 senior + 3 messages each).
+   - **career-coach is NOT run by default** (gap analysis/interview prep) — run `/career-coach <company>` on demand when you want it.
 
-4. **Stage calendar events** into `job-search/calendar/pending-events.json` (all `status: "pending"`): application deadline (if known), interview-prep blocks, learning blocks from the plan, and week-1 outreach reminders. Use the event format from the commander agent.
+4. **Stage calendar events — outreach reminders only** into `job-search/calendar/pending-events.json` (`kind:"outreach"`, `status:"pending"`): one "Send outreach: <Company> <Role>" reminder. Do NOT stage prep/submit/setup events. Use the event format from the commander agent.
 
 5. **Update `pipeline.md`**: add a row for this target (Status = Applying, Next action = "owner: submit application + review outreach").
 

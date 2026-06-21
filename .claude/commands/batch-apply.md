@@ -23,10 +23,10 @@ At the start, ensure tooling: `pip install -q reportlab pdfplumber` (no-op if pr
 Run the full `/apply` pipeline:
 1. Get the JD (from the shortlist's Source URL via WebFetch, or a search). Save to `job-search/pipeline/<company--role>/jd.md`; create `log.md` (status = Applying).
 2. Delegate via Task, passing JD path + `job-search/profile/base-resume.json` + `job-search/profile/projects.md` + the target folder:
-   - `career-coach` → `analysis.md`
    - `resume-intelligence` → `resume-tailored.md` + `cover-letter.md` + **2-page PDF** (`Dhruv_Nirmal_<Company>_<Role>.pdf`)
    - `outreach` → `outreach.md`
-3. Stage calendar events (submit reminder, week-1 outreach, prep blocks) into `job-search/calendar/pending-events.json` (all `status:"pending"`).
+   - **Do NOT run career-coach here** — gap analysis / interview prep is on-demand only (`/career-coach <company>`), kept out of the volume path for speed.
+3. Stage calendar events — **outreach reminders ONLY** (one per target: "Send outreach: <Company> <Role>") into `job-search/calendar/pending-events.json` with `kind:"outreach"` and `status:"pending"`. **Do NOT stage prep, submit, or setup events** — the owner handles prep/submission themselves.
 4. Update `pipeline.md` (add the row, Status = Applying, Next action = "owner: review + submit").
 5. **Commit + push immediately after each target** (`git add -A && git commit -m "batch-apply <company>" && git push origin main`) so progress survives even if the session is cut short.
 
