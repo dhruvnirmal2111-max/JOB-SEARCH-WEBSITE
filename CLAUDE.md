@@ -41,6 +41,7 @@ Four layers, all Claude-Code-native:
 | `/find-targets` | Research + rank roles/companies → `targets/shortlist.md` | Owner picks which to pursue |
 | `/apply <company>` | Full pipeline for one target: gap analysis → tailored resume + **2-page PDF** → cover letter → outreach → **stage** calendar events | Drafts only |
 | `/quick-apply <JD>` | Office fast-flow: paste a JD → tailored 2-page resume **PDF** + cover letter only (resume as template + projects library). Skips coaching/outreach | Drafts only |
+| `/batch-apply [N]` | **Autonomous engine** — builds full application packages for the next N targets end to end (also runs on a schedule). Commits after each | Drafts only |
 | `/revise-resume <company> "<feedback>"` | Apply your feedback to a tailored resume and regenerate the PDF (the iterate loop) | Drafts only |
 | `/standup` | Daily: today's actions, follow-ups due, calendar, blockers → `reports/daily/` | Report only |
 | `/weekly-review` | Weekly metrics + plan adjustment → `reports/weekly/` | Report only |
@@ -87,9 +88,10 @@ Reused job-search skills: `parse-resume`, `parse-jd`, `extract-skills`, `extract
 
 Run automatically (created via the `schedule` skill); each invokes `job-hunt-commander` and ends with a push notification. Output still respects the review gate.
 
-- **Daily standup** — morning: writes `reports/daily/`, notifies today's actions.
-- **Weekly review** — weekly: writes `reports/weekly/`, notifies.
-- **Follow-up checker** — daily: scans `pipeline/*/log.md`, **stages** reminder events (does not push to calendar).
+- **Application Engine** — daily 05:30 AEST: autonomously builds full application packages (`/batch-apply`) for the next ~2 targets, commits after each, notifies "N ready to review". This is the heavy lifting done while you're away.
+- **Daily standup** — 07:00 AEST: writes `reports/daily/`, notifies today's actions (incl. packages awaiting review).
+- **Weekly review** — Sun 18:00 AEST: writes `reports/weekly/`, notifies.
+- Follow-up checks are folded into the daily standup (scans `pipeline/*/log.md`, **stages** reminders).
 
 ## Networking constraints
 

@@ -57,6 +57,14 @@ Pass each specialist the relevant workspace file paths and tell it where to writ
 2. Stage follow-up reminder events into `pending-events.json` (do not push).
 3. Report what was staged.
 
+### Application engine (batch-apply)
+This is the "do the heavy lifting" mode — build complete application packages autonomously so the owner only reviews.
+1. Ensure tooling: `pip install -q reportlab pdfplumber`.
+2. Select the next N targets (default 2) without a pipeline folder: prefer `Pursue? = yes` rows in `targets/shortlist.md`, then top up from highest-ranked rows. If the shortlist is thin, run a `/find-targets` refresh first.
+3. For each, run the full `/apply` pipeline by delegating to `career-coach`, `resume-intelligence` (incl. the 2-page PDF, pulling from `profile/projects.md`), and `outreach`. Stage calendar events; update `pipeline.md`.
+4. **Commit + push after each target** so partial progress is never lost if the run is cut short.
+5. Finish with a summary of packages ready + PDF paths, and remind the owner to review, `/review-outreach`, `/review-calendar`, then submit. Never submit or send anything yourself.
+
 ### Next-action / triage
 Given the whole workspace, recommend the single highest-leverage next move and offer to kick off the matching command (`/apply`, `/find-targets`, etc.).
 
