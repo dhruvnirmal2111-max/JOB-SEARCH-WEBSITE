@@ -11,13 +11,11 @@ Goal: produce complete, reviewable application packages for several targets with
 ## Setup
 At the start, ensure tooling: `pip install -q reportlab pdfplumber` (no-op if present).
 
-## Select targets (N defaults to 2)
+## Select targets (CONFIRMED ONLY)
 1. Read `job-search/targets/shortlist.md` and `job-search/pipeline/pipeline.md`.
-2. Build the work queue = targets that do **not** already have a `job-search/pipeline/<company--role>/` folder, chosen in this priority:
-   - First, rows marked `Pursue? = yes`.
-   - If fewer than N such rows, **top up from the highest-ranked remaining rows** (specific postings before company targets). The owner reviews everything before submitting, so preparing top picks autonomously is safe.
-3. If the shortlist has fewer than N unbuilt rows total, first run a quick `/find-targets` pass to refresh it, then continue.
-4. Take the first N from the queue.
+2. The work queue = rows marked **`Pursue? = yes`** that do **not** already have a `job-search/pipeline/<company--role>/` folder. **Never** auto-pick unconfirmed rows.
+3. If there are **no** such confirmed-and-unbuilt rows: build nothing. Report "No confirmed targets — set `Pursue? = yes` on shortlist.md rows you want, then re-run." Stop.
+4. Take up to N (default 2) from the queue. Honor the salary filter in `preferences.md` (skip roles advertised below the minimum).
 
 ## For EACH selected target (loop)
 Run the full `/apply` pipeline:

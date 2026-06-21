@@ -90,10 +90,12 @@ Reused job-search skills: `parse-resume`, `parse-jd`, `extract-skills`, `extract
 
 Run automatically (created via the `schedule` skill); each invokes `job-hunt-commander` and ends with a push notification. Output still respects the review gate.
 
-- **Application Engine** — daily 05:30 AEST: autonomously builds resume + cover letter + outreach (`/batch-apply`) for the next ~3 targets, stages an outreach reminder per target, commits after each, notifies "N ready to review". The heavy lifting done while you're away. (Gap analysis is on-demand only via `/career-coach`.)
-- **Daily standup** — 07:00 AEST: writes `reports/daily/`, notifies today's actions (incl. packages awaiting review).
+- **Daily Scout** — ~06:30 AEST: researches fresh, currently-advertised roles fitting `preferences.md` (incl. **salary floor ≥95k**), appends them to `targets/shortlist.md` with a **Posted** date and `Pursue?` blank, and notifies the owner the candidate list to confirm. **Builds nothing.**
+- **Application Engine** — ~19:00 AEST: builds resume + cover letter + outreach for **confirmed targets only** (`Pursue? = yes`, up to ~3), auto-creates an outreach calendar reminder per target, commits after each, notifies "N ready to review". If nothing is confirmed, it does nothing. (Gap analysis is on-demand via `/career-coach`.)
+- **Daily standup** — 07:00 AEST: writes `reports/daily/`, auto-creates any pending outreach reminders, notifies today's actions.
 - **Weekly review** — Sun 18:00 AEST: writes `reports/weekly/`, notifies.
-- Follow-up checks are folded into the daily standup (scans `pipeline/*/log.md`, **stages** reminders).
+
+**Confirm-first rule:** the scout proposes; the owner sets `Pursue? = yes`; only then does the engine build. Nothing is researched-and-applied without the owner picking the company.
 
 ## Networking constraints
 

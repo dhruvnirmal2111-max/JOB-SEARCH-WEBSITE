@@ -20,8 +20,8 @@
 - Onsite: open within Melbourne. **[ASSUMED]**
 
 ## Compensation
-- Target base: **AUD 100,000–125,000** **[ASSUMED — confirm your number]**
-- Minimum acceptable: **AUD 100,000** **[ASSUMED — confirm]**
+- Target / expected base: **AUD 95,000+** (target above 95k; happy higher).
+- Minimum acceptable: **AUD 95,000** — filter out roles advertising below this.
 
 ## Must-haves
 - I have full working rights.

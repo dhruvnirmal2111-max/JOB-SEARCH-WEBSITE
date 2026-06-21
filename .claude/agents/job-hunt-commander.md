@@ -60,11 +60,16 @@ Pass each specialist the relevant workspace file paths and tell it where to writ
 ### Application engine (batch-apply)
 This is the "do the heavy lifting" mode — build complete application packages autonomously so the owner only reviews.
 1. Ensure tooling: `pip install -q reportlab pdfplumber`.
-2. Select the next N targets (default 2) without a pipeline folder: prefer `Pursue? = yes` rows in `targets/shortlist.md`, then top up from highest-ranked rows. If the shortlist is thin, run a `/find-targets` refresh first.
+2. Select targets **confirmed-only**: rows marked `Pursue? = yes` in `targets/shortlist.md` that have no pipeline folder yet. Never auto-pick unconfirmed rows. If none are confirmed, build nothing and report that the owner needs to confirm picks. Honor the salary floor in `preferences.md`.
 3. For each, build the **lean volume package** by delegating to `resume-intelligence` (resume + cover letter + 2-page PDF, pulling from `profile/projects.md`) and `outreach`. **Skip career-coach** (gap analysis/interview prep is on-demand only). Update `pipeline.md`.
 4. Stage **outreach-reminder events only** (`kind:"outreach"`, `status:"pending"`) — one per target. Do NOT stage prep/submit/setup events.
 5. **Commit + push after each target** so partial progress is never lost if the run is cut short.
 6. Finish with a summary of packages ready + PDF paths, and remind the owner to review, `/review-outreach`, `/review-calendar`, then submit. Never submit or send anything yourself.
+
+### Scout (propose targets — never build)
+1. Run the `/find-targets` research: find fresh, currently-advertised roles fitting `preferences.md` (roles, location, **salary floor**). Capture a **Posted** date and source URL for each.
+2. Append them to `targets/shortlist.md` with `Pursue?` left blank. Commit + push.
+3. Notify the owner with the candidate list (company · role · posted · fit · source) and ask them to set `Pursue? = yes` on the ones they want. **Build nothing** — the engine only acts on confirmed rows.
 
 ### Next-action / triage
 Given the whole workspace, recommend the single highest-leverage next move and offer to kick off the matching command (`/apply`, `/find-targets`, etc.).
