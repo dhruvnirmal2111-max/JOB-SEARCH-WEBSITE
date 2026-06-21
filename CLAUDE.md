@@ -11,7 +11,8 @@ It is for **one person (the owner)**. There is no UI for anyone else.
 ### Hard rules
 
 1. **No paid API keys.** All reasoning runs on the Claude Code subscription via agents and skills. Never reintroduce `lib/claude.ts`, Anthropic/Gemini/Tavily SDK calls, or any `*_API_KEY`. Web research uses the built-in `WebSearch` / `WebFetch`.
-2. **Review gate — generate → stage → human review → act.** Every CV, cover letter, message, and calendar event is produced as a **draft/staged** artifact. Nothing is sent, and nothing hits Google Calendar, until the owner approves it via a `/review-*` command. The system **never sends a message on the owner's behalf** — it drafts; the owner sends manually. **Calendar staging is outreach reminders only** ("Send outreach: <Company>") — no prep/submit/setup events; the owner handles prep and submission.
+2. **Review gate — generate → stage → human review → act.** CVs, cover letters, and outreach messages are produced as **drafts** and never sent on the owner's behalf — the owner sends manually after `/review-outreach`.
+   - **Exception (owner-authorized): outreach calendar reminders auto-create.** The only calendar events the system makes are outreach reminders ("Send outreach: <Company>"), and these are written **directly to Google Calendar without approval** (the owner moves them if needed). No prep/submit/setup events are ever created. The cloud routines do this via the attached Google Calendar connector.
 3. **Never fabricate experience.** Resumes and bullets are tailored from real history only; add JD keywords only where they truthfully fit.
 4. **Truth in reporting.** Pipeline status reflects reality. Don't mark things "applied"/"sent" unless they were.
 
