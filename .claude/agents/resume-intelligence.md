@@ -84,8 +84,16 @@ After compiling the full report, loop back and verify:
 
 **Run this check TWICE. Fix anything off before returning.**
 
-## Key Files in This Project
+## Inputs & Outputs (file-based workspace)
 
-- Resume PDF: look in the project root for `.pdf` files containing "Resume"
-- JD PDF: look in the project root for `.pdf` files containing the company/role name
-- CLAUDE.md: project instructions and constraints
+**Inputs:**
+- Master resume: `job-search/profile/base-resume.json` (parsed) or `job-search/profile/resume.pdf` (parse with pdfplumber if JSON missing).
+- JD: the `jd.md` inside the target folder passed to you, e.g. `job-search/pipeline/<company--role>/jd.md`.
+- The owner's projects/extra context: anything in `job-search/profile/`.
+
+**Outputs (write these files into the target folder you're given):**
+- `resume-tailored.md` — the full optimized resume (summary + rewritten bullets, ATS-friendly).
+- `cover-letter.md` — the cover letter.
+- Append a short "Keyword alignment + top 3 recommendations" block to the bottom of `resume-tailored.md`.
+
+When invoked by the commander you'll be told the exact `<company--role>` folder. Never write outside it. CLAUDE.md holds the project constraints.

@@ -1,34 +1,15 @@
-# Dependencies
-node_modules/
-
-# Next.js build output
-.next/
-out/
-
-# Environment files
-*.env.local
-.env
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Database
-*.db
-*.db-journal
-prisma/dev.db
-prisma/*.db
-
-# Build artifacts
-tsconfig.tsbuildinfo
-
-# Generated output (job search results, resumes, cover letters)
-output/
-
-# Personal documents / PDFs
+# Personal documents / PDFs (resume, JDs — keep these local)
 *.pdf
 
 # Claude Code memory (project-specific, not for sharing)
 .claude/projects/
+
+# Local Claude settings (may contain credentials/permissions — keep local)
+.claude/settings.local.json
+
+# Parsed resume cache + raw extract (regenerable)
+job-search/profile/base-resume.json
+job-search/profile/_resume_raw.txt
 
 # OS files
 .DS_Store
@@ -37,3 +18,9 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# Stray build artifacts (legacy)
+node_modules/
+.next/
+out/
+tsconfig.tsbuildinfo
