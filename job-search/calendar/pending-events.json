@@ -7,7 +7,9 @@
     "end": "2026-06-23T09:20:00",
     "notes": "Send the drafted messages in job-search/pipeline/quantium--analyst-financial-services/outreach.md: Ash Reedy-McGann (recruiter) + Melina Mackey (peer). Verify Melina's 'Current' Quantium badge first. You send manually.",
     "source": "quantium--analyst-financial-services",
-    "status": "pending"
+    "status": "created",
+    "gcal_event_id": "sk3s5v9g0455gec86kgg4tgabg",
+    "gcal_link": "https://www.google.com/calendar/event?eid=c2szczV2OWcwNDU1Z2VjODZrZ2c0dGdhYmcgZGhydXZuaXJtYWwyMTExQG0"
   },
   {
     "id": "capital-com-outreach-week1-20260623",
@@ -17,7 +19,9 @@
     "end": "2026-06-23T09:50:00",
     "notes": "Send the drafted messages in job-search/pipeline/capital-com--data-engineer-financial-analytics/outreach.md (recruiter, then hiring manager). Verify each is currently at Capital.com. You send manually.",
     "source": "capital-com--data-engineer-financial-analytics",
-    "status": "pending"
+    "status": "created",
+    "gcal_event_id": "55j8p7gqkoragmh3oln3ukj16s",
+    "gcal_link": "https://www.google.com/calendar/event?eid=NTVqOHA3Z3Frb3JhZ21oM29sbjN1a2oxNnMgZGhydXZuaXJtYWwyMTExQG0"
   },
   {
     "id": "kogan-com-outreach-week1-20260624",
@@ -27,6 +31,8 @@
     "end": "2026-06-24T09:20:00",
     "notes": "Send the drafted messages in job-search/pipeline/kogan-com--data-ml-engineer/outreach.md (recruiter, then hiring manager). Verify each is currently at Kogan.com. You send manually.",
     "source": "kogan-com--data-ml-engineer",
-    "status": "pending"
+    "status": "created",
+    "gcal_event_id": "svephfp4niogs9198p7c9lk9e8",
+    "gcal_link": "https://www.google.com/calendar/event?eid=c3ZlcGhmcDRuaW9nczkxOThwN2M5bGs5ZTggZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
