@@ -20,3 +20,8 @@
 The bonus on learning orientation reflects that Quantium explicitly hires for trajectory and AI-first mindset. Building production multi-agent workflows with Claude is a concrete, differentiating signal that the JD is asking for.
 
 ---
+
+> ⚠️ **This analysis is INCOMPLETE.** Only the readiness score was generated before the run was stopped. The skill-gap table, 30-day learning plan (R basics + financial-services primers + consulting case framing), and the 4-category interview prep are still missing.
+>
+> To finish it, run **`/career-coach`** on this role folder.
+> Gaps already identified: **R** (JD lists it; not on resume), **financial-services domain** (insurance/banking/super/wealth), **consulting problem-framing** under client time pressure.
