@@ -14,16 +14,16 @@ Goal: produce everything needed to apply to one target, as reviewable drafts. No
 
 2. **Create the pipeline folder** and an initial `log.md` (created date, status = Applying, empty follow-up schedule).
 
-3. **Delegate to specialists via the Task tool** (pass them the JD path, `base-resume.json`, and the target folder to write into):
+3. **Delegate to specialists via the Task tool** (pass them the JD path, `base-resume.json`, `job-search/profile/projects.md`, and the target folder to write into):
    - `career-coach` → `analysis.md` (readiness + skill gaps + interview prep + learning plan).
-   - `resume-intelligence` → `resume-tailored.md` + `cover-letter.md`.
+   - `resume-intelligence` → `resume-tailored.md` + `cover-letter.md` + the **2-page PDF** (`Dhruv_Nirmal_<Company>_<Role>.pdf`). It pulls relevant projects from `projects.md`, bridges role differences (e.g. Data Engineering → Data Scientist) honestly, and runs `scripts/build_resume_pdf.py`.
    - `outreach` → `outreach.md` (5 contacts: 2 peer/1 manager/1 recruiter/1 senior + 3 messages each).
 
 4. **Stage calendar events** into `job-search/calendar/pending-events.json` (all `status: "pending"`): application deadline (if known), interview-prep blocks, learning blocks from the plan, and week-1 outreach reminders. Use the event format from the commander agent.
 
 5. **Update `pipeline.md`**: add a row for this target (Status = Applying, Next action = "owner: submit application + review outreach").
 
-6. **Summarize**: list the drafts created and tell the owner to review the resume/cover letter, run `/review-outreach`, and `/review-calendar`. Do NOT mark it "Applied" — only the owner confirms that.
+6. **Summarize**: list the drafts created — including the **PDF path** — and tell the owner to review the resume PDF + cover letter, run `/review-outreach`, and `/review-calendar`. Invite feedback: they can reply with changes (or run `/revise-resume <company> "<feedback>"`) and the resume + PDF get regenerated. Do NOT mark it "Applied" — only the owner confirms that.
 
 ## Rules
 - Truthful resume only; never auto-send outreach; never create calendar events directly.

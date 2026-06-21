@@ -87,13 +87,54 @@ After compiling the full report, loop back and verify:
 ## Inputs & Outputs (file-based workspace)
 
 **Inputs:**
-- Master resume: `job-search/profile/base-resume.json` (parsed) or `job-search/profile/resume.pdf` (parse with pdfplumber if JSON missing).
+- Master resume: `job-search/profile/base-resume.json` (parsed) or `job-search/profile/resume.pdf` (parse with pdfplumber if JSON missing). This is the **template** — keep its truthful content; tailor emphasis/wording.
+- **Master projects library: `job-search/profile/projects.md`** — the full bank of projects with skills + delivery/impact. Pull the most JD-relevant projects into the resume's Projects section.
 - JD: the `jd.md` inside the target folder passed to you, e.g. `job-search/pipeline/<company--role>/jd.md`.
-- The owner's projects/extra context: anything in `job-search/profile/`.
 
 **Outputs (write these files into the target folder you're given):**
-- `resume-tailored.md` — the full optimized resume (summary + rewritten bullets, ATS-friendly).
+- `resume-tailored.md` — the full optimized resume (see format + rules below).
 - `cover-letter.md` — the cover letter.
-- Append a short "Keyword alignment + top 3 recommendations" block to the bottom of `resume-tailored.md`.
+- Then generate the PDF (see "PDF output").
 
-When invoked by the commander you'll be told the exact `<company--role>` folder. Never write outside it. CLAUDE.md holds the project constraints.
+When invoked you'll be told the exact `<company--role>` folder. Never write outside it. CLAUDE.md holds the project constraints.
+
+## resume-tailored.md format (so the PDF renders cleanly)
+
+Write it in this markdown structure — the PDF builder parses exactly this:
+```
+# Dhruv Nirmal
+Melbourne, Australia | email | phone | LinkedIn
+## Professional Summary
+<3-4 sentences>
+## Key Skills
+**Category:** item, item, item
+## Experience
+### Role, Company
+Dates | Location
+- bullet
+## Projects
+### Project name (tech)
+- what + skills + delivery/impact
+## Education
+### Degree, Institution | Dates
+```
+Then put the review-only **"Keyword alignment + top 3 recommendations"** block at the very bottom under a `## Keyword Alignment` heading — the PDF builder automatically cuts everything from that heading onward, so it never appears in the PDF.
+
+## Hard rules for the resume
+
+1. **Max 2 pages.** Be selective — strongest, most JD-relevant content only. The PDF builder enforces this and will warn if content overflows; if it warns, trim the least-relevant bullets and rebuild.
+2. **Always include a Projects section** drawn from `projects.md` — pick 2-4 projects most relevant to the JD, each showing the **skills used and the delivery/impact**.
+3. **Role bridging (e.g. Data Engineering → Data Science/Analyst).** When the JD targets a different-but-adjacent role than the candidate's title, honestly reframe existing experience toward the JD: surface statistics, modelling, experimentation, ML, anomaly detection, and stakeholder/insight work for DS/analyst roles; surface pipelines/infra for DE roles. Reframe emphasis and wording — **never invent** a title or experience the candidate doesn't have.
+4. Truthful only; add JD keywords only where they genuinely fit. Never fabricate metrics.
+
+## PDF output
+
+After writing `resume-tailored.md`, generate the PDF:
+```
+python scripts/build_resume_pdf.py "<folder>/resume-tailored.md" "<folder>/Dhruv_Nirmal_<Company>_<Role>.pdf"
+```
+It produces a clean, single-column, ATS-friendly PDF and auto-fits to ≤2 pages. Confirm the script reports "OK ... (N page(s))" with N ≤ 2; if it warns about overflow, trim and rerun. If it errors with `ModuleNotFoundError`, run `pip install reportlab` first (and `pdfplumber` if parsing a PDF). The PDF is the deliverable the owner submits.
+
+## Feedback loop
+
+The owner reviews the draft and may give feedback. When revising, edit `resume-tailored.md` per the feedback, keep it truthful and ≤2 pages, then **regenerate the PDF** with the same command. Iterate until the owner approves.

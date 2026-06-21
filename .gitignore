@@ -2,6 +2,7 @@
 # inside the workspace so cloud runs have it (repo is private).
 *.pdf
 !job-search/profile/resume.pdf
+!job-search/pipeline/**/*.pdf
 
 # Claude Code memory (project-specific, not for sharing)
 .claude/projects/

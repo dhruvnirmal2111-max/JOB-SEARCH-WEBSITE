@@ -39,7 +39,9 @@ Four layers, all Claude-Code-native:
 |---------|------|------|
 | `/intake` | One-time: parse master resume → `base-resume.json`, build `preferences.md` | Owner confirms preferences |
 | `/find-targets` | Research + rank roles/companies → `targets/shortlist.md` | Owner picks which to pursue |
-| `/apply <company>` | Full pipeline for one target: gap analysis → tailored resume → cover letter → outreach → **stage** calendar events | Drafts only |
+| `/apply <company>` | Full pipeline for one target: gap analysis → tailored resume + **2-page PDF** → cover letter → outreach → **stage** calendar events | Drafts only |
+| `/quick-apply <JD>` | Office fast-flow: paste a JD → tailored 2-page resume **PDF** + cover letter only (resume as template + projects library). Skips coaching/outreach | Drafts only |
+| `/revise-resume <company> "<feedback>"` | Apply your feedback to a tailored resume and regenerate the PDF (the iterate loop) | Drafts only |
 | `/standup` | Daily: today's actions, follow-ups due, calendar, blockers → `reports/daily/` | Report only |
 | `/weekly-review` | Weekly metrics + plan adjustment → `reports/weekly/` | Report only |
 | `/review-calendar` | Show `calendar/pending-events.json`; push approved events to Google Calendar | **Calendar approval** |
@@ -50,8 +52,9 @@ Four layers, all Claude-Code-native:
 ```
 job-search/
   profile/
-    resume.pdf | resume.md     — master resume (source of truth; PDFs are gitignored)
+    resume.pdf | resume.md     — master resume (source of truth / template)
     base-resume.json           — parsed structured resume (cached, regenerable)
+    projects.md                — master projects library: every project + skills + delivery/impact (resume agent draws from this)
     preferences.md             — target roles, locations, salary, must-haves, dealbreakers
   targets/
     shortlist.md               — researched + ranked companies/roles
@@ -60,7 +63,8 @@ job-search/
     <company--role>/           — one folder per pursued target
       jd.md                    — job description
       analysis.md              — readiness + skill gaps (career-coach)
-      resume-tailored.md       — ATS-tailored resume (resume-intelligence)
+      resume-tailored.md       — ATS-tailored resume in markdown (resume-intelligence)
+      Dhruv_Nirmal_<Co>_<Role>.pdf — the 2-page PDF deliverable (built from resume-tailored.md)
       cover-letter.md
       outreach.md              — 5 contacts + drafted messages (outreach)
       log.md                   — dates, status, follow-up schedule
@@ -77,7 +81,7 @@ Mapping from the old DB: Job → a `pipeline/<company--role>/` folder; Resume �
 
 ### Skills (`.claude/skills/<name>/SKILL.md`)
 
-Reused job-search skills: `parse-resume`, `parse-jd`, `extract-skills`, `extract-requirements`, `identify-skill-gap`, `generate-learning-plan`, `generate-resume`, `find-people`, `generate-messages`, `generate-outreach`, `career-coach`. Plus `calendar-sync` (turns approved staged events into Google Calendar events via the calendar MCP). PDF parsing uses Python `pdfplumber` via Bash — there is no Node/npm stack.
+Reused job-search skills: `parse-resume`, `parse-jd`, `extract-skills`, `extract-requirements`, `identify-skill-gap`, `generate-learning-plan`, `generate-resume`, `find-people`, `generate-messages`, `generate-outreach`, `career-coach`. Plus `calendar-sync` (turns approved staged events into Google Calendar events via the calendar MCP). PDF parsing uses Python `pdfplumber`; resume PDFs are built by `scripts/build_resume_pdf.py` (reportlab, single-column, auto-fits ≤2 pages). No Node/npm stack — Python only, via Bash.
 
 ## Scheduled cloud routines
 
