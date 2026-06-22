@@ -8,13 +8,18 @@ allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 
 This is the **send approval gate**. The system never sends messages; the owner sends them manually after approving here.
 
+Covers **both tracks**: Track A drafts in `pipeline/<company--role>/outreach.md` and Track B drafts in `network/people/<slug>.md`.
+
 ## Steps
 
-1. **Find the drafts.** From `$ARGUMENTS`, locate `job-search/pipeline/<company--role>/outreach.md`. If no argument, list all targets with un-reviewed outreach and ask which.
-2. **Present** each contact (persona, name, role) and the 3 messages (connection ≤300 chars, follow-up, thank-you). Keep it scannable.
-3. **Collect edits/approvals** per contact. Apply the owner's edits directly to `outreach.md`.
-4. **Mark approved** messages as `Ready to send` in `outreach.md`, and add a checklist row in the target's `log.md` (who to contact, on what date, per the week-by-week plan).
-5. **Remind** the owner these are sent manually, and to log responses so `/standup` can schedule follow-ups.
+1. **Find the drafts.** From `$ARGUMENTS`, locate the relevant file:
+   - a company/role → `job-search/pipeline/<company--role>/outreach.md` (Track A), or
+   - a person/company → `job-search/network/people/<slug>.md` (Track B).
+   If no argument, list everything un-reviewed across **both** locations and ask which.
+2. **Present** each contact (persona, name, role) and its messages — Track A: connection ≤300 chars, follow-up, thank-you · Track B: Day-0 connection ≤300 chars, value touch, soft ask. Keep it scannable.
+3. **Collect edits/approvals** per contact. Apply the owner's edits directly to the source file.
+4. **Mark approved** messages as `Ready to send`. Track A → also add a checklist row in the target's `log.md`. Track B → update the contact's `Stage` and `Next touch` in `network/relationships.md` so `/standup` surfaces the next step.
+5. **Remind** the owner these are sent manually, and to log responses (in `log.md` or the contact's dossier message log) so `/standup` can schedule follow-ups.
 
 ## Rules
 - Never auto-send. Never contact anyone. Output is for the owner to copy/paste and send themselves.

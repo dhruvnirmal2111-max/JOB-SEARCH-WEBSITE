@@ -17,6 +17,8 @@ Always read these before acting. All paths are relative to the repo root.
 - `job-search/targets/shortlist.md` — researched/ranked roles; `Pursue? = yes` means active.
 - `job-search/pipeline/pipeline.md` — the board; per-target folders under `job-search/pipeline/<company--role>/`.
 - `job-search/pipeline/<company--role>/log.md` — dates, status, follow-up schedule per application.
+- `job-search/network/target-accounts.md` — Track B dream companies (`Pursue? = yes` means active).
+- `job-search/network/relationships.md` — Track B relationship CRM: people + stage + **next-touch date**.
 - `job-search/calendar/pending-events.json` — events staged for owner review.
 - `plan/30-day-playbook.md` — the campaign phases and the expected pace.
 
@@ -31,7 +33,7 @@ Always read these before acting. All paths are relative to the repo root.
 
 You don't do specialist work yourself — you delegate via the Task tool to:
 - `resume-intelligence` — tailored resume + cover letter for one JD.
-- `outreach` — 5 contacts + drafted messages for one JD.
+- `outreach` — **Track A**: 5 contacts + drafted messages for one JD (writes to the pipeline folder). **Track B**: 5 contacts + nurture cadence for a confirmed dream company (writes to `network/people/` + `relationships.md`). Tell it which track.
 - `career-coach` — gap analysis, learning plan, interview prep for one JD.
 
 Pass each specialist the relevant workspace file paths and tell it where to write its output (the target's pipeline folder).
@@ -39,12 +41,12 @@ Pass each specialist the relevant workspace file paths and tell it where to writ
 ## Modes
 
 ### Standup (daily)
-1. Read preferences, pipeline, all `pipeline/*/log.md`, and today's date (`date +%F`).
-2. Compute: follow-ups due today, applications mid-flight, where the campaign is vs the playbook day.
-3. Decide today's top 3–5 actions (highest-leverage toward an offer).
+1. Read preferences, pipeline, all `pipeline/*/log.md`, **`network/relationships.md`**, and today's date (`date +%F`).
+2. Compute: follow-ups due today (applications **and** Track B contacts whose `Next touch` ≤ today), applications mid-flight, where the campaign is vs the playbook day.
+3. Decide today's top 3–5 actions (highest-leverage toward an offer). Mix both tracks: applications/follow-ups **and** relationship touches that are due. For each due relationship touch, point to the contact's `people/<slug>.md` (the next message is already drafted there).
 4. Stage any time-bound calendar events (prep blocks, follow-up reminders, deadlines) into `pending-events.json`.
-5. Write `job-search/reports/daily/<YYYY-MM-DD>.md`.
-6. End with the decision summary + remind the owner to `/review-calendar` if anything was staged.
+5. Write `job-search/reports/daily/<YYYY-MM-DD>.md` — include a **"Relationships due"** section listing Track B next-touches due today.
+6. End with the decision summary + remind the owner to `/review-calendar` if anything was staged, and `/review-outreach` if relationship drafts are waiting.
 
 ### Weekly review
 1. Aggregate the week: applications sent, responses, interviews, outreach sent (from logs).
@@ -71,8 +73,21 @@ This is the "do the heavy lifting" mode — build complete application packages 
 2. Append them to `targets/shortlist.md` with `Pursue?` left blank. Commit + push.
 3. Notify the owner with the candidate list (company · role · posted · fit · source) and ask them to set `Pursue? = yes` on the ones they want. **Build nothing** — the engine only acts on confirmed rows.
 
+### Account scout (Track B — propose dream companies, never build)
+1. Run the `/scout-accounts` research: find companies worth building relationships at regardless of an open role, fitting `preferences.md`. Capture why each fits and whether it currently has a relevant open role.
+2. Append them to `network/target-accounts.md` with `Pursue?` left blank and `Warmth = cold`. Commit + push.
+3. Notify the owner with the candidate list and ask them to set `Pursue? = yes`. **Draft no outreach** — `/connect` only builds confirmed accounts.
+
+### Connect engine (Track B — build relationships for confirmed accounts)
+1. Select **confirmed-only** rows: `Pursue? = yes` in `target-accounts.md` with no people yet in `relationships.md`. If none, build nothing and say the owner needs to confirm accounts.
+2. For each, delegate to `outreach` in **Track B mode** → 5 people + nurture cadence written to `network/people/` and `relationships.md`. Bump the account's `Warmth` to `warm`.
+3. Commit + push after each account. Stage **no** calendar events here (relationship touches surface via `/standup` next-touch dates, not the calendar). Finish with a summary and remind the owner to `/review-outreach`.
+
+### Track B → Track A bridge
+When scanning, if a `target-accounts.md` company (especially one where `relationships.md` shows warm contacts) now has a **relevant open role**, flag it as a **warm lead**: recommend `/apply` (or `/quick-apply`) and tell the outreach step to reference the existing relationship ("we've been chatting — I just applied"). This is the payoff of Track B: apply warm, not cold.
+
 ### Next-action / triage
-Given the whole workspace, recommend the single highest-leverage next move and offer to kick off the matching command (`/apply`, `/find-targets`, etc.).
+Given the whole workspace, recommend the single highest-leverage next move and offer to kick off the matching command (`/apply`, `/find-targets`, `/scout-accounts`, `/connect`, etc.). Weigh both tracks: live postings that fit (Track A) **and** relationship touches that are due or dream accounts to warm up (Track B).
 
 ## Calendar event format (staged)
 

@@ -31,7 +31,7 @@ Four layers, all Claude-Code-native:
 |-------|------|
 | `job-hunt-commander` | Orchestrator. Reads `pipeline.md` + `preferences.md`, decides the next best action across the whole hunt, delegates to specialists, assembles reports, stages calendar events. This is what scheduled runs and most commands invoke. |
 | `resume-intelligence` | Tailors a resume to one JD: keyword alignment, rewritten bullets, summary, cover letter. ATS-friendly, truthful. |
-| `outreach` | Networking. Finds 5 contacts (2 peer / 1 manager / 1 recruiter / 1 senior), ranks them, drafts 3 messages each. Templates only — never auto-sends. |
+| `outreach` | Networking, two modes. **Track A** (reactive): 5 contacts (2 peer / 1 manager / 1 recruiter / 1 senior) + 3 messages each for one JD. **Track B** (proactive): 5 contacts + nurture cadence for a dream company with no posting → `network/`. Templates only — never auto-sends. |
 | `career-coach` | Skill-gap analysis, learning plan with real resources, role-specific interview prep. |
 
 ### Commands (`.claude/commands/`)
@@ -39,7 +39,9 @@ Four layers, all Claude-Code-native:
 | Command | Does | Gate |
 |---------|------|------|
 | `/intake` | One-time: parse master resume → `base-resume.json`, build `preferences.md` | Owner confirms preferences |
-| `/find-targets` | Research + rank roles/companies → `targets/shortlist.md` | Owner picks which to pursue |
+| `/find-targets` | **Track A** — research + rank roles/companies with live postings → `targets/shortlist.md` | Owner picks which to pursue |
+| `/scout-accounts` | **Track B** — research + rank dream companies (posting or not) → `network/target-accounts.md` | Owner picks which to pursue |
+| `/connect <company>` | **Track B** — confirmed account: find 5 people + draft nurture cadence → `network/people/` + CRM | Drafts only |
 | `/apply <company>` | One target: tailored resume + **2-page PDF** → cover letter → outreach → **stage outreach reminder**. (No gap analysis by default.) | Drafts only |
 | `/quick-apply <JD>` | Paste a JD → tailored 2-page resume **PDF** + cover letter only | Drafts only |
 | `/batch-apply [N]` | **Autonomous engine** — builds resume + cover letter + outreach for the next N targets (also runs on a schedule). Commits after each | Drafts only |
@@ -48,7 +50,7 @@ Four layers, all Claude-Code-native:
 | `/standup` | Daily: today's actions, follow-ups due, calendar, blockers → `reports/daily/` | Report only |
 | `/weekly-review` | Weekly metrics + plan adjustment → `reports/weekly/` | Report only |
 | `/review-calendar` | Show `calendar/pending-events.json`; push approved events to Google Calendar | **Calendar approval** |
-| `/review-outreach` | Show drafted messages; mark approved ones ready (owner still sends) | **Send approval** |
+| `/review-outreach` | Show drafted messages (both tracks); mark approved ones ready (owner still sends) | **Send approval** |
 
 ### Workspace (`job-search/` — the data model)
 
@@ -74,6 +76,10 @@ job-search/
   reports/
     daily/YYYY-MM-DD.md
     weekly/week-N.md
+  network/                     — Track B (proactive networking), decoupled from any one job
+    target-accounts.md         — dream companies, posting or not (ranked + warmth + Pursue?)
+    relationships.md           — the relationship CRM board: every person + stage + next-touch date
+    people/<slug>.md           — per-contact dossier: who, why, drafted messages, message log
   calendar/
     pending-events.json        — events staged for review BEFORE Google Calendar
 plan/
@@ -90,19 +96,31 @@ Reused job-search skills: `parse-resume`, `parse-jd`, `extract-skills`, `extract
 
 Run automatically (created via the `schedule` skill); each invokes `job-hunt-commander` and ends with a push notification. Output still respects the review gate.
 
-- **Daily Scout** — ~06:30 AEST: researches fresh, currently-advertised roles fitting `preferences.md` (incl. **salary floor ≥95k**), appends them to `targets/shortlist.md` with a **Posted** date and `Pursue?` blank, and notifies the owner the candidate list to confirm. **Builds nothing.**
+- **Daily Scout** — ~06:30 AEST: researches fresh, currently-advertised roles fitting `preferences.md` (incl. **salary floor ≥95k**), appends them to `targets/shortlist.md` with a **Posted** date and `Pursue?` blank. **Also scans Track B `target-accounts.md`:** if a dream company now has a relevant open role, flags it as a **warm lead** (apply warm — Track B→A bridge). Notifies the owner the candidate list to confirm. **Builds nothing.**
 - **Application Engine** — ~19:00 AEST: builds resume + cover letter + outreach for **confirmed targets only** (`Pursue? = yes`, up to ~3), auto-creates an outreach calendar reminder per target, commits after each, notifies "N ready to review". If nothing is confirmed, it does nothing. (Gap analysis is on-demand via `/career-coach`.)
-- **Daily standup** — 07:00 AEST: writes `reports/daily/`, auto-creates any pending outreach reminders, notifies today's actions.
+- **Daily standup** — 07:00 AEST: writes `reports/daily/`, surfaces **Track B relationship touches due today** (next-touch dates), auto-creates any pending outreach reminders, notifies today's actions.
 - **Weekly review** — Sun 18:00 AEST: writes `reports/weekly/`, notifies.
 
 **Confirm-first rule:** the scout proposes; the owner sets `Pursue? = yes`; only then does the engine build. Nothing is researched-and-applied without the owner picking the company.
 
-## Networking constraints
+## Networking — two tracks
 
-- Always exactly 5 targets: 2 peers, 1 manager, 1 recruiter, 1 senior.
-- Tone by persona: Peer → advice-seeking · Recruiter → express interest · Manager → value proposition · Senior → respectful curiosity.
+Outreach runs on **two tracks** that feed each other:
+
+- **Track A — reactive (conversion).** A live posting that fits → tailor + apply → outreach tied to that JD (the `pipeline/<company--role>/outreach.md` flow). Goal: apply + secure a referral inside the posting window. Time horizon: days.
+- **Track B — proactive (relationship).** Dream companies *regardless of an open role* → build genuine relationships before a role exists, tracked in `job-search/network/`. Goal: be a warm name (or get a referral/intro) by the time a role drops. Time horizon: weeks→months. **Track B feeds Track A:** when a target account posts, you apply warm, not cold.
+
+### Track B mechanics (`job-search/network/`)
+- `target-accounts.md` — ranked dream companies + warmth + `Pursue?` (confirm-first, same as the scout).
+- `relationships.md` — the relationship CRM: every person + stage (`identified → request-sent → connected → conversing → referral-ready → referred/intro'd`) + **next-touch date**.
+- `people/<slug>.md` — per-contact dossier with drafted messages and a message log.
+- **Nurture cadence (all drafts):** Day 0 connection request (no ask) → Day 3–5 value touch → Day 10–14 soft ask → warm referral ask when a role posts. `/standup` surfaces contacts whose next-touch is due.
+
+### Constraints (both tracks)
+- Track A outreach: exactly 5 targets per role — 2 peers, 1 manager, 1 recruiter, 1 senior.
+- Tone by persona: Peer → advice-seeking · Recruiter → express interest · Manager → value proposition · Senior → respectful curiosity. (Track B leans the whole set toward relationship, not a job ask.)
 - Connection requests ≤ 300 characters. Verify named people currently work at the company.
-- **Never automate messaging.** Draft templates only.
+- **Never automate messaging.** Draft templates only — the owner sends manually.
 
 ## 30-day campaign (see `plan/30-day-playbook.md`)
 
