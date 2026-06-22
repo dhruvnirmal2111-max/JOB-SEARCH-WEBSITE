@@ -22,6 +22,14 @@
 | 14 | Entain | Data Scientist | Melbourne (hybrid) | Jun 2026 | ML/fraud/customer analytics; Python + Databricks + AWS; end-to-end DS scope; $120–170K | 7 | Specific posting | |
 | 15 | IAG | Lead AI Engineer | Melbourne | Jun 2026 | Insurance GenAI; LLM + agentic-AI edge directly matches rare profile strength; ~$130–160K+ | 9 | Specific posting | |
 | 16 | Sportsbet | Senior Data Scientist | Melbourne (hybrid) | ~Jun 2026 | Best-in-class ML stack; fraud/betting/customer domains; $130–150K | 7 | Specific posting | |
+| 17 | SEEK Ltd | Staff Data Engineer | Cremorne, Melbourne (hybrid) | Jun 2026 | Australia's #1 job platform; build data assets + pipelines; AFR Top-10 tech employer; ~$156–161K | 9 | Specific posting | |
+| 18 | Canva | Senior ML Engineer – AI Enablement | Remote ANZ | Jun 2026 | Remote ANZ; production ML + AI enablement systems at Canva scale; directly matches agentic-AI/LLM edge | 9 | Specific posting | |
+| 19 | Telstra | Senior Data Engineer | Melbourne (hybrid) | Jun 2026 | Largest AU telco; enterprise-scale data pipelines; Python/Azure/cloud stack; avg $130K (range $102–169K) | 8 | Specific posting | |
+| 20 | NAB | Data Engineer | Melbourne (Docklands, hybrid) | Jun 2026 | Big-4 bank data & AI platform; ML model support for Business & Private Bank; Databricks; median $147K | 8 | Specific posting | |
+| 21 | Canva | Senior Data Scientist – People Analytics | Remote ANZ | Jun 2026 | Remote ANZ; Snowflake + Python + SQL; DS at design-tech scale; strong comp est. ~$130–170K | 8 | Specific posting | |
+| 22 | WEX | Data Engineer | Melbourne (hybrid) | Jun 2026 | Fintech/fleet-payments data platform transformation; Snowflake/dbt/AWS match; $130–140K + super | 8 | Specific posting | |
+| 23 | Coles Group | Senior Data Science Engineer | Hawthorn East, Melbourne | Jun 2026 | Retail ML/DS at scale; Python + cloud; Advanced Analytics across Finance, Procurement and Risk domains | 7 | Specific posting | |
+| 24 | MYOB | Senior Data Engineer | Melbourne (hybrid) | Jun 2026 | SMB accounting SaaS; DE leadership; Python/cloud; comp ceiling ~$105–132K (lower end but ≥ floor) | 6 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -47,3 +55,11 @@
 - [Entain — Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-scientist-at-entain-australia-new-zealand-4237519623)
 - [IAG — Lead AI Engineer, Melbourne](https://careers.iag.com.au/global/en/job/49216/Lead-AI-Engineer)
 - [Sportsbet — Senior Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-scientist-at-sportsbet-3799256583)
+- [SEEK Ltd — Staff Data Engineer, Cremorne Melbourne (SEEK)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+- [Canva — Senior ML Engineer AI Enablement, Remote ANZ (Working Nomads)](https://www.workingnomads.com/jobs/senior-machine-learning-engineer-ai-enablement-canva)
+- [Telstra — Senior Data Engineer jobs (SEEK)](https://www.seek.com.au/telstra-engineer-jobs)
+- [NAB — Data Engineer jobs in Melbourne (SEEK)](https://au.seek.com/NAB-jobs/in-All-Melbourne-VIC)
+- [Canva — Senior Data Scientist People Analytics, Remote ANZ (Canva Careers)](https://www.lifeatcanva.com/en/jobs/6000000000809644/senior-data-scientist-people-analytics-remote-across-anz/)
+- [WEX — Data Engineer Melbourne (LinkedIn)](https://au.linkedin.com/jobs/wex-jobs-melbourne-vi)
+- [Coles Group — Senior Data Science Engineer, Hawthorn East (Coles Careers)](https://colescareers.com.au/au/en/job/139196/Senior-Data-Science-Engineer-Hawthorn-East)
+- [MYOB — Senior Data Engineer Melbourne (LinkedIn)](https://au.linkedin.com/jobs/myob-jobs-melbourne-vi)
