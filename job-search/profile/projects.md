@@ -59,6 +59,11 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Developed and maintained 16+ dashboards for procurement/finance teams.
 - **Delivery/impact:** Enabled monitoring of supplier spend, KPI tracking, and cost-optimisation decisions by stakeholders.
 
+### P18. Global multi-region spend-analytics platform (largest client account) `#etl #cloud #python #sql #automation #bi #dataquality #stakeholders`
+- **Skills/tech:** SQL, Python, Microsoft Graph API (Azure), remote SQL Server batch scripting, rules-based spend-categorisation engine, BI dashboards.
+- **What I did:** Own the end-to-end data pipeline for the company's largest client — spend data spanning 5 global regions / 13 sub-regions. Coordinate stakeholders across all 13 regions and standardised file-submission + naming conventions so every region feeds one consistent intake. Built fully automated email-based ingestion (Microsoft Graph API → remote SQL Server batch script) and maintain the unified file structure behind it. Downstream: vendor/spend lookups, heavy multi-language data cleaning (vendor names vary by region), a categorisation process driven by ~11–12k rules, and advanced spend analysis (rolling / 4-week spend windows, PO splitting), surfaced through multiple dashboards.
+- **Delivery/impact:** Consolidates 13 regional feeds into consistent, analysis-ready spend data and dashboards for the company's highest-billing client account; ingestion runs automated end to end.
+
 ---
 
 ## Victorian Centre for Data Insights (VCDI), Data Engineer Intern (Aug 2023 – Nov 2023)
@@ -119,7 +124,7 @@ Government procurement monitoring; distributed data + ML.
 - **Languages:** Python, SQL, (learning: R), C/C++ (academic), MATLAB.
 - **ML/AI:** scikit-learn, TF-IDF, **embeddings**, Logistic Regression, forecasting, **clustering**, anomaly detection, LLM/agentic workflows (Claude, ChatGPT), **agentic systems**, multi-agent orchestration, **prompt engineering**, **AI-output evaluation/QA**, NLP/sentiment.
 - **Data eng:** ETL pipeline design, PySpark, Databricks, KNIME, batch automation, data modelling/cleaning, feature engineering, Snowflake, **multi-source data integration**.
-- **Cloud/IaC:** AWS (S3, EC2, IAM, Lambda, **Glue, Athena**), Azure, **GCP (familiar)**, Databricks, Terraform, Docker.
+- **Cloud/IaC:** AWS (S3, EC2, IAM, Lambda, **Glue, Athena**), Azure (incl. **Microsoft Graph API** for automated email ingestion), **GCP (familiar)**, Databricks, Terraform, Docker.
 - **BI/viz:** Tableau, Power BI, data storytelling, KPI analytics.
 - **Tools & practices:** Git / version control, documentation, KNIME.
 - **Consulting:** client-facing delivery, problem framing, stakeholder communication, QA/documentation.
