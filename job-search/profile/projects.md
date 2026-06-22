@@ -94,10 +94,32 @@ Government procurement monitoring; distributed data + ML.
 
 ---
 
+## Selected AI & analytics solutions (product-level)
+
+### P15. AI-Driven Career Guidance System `#ai #agents #llm #prompt-eng`
+- **Skills/tech:** Agentic AI workflows, LLM orchestration (Claude), prompt engineering, modular system design, AI-output evaluation.
+- **What I did:** Designed and built an AI decision-support system that analyses resumes and job descriptions, identifies skill gaps, and generates structured recommendations. Built agent-based workflows for multi-step reasoning and task execution; added mechanisms to evaluate and refine AI outputs for reliability; applied modular design for reusable, scalable workflows; optimised cost/consistency through prompt and workflow control.
+- **Delivery/impact:** Reusable, scalable AI workflows producing consistent, reliable structured outputs; end-to-end decision-support product.
+
+### P16. End-to-End Analytics & Decision Support System (client project) `#ai #analytics #forecasting #bi`
+- **Skills/tech:** Data integration (8+ sources), AI-driven automation, forecasting, benchmarking, BI/insight generation.
+- **What I did:** Designed and implemented a centralised analytics platform integrating 8+ data sources for a small business. Built AI-driven workflows to automate data processing, reporting, and insight generation; added forecasting for short-term operational planning; created systems generating actionable insights for pricing, product mix, and operational efficiency; benchmarked performance against external indicators for business-health monitoring.
+- **Delivery/impact:** Scalable automated solution that significantly reduced manual effort and led to ongoing client engagement and strong satisfaction.
+
+### P17. AI-output evaluation & QA in analytics workflows `#ai #dataquality #llm`
+- **Skills/tech:** Critical evaluation of LLM outputs, prompt refinement, QA process design.
+- **What I did:** Evaluated and refined AI-generated outputs within client analytics workflows to ensure accuracy, consistency, and business relevance before delivery.
+- **Delivery/impact:** Higher reliability of AI-assisted insights; a defensible "AI with judgement" practice (valued by AI-first employers).
+
+> Note: the transaction-description classifier (P6) has also been built with **embeddings + Logistic Regression** (not only TF-IDF) — both phrasings are truthful for that work.
+
+---
+
 ## Skills index (auto-reference for tailoring)
 - **Languages:** Python, SQL, (learning: R), C/C++ (academic), MATLAB.
-- **ML/AI:** scikit-learn, TF-IDF, Logistic Regression, forecasting, anomaly detection, LLM/agentic workflows (Claude, ChatGPT), multi-agent orchestration, NLP/sentiment.
-- **Data eng:** ETL pipeline design, PySpark, Databricks, KNIME, batch automation, data modelling/cleaning, feature engineering, Snowflake.
-- **Cloud/IaC:** Azure, AWS (S3, Lambda, IAM, EC2), Terraform, Docker.
+- **ML/AI:** scikit-learn, TF-IDF, **embeddings**, Logistic Regression, forecasting, **clustering**, anomaly detection, LLM/agentic workflows (Claude, ChatGPT), **agentic systems**, multi-agent orchestration, **prompt engineering**, **AI-output evaluation/QA**, NLP/sentiment.
+- **Data eng:** ETL pipeline design, PySpark, Databricks, KNIME, batch automation, data modelling/cleaning, feature engineering, Snowflake, **multi-source data integration**.
+- **Cloud/IaC:** AWS (S3, EC2, IAM, Lambda, **Glue, Athena**), Azure, **GCP (familiar)**, Databricks, Terraform, Docker.
 - **BI/viz:** Tableau, Power BI, data storytelling, KPI analytics.
+- **Tools & practices:** Git / version control, documentation, KNIME.
 - **Consulting:** client-facing delivery, problem framing, stakeholder communication, QA/documentation.
