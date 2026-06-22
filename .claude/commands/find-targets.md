@@ -10,7 +10,7 @@ Goal: the owner has a resume but no fixed targets. Research real, currently-open
 
 ## Steps
 
-1. **Read** `job-search/profile/preferences.md` and `job-search/profile/base-resume.json` to understand fit. Apply any extra focus from `$ARGUMENTS`.
+1. **Read** `job-search/profile/goals.md` (north star + direction — weight candidates toward it), `job-search/profile/preferences.md`, and `job-search/profile/base-resume.json` to understand fit. Apply any extra focus from `$ARGUMENTS`.
 
 2. **Research with `WebSearch` / `WebFetch`.** Find roles/companies matching the target roles, seniority, location, and domains. Prefer real, currently-advertised openings. For each, capture a **source URL** and the **date posted** (or best estimate, e.g. "~Jun 2026" / "this week"). **Apply the salary filter** from `preferences.md` — drop anything advertised below the minimum (AUD 95,000). Aim for 10–15 candidates.
 

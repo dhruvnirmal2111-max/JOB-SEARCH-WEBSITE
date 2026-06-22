@@ -15,6 +15,7 @@ It is for **one person (the owner)**. There is no UI for anyone else.
    - **Exception (owner-authorized): outreach calendar reminders auto-create.** The only calendar events the system makes are outreach reminders ("Send outreach: <Company>"), and these are written **directly to Google Calendar without approval** (the owner moves them if needed). No prep/submit/setup events are ever created. The cloud routines do this via the attached Google Calendar connector.
 3. **Never fabricate experience.** Resumes and bullets are tailored from real history only; add JD keywords only where they truthfully fit.
 4. **Truth in reporting.** Pipeline status reflects reality. Don't mark things "applied"/"sent" unless they were.
+5. **Keep the owner's goals in mind.** Read `job-search/profile/goals.md` on every run and let it steer scouting (which roles), tailoring (which angle), and the weekly review (alignment check).
 
 ## Architecture
 
@@ -47,6 +48,7 @@ Four layers, all Claude-Code-native:
 | `/batch-apply [N]` | **Autonomous engine** — builds resume + cover letter + outreach for the next N targets (also runs on a schedule). Commits after each | Drafts only |
 | `/career-coach <company>` | On-demand gap analysis + interview prep for one target (kept out of the volume path) | — |
 | `/revise-resume <company> "<feedback>"` | Apply your feedback to a tailored resume and regenerate the PDF (the iterate loop) | Drafts only |
+| `/add-project <description>` | Log a project into `profile/projects.md` and push (great from the phone). Grows resume ammunition over time | — |
 | `/standup` | Daily: today's actions, follow-ups due, calendar, blockers → `reports/daily/` | Report only |
 | `/weekly-review` | Weekly metrics + plan adjustment → `reports/weekly/` | Report only |
 | `/review-calendar` | Show `calendar/pending-events.json`; push approved events to Google Calendar | **Calendar approval** |
@@ -59,7 +61,8 @@ job-search/
   profile/
     resume.pdf | resume.md     — master resume (source of truth / template)
     base-resume.json           — parsed structured resume (cached, regenerable)
-    projects.md                — master projects library: every project + skills + delivery/impact (resume agent draws from this)
+    projects.md                — master projects library: every project + skills + delivery/impact (resume agent draws from this; grown via /add-project)
+    goals.md                   — the owner's goals / north star — READ EVERY RUN; steers scouting, tailoring, and the weekly review
     preferences.md             — target roles, locations, salary, must-haves, dealbreakers
   targets/
     shortlist.md               — researched + ranked companies/roles
