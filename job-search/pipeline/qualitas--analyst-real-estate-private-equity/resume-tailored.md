@@ -3,7 +3,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | LinkedIn
 
 ## Professional Summary
 
-Data Engineer and analytics practitioner with 2+ years of client-facing delivery experience building automated data pipelines, AI-enabled reporting workflows, and BI dashboards for enterprise clients. At PI Data Analytics I designed and deployed 20+ production ETL pipelines and built agentic AI workflows (multi-agent orchestration with Claude) that eliminated manual analytical report assembly — directly mirroring Qualitas's focus on AI-enabled analytical outputs. Proficient in Python, SQL, Tableau, Power BI, and version-controlled cloud infrastructure; experienced translating senior briefs into well-scoped, deadline-driven deliverables across multiple concurrent workstreams.
+Data and analytics engineer with 2+ years of client-facing delivery experience building automated data pipelines, AI-enabled reporting workflows, and BI dashboards for enterprise clients. At PI Data Analytics I designed and deployed 20+ production ETL pipelines and built agentic AI workflows (multi-agent orchestration with Claude) that eliminated manual analytical report assembly — directly mirroring Qualitas's focus on AI-enabled analytical outputs. Proficient in Python, SQL, Tableau, Power BI, and version-controlled cloud infrastructure; experienced translating senior briefs into well-scoped, deadline-driven deliverables across multiple concurrent workstreams.
 
 ## Key Skills
 
@@ -15,7 +15,7 @@ Data Engineer and analytics practitioner with 2+ years of client-facing delivery
 
 ## Experience
 
-### Data Engineer, Purchasing Index Data Analytics (Comprara Group)
+### Data & Analytics Engineer, Purchasing Index Data Analytics (Comprara Group)
 Jun 2024 – Present | Melbourne, Australia
 
 - Built and maintained 20+ automated ETL data pipelines processing millions of procurement transactions monthly across 5 enterprise clients, reducing manual reporting effort ~40% and improving turnaround ~50% (Python, SQL, Azure-hosted servers).

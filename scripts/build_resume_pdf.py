@@ -37,11 +37,24 @@ from reportlab.lib.styles import ParagraphStyle
 
 ACCENT = HexColor("#1f3a5f")
 GREY = HexColor("#444444")
+BAND = HexColor("#e8eef5")  # light tint behind section headers
 
 CUT_HEADING = re.compile(r"(keyword alignment|recommendation|keyword match)", re.I)
 
 
+def no_em_dash(text: str) -> str:
+    """House style: no em dashes. Render them as a spaced hyphen, and keep
+    en dashes only inside numeric/date ranges (e.g. 2022–2023)."""
+    text = text.replace(" — ", " - ").replace("—", " - ")
+    # en dash used as a separator (with spaces) -> hyphen; ranges like 4–5 keep theirs
+    text = re.sub(r"\s–\s", " - ", text)
+    # collapse any accidental double spaces introduced above
+    text = re.sub(r" {2,}", " ", text)
+    return text
+
+
 def esc(text: str) -> str:
+    text = no_em_dash(text)
     text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     # links: [label](url) -> label
     text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r"\1", text)
@@ -97,11 +110,14 @@ def parse_blocks(md: str):
 
 DENSITY = [
     # (name, h2, h3, body, leading, space_before_h2, bullet_gap, margin_mm)
-    (19, 11.5, 10, 10, 13.5, 9, 2.5, 16),
-    (18, 11, 9.5, 9.5, 12.6, 8, 2, 15),
-    (17, 10.5, 9, 9, 11.8, 7, 1.6, 14),
-    (16, 10, 8.5, 8.5, 11.0, 6, 1.3, 13),
-    (15.5, 9.5, 8.2, 8.2, 10.4, 5, 1.0, 12),
+    # Tuned to breathe: leading ~1.4x body, generous bullet gaps + margins.
+    # Auto-fit steps down only as far as the content forces it.
+    (20, 12.5, 10.5, 10.5, 15.5, 13, 4.5, 18),
+    (19, 12, 10, 10, 14.6, 12, 4.0, 17),
+    (18, 11.5, 9.5, 9.5, 13.8, 11, 3.5, 16),
+    (17, 11, 9.2, 9.2, 13.0, 10, 3.0, 15),
+    (16, 10.5, 9, 9, 12.4, 9, 2.6, 14),
+    (15, 10, 8.6, 8.6, 11.6, 8, 2.2, 13),
 ]
 
 
@@ -119,10 +135,11 @@ def build(md_path, pdf_path, max_pages=2):
             "contact": ParagraphStyle("contact", fontName="Helvetica", fontSize=bz - 0.5,
                                       leading=bz + 1, textColor=GREY, spaceAfter=4),
             "h2": ParagraphStyle("h2", fontName="Helvetica-Bold", fontSize=h2z,
-                                 leading=h2z + 2, textColor=ACCENT, spaceBefore=sb,
-                                 spaceAfter=2),
+                                 leading=h2z + 3, textColor=ACCENT, spaceBefore=sb,
+                                 spaceAfter=4, backColor=BAND, borderColor=BAND,
+                                 borderPadding=(4, 6, 4, 6), borderRadius=2),
             "h3": ParagraphStyle("h3", fontName="Helvetica-Bold", fontSize=h3z,
-                                 leading=h3z + 2, textColor=GREY, spaceBefore=3,
+                                 leading=h3z + 3, textColor=ACCENT, spaceBefore=5,
                                  spaceAfter=1),
             "body": ParagraphStyle("body", fontName="Helvetica", fontSize=bz,
                                    leading=lead, spaceAfter=2),
@@ -152,9 +169,8 @@ def build(md_path, pdf_path, max_pages=2):
             elif kind == "contact":
                 story.append(Paragraph(esc(txt), styles["contact"]))
             elif kind == "h2":
-                story.append(Paragraph(esc(txt), styles["h2"]))
-                story.append(HRFlowable(width="100%", thickness=0.6, color=ACCENT,
-                                        spaceBefore=1, spaceAfter=3))
+                # highlighted section band, uppercase for clear hierarchy
+                story.append(Paragraph(esc(txt.upper()), styles["h2"]))
             elif kind == "h3":
                 story.append(Paragraph(esc(txt), styles["h3"]))
             else:
