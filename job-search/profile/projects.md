@@ -50,8 +50,7 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 ### P7. Inventory-demand forecasting for a fresh-produce client (raw materials + chemicals) `#ml #forecasting #timeseries #prophet #inventory #dashboards`
 - **Skills/tech:** Python, time-series forecasting (Prophet), feature engineering with external drivers, BI dashboard.
 - **What I did:** Ad-hoc request for a fresh-produce client who has to order fertilisers, raw materials and chemicals to process their produce. Built a **time-series forecasting model (Prophet)** to forecast **~3 months ahead** the inventory levels they should hold — specifically **raw materials and chemicals** (not packaging). For chemicals sourced internationally, incorporated external price drivers — including **sea-freight trends over the prior couple of years** and other factors — into the forecast. Delivered the output to the client on a **dashboard**.
-- **Delivery/impact:** Forecast inventory within a ~**12.5–14% margin — comfortably below the client's acceptance threshold** — giving them a 3-month forward view to plan raw-material and chemical ordering. Delivered end-to-end as a one-off client request.
-- _To confirm before resume use: forecasting library was Prophet (you said "profits model")? and the 12.5–14% is the error margin vs. the client's accepted tolerance?_
+- **Delivery/impact:** Forecast inventory within a ~**12.5–14% error margin — comfortably below the client's accepted tolerance** — giving them a 3-month forward view to plan raw-material and chemical ordering. Delivered end-to-end as a one-off client request.
 
 ### P8. LLM sentiment analysis on sales calls `#ai #nlp #llm`
 - **Skills/tech:** LLM workflows, Python.
