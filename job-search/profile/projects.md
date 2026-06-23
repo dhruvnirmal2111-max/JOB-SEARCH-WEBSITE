@@ -1,10 +1,18 @@
 # Master Projects & Delivery Library — Dhruv Nirmal
 
-> The reusable bank the resume agent draws from. Each entry = what it was, the skills/tech used, what I did, and the delivery/impact. Add new projects here as you build them; tailored resumes pick the most JD-relevant ones.
+> The reusable bank the resume agent draws from. Each entry = what it was, the skills/tech used, what I did, and the delivery/impact.
+>
+> **Two buckets — keep them separate (never mix):**
+> - **Professional** — actual client / employer work (paid, for an organisation or a client).
+> - **Personal** — my own builds (cafe SaaS, this Job Hunt OS, portfolio projects).
+>
+> The resume agent may draw from both but must label them honestly — personal projects are never presented as client/employer work.
 >
 > **Maintenance:** keep impact numbers truthful and specific. Tag each project so the resume agent can match it to a JD (e.g. `#ml #ai #etl #bi #cloud #anomaly`).
 
 ---
+
+# PROFESSIONAL — client & employer work
 
 ## Current role — Purchasing Index Data Analytics (Comprara Group), Data Engineer (Jun 2024 – present)
 Client-facing analytics consulting; supplier/transaction datasets for enterprise clients across AU & NZ.
@@ -35,8 +43,8 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **Delivery/impact:** Removed manual report assembly; consistent client-facing deliverables.
 
 ### P6. Transaction-description classifier `#ml #nlp #python`
-- **Skills/tech:** scikit-learn, TF-IDF vectorisation, Logistic Regression, Python.
-- **What I did:** Built a binary classification model to categorise transaction descriptions.
+- **Skills/tech:** scikit-learn, TF-IDF / embeddings, Logistic Regression, Python.
+- **What I did:** Built a binary classification model to categorise transaction descriptions (built with TF-IDF and also with embeddings + Logistic Regression — both phrasings are truthful for this work).
 - **Delivery/impact:** Cut manual categorisation effort ~40%; improved data standardisation for downstream analytics.
 
 ### P7. Chemical-consumption prediction model `#ml #forecasting`
@@ -59,12 +67,15 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Developed and maintained 16+ dashboards for procurement/finance teams.
 - **Delivery/impact:** Enabled monitoring of supplier spend, KPI tracking, and cost-optimisation decisions by stakeholders.
 
+### P17. AI-output evaluation & QA in analytics workflows `#ai #dataquality #llm`
+- **Skills/tech:** Critical evaluation of LLM outputs, prompt refinement, QA process design.
+- **What I did:** Evaluated and refined AI-generated outputs within client analytics workflows to ensure accuracy, consistency, and business relevance before delivery.
+- **Delivery/impact:** Higher reliability of AI-assisted insights; a defensible "AI with judgement" practice (valued by AI-first employers).
+
 ### P18. Global multi-region spend-analytics platform (largest client account) `#etl #cloud #python #sql #automation #bi #dataquality #stakeholders`
 - **Skills/tech:** SQL, Python, Microsoft Graph API (Azure), remote SQL Server batch scripting, KNIME (legacy process), rules-based spend-categorisation engine, BI dashboards.
 - **What I did:** Own the end-to-end data pipeline for the company's largest client — spend data across 5 global regions / 13 sub-regions (~6M invoice rows plus PO, lookup and open-PO datasets; ~500–600k rows refreshed weekly). Replaced a manual KNIME upload process with fully automated email-based ingestion (Microsoft Graph API → remote SQL Server batch script). Coordinate stakeholders across all 13 regions and standardised file-submission + naming conventions so every region feeds one consistent intake. Built automated validation (row/hour counts, data-type and column-consistency checks) that drops stray columns, logs discrepancies, and emails client + internal teams for review. Downstream: vendor/spend lookups, multi-language data cleaning, ~11–12k-rule categorisation, and advanced spend analysis (rolling / 4-week spend windows, PO splitting) into dashboards. Now working with the client's IT + cybersecurity teams to consolidate into a single unified pipeline.
 - **Delivery/impact:** Cut weekly processing from ~4–5 hours of manual upload-and-check to a ~75-min automated run (30-min ingestion + 45-min downstream) — **~3–3.5 hours saved weekly** — while removing manual number-checking and standardising delivery for the company's highest-billing client account.
-
----
 
 ## Victorian Centre for Data Insights (VCDI), Data Engineer Intern (Aug 2023 – Nov 2023)
 Government procurement monitoring; distributed data + ML.
@@ -79,17 +90,6 @@ Government procurement monitoring; distributed data + ML.
 - **What I did:** Built and presented a Power BI analytics solution; communicated architecture + outcomes to cross-functional stakeholders.
 - **Delivery/impact:** Adopted by senior Department of Transport stakeholders.
 
----
-
-## Personal / portfolio
-
-### P13. Cloud Data Platform with Terraform `#cloud #iac #snowflake`
-- **Skills/tech:** AWS (S3, IAM, EC2, networking), Terraform (IaC), Snowflake, Docker, Power BI.
-- **What I did:** Provisioned full cloud infrastructure as code; built an automated ingestion pipeline from external APIs to Snowflake; modular multi-environment design (dev/staging/prod).
-- **Delivery/impact:** Reproducible, version-controlled environments; end-to-end ingestion-to-BI platform.
-
----
-
 ## Research — Terminal Ballistics Research Laboratory (TBRL, DRDO), Research Data Analyst (Jan 2021 – Jul 2021)
 
 ### P14. Blast-wave signal analysis `#statistics #signal #matlab`
@@ -99,24 +99,33 @@ Government procurement monitoring; distributed data + ML.
 
 ---
 
-## Selected AI & analytics solutions (product-level)
+# PERSONAL PROJECTS — my own builds (not client work)
 
-### P15. AI-Driven Career Guidance System `#ai #agents #llm #prompt-eng`
-- **Skills/tech:** Agentic AI workflows, LLM orchestration (Claude), prompt engineering, modular system design, AI-output evaluation.
-- **What I did:** Designed and built an AI decision-support system that analyses resumes and job descriptions, identifies skill gaps, and generates structured recommendations. Built agent-based workflows for multi-step reasoning and task execution; added mechanisms to evaluate and refine AI outputs for reliability; applied modular design for reusable, scalable workflows; optimised cost/consistency through prompt and workflow control.
-- **Delivery/impact:** Reusable, scalable AI workflows producing consistent, reliable structured outputs; end-to-end decision-support product.
+### P13. Cloud Data Platform with Terraform (portfolio) `#cloud #iac #snowflake`
+- **Skills/tech:** AWS (S3, IAM, EC2, networking), Terraform (IaC), Snowflake, Docker, Power BI.
+- **What I did:** Provisioned full cloud infrastructure as code; built an automated ingestion pipeline from external APIs to Snowflake; modular multi-environment design (dev/staging/prod).
+- **Delivery/impact:** Reproducible, version-controlled environments; end-to-end ingestion-to-BI platform.
 
-### P16. End-to-End Analytics & Decision Support System (client project) `#ai #analytics #forecasting #bi`
+### P15. Job Hunt OS — agentic AI career-search system (this repo) `#ai #agents #llm #prompt-eng #automation`
+- **Skills/tech:** Claude Code (agentic systems), multi-agent orchestration (orchestrator + resume / outreach / career-coach specialists), Python (reportlab, pdfplumber), Bash, Git, Google Calendar (MCP), file-based data modelling, prompt/agent design.
+- **What I did:** Designed and built a single-user, file-based "Job Hunt OS" that runs natively on Claude Code with no paid APIs. It tailors ATS-friendly resumes to a JD and builds 2-page PDFs, drafts cover letters, runs two-track networking (reactive applications + a proactive relationship CRM), analyses resume↔JD skill gaps, and produces daily/weekly reports. Scheduled cloud routines scout roles and build application packages autonomously behind a human review gate; outreach reminders sync to Google Calendar via MCP.
+- **Delivery/impact:** End-to-end automation of a real job search; demonstrates agentic AI, multi-agent orchestration, and system design over a plain-file data model.
+
+### P19. Cafe SaaS — `#personal #saas` _(pending details)_
+- **Skills/tech:** _TBD_
+- **What I did:** _TBD_
+- **Delivery/impact:** _TBD_
+- _Send me a one-liner (what it does, stack, users/status) — or run `/add-project` — and I'll flesh this out. Kept here so it's not mixed into client work._
+
+---
+
+# ⚠ TO CLASSIFY — needs your call
+
+### P16. End-to-End Analytics & Decision Support System ("small business" engagement) `#ai #analytics #forecasting #bi`
 - **Skills/tech:** Data integration (8+ sources), AI-driven automation, forecasting, benchmarking, BI/insight generation.
 - **What I did:** Designed and implemented a centralised analytics platform integrating 8+ data sources for a small business. Built AI-driven workflows to automate data processing, reporting, and insight generation; added forecasting for short-term operational planning; created systems generating actionable insights for pricing, product mix, and operational efficiency; benchmarked performance against external indicators for business-health monitoring.
-- **Delivery/impact:** Scalable automated solution that significantly reduced manual effort and led to ongoing client engagement and strong satisfaction.
-
-### P17. AI-output evaluation & QA in analytics workflows `#ai #dataquality #llm`
-- **Skills/tech:** Critical evaluation of LLM outputs, prompt refinement, QA process design.
-- **What I did:** Evaluated and refined AI-generated outputs within client analytics workflows to ensure accuracy, consistency, and business relevance before delivery.
-- **Delivery/impact:** Higher reliability of AI-assisted insights; a defensible "AI with judgement" practice (valued by AI-first employers).
-
-> Note: the transaction-description classifier (P6) has also been built with **embeddings + Logistic Regression** (not only TF-IDF) — both phrasings are truthful for that work.
+- **Delivery/impact:** Scalable automated solution that significantly reduced manual effort and led to ongoing engagement and strong satisfaction.
+- **❓ Is this a real paid client (→ Professional), or is it the cafe SaaS / a personal build (→ Personal)?** Tell me and I'll move it to the right bucket.
 
 ---
 
@@ -126,5 +135,5 @@ Government procurement monitoring; distributed data + ML.
 - **Data eng:** ETL pipeline design, PySpark, Databricks, KNIME, batch automation, data modelling/cleaning, feature engineering, Snowflake, **multi-source data integration**.
 - **Cloud/IaC:** AWS (S3, EC2, IAM, Lambda, **Glue, Athena**), Azure (incl. **Microsoft Graph API** for automated email ingestion), **GCP (familiar)**, Databricks, Terraform, Docker.
 - **BI/viz:** Tableau, Power BI, data storytelling, KPI analytics.
-- **Tools & practices:** Git / version control, documentation, KNIME.
+- **Tools & practices:** Git / version control, documentation, KNIME, Claude Code / MCP.
 - **Consulting:** client-facing delivery, problem framing, stakeholder communication, QA/documentation.
