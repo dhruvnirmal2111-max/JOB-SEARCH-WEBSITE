@@ -34,5 +34,15 @@
     "status": "created",
     "gcal_event_id": "svephfp4niogs9198p7c9lk9e8",
     "gcal_link": "https://www.google.com/calendar/event?eid=c3ZlcGhmcDRuaW9nczkxOThwN2M5bGs5ZTggZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "melbourne-water-outreach-week1-20260624",
+    "title": "Send outreach: Melbourne Water Data Analyst (recruiter + peer)",
+    "kind": "outreach",
+    "start": "2026-06-24T10:00:00",
+    "end": "2026-06-24T10:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/melbourne-water--data-analyst/outreach.md (week-1: recruiter + a peer). Verify each is currently at Melbourne Water first. You send manually.",
+    "source": "melbourne-water--data-analyst",
+    "status": "pending"
   }
 ]
