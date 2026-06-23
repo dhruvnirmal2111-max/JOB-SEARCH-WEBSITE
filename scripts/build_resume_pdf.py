@@ -28,7 +28,7 @@ import argparse
 
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.units import mm
-from reportlab.lib.enums import TA_CENTER
+from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY
 from reportlab.lib.colors import HexColor
 from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, HRFlowable, ListFlowable, ListItem,
@@ -142,9 +142,9 @@ def build(md_path, pdf_path, max_pages=2):
                                  leading=h3z + 3, textColor=ACCENT, spaceBefore=5,
                                  spaceAfter=1),
             "body": ParagraphStyle("body", fontName="Helvetica", fontSize=bz,
-                                   leading=lead, spaceAfter=2),
+                                   leading=lead, spaceAfter=2, alignment=TA_JUSTIFY),
             "bullet": ParagraphStyle("bullet", fontName="Helvetica", fontSize=bz,
-                                     leading=lead, spaceAfter=bg),
+                                     leading=lead, spaceAfter=bg, alignment=TA_JUSTIFY),
         }
         story = []
         bullet_buf = []
