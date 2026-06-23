@@ -8,9 +8,13 @@
 ## Artifacts
 - [x] jd.md
 - [ ] analysis.md (career-coach) — SKIPPED on 2026-06-21 (run `/career-coach` to generate)
-- [x] resume-tailored.md (resume-intelligence) — ~82% keyword match after tailoring
-- [x] cover-letter.md (resume-intelligence)
-- [x] outreach.md (outreach) — 5 contacts (Ash/recruiter, Melina+Samuel/peers, FS manager TBD, Ross/senior)
+- [x] resume-tailored.md (resume-intelligence) — **regenerated 2026-06-23 off enriched projects.md → ~88% keyword match** (was ~82%)
+- [x] cover-letter.md (resume-intelligence) — **regenerated 2026-06-23**
+- [x] Dhruv_Nirmal_Quantium_Analyst.pdf — **rebuilt 2026-06-23, 2 pages (10.5pt)**
+- [x] outreach.md (outreach) — 5 contacts (Ash/recruiter, Melina+Samuel/peers, FS manager TBD, Ross/senior) — unchanged
+
+## 2026-06-23 regeneration note
+Resume + cover letter + PDF rebuilt after the master projects library was enriched. Now features (previously missing/weak): P3 restaurant-chain account (~A$2M / ~30%, sole analyst, CFO/CPO stakeholders — lead consulting proof), P5 company-wide agentic report gen (~12–15 hrs/wk saved), P8 1st-place AI hackathon (adopted internally — "into building"), P6 ~A$12B spend categorisation, P7 Prophet forecasting, P17 AI-output QA. Personal Terraform project swapped for Job Hunt OS (P15). R kept out of skills/bullets; addressed honestly in cover-letter Para 4. Outreach + calendar reminder left intact.
 
 ## Application
 - Submitted: ❌ not yet (owner submits; then mark Applied)

@@ -2,113 +2,76 @@
 
 Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | LinkedIn
 
----
+## Professional Summary
 
-## Tailored Executive Summary
-
-Data analytics and AI consultant with 2+ years of production experience delivering client-facing analytics engagements for enterprise clients across Australia and New Zealand. Proficient in Python, SQL, and statistical analysis, with a daily, in-production track record of building agentic AI workflows using Claude -- including a multi-agent QA pipeline and LLM-driven automated report generation -- going well beyond casual AI experimentation. Experienced in framing ambiguous procurement and operational problems into clear analytical plans, communicating data-driven insights to senior executives, and building reusable, well-documented analytical systems. Eager to bring this AI-first, consulting-oriented approach to Quantium Financial Services Consulting.
-
----
+Analytics professional with 2+ years of client-facing consulting experience framing ambiguous commercial problems, building statistical and ML models, and delivering quantified results to CFOs, CPOs, and senior executives across enterprise clients in Australia and New Zealand. Proficient in Python and SQL with a daily, production-grade track record of building agentic AI systems using Claude and ChatGPT - including a company-wide agentic report generator saving ~12-15 hours per week across ~25-30 client accounts, a 1st-place AI hackathon build adopted into company workflow, and a multi-agent QA pipeline - moving well past experimentation into building. Delivered measurable commercial impact: ~**A$2M/year** in category savings for a restaurant chain client, categorised **~A$12B** of spend cutting a 1-1.5 month cycle to a single day's model run, and forecast inventory within a 12.5-14% error margin below client tolerance. Seeking to bring this AI-first, client-facing analytical approach to Quantium's Financial Services Consulting practice.
 
 ## Key Skills
 
-**Programming and Analytics:** Python, SQL, Statistical Analysis, Anomaly Detection, Hypothesis Testing, Feature Engineering, Forecasting Models, KNIME
-**AI and LLM:** Claude, ChatGPT, Agentic AI Workflows, Multi-Agent Orchestration, LLM Sentiment Analysis, Automated Report Generation
-**Visualisation and BI:** Tableau, Power BI, Data Storytelling, KPI Analytics, Executive Dashboards
-**Cloud and Infrastructure:** Azure, AWS (S3, Lambda, EC2, IAM), Databricks, Snowflake, Docker, Terraform
-**Consulting and Communication:** Client-Facing Delivery, Problem Framing, Stakeholder Presentations, QA Documentation, Insight Communication
-
----
+**Programming and Analytics:** Python, SQL, Statistical Analysis, Anomaly Detection, Hypothesis Testing, Feature Engineering, Time-Series Forecasting
+**AI and LLM:** Claude, ChatGPT, Agentic AI Workflows, Multi-Agent Orchestration, AI Output Evaluation, NLP/Sentiment Analysis, Prompt Engineering
+**Visualisation and BI:** Tableau (16+ dashboards), Power BI, Data Storytelling, KPI Analytics, Executive Dashboards
+**ML and Data Science:** scikit-learn, TF-IDF/NLP, Logistic Regression, Prophet, Classification, Cross-Validation, Class-Imbalance Handling
+**Consulting and Cloud:** Client-Facing Delivery, Problem Framing, Stakeholder Communication, QA Documentation, Azure, AWS, Databricks
 
 ## Experience
 
-### Data Engineer, Purchasing Index Data Analytics (Comprara Group)
+### Data Analyst, Purchasing Index Data Analytics (Comprara Group)
 Jun 2024 to Present | Melbourne, Australia
 
-*Client-facing analytics consulting role; supplier and transaction datasets for enterprise clients across Australia and New Zealand.*
-
-**AI-First Analytics and Delivery**
-
-- Built an agentic AI workflow using Claude to auto-generate structured client progress reports from analytics outputs, reducing report turnaround time and enabling analysts to focus on interpretation rather than formatting.
-- Developed a multi-agent data QA validation system (5 specialist agents plus orchestrator, built with Claude) to validate client datasets prior to delivery, applying critical judgement to flag where AI outputs required human review before client sign-off.
-- Implemented an LLM-driven sentiment analysis workflow on sales call transcripts to surface customer sentiment trends and support client decision-making, demonstrating AI use that goes from experimentation into production building.
-- Built an automated presentation-generation workflow using Claude to convert analytics outputs into structured PowerPoint deliverables, eliminating a manual production step from each client engagement.
-- Integrated LLM tools (Claude, ChatGPT) into analytics script development workflows to accelerate delivery across client engagements, consistently applying scrutiny to where AI outputs required verification before use.
-
-**Analytical Problem Framing and Insight Delivery**
-
-- Performed anomaly detection on procurement datasets across enterprise clients, identifying cost-leakage patterns and contributing to approximately 15% in client savings; structured as a hypothesis-driven investigation from ambiguous spend data rather than a predefined brief.
-- Built a binary classification model (TF-IDF and Logistic Regression) to categorise transaction descriptions at scale, cutting manual classification effort by 40% and improving data quality for downstream analytics.
-- Built an ML model to predict chemical consumption for an industrial client, translating a vague production planning problem into a structured forecasting solution that improved inventory management outcomes.
-- Communicated technical outputs and analytical findings as actionable insights and recommendations to senior executives across 5 enterprise clients, bridging technical depth with commercial clarity.
-
-**Data Engineering and Visualisation**
-
-- Built and maintained 20+ automated ETL pipelines processing millions of procurement transactions monthly across 5 enterprise clients (Python, SQL, batch files), deployed on Azure-hosted servers.
-- Developed and maintained 16+ Tableau dashboards for procurement and finance teams to monitor supplier spend, track KPIs, and identify cost-optimisation opportunities, designed for non-technical stakeholders.
-- Automated client reporting and analytics workflows (Python, SQL, KNIME), reducing manual reporting effort by 40% and improving delivery turnaround by 50%.
-
----
+- Owned the end-to-end analytics account for a restaurant chain (AU/UK) as sole analyst: ran bi-weekly progress meetings with CFO, CPO, category managers and general managers, structured ambiguous cost problems into testable hypotheses, and surfaced **~A$2M/year** in savings (~30%) in their largest procurement category through price-movement and cost-leakage analysis.
+- Designed and deployed a company-wide agentic report-generation workflow (Claude): rolled out across the full analyst team (~25-30 client accounts), replacing manual per-client report assembly and saving **~12-15 hours per week** across the business.
+- Built an LLM-powered call-transcript analyser - scoring call quality, sentiment, and expectation-setting - placed **1st in an internal AI hackathon** and was adopted into the company's operational workflow, demonstrating agentic AI moving from prototype to production.
+- Led the company's first ML spend-categorisation project: designed a one-vs-all binary classifier (TF-IDF, feature engineering, class-imbalance handling, cross-validation, hyperparameter tuning) over **~A$12B of client spend** across 5 years, cutting the categorisation cycle from **1-1.5 months to a single day's model run**; the documented pipeline is now being rolled out across clients.
+- Developed a multi-agent data QA validation system (5 specialist agents + orchestrator, Claude) to validate client datasets prior to delivery, applying AI-output evaluation at each step to flag where model outputs required human scrutiny before sign-off.
+- Built a Prophet time-series forecasting model (Python) for a fresh-produce client, incorporating sea-freight trends and external price drivers to predict 3-month raw material and chemical requirements - achieved a **12.5-14% error margin**, comfortably below the client's stated tolerance.
+- Conducted hypothesis-driven anomaly detection across enterprise procurement datasets - framing vague cost-leakage concerns into structured analytical investigations without a predefined brief - contributing to **~15% in client savings**.
+- Built and maintained 20+ automated ETL pipelines (Python, SQL, Azure) processing millions of transactions monthly and 16+ Tableau dashboards enabling spend tracking, KPI monitoring, and supplier negotiation decisions for enterprise clients.
 
 ### Data Engineer Intern, Victorian Centre for Data Insights (VCDI)
 Aug 2023 to Nov 2023 | Melbourne, Australia
 
-- Built a distributed anomaly detection pipeline in Databricks using PySpark, improving detection accuracy by 20%, demonstrating application of statistical and data science methods to ambiguous real-world datasets.
-- Deployed a Power BI analytics solution adopted by senior Department of Transport stakeholders, presenting system architecture and model outcomes to cross-functional non-technical audiences.
-- Engineered scalable data transformation layers to process procurement data in cloud environments, producing clean, reusable outputs for downstream analysis.
-- Presented analytical findings to senior government stakeholders, translating technical methods into plain-language recommendations with a clear next step.
-
----
+- Built a distributed anomaly-detection pipeline (Databricks, PySpark) improving detection accuracy 20%; engineered scalable transformation layers for cloud procurement data.
+- Deployed a Power BI analytics solution adopted by senior Department of Transport stakeholders; presented model architecture and outcomes to cross-functional non-technical audiences.
 
 ### Research Data Analyst, Terminal Ballistics Research Laboratory (TBRL), DRDO
 Jan 2021 to Jul 2021
 
-- Analysed blast-wave sensor data using statistical models to predict noise levels, improving prediction accuracy by 20% and contributing to a 10% improvement in defence equipment design efficiency.
-- Applied signal filtering (Butterworth filter) to reduce noise in sensor data by 20%, demonstrating disciplined QA and documentation practice in a high-stakes analytical context.
-- Compiled analytical findings into a 70-page structured report (MATLAB, Excel), translating quantitative outputs into clear, well-documented recommendations.
-
----
-
-## Education
-
-**Master of Data Science**, Monash University | Feb 2022 to Dec 2023
-Relevant coursework: Statistics I/II, Machine Learning, Communicating with Data, Applied Forecasting, High Dimensional Analysis, Supply Chain Management, Web Application Development
-
-**Bachelor of Engineering**, Thapar University | May 2017 to May 2021
-Relevant coursework: Statistics, Mathematics I/II/III, Analog and Digital Electronics
-
----
+- Analysed blast-wave sensor data using statistical models (MATLAB), improving prediction accuracy 20% and contributing to 10% improvement in defence equipment design efficiency.
+- Compiled findings into a 70-page structured report, translating quantitative outputs into clear, documented recommendations for defence engineering teams.
 
 ## Projects
 
-**Cloud Data Platform with Terraform (AWS, Snowflake, Docker, Power BI)**
-- Provisioned full cloud infrastructure using Terraform (S3, IAM, EC2, networking) with modular, version-controlled Infrastructure-as-Code patterns for reproducible multi-environment deployments (dev/staging/prod).
-- Automated a data ingestion pipeline from external APIs to Snowflake, demonstrating end-to-end analytical platform design from raw data through to a consumable BI layer.
+### Job Hunt OS - Agentic AI Career System (Python, Claude Code, Multi-Agent)
+- Designed and built a multi-agent AI system (orchestrator + 3 specialist agents) running natively on Claude Code: automates resume tailoring to JD, builds ATS-friendly PDFs, drafts cover letters, runs two-track networking (reactive applications + proactive relationship CRM), and syncs calendar reminders via MCP - with no paid APIs.
+- Demonstrates production agentic system design: prompt engineering, multi-agent orchestration, file-based data modelling, scheduled cloud routines, and a human review gate at each output stage.
 
----
+## Education
 
-## Keyword Alignment and Top 3 Recommendations
+### Master of Data Science, Monash University | Feb 2022 - Dec 2023
+Coursework: Statistics I/II, Machine Learning, Applied Forecasting, High Dimensional Analysis, Communicating with Data
+
+### Bachelor of Engineering, Thapar University | May 2017 - May 2021
+
+## Keyword Alignment
 
 ### Keyword Match Summary
 
-Match rate: approximately 82% after tailoring
+Match rate: approximately 88% after tailoring (up from ~82% in previous version)
 
-| Category | Keywords |
-|---|---|
-| Matched (in both resume and JD) | Python, SQL, Claude, ChatGPT, visualisation (Tableau/Power BI), statistical analysis, anomaly detection, data science, AI-enabled methods, client-facing consulting, QA/documentation, hypothesis testing, commercial experience, stakeholder communication, insight delivery |
-| Added from JD (candidate has; not previously foregrounded) | Problem framing, multi-agent workflows, agentic AI, LLM-driven analysis, AI scrutiny and QA, reusable documentation, non-technical audience communication |
-| Not applicable (honestly excluded) | R (candidate does not have; willing to ramp); financial services domain (no direct claim; bridged via transferable skills: anomaly detection, cost-leakage analysis, enterprise data, statistical analysis) |
-| JD signal strengthened | Intellectual curiosity and into-building with AI; foregrounded via agentic report generation, multi-agent QA system, and sentiment analysis as production systems, not side experiments |
+Matched (in both resume and JD): Python, SQL, Claude, ChatGPT, visualisation (Tableau/Power BI), statistical analysis, anomaly detection, data science, AI-enabled methods, client-facing consulting, problem framing, hypothesis testing, QA/documentation, commercial experience, stakeholder communication, insight delivery, multi-agent workflows, agentic AI, NLP/sentiment, cross-validation, forecasting, feature engineering
 
----
+Added from JD - now foregrounded with metrics: A$2M commercial impact (P3), 12-15 hrs/week agentic scale (P5), 1st-place hackathon + adoption (P8), A$12B ML project + 1-1.5 months to 1 day (P6), 12.5-14% forecast error within tolerance (P7), AI output evaluation/judgement (P17)
+
+Not applicable (honestly excluded): R (candidate does not have production R; skills.md notes "learning: R"; bridged via Python statistical fluency and active ramp); financial services domain (no direct claim; bridged via analogous patterns: anomaly detection, cost-leakage, enterprise transaction data at scale, statistical modelling)
 
 ### Top 3 Recommendations
 
-**1. Lead every conversation with the AI angle, not the data engineering angle.**
-Quantium explicitly calls out daily active use of Claude/ChatGPT and into-building as a key differentiator. The multi-agent QA system and agentic report generation are rare, production-grade examples of this; most candidates only use AI as a chat interface. In interviews and screening calls, open with these before mentioning ETL pipelines or infrastructure work.
+**1. The A$2M restaurant chain story is your strongest consulting-analyst proof point - use it as your interview opener.**
+It ticks every box the JD prizes: sole ownership, ambiguous brief framed into structured analysis, senior stakeholder management (CFO/CPO), and quantified commercial outcome. Rehearse it as a STAR narrative: the messy initial ask, how you structured the analytical question, what the pricing-decision and supplier dashboards revealed, and what the client did with it. Do not let it collapse into a technical walkthrough of the dashboard build.
 
-**2. Prepare a problem-framing story from PI Data Analytics.**
-The role prizes structuring ambiguous problems without a clear brief more than technical output volume. The anomaly detection investigation and the chemical consumption ML project are strong raw material. Rehearse them as structured narratives: here was the messy question, here is how I framed it into a testable hypothesis, here is what we found, and here is what the client did with it. Avoid letting the story collapse into a technical walkthrough of the method used.
+**2. Lead with AI building, not AI usage.**
+The hackathon transcript analyser (1st place, adopted), the company-wide agentic report generator (12-15 hrs/week saved), and the multi-agent QA pipeline all demonstrate the "into building" standard Quantium explicitly requires. Most candidates can say they use ChatGPT. Very few can show a multi-agent system in production use across an organisation. In any screening call, open with one of these before anything else.
 
-**3. Ramp on R and address it proactively in interviews.**
-R is listed as a JD requirement and is not currently in scope. The risk is manageable since Quantium states they hire for trajectory and Python plus statistical fluency transfer directly. Proactively noting that you are Python-native and actively learning R given its prevalence in financial services analytics is a stronger position than waiting to be asked. A focused sprint on tidyverse and ggplot2 before first-round interviews would close the gap enough to be credible.
+**3. Address R proactively and frame it as trajectory, not a gap.**
+R is listed in the JD but Quantium hires for trajectory. Position it as: Python-native with strong statistical foundations (Monash MDS: Statistics I/II, Applied Forecasting, High Dimensional Analysis), actively building R fluency for financial services contexts. A focused sprint on tidyverse and ggplot2 before first-round interviews is enough to be credible. Do not wait to be asked - name it early and own it.
