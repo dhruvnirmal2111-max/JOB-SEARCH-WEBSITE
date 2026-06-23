@@ -111,21 +111,11 @@ Government procurement monitoring; distributed data + ML.
 - **What I did:** Designed and built a single-user, file-based "Job Hunt OS" that runs natively on Claude Code with no paid APIs. It tailors ATS-friendly resumes to a JD and builds 2-page PDFs, drafts cover letters, runs two-track networking (reactive applications + a proactive relationship CRM), analyses resume↔JD skill gaps, and produces daily/weekly reports. Scheduled cloud routines scout roles and build application packages autonomously behind a human review gate; outreach reminders sync to Google Calendar via MCP.
 - **Delivery/impact:** End-to-end automation of a real job search; demonstrates agentic AI, multi-agent orchestration, and system design over a plain-file data model.
 
-### P19. Cafe SaaS — `#personal #saas` _(pending details)_
-- **Skills/tech:** _TBD_
-- **What I did:** _TBD_
-- **Delivery/impact:** _TBD_
-- _Send me a one-liner (what it does, stack, users/status) — or run `/add-project` — and I'll flesh this out. Kept here so it's not mixed into client work._
-
----
-
-# ⚠ TO CLASSIFY — needs your call
-
-### P16. End-to-End Analytics & Decision Support System ("small business" engagement) `#ai #analytics #forecasting #bi`
+### P16. Cafe SaaS — analytics & decision-support platform for a small hospitality business `#personal #saas #ai #analytics #forecasting #bi`
 - **Skills/tech:** Data integration (8+ sources), AI-driven automation, forecasting, benchmarking, BI/insight generation.
-- **What I did:** Designed and implemented a centralised analytics platform integrating 8+ data sources for a small business. Built AI-driven workflows to automate data processing, reporting, and insight generation; added forecasting for short-term operational planning; created systems generating actionable insights for pricing, product mix, and operational efficiency; benchmarked performance against external indicators for business-health monitoring.
-- **Delivery/impact:** Scalable automated solution that significantly reduced manual effort and led to ongoing engagement and strong satisfaction.
-- **❓ Is this a real paid client (→ Professional), or is it the cafe SaaS / a personal build (→ Personal)?** Tell me and I'll move it to the right bucket.
+- **What I did:** Designed and built a centralised analytics platform for a small (cafe / hospitality) business, integrating 8+ data sources. Built AI-driven workflows to automate data processing, reporting, and insight generation; added forecasting for short-term operational planning; surfaced actionable insights for pricing, product mix, and operational efficiency; benchmarked performance against external indicators for business-health monitoring.
+- **Delivery/impact:** Scalable automated solution that significantly reduced manual effort and is in ongoing use.
+- _Want the tech stack named (frontend/backend/DB/hosting) and a user/status line? Send it and I'll add it._
 
 ---
 
