@@ -19,6 +19,12 @@ Input: $ARGUMENTS
 
 Execute these steps IN ORDER. After each step, verify the output before proceeding.
 
+### Step 0: Decode the role FIRST (before parsing/keyword-matching)
+Read the role top-down and let it drive everything after:
+- **Key JD highlights** (what the role rewards) → **what the company does** → **why they're hiring** (the reason behind the req: a growth/expansion area, new capability, delivery-model shift — use the JD's own words and a quick web read of the company when it helps) → **what the responsibilities reduce to** → **the core read: who they actually want** (name the archetype).
+- Then tailor *to that read*: **reflect the "why they're hiring" through the resume** (summary angle, which projects lead, how bullets are framed), and **hand-pick projects against the core read** — flagging where evidence is missing (a real gap, never invented) or from a different perspective/domain (re-frame by honest analogy). **Lead the work-ex with the archetype** the role wants.
+- Keywords still matter (ATS) — capture them as a second pass over a resume already shaped by the "why".
+
 ### Step 1: Parse Resume
 Use the parse-resume skill logic:
 - Extract all structured data (contact, summary, skills, experience, education, projects)
@@ -53,10 +59,10 @@ Use rewrite-bullets skill logic:
 
 ### Step 6: Generate Tailored Summary
 Write a 3-4 sentence executive summary that:
-- Leads with years of experience + core identity
+- Leads with the **core read / archetype** from Step 0 (so it visibly answers *why they're hiring*) + years of experience
 - Highlights top 3 skills matching the JD
-- Mentions specific domain relevance (e.g., fraud detection)
-- Names the target company/role
+- Mentions specific domain relevance (e.g., fraud detection) — re-framed by honest analogy if the domain differs
+- Names the target company/role, tied to the company's stated reason for hiring where possible
 
 ### Step 7: Generate Cover Letter
 Write a professional cover letter with:

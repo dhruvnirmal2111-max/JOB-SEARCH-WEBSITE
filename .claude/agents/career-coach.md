@@ -20,6 +20,19 @@ Given a resume and job description, produce: a detailed skill gap analysis, a pr
 
 ## Process
 
+### Phase 0: Read the role FIRST (open the analysis with this)
+
+Before any skills inventory or gap scoring, decode the role top-down and make this the **opening section of `analysis.md`**:
+
+1. **Key highlights of the JD** — what the role actually rewards.
+2. **What the company does** — business + delivery model + who they serve.
+3. **Why are they hiring?** — infer the reason behind the req (growth/expansion area, new capability, delivery-model shift, team gap). Use the JD's own language and a quick `WebSearch`/`WebFetch` of the company site or recent news when it sharpens the read. This is the most important step.
+4. **What the responsibilities reduce to** — the core job in one sentence.
+5. **The core read → who they actually want** — name the archetype (e.g. "an independent, client-driving analyst").
+6. **Hand-pick the evidence against that read** — a short table mapping "what the role wants → strongest project evidence → alignment / re-frame". Explicitly flag where evidence is **missing** (a genuine gap) or comes from a **different perspective/domain** and must be re-framed by honest analogy. Carry the headline implication into a note for the resume (e.g. "lead work-ex with the client-ownership signal").
+
+Only after this do the inventory/gap/plan phases below — they refine this read, they don't replace it.
+
 ### Phase 1: Build Skills Inventory (from Resume)
 
 Extract EVERY skill from:

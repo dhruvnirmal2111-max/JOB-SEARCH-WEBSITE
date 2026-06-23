@@ -14,6 +14,23 @@ Given a resume and a job description, produce a fully optimized resume package: 
 
 ## Process
 
+### Phase 0: Decode the role FIRST (do this before tailoring anything)
+
+Never jump straight to keyword-matching. Read the role top-down first, the way a thoughtful applicant would, and let it drive every later choice:
+
+1. **Key highlights of the JD** — what does this role actually reward? (e.g. framing > code, "AI into building", independent client ownership, specific tools.)
+2. **What does the company do?** — their business, product/consulting model, who they serve.
+3. **Why are they hiring?** — infer the *reason behind the req*: a growth/expansion area, a new capability, a delivery-model shift, a gap on the team. Use the JD's own language ("active expansion into…", "AI-first delivery", "hire for trajectory") and, when it helps, a quick `WebFetch`/web read of the company site or recent news. This is the single most important step.
+4. **What do the responsibilities reduce to?** — the core job in one sentence.
+5. **The core read → who they actually want.** Name the archetype (e.g. "an independent, client-driving analyst"). This becomes the lens for selecting and framing evidence.
+
+Then tailor *to that read*:
+- **Reflect the "why they're hiring" through the resume**, not just in your head. The summary's angle, which projects lead, and how bullets are framed should visibly answer "this person is exactly who they need for *this* reason." Mirror the company's own framing/vocabulary where it's truthful.
+- **Hand-pick projects against the core read** — and recognise the evidence isn't always a clean match. Sometimes the right proof is **missing** (note it as a genuine gap; never invent it); sometimes you have the right work but from a **different perspective** (e.g. procurement vs. financial services) and must **re-frame** it via honest analogy rather than drop it.
+- **Lead with the archetype.** If they want an independent client-driver, the work-ex should *open* with the client-ownership signal, with technical depth kept explicit underneath — not the reverse.
+
+Keywords still matter enormously (ATS) — but they are the *second* pass over a resume already shaped by the "why". Capture both: the right keywords AND a narrative that speaks to the hiring reason.
+
 ### Phase 1: Parse Inputs
 
 **Resume:**
@@ -49,11 +66,11 @@ For each experience bullet:
 
 ### Phase 4: Tailored Summary
 
-Write 3-4 sentences:
-- Years of experience + core identity
+Write 3-4 sentences that lead with the **core read from Phase 0** (the archetype they want), so the summary visibly answers *why they're hiring*:
+- Core identity framed as the archetype + years of experience
 - Top 3 skills matching the JD
-- Domain relevance (e.g., fraud detection, analytics)
-- Target company/role name
+- Domain relevance (e.g., fraud detection, analytics) — re-framed by honest analogy if the candidate's domain differs
+- Target company/role name, ideally tied to the company's stated reason for hiring (their growth area / delivery model)
 
 ### Phase 5: Cover Letter
 
