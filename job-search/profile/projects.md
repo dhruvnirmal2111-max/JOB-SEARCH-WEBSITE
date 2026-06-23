@@ -47,10 +47,11 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** **Led this work** (the first time the company ran this approach for a client) to categorise a large client spend dataset — ~A$12B of spend across five years — where only ~**60–65%** was reliably categorised to begin with. Built a **one-vs-all binary classifier**: for each spend category, the model is trained with 1 = in-category and 0 = everything else. Did **feature engineering** on top of the text features — including spend value and line count — to strengthen the signal. Applied a **Pareto approach**: the high-value head of spend (low volume, but high signal) is reviewed and categorised **manually** for accuracy, while the **ML model — built/trained over ~5 months** — categorises the remaining long tail. Tuned via hyperparameter search, explicitly handled **class imbalance**, and validated with **cross-validation**. Documented the method into a repeatable **pipeline now being rolled out across the wider client base**; models are maintained and retrained as needed.
 - **Delivery/impact:** Cut a categorisation cycle that took an account manager ~**1–1.5 months down to ~a single day's model run**; established a scalable, documented categorisation pipeline being adopted across clients.
 
-### P7. Chemical-consumption prediction model `#ml #forecasting`
-- **Skills/tech:** scikit-learn, forecasting models, Python.
-- **What I did:** Built an ML model to predict chemical consumption for industrial clients.
-- **Delivery/impact:** Improved production planning and inventory management.
+### P7. Inventory-demand forecasting for a fresh-produce client (raw materials + chemicals) `#ml #forecasting #timeseries #prophet #inventory #dashboards`
+- **Skills/tech:** Python, time-series forecasting (Prophet), feature engineering with external drivers, BI dashboard.
+- **What I did:** Ad-hoc request for a fresh-produce client who has to order fertilisers, raw materials and chemicals to process their produce. Built a **time-series forecasting model (Prophet)** to forecast **~3 months ahead** the inventory levels they should hold — specifically **raw materials and chemicals** (not packaging). For chemicals sourced internationally, incorporated external price drivers — including **sea-freight trends over the prior couple of years** and other factors — into the forecast. Delivered the output to the client on a **dashboard**.
+- **Delivery/impact:** Forecast inventory within a ~**12.5–14% margin — comfortably below the client's acceptance threshold** — giving them a 3-month forward view to plan raw-material and chemical ordering. Delivered end-to-end as a one-off client request.
+- _To confirm before resume use: forecasting library was Prophet (you said "profits model")? and the 12.5–14% is the error margin vs. the client's accepted tolerance?_
 
 ### P8. LLM sentiment analysis on sales calls `#ai #nlp #llm`
 - **Skills/tech:** LLM workflows, Python.
