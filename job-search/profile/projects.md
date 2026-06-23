@@ -52,10 +52,11 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Ad-hoc request for a fresh-produce client who has to order fertilisers, raw materials and chemicals to process their produce. Built a **time-series forecasting model (Prophet)** to forecast **~3 months ahead** the inventory levels they should hold — specifically **raw materials and chemicals** (not packaging). For chemicals sourced internationally, incorporated external price drivers — including **sea-freight trends over the prior couple of years** and other factors — into the forecast. Delivered the output to the client on a **dashboard**.
 - **Delivery/impact:** Forecast inventory within a ~**12.5–14% error margin — comfortably below the client's accepted tolerance** — giving them a 3-month forward view to plan raw-material and chemical ordering. Delivered end-to-end as a one-off client request.
 
-### P8. LLM sentiment analysis on sales calls `#ai #nlp #llm`
-- **Skills/tech:** LLM workflows, Python.
-- **What I did:** Implemented an LLM-driven sentiment-analysis workflow on sales-call transcripts.
-- **Delivery/impact:** Surfaced customer-sentiment trends to inform the business.
+### P8. LLM call-transcript analyzer — AI hackathon win, adopted internally `#ai #nlp #llm #agents #automation`
+- **Skills/tech:** LLM workflows, agent orchestration, Python, sentiment analysis, notification/automation pipeline.
+- **What I did:** Built for an **AI-themed hackathon** (won — a $200 gift voucher). A **call/transcript analyzer** that scores each engagement on several metrics — call quality (how good/bad it went), whether expectations were met, and tone — essentially **sentiment analysis**. Wrapped it in a full **pipeline**: transcripts dropped into a source folder → an **agent orchestrates** the processing → it then sends **notifications to everyone involved internally** (e.g. the senior manager / director) and writes a **log of the engagement** with that client. Later **adopted into the company's workflow**.
+- **Delivery/impact:** Automatically surfaced call sentiment/quality to the right stakeholders; demonstrated agentic orchestration; moved from a hackathon build to an adopted, smoother internal process.
+- _To confirm before resume use: the hackathon was internal to the company, or jointly run with another company? and did you place 1st (the $200 voucher)?_
 
 ### P9. Automated presentation generation `#ai #automation #llm`
 - **Skills/tech:** Claude, Python, PowerPoint automation.
