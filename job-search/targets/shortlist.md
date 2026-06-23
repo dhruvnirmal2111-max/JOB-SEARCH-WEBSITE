@@ -30,6 +30,15 @@
 | 22 | WEX | Data Engineer | Melbourne (hybrid) | Jun 2026 | Fintech/fleet-payments data platform transformation; Snowflake/dbt/AWS match; $130–140K + super | 8 | Specific posting | |
 | 23 | Coles Group | Senior Data Science Engineer | Hawthorn East, Melbourne | Jun 2026 | Retail ML/DS at scale; Python + cloud; Advanced Analytics across Finance, Procurement and Risk domains | 7 | Specific posting | |
 | 24 | MYOB | Senior Data Engineer | Melbourne (hybrid) | Jun 2026 | SMB accounting SaaS; DE leadership; Python/cloud; comp ceiling ~$105–132K (lower end but ≥ floor) | 6 | Specific posting | |
+| 25 | Databricks | AI Engineer – FDE (Forward Deployed Engineer) | Melbourne | Jun 2026 | Customer-facing GenAI/LLMOps team; agentic-AI + LLM edge is the core skill req; #1 modern data platform company; est. $150k+ | 9 | Specific posting | |
+| 26 | Latitude Financial Services | Data Engineer | Melbourne (hybrid) | Jun 2026 | Fintech consumer-lending data platform transformation; cloud DE stack; domain strength in financial services; est. $120–145k | 8 | Specific posting | |
+| 27 | Praemium | Senior Data Engineer | Melbourne | ~Jun 16, 2026 | Wealthtech/fintech; Snowflake + dbt + Python stack direct match; posted this week on SEEK; est. $120–150k | 8 | Specific posting | |
+| 28 | Australia Post | Data Engineer | Richmond, Melbourne | Jun 2026 | Govt/enterprise analytics platform; GCP + BigQuery + dbt/Dataform + Neo4j + Looker; supply chain / logistics domain | 7 | Specific posting | |
+| 29 | Envato | Senior Data Engineer | Remote ANZ | Jun 2026 | Creative-tech marketplace; data platform infra + orchestration; Python + cloud; remote-AU; est. $120–160k | 7 | Specific posting | |
+| 30 | The Data Foundry | Data Engineer (AWS & Snowflake) | Malvern East, Melbourne | Jun 2026 | Data consulting boutique; AWS + Snowflake stack match; full-rights req. met; Malvern East hybrid | 7 | Specific posting | |
+| 31 | Jemena | Senior Data Scientist | Melbourne | Jun 2026 | Utilities/energy; Senior DS building ML apps for electricity network management; DS/ML scope; est. $130–160k | 7 | Specific posting | |
+| 32 | Suncorp | Data Scientist | Melbourne CBD (hybrid) | Jun 2026 | Insurance/fintech; DS role Python + SQL + AI; Melbourne CBD 3-days/wk hybrid; est. $115–145k | 7 | Specific posting | |
+| 33 | Transurban | Data Engineer | Melbourne CBD | Jun 2026 | Toll roads/infrastructure; enterprise data platform architecture + dev; Melbourne CBD; flexible working + benefits | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -63,3 +72,12 @@
 - [WEX — Data Engineer Melbourne (LinkedIn)](https://au.linkedin.com/jobs/wex-jobs-melbourne-vi)
 - [Coles Group — Senior Data Science Engineer, Hawthorn East (Coles Careers)](https://colescareers.com.au/au/en/job/139196/Senior-Data-Science-Engineer-Hawthorn-East)
 - [MYOB — Senior Data Engineer Melbourne (LinkedIn)](https://au.linkedin.com/jobs/myob-jobs-melbourne-vi)
+- [Databricks — AI Engineer FDE (Forward Deployed Engineer), Melbourne](https://www.databricks.com/company/careers/professional-services-operations/ai-engineer---fde-forward-deployed-engineer-8330188002)
+- [Latitude Financial Services — Data Engineer, Melbourne (SEEK)](https://au.seek.com/Latitude-Financial-Services-jobs/in-All-Melbourne-VIC)
+- [Praemium — Senior Data Engineer, Melbourne (SEEK)](https://au.seek.com/Praemium-jobs/in-All-Melbourne-VIC)
+- [Australia Post — Data Engineer, Richmond VIC (AusPost Careers)](https://jobs.auspost.com.au/en_GB/careers/JobDetail/Australia-Data-Engineer/25936)
+- [Envato — Senior Data Engineer, Remote ANZ (Remote Rocketship)](https://www.remoterocketship.com/company/envato/jobs/senior-data-engineer-australia-remote/)
+- [The Data Foundry — Data Engineer (AWS & Snowflake), Malvern East Melbourne (AIJobs)](https://aijobs.net/job/1045669-data-engineer-aws-snowflake-melbourne/)
+- [Jemena — Senior Data Scientist, Melbourne (SEEK)](https://au.seek.com/Jemena-jobs/in-All-Melbourne-VIC)
+- [Suncorp — Data Scientist, Melbourne (SEEK)](https://au.seek.com/Suncorp-jobs/in-All-Melbourne-VIC)
+- [Transurban — Data Engineer, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/data-engineer/4817227)
