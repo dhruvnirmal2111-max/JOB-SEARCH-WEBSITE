@@ -11,7 +11,7 @@
 
 | Company | Role | Folder | Status | Next action | Due | Last update |
 |---------|------|--------|--------|-------------|-----|-------------|
-| Quantium | Analyst, Financial Services Consulting | quantium--analyst-financial-services | Applying | Owner: review drafts → submit; `/review-outreach`; (optional) `/career-coach` for analysis.md | submit by 2026-06-22 | 2026-06-21 |
+| Quantium | Data Scientist (Consulting), Financial Services | quantium--analyst-financial-services | Applying | Owner: review drafts → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-22 | 2026-06-23 |
 | Capital.com | Data Engineer (Financial Analytics) | capital-com--data-engineer-financial-analytics | Applying | Owner: review PDF + cover letter → confirm posting live → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-22 | 2026-06-21 |
 | Kogan.com | Data & ML Engineer | kogan-com--data-ml-engineer | Applying | Owner: review PDF + cover letter → confirm posting live → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-22 | 2026-06-21 |
 | Qualitas | Analyst, Real Estate Private Equity (Technical, Data & AI) | qualitas--analyst-real-estate-private-equity | Applying | Owner: review PDF + cover letter; write required half-page "short note" (cover letter drafted to double as it); submit | submit by 2026-06-23 | 2026-06-22 |

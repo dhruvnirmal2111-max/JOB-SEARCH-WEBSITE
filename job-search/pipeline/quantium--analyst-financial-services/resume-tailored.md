@@ -4,7 +4,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | LinkedIn
 
 ## Professional Summary
 
-A client-facing analytics consultant who independently owns enterprise client relationships end to end - sitting across the table from senior stakeholders, drawing out the real question when the brief is vague, and carrying it through to a clear recommendation they can act on; as sole analyst on one account, that work drove **~A$2M** in annual savings. Comfortable being a client's single point of contact: gathering the right information from the right people, structuring messy commercial problems without waiting for a defined brief, and translating technical analysis into plain language that non-technical executives understand and trust. Works AI-first - building daily with Claude and ChatGPT, well past experimentation, with the judgement to know where their output needs scrutiny - on a solid Python, SQL, and statistical foundation that has categorised **~A$12B** of client spend. Looking to bring this independent, consulting-minded approach to Quantium's Financial Services practice and its move from intuition to evidence.
+A consulting data scientist who independently owns enterprise client relationships end to end - sitting across the table from senior stakeholders, drawing out the real question when the brief is vague, and carrying it through to a clear recommendation they can act on; as sole analyst on one account, that work drove **~A$2M** in annual savings. Comfortable being a client's single point of contact: gathering the right information from the right people, structuring messy commercial problems without waiting for a defined brief, and translating technical analysis into plain language that non-technical executives understand and trust. Works AI-first - building daily with Claude and ChatGPT, well past experimentation, with the judgement to know where their output needs scrutiny - on a solid Python, SQL, and statistical foundation that has categorised **~A$12B** of client spend. Looking to bring this independent, consulting-minded approach to Quantium's Financial Services practice and its move from intuition to evidence.
 
 ## Key Skills
 
@@ -16,7 +16,7 @@ A client-facing analytics consultant who independently owns enterprise client re
 
 ## Experience
 
-### Data Analyst, Purchasing Index Data Analytics (Comprara Group)
+### Data Scientist, Purchasing Index Data Analytics (Comprara Group)
 Jun 2024 to Present | Melbourne, Australia
 
 *A data & analytics consulting firm serving enterprise clients across Australia and New Zealand.*

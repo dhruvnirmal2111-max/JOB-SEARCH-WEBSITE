@@ -10,7 +10,7 @@
 - [x] analysis.md (career-coach) — **generated 2026-06-23, overall fit 72%**; top gaps: R, FS domain, title framing
 - [x] resume-tailored.md (resume-intelligence) — **regenerated 2026-06-23 off enriched projects.md → ~88% keyword match** (was ~82%)
 - [x] cover-letter.md (resume-intelligence) — **regenerated 2026-06-23**
-- [x] Dhruv_Nirmal_Quantium_Analyst.pdf — **rebuilt 2026-06-23, 2 pages (10.5pt)**
+- [x] Dhruv_Nirmal_Quantium_Data_Scientist.pdf — **rebuilt 2026-06-23, 2 pages**; role title corrected to Data Scientist (Consulting); current-role title aligned to Data Scientist
 - [x] outreach.md (outreach) — 5 contacts (Ash/recruiter, Melina+Samuel/peers, FS manager TBD, Ross/senior) — unchanged
 
 ## 2026-06-23 regeneration note
