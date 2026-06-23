@@ -43,6 +43,8 @@
     "end": "2026-06-24T10:20:00",
     "notes": "Send the drafted messages in job-search/pipeline/melbourne-water--data-analyst/outreach.md (week-1: recruiter + a peer). Verify each is currently at Melbourne Water first. You send manually.",
     "source": "melbourne-water--data-analyst",
-    "status": "pending"
+    "status": "created",
+    "gcal_event_id": "32q9do3pq8ruebl0sdh9qdp3ks",
+    "gcal_link": "https://www.google.com/calendar/event?eid=MzJxOWRvM3BxOHJ1ZWJsMHNkaDlxZHAza3MgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
