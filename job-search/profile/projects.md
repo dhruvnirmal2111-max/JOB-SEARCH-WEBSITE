@@ -22,14 +22,14 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Built and maintained 20+ automated ETL pipelines processing millions of procurement transactions monthly across 5 enterprise clients.
 - **Delivery/impact:** Production-grade, reliable analytics pipelines; reduced manual reporting effort ~40% and improved reporting turnaround ~50%.
 
-### P2. AI-accelerated client reporting workflows `#ai #automation #python #sql`
-- **Skills/tech:** Python, SQL, KNIME, Claude, ChatGPT.
-- **What I did:** Automated client reporting/analytics workflows, integrating LLM tools to accelerate analytics-script development and delivery.
-- **Delivery/impact:** Faster delivery of reporting outputs; standardised, repeatable analytics process.
+### P2. AI-accelerated client reporting workflows `#ai #automation #python #sql #llm #stakeholders`
+- **Skills/tech:** Python, SQL, KNIME, Claude, ChatGPT, LLM/agentic workflows.
+- **What I did:** Built the automated client progress-reporting workflow that was rolled out company-wide and adopted by the entire analyst team (each analyst handles ~3–4 client accounts). The workflow generates each client's progress report from analytics outputs and prepares it for sending — replacing a manual, per-client assembly process — and integrates LLM tools (Claude, ChatGPT) to accelerate analytics-script development and delivery.
+- **Delivery/impact:** Saves ~30 minutes per client per reporting cycle; across ~25–30 client accounts company-wide, ~12–15 hours saved every week. Standardised, repeatable reporting across the whole team.
 
-### P3. Procurement anomaly detection `#anomaly #ml #statistics #python`
-- **Skills/tech:** Python, statistical analysis, anomaly detection.
-- **What I did:** Framed ambiguous client spend concerns as a hypothesis-driven investigation; detected cost-leakage patterns in procurement datasets.
+### P3. Pricing-decision dashboard & cost-leakage detection (major ANZ restaurant chain) `#bi #dashboards #anomaly #pricing #statistics #python`
+- **Skills/tech:** Python, statistical analysis, price-movement / anomaly detection, BI dashboards.
+- **What I did:** Built a pricing-decision dashboard for one of the largest restaurant chains in Australia & New Zealand (250+ outlets), tracking how prices moved across product categories to surface cost-leakage and anomalous price movements. Framed ambiguous client spend concerns as a hypothesis-driven investigation.
 - **Delivery/impact:** Contributed to ~15% client savings.
 
 ### P4. Multi-agent data QA validation workflow `#ai #agents #dataquality`
