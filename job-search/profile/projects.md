@@ -42,10 +42,11 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Built the agentic AI workflow that auto-generates structured client progress reports from analytics outputs and prepares them for sending. Rolled out company-wide and adopted by the entire analyst team (each analyst handles ~3–4 client accounts), replacing the manual, per-client report-assembly process.
 - **Delivery/impact:** Saves ~30 minutes per client per reporting cycle; across ~25–30 client accounts company-wide, ~12–15 hours saved every week. Consistent, standardised client-facing deliverables across the whole team.
 
-### P6. Transaction-description classifier `#ml #nlp #python`
-- **Skills/tech:** scikit-learn, TF-IDF / embeddings, Logistic Regression, Python.
-- **What I did:** Built a binary classification model to categorise transaction descriptions (built with TF-IDF and also with embeddings + Logistic Regression — both phrasings are truthful for this work).
-- **Delivery/impact:** Cut manual categorisation effort ~40%; improved data standardisation for downstream analytics.
+### P6. ML spend-categorisation model + Pareto-driven process (client spend ~A$12B / 5 yrs) `#ml #nlp #python #classification #pareto #stakeholders`
+- **Skills/tech:** Python, scikit-learn, TF-IDF / embeddings, Logistic Regression, hyperparameter tuning, class-imbalance handling, cross-validation.
+- **What I did:** **Led this work** (the first time the company ran this approach for a client) to categorise a large client spend dataset — ~A$12B of spend across five years — where only ~**60–65%** was reliably categorised to begin with. Applied a **Pareto approach**: the high-value head of spend (low volume, but high signal) is reviewed and categorised **manually** for accuracy, while an **ML model — built/trained over ~5 months** — categorises the remaining long tail. Tuned the model via hyperparameter search, explicitly handled **class imbalance**, and validated with **cross-validation**. Documented the method into a repeatable **pipeline now being rolled out across the wider client base**; models are maintained and retrained as needed.
+- **Delivery/impact:** Cut a categorisation cycle that took an account manager ~**1–1.5 months down to ~a single day's model run**; established a scalable, documented categorisation pipeline being adopted across clients.
+- _To confirm before resume use: (a) "fourteen ..." — 14 what (clients / categories)? (b) is the model binary or multi-class? (c) the ~A$12B and ~60–65% figures._
 
 ### P7. Chemical-consumption prediction model `#ml #forecasting`
 - **Skills/tech:** scikit-learn, forecasting models, Python.
