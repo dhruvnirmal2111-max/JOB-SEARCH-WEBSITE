@@ -4,7 +4,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | LinkedIn
 
 ## Professional Summary
 
-Data scientist and analytics consultant, two years into running five enterprise client accounts solo - each from a loosely defined problem through to a recommendation the client can act on. Strongest where the question isn't clear yet: working out what's actually being asked, tracking down the data and the people who hold the answers, and explaining what it means in plain terms to executives without a technical background. On one account, a restaurant chain's hunch about overspending turned into roughly **A$2M** a year in savings once the numbers were properly framed. Uses AI heavily day to day, but with a critical eye for where it falls short, on a solid Python, SQL and statistics base that includes ML work across about **A$12B** of client spend. Drawn to Quantium for the mix of hands-on consulting and data science, and the chance to bring it into financial services.
+Data scientist and analytics consultant, two years into running five enterprise client accounts solo, each from a loosely defined problem through to a recommendation the client can act on. Strongest where the question isn't clear yet: working out what's actually being asked, tracking down the data and the people who hold the answers, and explaining what it means in plain terms to executives without a technical background. On one account, a restaurant chain's hunch about overspending turned into roughly **A$2M** a year in savings once the numbers were properly framed. Uses AI heavily day to day, but with a critical eye for where it falls short, on a solid Python, SQL and statistics base that includes ML work across about **A$12B** of client spend. Drawn to Quantium for the mix of hands-on consulting and data science, and the chance to bring it into financial services.
 
 ## Key Skills
 
@@ -21,14 +21,14 @@ Jun 2024 to Present | Melbourne, Australia
 
 *A data & analytics consulting firm serving enterprise clients across Australia and New Zealand.*
 
-*Independently own and run 5 enterprise client accounts as the single point of contact - scoping ambiguous problems before there's a defined brief, gathering data and context from client teams, agreeing the approach, running the analysis, and presenting recommendations directly to C-suite stakeholders (CFOs, CPOs). Manage delivery timelines, expectations, and a regular meeting cadence across all five relationships, and look for ways to extend value within each engagement.*
+*Independently own and run 5 enterprise client accounts as the single point of contact: scoping ambiguous problems before there's a defined brief, gathering data and context from client teams, agreeing the approach, running the analysis, and presenting recommendations directly to C-suite stakeholders (CFOs, CPOs). Manage delivery timelines, expectations, and a regular meeting cadence across all five relationships, and look for ways to extend value within each engagement.*
 
 - Owned the end-to-end analytics account for a restaurant chain (AU/UK) as sole analyst: ran bi-weekly progress meetings with CFO, CPO, category managers and general managers, structured ambiguous cost problems into testable hypotheses, and surfaced **~A$2M/year** in savings (~30%) in their largest procurement category through price-movement and cost-leakage analysis.
 - Designed and deployed a company-wide agentic report-generation workflow (Claude): rolled out across the full analyst team (~25-30 client accounts), replacing manual per-client report assembly and saving **~12-15 hours per week** across the business.
 - Led the company's first ML spend-categorisation project: designed a one-vs-all binary classifier (TF-IDF, feature engineering, class-imbalance handling, cross-validation, hyperparameter tuning) over **~A$12B of client spend** across 5 years, cutting the categorisation cycle from **1-1.5 months to a single day's model run**; the documented pipeline is now being rolled out across clients.
 - Developed a multi-agent data QA validation system (5 specialist agents + orchestrator, Claude) to validate client datasets prior to delivery, applying AI-output evaluation at each step to flag where model outputs required human scrutiny before sign-off.
-- Built a Prophet time-series forecasting model (Python) for a fresh-produce client, incorporating sea-freight trends and external price drivers to predict 3-month raw material and chemical requirements - achieved a **12.5-14% error margin**, comfortably below the client's stated tolerance.
-- Conducted hypothesis-driven anomaly detection across enterprise procurement datasets - framing vague cost-leakage concerns into structured analytical investigations without a predefined brief - contributing to **~15% in client savings**.
+- Built a Prophet time-series forecasting model (Python) for a fresh-produce client, incorporating sea-freight trends and external price drivers to predict 3-month raw material and chemical requirements, achieving a **12.5-14% error margin** comfortably below the client's stated tolerance.
+- Conducted hypothesis-driven anomaly detection across enterprise procurement datasets, framing vague cost-leakage concerns into structured analytical investigations without a predefined brief, contributing to **~15% in client savings**.
 - Built and maintained 20+ automated ETL pipelines (Python, SQL, Azure) processing millions of transactions monthly and 16+ Tableau dashboards enabling spend tracking, KPI monitoring, and supplier negotiation decisions for enterprise clients.
 
 ### Data Engineer Intern, Victorian Centre for Data Insights (VCDI)
@@ -45,20 +45,20 @@ Jan 2021 to Jul 2021
 
 ## Projects
 
-### Cafe SaaS - Analytics & Decision-Support Platform (Data Integration, Forecasting, BI, AI Automation)
+### Cafe SaaS: Analytics & Decision-Support Platform (Data Integration, Forecasting, BI, AI Automation)
 - Designed and built a centralised analytics platform for a small hospitality business, integrating 8+ data sources and AI-driven workflows to automate data processing, reporting, and insight generation.
 - Added short-term forecasting for operational planning and benchmarked performance against external indicators; surfaced actionable insights for pricing, product mix, and operational efficiency. In ongoing use.
 
-### Job Hunt OS - Agentic AI Career System (Python, Claude Code, Multi-Agent)
-- Designed and built a multi-agent AI system (orchestrator + 3 specialist agents) running natively on Claude Code: automates resume tailoring to JD, builds ATS-friendly PDFs, drafts cover letters, runs two-track networking (reactive applications + proactive relationship CRM), and syncs calendar reminders via MCP - with no paid APIs.
+### Job Hunt OS: Agentic AI Career System (Python, Claude Code, Multi-Agent)
+- Designed and built a multi-agent AI system (orchestrator + 3 specialist agents) running natively on Claude Code: automates resume tailoring to JD, builds ATS-friendly PDFs, drafts cover letters, runs two-track networking (reactive applications + proactive relationship CRM), and syncs calendar reminders via MCP, with no paid APIs.
 - Demonstrates production agentic system design: prompt engineering, multi-agent orchestration, file-based data modelling, scheduled cloud routines, and a human review gate at each output stage.
 
 ## Education
 
-### Master of Data Science, Monash University | Feb 2022 - Dec 2023
+### Master of Data Science, Monash University | Feb 2022 to Dec 2023
 Coursework: Statistics I/II, Machine Learning, Applied Forecasting, High Dimensional Analysis, Communicating with Data
 
-### Bachelor of Engineering, Thapar University | May 2017 - May 2021
+### Bachelor of Engineering, Thapar University | May 2017 to May 2021
 
 ## Keyword Alignment
 

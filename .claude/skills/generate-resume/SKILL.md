@@ -25,6 +25,8 @@ Read the role top-down and let it drive everything after:
 - Then tailor *to that read*: **reflect the "why they're hiring" through the resume** (summary angle, which projects lead, how bullets are framed), and **hand-pick projects against the core read** — flagging where evidence is missing (a real gap, never invented) or from a different perspective/domain (re-frame by honest analogy). **Lead the work-ex with the archetype** the role wants.
 - Keywords still matter (ATS) — capture them as a second pass over a resume already shaped by the "why".
 
+**House style:** never use em dashes or a hyphen as sentence punctuation ("word - word"); use commas, colons, or full stops. Hyphens only for compound words and numeric/date ranges.
+
 ### Step 1: Parse Resume
 Use the parse-resume skill logic:
 - Extract all structured data (contact, summary, skills, experience, education, projects)
