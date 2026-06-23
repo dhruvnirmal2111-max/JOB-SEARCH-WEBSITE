@@ -19,7 +19,9 @@ A client-facing analytics consultant who independently owns enterprise client re
 ### Data Analyst, Purchasing Index Data Analytics (Comprara Group)
 Jun 2024 to Present | Melbourne, Australia
 
-*Independently own 5 enterprise client accounts end-to-end — framing ambiguous commercial problems, running the analysis, and presenting findings directly to C-suite stakeholders (CFOs, CPOs) — with no predefined brief.*
+*A data & analytics consulting firm serving enterprise clients across Australia and New Zealand.*
+
+*Independently own and run 5 enterprise client accounts as the single point of contact - scoping ambiguous problems before there's a defined brief, gathering data and context from client teams, agreeing the approach, running the analysis, and presenting recommendations directly to C-suite stakeholders (CFOs, CPOs). Manage delivery timelines, expectations, and a regular meeting cadence across all five relationships, and look for ways to extend value within each engagement.*
 
 - Owned the end-to-end analytics account for a restaurant chain (AU/UK) as sole analyst: ran bi-weekly progress meetings with CFO, CPO, category managers and general managers, structured ambiguous cost problems into testable hypotheses, and surfaced **~A$2M/year** in savings (~30%) in their largest procurement category through price-movement and cost-leakage analysis.
 - Designed and deployed a company-wide agentic report-generation workflow (Claude): rolled out across the full analyst team (~25-30 client accounts), replacing manual per-client report assembly and saving **~12-15 hours per week** across the business.
