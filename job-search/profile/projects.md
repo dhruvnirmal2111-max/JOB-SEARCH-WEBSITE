@@ -27,10 +27,10 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Automated client reporting/analytics workflows, integrating LLM tools (Claude, ChatGPT) to accelerate analytics-script development and speed up delivery.
 - **Delivery/impact:** Faster delivery of reporting outputs; standardised, repeatable analytics process. (The company-wide progress-report generator built on this is captured in P5.)
 
-### P3. Pricing-decision dashboard & cost-leakage detection (major ANZ restaurant chain) `#bi #dashboards #anomaly #pricing #statistics #python`
-- **Skills/tech:** Python, statistical analysis, price-movement / anomaly detection, BI dashboards.
-- **What I did:** Built a pricing-decision dashboard for one of the largest restaurant chains in Australia & New Zealand (250+ outlets), tracking how prices moved across product categories to surface cost-leakage and anomalous price movements. Framed ambiguous client spend concerns as a hypothesis-driven investigation.
-- **Delivery/impact:** Contributed to ~15% client savings.
+### P3. Product catalog + pricing-decision & supplier dashboards (restaurant chain, AU & UK) `#bi #dashboards #pricing #procurement #catalog #statistics #python`
+- **Skills/tech:** Python, SQL, statistical analysis, price-movement tracking, product-catalog modelling, BI dashboards.
+- **What I did:** Multi-part project for a restaurant chain operating across Australia & the UK. (1) **Built the product catalog** — structured ~3,000–3,500 products into a categorised catalog as the foundation. (2) **Pricing-decision dashboard** — tracks how prices move across products/categories so the client can negotiate better deals on their category mix: an overview level showing potential savings vs. money lost on bad deals, with drill-down to the detail level to pinpoint which products, venues and suppliers are driving the overspend. (3) **Supplier & item-onboarding dashboard** — shows how many suppliers were onboarded and how many new items were added for purchase each month, and flags where a better/cheaper substitute product is available from a supplier, guiding smarter ordering decisions.
+- **Delivery/impact:** Gave the client an overview-to-detail view of spend and price movement to negotiate better supplier deals and cut cost leakage. _(Earlier draft cited ~15% savings — need to reconfirm that figure before it goes on the resume.)_
 
 ### P4. Multi-agent data QA validation workflow `#ai #agents #dataquality`
 - **Skills/tech:** Claude, multi-agent orchestration (5 agents + orchestrator), Python.
