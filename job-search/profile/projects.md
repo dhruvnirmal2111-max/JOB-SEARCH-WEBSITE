@@ -22,10 +22,10 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Built and maintained 20+ automated ETL pipelines processing millions of procurement transactions monthly across 5 enterprise clients.
 - **Delivery/impact:** Production-grade, reliable analytics pipelines; reduced manual reporting effort ~40% and improved reporting turnaround ~50%.
 
-### P2. AI-accelerated client reporting workflows `#ai #automation #python #sql #llm #stakeholders`
-- **Skills/tech:** Python, SQL, KNIME, Claude, ChatGPT, LLM/agentic workflows.
-- **What I did:** Built the automated client progress-reporting workflow that was rolled out company-wide and adopted by the entire analyst team (each analyst handles ~3–4 client accounts). The workflow generates each client's progress report from analytics outputs and prepares it for sending — replacing a manual, per-client assembly process — and integrates LLM tools (Claude, ChatGPT) to accelerate analytics-script development and delivery.
-- **Delivery/impact:** Saves ~30 minutes per client per reporting cycle; across ~25–30 client accounts company-wide, ~12–15 hours saved every week. Standardised, repeatable reporting across the whole team.
+### P2. AI-accelerated client reporting workflows `#ai #automation #python #sql #llm`
+- **Skills/tech:** Python, SQL, KNIME, Claude, ChatGPT.
+- **What I did:** Automated client reporting/analytics workflows, integrating LLM tools (Claude, ChatGPT) to accelerate analytics-script development and speed up delivery.
+- **Delivery/impact:** Faster delivery of reporting outputs; standardised, repeatable analytics process. (The company-wide progress-report generator built on this is captured in P5.)
 
 ### P3. Pricing-decision dashboard & cost-leakage detection (major ANZ restaurant chain) `#bi #dashboards #anomaly #pricing #statistics #python`
 - **Skills/tech:** Python, statistical analysis, price-movement / anomaly detection, BI dashboards.
@@ -37,10 +37,10 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Built an agentic QA workflow to validate client datasets prior to delivery.
 - **Delivery/impact:** Caught data issues before they reached clients; raised delivery quality/consistency.
 
-### P5. Agentic client-report generation `#ai #agents #llm`
+### P5. Agentic client-report generation `#ai #agents #llm #automation #stakeholders`
 - **Skills/tech:** Claude, prompt/agent design, Python.
-- **What I did:** Built an agentic AI workflow that auto-generates structured client progress reports from analytics outputs.
-- **Delivery/impact:** Removed manual report assembly; consistent client-facing deliverables.
+- **What I did:** Built the agentic AI workflow that auto-generates structured client progress reports from analytics outputs and prepares them for sending. Rolled out company-wide and adopted by the entire analyst team (each analyst handles ~3–4 client accounts), replacing the manual, per-client report-assembly process.
+- **Delivery/impact:** Saves ~30 minutes per client per reporting cycle; across ~25–30 client accounts company-wide, ~12–15 hours saved every week. Consistent, standardised client-facing deliverables across the whole team.
 
 ### P6. Transaction-description classifier `#ml #nlp #python`
 - **Skills/tech:** scikit-learn, TF-IDF / embeddings, Logistic Regression, Python.
