@@ -54,9 +54,8 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 
 ### P8. LLM call-transcript analyzer — AI hackathon win, adopted internally `#ai #nlp #llm #agents #automation`
 - **Skills/tech:** LLM workflows, agent orchestration, Python, sentiment analysis, notification/automation pipeline.
-- **What I did:** Built for an **AI-themed hackathon** (won — a $200 gift voucher). A **call/transcript analyzer** that scores each engagement on several metrics — call quality (how good/bad it went), whether expectations were met, and tone — essentially **sentiment analysis**. Wrapped it in a full **pipeline**: transcripts dropped into a source folder → an **agent orchestrates** the processing → it then sends **notifications to everyone involved internally** (e.g. the senior manager / director) and writes a **log of the engagement** with that client. Later **adopted into the company's workflow**.
-- **Delivery/impact:** Automatically surfaced call sentiment/quality to the right stakeholders; demonstrated agentic orchestration; moved from a hackathon build to an adopted, smoother internal process.
-- _To confirm before resume use: the hackathon was internal to the company, or jointly run with another company? and did you place 1st (the $200 voucher)?_
+- **What I did:** Built for an **internal company AI-themed hackathon, where it placed 1st** (won a $200 gift voucher). A **call/transcript analyzer** that scores each engagement on several metrics — call quality (how good/bad it went), whether expectations were met, and tone — essentially **sentiment analysis**. Wrapped it in a full **pipeline**: transcripts dropped into a source folder → an **agent orchestrates** the processing → it then sends **notifications to everyone involved internally** (e.g. the senior manager / director) and writes a **log of the engagement** with that client. Later **adopted into the company's workflow**.
+- **Delivery/impact:** Automatically surfaced call sentiment/quality to the right stakeholders; demonstrated agentic orchestration; moved from a 1st-place hackathon build to an adopted, smoother internal process.
 
 ### P9. Automated presentation generation `#ai #automation #llm`
 - **Skills/tech:** Claude, Python, PowerPoint automation.
