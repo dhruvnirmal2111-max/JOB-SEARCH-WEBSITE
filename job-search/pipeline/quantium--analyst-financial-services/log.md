@@ -7,7 +7,7 @@
 
 ## Artifacts
 - [x] jd.md
-- [ ] analysis.md (career-coach) — SKIPPED on 2026-06-21 (run `/career-coach` to generate)
+- [x] analysis.md (career-coach) — **generated 2026-06-23, overall fit 72%**; top gaps: R, FS domain, title framing
 - [x] resume-tailored.md (resume-intelligence) — **regenerated 2026-06-23 off enriched projects.md → ~88% keyword match** (was ~82%)
 - [x] cover-letter.md (resume-intelligence) — **regenerated 2026-06-23**
 - [x] Dhruv_Nirmal_Quantium_Analyst.pdf — **rebuilt 2026-06-23, 2 pages (10.5pt)**
