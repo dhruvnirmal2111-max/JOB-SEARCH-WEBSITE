@@ -1,6 +1,48 @@
 # Career Coach Analysis — Quantium, Analyst Financial Services Consulting
 
 > Generated: 2026-06-23 | Agent: career-coach | Campaign day: 3
+> Method: decode the role first (what / why / responsibilities), then hand-pick the projects that answer it — naming where they don't align.
+
+---
+
+## 0. Reading the Role First (before any project mapping)
+
+The right order is JD → company → why they're hiring → responsibilities → *then* pick projects. Projects are not always a clean match; sometimes the evidence is missing, and sometimes I have the right work but from a different perspective (procurement, not finance) and have to re-frame it.
+
+### Key highlights of the JD
+- **Consulting analyst, not in-house.** Project-based, client-facing, time-pressured. **Judgement and framing matter more than how much code you write.**
+- Frames ambiguous problems into testable hypotheses **without waiting for a brief**.
+- **AI as a daily multiplier — "past experimentation, into building"** — used with judgement, not at face value.
+- Communicates to technical *and* non-technical audiences; QA + reusable documentation.
+- Tools: **SQL, R, Python, visualisation**. Domain: insurance core → banking/super/wealth.
+- **Hires for trajectory** ("you might not tick all the boxes").
+
+### What the company does
+Quantium — Australian data-science/AI consultancy (est. 2002, ~1,200 people, 14 locations). The **Financial Services Consulting** practice is an *embedded analytics partner* to banks, insurers, super funds and wealth managers, with an **AI-first delivery model** — moving clients "from intuition to evidence."
+
+### Why are they hiring (my read, from the JD + their site)
+- **Core is insurance, with *active expansion* into banking, superannuation and wealth** — they're scaling the practice and need analysts to staff growing client engagements.
+- The **AI-first delivery model** means they specifically want people who already *build* with AI, not just experiment — that's a deliberate filter, not boilerplate.
+- "Hire for trajectory" → they're building a bench of analysts who learn domains fast and can be **client-facing early**. They want raw capability + AI leverage, and will teach the FS domain.
+
+### What the responsibilities really reduce to
+End-to-end engagement ownership: frame → analyse (stats/DS/AI, right tool for the question) → land the insight with a clear recommendation, documented and reusable, fast.
+
+### The core read → who they actually want
+**An independent, client-driving analyst** — someone who can own the client relationship, structure a messy problem alone, and carry it to a C-suite recommendation. That's the lens for picking my evidence.
+
+### Hand-picking the evidence against that read (and where it doesn't align)
+| What the role wants | My strongest evidence | Alignment / re-frame |
+|---|---|---|
+| **Independent client-driving** | **I independently own 5 enterprise client accounts**; sole analyst on the restaurant-chain account (P3) → C-suite, A$2M | **Direct** — now surfaced as the lead line in work-ex, not buried |
+| Frame ambiguous problems | P3 (vague "costs seem high" → structured hypotheses), P18 | Direct |
+| AI into building, with judgement | P5 (company-wide agentic reporting), P4 (multi-agent QA), P17 (AI-output evaluation) | Direct — standout |
+| Stats / DS methods | P6 (classifier, class imbalance, CV), P7 (Prophet) | Direct (technical side — kept explicit alongside the client story) |
+| SQL / Python | 20+ pipelines, all client work | Direct |
+| **R** | — | **Missing** — no production R; bridge via Python + active ramp (see §5) |
+| **FS domain (insurance/banking/super/wealth)** | procurement/supply-chain + restaurant client | **Perspective gap** — right *methods*, wrong *domain*; re-frame via analogy map (cost-leakage→claims leakage, spend categorisation→transaction categorisation, Prophet→churn/lapse) |
+
+> Note carried into the resume: the JD wants an independent client-driver, so work-ex now **leads with owning 5 client accounts end-to-end** (the client-driving signal) while keeping the technical depth explicit underneath.
 
 ---
 

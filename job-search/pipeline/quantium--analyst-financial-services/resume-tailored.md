@@ -19,9 +19,10 @@ Analytics professional with 2+ years of client-facing consulting experience fram
 ### Data Analyst, Purchasing Index Data Analytics (Comprara Group)
 Jun 2024 to Present | Melbourne, Australia
 
+*Independently own 5 enterprise client accounts end-to-end — framing ambiguous commercial problems, running the analysis, and presenting findings directly to C-suite stakeholders (CFOs, CPOs) — with no predefined brief.*
+
 - Owned the end-to-end analytics account for a restaurant chain (AU/UK) as sole analyst: ran bi-weekly progress meetings with CFO, CPO, category managers and general managers, structured ambiguous cost problems into testable hypotheses, and surfaced **~A$2M/year** in savings (~30%) in their largest procurement category through price-movement and cost-leakage analysis.
 - Designed and deployed a company-wide agentic report-generation workflow (Claude): rolled out across the full analyst team (~25-30 client accounts), replacing manual per-client report assembly and saving **~12-15 hours per week** across the business.
-- Built an LLM-powered call-transcript analyser - scoring call quality, sentiment, and expectation-setting - placed **1st in an internal AI hackathon** and was adopted into the company's operational workflow, demonstrating agentic AI moving from prototype to production.
 - Led the company's first ML spend-categorisation project: designed a one-vs-all binary classifier (TF-IDF, feature engineering, class-imbalance handling, cross-validation, hyperparameter tuning) over **~A$12B of client spend** across 5 years, cutting the categorisation cycle from **1-1.5 months to a single day's model run**; the documented pipeline is now being rolled out across clients.
 - Developed a multi-agent data QA validation system (5 specialist agents + orchestrator, Claude) to validate client datasets prior to delivery, applying AI-output evaluation at each step to flag where model outputs required human scrutiny before sign-off.
 - Built a Prophet time-series forecasting model (Python) for a fresh-produce client, incorporating sea-freight trends and external price drivers to predict 3-month raw material and chemical requirements - achieved a **12.5-14% error margin**, comfortably below the client's stated tolerance.
@@ -42,6 +43,10 @@ Jan 2021 to Jul 2021
 
 ## Projects
 
+### Cafe SaaS - Analytics & Decision-Support Platform (Data Integration, Forecasting, BI, AI Automation)
+- Designed and built a centralised analytics platform for a small hospitality business, integrating 8+ data sources and AI-driven workflows to automate data processing, reporting, and insight generation.
+- Added short-term forecasting for operational planning and benchmarked performance against external indicators; surfaced actionable insights for pricing, product mix, and operational efficiency. In ongoing use.
+
 ### Job Hunt OS - Agentic AI Career System (Python, Claude Code, Multi-Agent)
 - Designed and built a multi-agent AI system (orchestrator + 3 specialist agents) running natively on Claude Code: automates resume tailoring to JD, builds ATS-friendly PDFs, drafts cover letters, runs two-track networking (reactive applications + proactive relationship CRM), and syncs calendar reminders via MCP - with no paid APIs.
 - Demonstrates production agentic system design: prompt engineering, multi-agent orchestration, file-based data modelling, scheduled cloud routines, and a human review gate at each output stage.
@@ -61,7 +66,7 @@ Match rate: approximately 88% after tailoring (up from ~82% in previous version)
 
 Matched (in both resume and JD): Python, SQL, Claude, ChatGPT, visualisation (Tableau/Power BI), statistical analysis, anomaly detection, data science, AI-enabled methods, client-facing consulting, problem framing, hypothesis testing, QA/documentation, commercial experience, stakeholder communication, insight delivery, multi-agent workflows, agentic AI, NLP/sentiment, cross-validation, forecasting, feature engineering
 
-Added from JD - now foregrounded with metrics: A$2M commercial impact (P3), 12-15 hrs/week agentic scale (P5), 1st-place hackathon + adoption (P8), A$12B ML project + 1-1.5 months to 1 day (P6), 12.5-14% forecast error within tolerance (P7), AI output evaluation/judgement (P17)
+Added from JD - now foregrounded: independent end-to-end ownership of 5 enterprise client accounts, A$2M commercial impact (P3), 12-15 hrs/week agentic scale (P5), A$12B ML project + 1-1.5 months to 1 day (P6), 12.5-14% forecast error within tolerance (P7), AI output evaluation/judgement (P17), Cafe SaaS decision-support platform
 
 Not applicable (honestly excluded): R (candidate does not have production R; skills.md notes "learning: R"; bridged via Python statistical fluency and active ramp); financial services domain (no direct claim; bridged via analogous patterns: anomaly detection, cost-leakage, enterprise transaction data at scale, statistical modelling)
 
