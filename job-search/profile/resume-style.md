@@ -8,6 +8,7 @@
 - **No em dashes. No hyphen-as-sentence-punctuation** ("word - word"). Use commas, colons, full stops. Hyphens only for compound words (client-facing, end-to-end) and numeric/date ranges (12.5-14%, Feb 2022 to Dec 2023). Use "to" for date ranges.
 
 ## Professional summary (the opening paragraph) — the part most scrutinised
+- **Write the summary in the first person ("I ...").** The owner prefers it personal, not the implied-subject "Does X, builds Y" voice, which reads mechanical. The summary is the one place first person is used; experience/project bullets stay implied-subject (no "I").
 - **Paint a picture of the archetype the role is hiring for.** It should make the reader feel "this is the person we need" before any number.
 - **Lead with what the owner does / who they are. Do NOT open with tenure** ("X years of..."). Years of experience does not go first.
 - **At most one or two of the BIGGEST numbers** (e.g. ~A$2M, ~A$12B). Keep smaller metrics (hours saved, % counts, account counts) OUT of the summary — they make it busy and unprofessional. Detailed metrics live in the bullets.
