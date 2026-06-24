@@ -122,7 +122,7 @@ DENSITY = [
 ]
 
 
-def build(md_path, pdf_path, max_pages=2):
+def build(md_path, pdf_path, max_pages=2, para_space=None):
     with open(md_path, encoding="utf-8") as f:
         md = f.read()
     blocks = parse_blocks(md)
@@ -143,7 +143,9 @@ def build(md_path, pdf_path, max_pages=2):
                                  leading=h3z + 3, textColor=ACCENT, spaceBefore=5,
                                  spaceAfter=1),
             "body": ParagraphStyle("body", fontName="Helvetica", fontSize=bz,
-                                   leading=lead, spaceAfter=2, alignment=TA_JUSTIFY),
+                                   leading=lead,
+                                   spaceAfter=(para_space if para_space is not None else 2),
+                                   alignment=TA_JUSTIFY),
             "bullet": ParagraphStyle("bullet", fontName="Helvetica", fontSize=bz,
                                      leading=lead, spaceAfter=bg, alignment=TA_JUSTIFY),
         }
@@ -202,8 +204,10 @@ def main():
     ap.add_argument("input_md")
     ap.add_argument("output_pdf")
     ap.add_argument("--max-pages", type=int, default=2)
+    ap.add_argument("--para-space", type=float, default=None,
+                    help="extra space (pt) after each body paragraph; e.g. 12 for a letter")
     args = ap.parse_args()
-    sys.exit(build(args.input_md, args.output_pdf, args.max_pages))
+    sys.exit(build(args.input_md, args.output_pdf, args.max_pages, args.para_space))
 
 
 if __name__ == "__main__":

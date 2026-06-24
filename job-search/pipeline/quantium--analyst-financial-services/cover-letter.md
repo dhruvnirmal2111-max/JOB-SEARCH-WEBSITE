@@ -3,9 +3,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](
 
 24 June 2026
 
-Hiring Team
-Financial Services Consulting Practice
-Quantium, Australia
+Hiring Team, Financial Services Consulting Practice, Quantium, Australia
 
 Dear Hiring Team,
 
