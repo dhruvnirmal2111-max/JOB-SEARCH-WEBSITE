@@ -9,7 +9,7 @@ allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 ## Steps
 
 1. **Locate** the target from `$ARGUMENTS` → `job-search/pipeline/<company--role>/resume-tailored.md`. If ambiguous, list pipeline folders and ask which.
-2. **Read** the current `resume-tailored.md` and the owner's feedback (the quoted part of `$ARGUMENTS`).
+2. **Read** the current `resume-tailored.md`, the owner's feedback (the quoted part of `$ARGUMENTS`), and **`job-search/profile/resume-style.md`** (the owner's voice/summary/title preferences — apply them and don't reintroduce things they've already rejected, e.g. dash punctuation, JD-echoing phrasing, tenure-first summaries, metric-stuffed summaries).
 3. **Apply the feedback** by editing `resume-tailored.md` — honor the requested changes while keeping it truthful, ATS-friendly, and **≤2 pages**. Preserve the `## Keyword Alignment` block at the bottom (the PDF cuts it automatically).
 4. **Regenerate the PDF:**
    ```

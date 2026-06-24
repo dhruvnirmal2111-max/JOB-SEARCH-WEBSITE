@@ -16,6 +16,7 @@ For when you're at your desk and just want a tailored resume out the door. Lean:
    - JD: `job-search/pipeline/<company--role>/jd.md`
    - Resume template: `job-search/profile/base-resume.json`
    - Projects: `job-search/profile/projects.md`
+   - Style preferences: `job-search/profile/resume-style.md`
    - Target folder to write into.
    It produces `resume-tailored.md`, `cover-letter.md`, and the **2-page PDF** (`Dhruv_Nirmal_<Company>_<Role>.pdf`) via `scripts/build_resume_pdf.py`, bridging role differences (e.g. Data Engineering → Data Scientist) honestly and pulling relevant projects.
 

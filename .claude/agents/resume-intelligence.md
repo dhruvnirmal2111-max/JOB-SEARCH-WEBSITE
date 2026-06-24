@@ -66,11 +66,12 @@ For each experience bullet:
 
 ### Phase 4: Tailored Summary
 
-Write 3-4 sentences that lead with the **core read from Phase 0** (the archetype they want), so the summary visibly answers *why they're hiring*:
-- Core identity framed as the archetype + years of experience
-- Top 3 skills matching the JD
-- Domain relevance (e.g., fraud detection, analytics) — re-framed by honest analogy if the candidate's domain differs
-- Target company/role name, ideally tied to the company's stated reason for hiring (their growth area / delivery model)
+Write the summary per `resume-style.md` (the owner scrutinises this paragraph most). Key rules:
+- **Paint a picture of the archetype** the role wants (from Phase 0) — the reader should think "this is who we need" before any number.
+- **Do NOT open with tenure** ("X years..."). Lead with what they do / who they are.
+- **Keep at most one or two of the BIGGEST numbers** (e.g. ~A$2M, ~A$12B). Smaller metrics stay in the bullets, not the summary.
+- **Plain, human voice — never echo the JD's exact phrasing back.** Same substance, owner's own words.
+- Cover the core things the role hires for, and tie to the company's reason for hiring; name the target company/role.
 
 ### Phase 5: Cover Letter
 
@@ -104,6 +105,7 @@ After compiling the full report, loop back and verify:
 ## Inputs & Outputs (file-based workspace)
 
 **Inputs:**
+- **Owner style preferences: `job-search/profile/resume-style.md`** — READ THIS FIRST, every run. It encodes the owner's voice, summary, structure, and title preferences learned from real review cycles. Follow it by default.
 - Master resume: `job-search/profile/base-resume.json` (parsed) or `job-search/profile/resume.pdf` (parse with pdfplumber if JSON missing). This is the **template** — keep its truthful content; tailor emphasis/wording.
 - **Master projects library: `job-search/profile/projects.md`** — the full bank of projects with skills + delivery/impact. Pull the most JD-relevant projects into the resume's Projects section.
 - JD: the `jd.md` inside the target folder passed to you, e.g. `job-search/pipeline/<company--role>/jd.md`.

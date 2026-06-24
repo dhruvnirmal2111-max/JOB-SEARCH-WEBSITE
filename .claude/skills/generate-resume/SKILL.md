@@ -27,6 +27,8 @@ Read the role top-down and let it drive everything after:
 
 **House style:** never use em dashes or a hyphen as sentence punctuation ("word - word"); use commas, colons, or full stops. Hyphens only for compound words and numeric/date ranges.
 
+**Read `job-search/profile/resume-style.md` FIRST** — the owner's voice/summary/structure/title preferences. Follow it by default (key points: summary paints a picture and does not open with tenure; keep only the 1-2 biggest numbers in the summary; don't echo the JD's phrasing verbatim; surface the strongest archetype signal at the top of the current role; pick projects by JD relevance).
+
 ### Step 1: Parse Resume
 Use the parse-resume skill logic:
 - Extract all structured data (contact, summary, skills, experience, education, projects)
@@ -60,11 +62,12 @@ Use rewrite-bullets skill logic:
 - **Run through a second time** — refine any that sound forced
 
 ### Step 6: Generate Tailored Summary
-Write a 3-4 sentence executive summary that:
-- Leads with the **core read / archetype** from Step 0 (so it visibly answers *why they're hiring*) + years of experience
-- Highlights top 3 skills matching the JD
-- Mentions specific domain relevance (e.g., fraud detection) — re-framed by honest analogy if the domain differs
-- Names the target company/role, tied to the company's stated reason for hiring where possible
+Write a summary per `resume-style.md`:
+- **Paints a picture of the archetype** the role hires for (from Step 0); the reader should feel "this is who we need" before any number
+- **Does NOT open with tenure** ("X years..."); leads with what they do
+- **At most one or two of the BIGGEST numbers**; smaller metrics stay in the bullets
+- **Plain, human voice; never echoes the JD's exact phrasing**
+- Names the target company/role, tied to the company's reason for hiring
 
 ### Step 7: Generate Cover Letter
 Write a professional cover letter with:
