@@ -45,7 +45,7 @@ Jan 2021 to Jul 2021
 
 ## Projects
 
-### MyFacit: Analytics & Decision-Support SaaS (Data Integration, Forecasting, BI, AI Automation)
+### [MyFacit](https://www.myfacit.com): Analytics & Decision-Support SaaS (Data Integration, Forecasting, BI, AI Automation)
 - Designed and built a centralised analytics platform for a small hospitality business, integrating 8+ data sources and AI-driven workflows to automate data processing, reporting, and insight generation.
 - Added short-term forecasting for operational planning and benchmarked performance against external indicators; surfaced actionable insights for pricing, product mix, and operational efficiency. Now in pilot with a local small business and in active day-to-day use, with weekly meetings to fix bugs and assess the industry-specific implications of embedding it in a real setting.
 
