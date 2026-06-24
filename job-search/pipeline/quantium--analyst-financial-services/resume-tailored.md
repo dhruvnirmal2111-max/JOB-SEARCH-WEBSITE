@@ -1,6 +1,6 @@
 # Dhruv Nirmal
 
-Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | LinkedIn
+Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](https://www.linkedin.com/in/dhruv-nirmal-data) | [GitHub](https://github.com/dhruvnirmal2111-max)
 
 ## Professional Summary
 

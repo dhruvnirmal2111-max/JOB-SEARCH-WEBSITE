@@ -4,7 +4,7 @@
 
 ## Header / contact line (every CV)
 - The contact line (directly under the name) MUST include a **clickable GitHub hyperlink and a clickable LinkedIn hyperlink**, written as markdown links so the PDF renders them clickable: e.g. `Melbourne, Australia | email | phone | [LinkedIn](<url>) | [GitHub](<url>)`. The PDF builder turns `[label](url)` into a real hyperlink.
-- Owner's URLs: LinkedIn `<TODO: owner to provide>`, GitHub `<TODO: owner to provide>`. Once supplied, hard-code them here and reuse on every CV.
+- Owner's URLs (use these on every CV): LinkedIn `https://www.linkedin.com/in/dhruv-nirmal-data`, GitHub `https://github.com/dhruvnirmal2111-max`.
 
 ## Voice
 - Write like a human, not a keyword sheet. Plain, concrete, confident.
