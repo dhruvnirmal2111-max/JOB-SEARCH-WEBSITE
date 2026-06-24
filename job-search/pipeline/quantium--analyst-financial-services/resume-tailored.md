@@ -47,7 +47,7 @@ Jan 2021 to Jul 2021
 
 ### Cafe SaaS: Analytics & Decision-Support Platform (Data Integration, Forecasting, BI, AI Automation)
 - Designed and built a centralised analytics platform for a small hospitality business, integrating 8+ data sources and AI-driven workflows to automate data processing, reporting, and insight generation.
-- Added short-term forecasting for operational planning and benchmarked performance against external indicators; surfaced actionable insights for pricing, product mix, and operational efficiency. In ongoing use.
+- Added short-term forecasting for operational planning and benchmarked performance against external indicators; surfaced actionable insights for pricing, product mix, and operational efficiency. Now in pilot with a local small business, in active day-to-day use.
 
 ### Job Hunt OS: Agentic AI Career System (Python, Claude Code, Multi-Agent)
 - Designed and built a multi-agent AI system (orchestrator + 3 specialist agents) running natively on Claude Code: automates resume tailoring to JD, builds ATS-friendly PDFs, drafts cover letters, runs two-track networking (reactive applications + proactive relationship CRM), and syncs calendar reminders via MCP, with no paid APIs.
