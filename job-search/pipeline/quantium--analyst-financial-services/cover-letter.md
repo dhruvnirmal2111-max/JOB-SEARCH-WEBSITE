@@ -15,7 +15,7 @@ At Purchasing Index Data Analytics (part of Comprara Group), a data and analytic
 
 I also build with AI in production rather than just experiment with it: a company-wide Claude workflow that generates client progress reports and saves the team 12 to 15 hours a week, and a multi-agent QA system that scrutinises model output before it reaches a client. On the data science side, I led our first ML spend-categorisation project, classifying roughly A$12B of client spend and cutting a manual cycle from over a month to a single day's model run.
 
-Two things I'll be straightforward about. My domain has been procurement rather than financial services, but the methods carry across directly: anomaly and cost-leakage detection, hypothesis-driven investigation, and statistical and ML modelling on enterprise transaction data at scale. And while my main languages are Python and SQL rather than R, my statistics foundation (Monash Master of Data Science) makes that ramp a matter of syntax, not concept. I learn domains quickly and am genuinely motivated to do it here.
+What draws me to Quantium is the combination of consulting breadth and an AI-first practice across insurance, banking, super and wealth. The methods I work in map straight onto those problems: anomaly and cost-leakage detection, hypothesis-driven investigation, and statistical and ML modelling on large-scale transaction data. I pick up new domains quickly, and I'd bring the same independent, client-first approach to your financial services engagements.
 
 I'd welcome the chance to talk about how I could contribute.
 
