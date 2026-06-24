@@ -9,25 +9,17 @@ Quantium, Australia
 
 Dear Hiring Team,
 
-I am writing to apply for the Data Scientist (Consulting) role in Quantium's Financial Services practice. The combination of AI-first delivery, embedded client partnership, and the explicit priority placed on data scientists who use AI with judgement and go into building with it makes this one of the clearest role fits I have encountered in my search.
+I'm applying for the Data Scientist (Consulting) role in Quantium's Financial Services practice. A role that pairs genuine consulting with an AI-first delivery model, and expects data scientists to use AI with judgement rather than at face value, is a rare match for how I already work.
 
-I work at Purchasing Index Data Analytics (part of Comprara Group) in a client-facing analytics consulting capacity, serving enterprise clients across Australia and New Zealand. In that role I have owned accounts end-to-end as sole analyst, framed vague commercial problems into structured analytical plans, and delivered results that moved the needle. The most concrete example: I ran a restaurant chain engagement (AU/NZ) directly, with bi-weekly and monthly progress meetings with the CFO, Chief Procurement Officer, category managers and general managers, and built pricing-decision and supplier dashboards that surfaced how prices moved across ~3,000-3,500 products and identified approximately A$2M per year in savings (~30%) in their largest category by pinpointing which products, venues and suppliers were driving the overspend. That kind of end-to-end ownership, ambiguous brief to quantified outcome, is what I understand Quantium means by contributing to engagements from framing through to landing the insight.
+At Purchasing Index Data Analytics (part of Comprara Group), a data and analytics consulting firm, I run five enterprise client accounts on my own, taking each from a loosely defined problem through to a recommendation the client can act on. On one, a restaurant chain across Australia and New Zealand, I ran the relationship directly with the CFO, Chief Procurement Officer and category managers, and built pricing and supplier dashboards that turned a vague concern about overspending into roughly A$2M a year in savings in their largest category.
 
-On the AI dimension, the work I have built in production goes well past what most practitioners describe as AI use:
+I also build with AI in production rather than just experiment with it: a company-wide Claude workflow that generates client progress reports and saves the team 12 to 15 hours a week, and a multi-agent QA system that scrutinises model output before it reaches a client. On the data science side, I led our first ML spend-categorisation project, classifying roughly A$12B of client spend and cutting a manual cycle from over a month to a single day's model run.
 
-- Agentic report generation: designed and deployed a company-wide Claude workflow that auto-generates structured client progress reports from analytics outputs, rolled out across the full analyst team (~25-30 client accounts) and saving approximately 12-15 hours per week across the business.
-- Multi-agent QA pipeline: built a 5-agent + orchestrator validation system using Claude that evaluates client datasets prior to delivery, applying systematic AI-output scrutiny at each step rather than accepting model outputs at face value.
-- AI hackathon, 1st place: built an LLM-powered call-transcript analyser (scoring call quality, sentiment, and expectation-setting) that placed first in an internal company AI hackathon and was subsequently adopted into the company's operational workflow.
-- ML at commercial scale: led the company's first ML spend-categorisation project, a one-vs-all binary classifier with feature engineering, class-imbalance handling, and cross-validation, over approximately A$12B of client spend across 5 years, cutting the categorisation cycle from 1-1.5 months to a single day's model run.
+Two things I'll be straightforward about. My domain has been procurement rather than financial services, but the methods carry across directly: anomaly and cost-leakage detection, hypothesis-driven investigation, and statistical and ML modelling on enterprise transaction data at scale. And while my main languages are Python and SQL rather than R, my statistics foundation (Monash Master of Data Science) makes that ramp a matter of syntax, not concept. I learn domains quickly and am genuinely motivated to do it here.
 
-I want to be straightforward on two points. My domain background is procurement and operational analytics rather than financial services, but the analytical patterns are directly transferable: anomaly detection, cost-leakage analysis, hypothesis-driven investigation, enterprise transaction data at scale, and statistical and ML modelling all map to the problems Quantium solves in insurance and banking. I learn domains fast and am genuinely motivated to develop financial services expertise here. Second, my primary languages are Python and SQL. I do not have production R experience, but I am actively building fluency, and my statistical foundations (Monash Master of Data Science: Statistics I/II, Applied Forecasting, High Dimensional Analysis) mean the ramp is a matter of syntax rather than concept.
-
-What draws me specifically to Quantium is the intersection of genuine consulting rigour with an AI-first delivery model. Most analytics roles sit in-house in a single domain. Quantium offers a variety of client problems and domains (insurance, banking, super, wealth) combined with an embedded partner model and the explicit expectation that analysts use AI with judgement rather than as a shortcut. That is already how I work, and I want to develop that capability in a team that treats it as a first-class practice rather than an add-on.
-
-I would welcome the opportunity to discuss how my background maps to the role. I am available for a conversation at your convenience.
+I'd welcome the chance to talk about how I could contribute.
 
 Sincerely,
 
 Dhruv Nirmal
-dhruvnirmal2111@gmail.com
-+61 406 259 619
+dhruvnirmal2111@gmail.com | +61 406 259 619
