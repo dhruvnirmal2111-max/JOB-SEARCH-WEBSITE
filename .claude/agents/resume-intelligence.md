@@ -122,7 +122,7 @@ When invoked you'll be told the exact `<company--role>` folder. Never write outs
 Write it in this markdown structure — the PDF builder parses exactly this:
 ```
 # Dhruv Nirmal
-Melbourne, Australia | email | phone | LinkedIn
+Melbourne, Australia | email | phone | [LinkedIn](<url>) | [GitHub](<url>)   <!-- always include clickable LinkedIn + GitHub links; URLs in resume-style.md -->
 ## Professional Summary
 <3-4 sentences>
 ## Key Skills

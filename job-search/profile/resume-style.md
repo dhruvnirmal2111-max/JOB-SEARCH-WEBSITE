@@ -2,6 +2,10 @@
 
 > **Read this every time you tailor a resume or cover letter** (resume-intelligence agent / generate-resume / quick-apply / revise-resume). These are the owner's distilled preferences, learned from real review cycles. Honour them by default; only deviate if the owner says so for a specific application.
 
+## Header / contact line (every CV)
+- The contact line (directly under the name) MUST include a **clickable GitHub hyperlink and a clickable LinkedIn hyperlink**, written as markdown links so the PDF renders them clickable: e.g. `Melbourne, Australia | email | phone | [LinkedIn](<url>) | [GitHub](<url>)`. The PDF builder turns `[label](url)` into a real hyperlink.
+- Owner's URLs: LinkedIn `<TODO: owner to provide>`, GitHub `<TODO: owner to provide>`. Once supplied, hard-code them here and reuse on every CV.
+
 ## Voice
 - Write like a human, not a keyword sheet. Plain, concrete, confident.
 - **Do NOT echo the JD's phrasing back verbatim.** Mirroring the posting's exact buzzwords (e.g. "AI-first", "past experimentation, into building", "intuition to evidence", "single point of contact") reads as AI-generated and "matchy-matchy." Say the same thing in the owner's own words.

@@ -111,10 +111,10 @@ Government procurement monitoring; distributed data + ML.
 - **What I did:** Designed and built a single-user, file-based "Job Hunt OS" that runs natively on Claude Code with no paid APIs. It tailors ATS-friendly resumes to a JD and builds 2-page PDFs, drafts cover letters, runs two-track networking (reactive applications + a proactive relationship CRM), analyses resume↔JD skill gaps, and produces daily/weekly reports. Scheduled cloud routines scout roles and build application packages autonomously behind a human review gate; outreach reminders sync to Google Calendar via MCP.
 - **Delivery/impact:** End-to-end automation of a real job search; demonstrates agentic AI, multi-agent orchestration, and system design over a plain-file data model.
 
-### P16. Cafe SaaS — analytics & decision-support platform for a small hospitality business `#personal #saas #ai #analytics #forecasting #bi`
+### P16. MyFacit — analytics & decision-support SaaS for a small hospitality business `#personal #saas #ai #analytics #forecasting #bi`
 - **Skills/tech:** Data integration (8+ sources), AI-driven automation, forecasting, benchmarking, BI/insight generation.
 - **What I did:** Designed and built a centralised analytics platform for a small (cafe / hospitality) business, integrating 8+ data sources. Built AI-driven workflows to automate data processing, reporting, and insight generation; added forecasting for short-term operational planning; surfaced actionable insights for pricing, product mix, and operational efficiency; benchmarked performance against external indicators for business-health monitoring.
-- **Delivery/impact:** Scalable automated solution that significantly reduced manual effort; currently in pilot with a local small business and in active day-to-day use.
+- **Delivery/impact:** Scalable automated solution that significantly reduced manual effort; currently in pilot with a local small business and in active day-to-day use. Running weekly meetings with the business to fix bugs and assess the industry-specific implications of embedding the tool in a real-world setting.
 - _Want the tech stack named (frontend/backend/DB/hosting) and a user/status line? Send it and I'll add it._
 
 ---

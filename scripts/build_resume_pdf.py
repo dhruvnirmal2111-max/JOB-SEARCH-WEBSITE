@@ -56,8 +56,9 @@ def no_em_dash(text: str) -> str:
 def esc(text: str) -> str:
     text = no_em_dash(text)
     text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-    # links: [label](url) -> label
-    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r"\1", text)
+    # links: [label](url) -> clickable hyperlink (accent-coloured, underlined)
+    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)",
+                  r'<link href="\2" color="#1f3a5f"><u>\1</u></link>', text)
     # bold
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     # strip stray single asterisks used for italics
