@@ -70,12 +70,13 @@ Write a summary per `resume-style.md`:
 - Names the target company/role, tied to the company's reason for hiring
 
 ### Step 7: Generate Cover Letter
-Write a professional cover letter with:
-- Opening: express interest, mention role + company
-- Body paragraph 1: current role + most relevant experience
-- Body paragraph 2: 3-4 bullet highlights matching JD requirements
-- Body paragraph 3: why this company/role specifically
-- Close: call to action
+Per `resume-style.md` (Cover letter): a **one-page, full-size, roomy** letter in **four tight paragraphs, no bullet list**:
+- Para 1: the role + why it genuinely fits how the owner works
+- Para 2: strongest proof, with a named client/outcome
+- Para 3: the building/technical edge
+- Para 4: positive "why this company", framing transferable experience as a direct fit — **no disclaimers/apologies for gaps**
+- Close + signature; letterhead matches the resume (name + clickable LinkedIn/GitHub).
+Build the PDF with `--max-pages 1 --para-space 12`.
 
 ### Step 8: Final Output
 

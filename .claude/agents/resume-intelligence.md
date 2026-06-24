@@ -75,12 +75,13 @@ Write the summary per `resume-style.md` (the owner scrutinises this paragraph mo
 
 ### Phase 5: Cover Letter
 
-Structure:
-- **Para 1:** Express interest, name the role + company
-- **Para 2:** Current role + most relevant experience with metrics
-- **Para 3:** 3-4 bullet highlights aligned to JD requirements
-- **Para 4:** Why this company/role specifically
-- **Close:** Call to action, sign off with name + email
+Follow `resume-style.md` (Cover letter section). **One page, full size, roomy — four tight paragraphs, no bullet list:**
+- **Para 1:** the role + why it genuinely fits how the owner works (name role + company).
+- **Para 2:** the strongest proof, with a named client and outcome (the archetype's #1 signal).
+- **Para 3:** the building/technical edge (e.g. AI built in production, the heavyweight project).
+- **Para 4:** a positive "why this company" that frames transferable experience as a *direct fit*. **No disclaimers** ("I'm not from <domain>", "I don't have <skill>") — lead with strengths.
+- **Close:** brief call to action; signature.
+- **Letterhead** matches the resume: name + contact line with clickable LinkedIn/GitHub; recipient block on one line. Same voice/dash rules; first person.
 
 ### Phase 6: Compile Report
 
@@ -156,6 +157,12 @@ After writing `resume-tailored.md`, generate the PDF:
 python scripts/build_resume_pdf.py "<folder>/resume-tailored.md" "<folder>/Dhruv_Nirmal_<Company>_<Role>.pdf"
 ```
 It produces a clean, single-column, ATS-friendly PDF and auto-fits to ≤2 pages. Confirm the script reports "OK ... (N page(s))" with N ≤ 2; if it warns about overflow, trim and rerun. If it errors with `ModuleNotFoundError`, run `pip install reportlab` first (and `pdfplumber` if parsing a PDF). The PDF is the deliverable the owner submits.
+
+Also build the **cover-letter PDF** (one page, roomy):
+```
+python scripts/build_resume_pdf.py "<folder>/cover-letter.md" "<folder>/Dhruv_Nirmal_<Company>_CoverLetter.pdf" --max-pages 1 --para-space 12
+```
+Confirm it reports 1 page at a full-size font (~10.5pt). If it doesn't fit at full size, trim the letter (don't shrink the font) and rerun.
 
 ## Feedback loop
 
