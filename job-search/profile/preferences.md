@@ -14,20 +14,25 @@
 ## Seniority
 - Mid-level (2+ yrs), targeting **mid → senior**. **[ASSUMED]**
 
-## Locations
-- Melbourne, Australia (primary)
-- Remote / hybrid anywhere in Australia. **[ASSUMED]**
-- Onsite: open within Melbourne. **[ASSUMED]**
+## Locations — REMOTE-FIRST (updated 2026-06-24)
+- **Remote is the priority.** Strongly prefer fully-remote roles.
+- **Geographies in scope:** Australia + India (primary — planning to relocate to India soon), plus **India, Dubai (UAE), Saudi Arabia, Singapore**.
+- Melbourne, Australia — current base; AU remote/hybrid roles fine while still here.
+- **Dual objective:** (a) land a higher-paying role in AU in the meantime; (b) prioritise remote opportunities that survive a move to India (i.e. employer happy with India-based remote / or contract).
+- **Out of scope:** US-based roles requiring US payroll/work authorization (e.g. the Pitt + Hack The Box folders) unless they explicitly hire remote-from-AU/India. Not a target geography.
 
 ## Compensation
-- Target / expected base: **AUD 95,000+** (target above 95k; happy higher).
-- Minimum acceptable: **AUD 95,000** — filter out roles advertising below this.
+- Target / expected base: **AUD 95,000+** (target above 95k; happy higher) for AU roles.
+- Minimum acceptable (AU): **AUD 95,000** — filter out AU roles advertising below this.
+- For India / Dubai / Saudi / Singapore roles: benchmark to a strong local market rate (no AUD floor applied — adjust to local senior data/AI pay bands).
 
 ## Must-haves
-- I have full working rights.
+- Full working rights in **Australia**.
+- For international roles: assess work authorization per geography — AU/India remote ideally needs no sponsorship; Dubai/Saudi/Singapore typically require employer sponsorship (flag per role).
 
 ## Dealbreakers
-- no AI/ML scope, etc.
+- No AI/ML scope.
+- Roles that cannot be done remotely / require permanent onsite presence outside scope geos.
 
 ## Industries / domains of interest
 - Data analytics & consulting, fintech, AI/ML products, government/public sector, supply chain / procurement (existing domain strength).

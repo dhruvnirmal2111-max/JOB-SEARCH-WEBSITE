@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 5
+- Active applications: 7
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -16,6 +16,8 @@
 | Kogan.com | Data & ML Engineer | kogan-com--data-ml-engineer | Applying | Owner: review PDF + cover letter → confirm posting live → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-22 | 2026-06-21 |
 | Qualitas | Analyst, Real Estate Private Equity (Technical, Data & AI) | qualitas--analyst-real-estate-private-equity | Applying | Owner: review PDF + cover letter; write required half-page "short note" (cover letter drafted to double as it); submit | submit by 2026-06-23 | 2026-06-22 |
 | Melbourne Water | Data Analyst (EA Level 7) | melbourne-water--data-analyst | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-25 | 2026-06-23 |
+| Univ. of Pittsburgh | Data Analyst I (Neurology — seizure RWE/clinical trials) | university-of-pittsburgh--data-analyst-neurology | Applying | **Owner: confirm US-payroll-from-AU eligibility (no visa sponsorship) BEFORE submitting**; review PDF + cover letter; `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-06-24 |
+| Hack The Box | Data Analyst (Federal Sales — cybersecurity training ROI) | hack-the-box--data-analyst | Applying | **Owner: confirm US work-eligibility / remote-from-AU (federal-facing) BEFORE submitting**; review PDF + cover letter; `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-06-24 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
