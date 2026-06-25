@@ -70,5 +70,15 @@
     "status": "created",
     "gcal_event_id": "sp0jgfgk3b20a4kllhrpp6endg",
     "gcal_link": "https://www.google.com/calendar/event?eid=c3AwamdmZ2szYjIwYTRrbGxocnBwNmVuZGcgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "caterpillar-outreach-week1-20260626",
+    "title": "Send outreach: Caterpillar Junior Data Analyst (recruiter + peer)",
+    "kind": "outreach",
+    "start": "2026-06-26T09:00:00",
+    "end": "2026-06-26T09:20:00",
+    "notes": "CONFIRM location/eligibility FIRST (Caterpillar is US/Peoria-based; check fit vs remote-first/India plan). Then send the week-1 drafted messages in job-search/pipeline/caterpillar--junior-data-analyst/outreach.md: Angela Middleton (recruiter) + Yusuf Afolabi (peer). Verify Angela is still at Caterpillar (last public activity 2023). You send manually.",
+    "source": "caterpillar--junior-data-analyst",
+    "status": "pending"
   }
 ]
