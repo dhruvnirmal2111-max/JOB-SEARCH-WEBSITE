@@ -45,6 +45,12 @@
 | 37 | AGL Energy | Data Scientist | Melbourne (hybrid) | Jun 2026 | Energy/utilities DS; Python + cloud + ML/AI scope; supply-chain/operations domain crossover; est. $105–155k | 7 | Specific posting | |
 | 38 | Optus | Process Mining Data Engineer | Melbourne (hybrid, 3d/wk) | Jun 2026 | Process mining + data pipelines; telecom domain; fixed-term with permanency pathway; $95–126k | 6 | Specific posting | |
 | 39 | CSIRO Data61 | Data Scientist | Melbourne | Jun 2026 | Govt AI research org; energy + analytics domain; Python + ML/AI scope; strong super; est. $105–130k | 7 | Specific posting | |
+| 40 | Wesfarmers OneDigital | Data Engineer | Melbourne (hybrid) | ~Jun 2026 | Retail tech arm (Kmart, Bunnings, Officeworks + OnePass data platform); data pipelines + DS collaboration; Python/cloud stack; est. $120–155k | 8 | Specific posting | |
+| 41 | Woolworths Group | Data Engineer | Melbourne / Sydney (hybrid) | ~Jun 2026 | AU's #1 retailer; Quantium data-science connection; Python/cloud pipeline at scale; supply-chain domain strength; est. $120–145k | 7 | Specific posting | |
+| 42 | SafetyCulture | Data Engineer, Machine Learning | Sydney (remote-hybrid) | ~Mar–Jun 2026 | SaaS unicorn (iAuditor); ML data pipeline focus directly matches DE + ML strengths; remote-hybrid option; est. $120–160k | 7 | Specific posting | |
+| 43 | Block (Square / Afterpay) | Data Scientist / Analytics Engineer | Melbourne | verify | Global fintech; Afterpay AU HQ Melbourne; ML/DS scope + payments-fraud ML; strong comp est. $130–165k; verify live posting before applying | 7 | Company target | |
+| 44 | Monash University | Senior Data Engineer | Clayton, Melbourne (hybrid) | Jun 2026 | Higher-ed/public sector; salary confirmed $120,138–$132,610 + 17% super (total ~$140–155k); stable data infrastructure team | 6 | Specific posting | |
+| 45 | TikTok / ByteDance | Machine Learning Engineer | Sydney / Melbourne | ~Jun 2026 | Top-tier tech employer; 400+ AU open roles; ML engineering at scale; Trust & Safety ML track confirmed Jun 2026; est. $130–180k | 7 | Specific posting | |
 
 ---
 
@@ -72,6 +78,8 @@
 | R13 | Dubai fintech/e-commerce (remote) | Data Analyst / Data Scientist (Python/SQL/Power BI) | Remote UAE | Jun 2026 | 60+ remote DA roles in Dubai (Bayt/Indeed); finance/fintech/e-commerce sectors; tax-free. Check work-auth. **Survives move: partial** | 6 | Company target (confirm a specific posting) | |
 | R14 | Goldman Sachs | Data, Lakehouse & AI Platform Engineer | Bengaluru, India | Jun 2026 | Elite IB; Python/SQL + AI data platform; India-based role (no AUD floor). Verify senior comp band — analyst range posted but GS Bengaluru pays well above. **Survives move: YES** | 8 | Specific posting | |
 | R15 | Shopify | Data Engineer | Fully remote (global) | verify | Remote-first commerce/fintech; hires globally incl. India-compatible timezone; Python + data pipelines + cloud; strong async culture. **Survives move: YES** | 7 | Company target (no specific posting verified) | |
+| R16 | Supabase | Platform Engineer, Data | Worldwide remote | Jun 2026 | Born-remote, hires from 35+ countries incl. India; data-platform infra + distributed services; equity for all. **Stack note: TypeScript/Go primary — confirm fit before applying. Survives move: YES** | 6 | Specific posting | |
+| R17 | Atlassian | Senior Data Engineer | Remote (global, India-eligible) | verify | Fully distributed; India legal entity confirmed; Data Engineering team builds data lake + big-data pipelines; Python/cloud stack match; est. $130–175k. **Survives move: YES** | 8 | Company target | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -114,6 +122,16 @@
 - [Jemena — Senior Data Scientist, Melbourne (SEEK)](https://au.seek.com/Jemena-jobs/in-All-Melbourne-VIC)
 - [Suncorp — Data Scientist, Melbourne (SEEK)](https://au.seek.com/Suncorp-jobs/in-All-Melbourne-VIC)
 - [Transurban — Data Engineer, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/data-engineer/4817227)
+
+### Daily scout sources — 2026-06-25 (rows 40–45, R16–R17)
+- [Wesfarmers OneDigital — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-wesfarmers-onedigital-3742187496)
+- [Woolworths Group — Data Engineer, Melbourne/Sydney (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-woolworths-group-4240628526)
+- [SafetyCulture — Data Engineer Machine Learning, Sydney (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-machine-learning-at-safetyculture-4383539508)
+- [Block / Afterpay — Data Scientist, Melbourne (LinkedIn — verify still live)](https://au.linkedin.com/jobs/view/data-scientist-at-afterpay-3068391259)
+- [Monash University — Senior Data Engineer, Clayton Melbourne (SEEK)](https://au.seek.com/Monash-University-jobs/in-Clayton-VIC-3168)
+- [TikTok / ByteDance — ML Engineer, AU open roles (joinbytedance.com)](https://joinbytedance.com/)
+- [Supabase — Platform Engineer Data, Worldwide Remote (RemoteRocketship)](https://www.remoterocketship.com/company/supabase/jobs/platform-engineer-data-worldwide-remote/)
+- [Atlassian — Data Engineering Careers, Remote Global](https://www.atlassian.com/company/careers/all-jobs)
 
 ### Daily scout sources — 2026-06-24 (rows 34–39, R14–R15)
 - [ASX Ltd — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-asx-4138499787)
