@@ -80,5 +80,25 @@
     "notes": "CONFIRM location/eligibility FIRST (Caterpillar is US/Peoria-based; check fit vs remote-first/India plan). Then send the week-1 drafted messages in job-search/pipeline/caterpillar--junior-data-analyst/outreach.md: Angela Middleton (recruiter) + Yusuf Afolabi (peer). Verify Angela is still at Caterpillar (last public activity 2023). You send manually.",
     "source": "caterpillar--junior-data-analyst",
     "status": "pending"
+  },
+  {
+    "id": "australian-venue-co-outreach-week1-20260626",
+    "title": "Send outreach: Australian Venue Co. Commercial Optimisation Analyst (recruiter + manager)",
+    "kind": "outreach",
+    "start": "2026-06-26T10:00:00",
+    "end": "2026-06-26T10:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/australian-venue-co--commercial-optimisation-analyst-food-beverage/outreach.md: Stephanie Thomson (recruiter) + Fonda Kourmadias (Head of Food Procurement, manager proxy). Peers: Rebecca Tonacao / Cathal Pearse (Analytics). Verify each is currently at AVC first. You send manually.",
+    "source": "australian-venue-co--commercial-optimisation-analyst-food-beverage",
+    "status": "pending"
+  },
+  {
+    "id": "github-ts-outreach-week1-20260627",
+    "title": "Send outreach: GitHub Data Analyst (Trust & Safety) — recruiter + peer",
+    "kind": "outreach",
+    "start": "2026-06-27T09:30:00",
+    "end": "2026-06-27T09:50:00",
+    "notes": "CONFIRM work-authorization (role is Remote-Ontario-Canada, outside geo scope) BEFORE investing. Then send the week-1 drafted messages in job-search/pipeline/github--data-analyst-trust-safety-copilot/outreach.md: recruiter + a peer. Three of five contacts are unconfirmed — use the LinkedIn search filters in the file to find real, currently-employed GitHub T&S/Copilot people first. Confirmed leads: Derek Jedamski (Copilot peer), Alexis Wales (CISO, senior). You send manually.",
+    "source": "github--data-analyst-trust-safety-copilot",
+    "status": "pending"
   }
 ]

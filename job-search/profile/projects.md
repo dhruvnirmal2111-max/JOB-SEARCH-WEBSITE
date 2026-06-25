@@ -111,12 +111,17 @@ Government procurement monitoring; distributed data + ML.
 - **What I did:** Designed and built a single-user, file-based "Job Hunt OS" that runs natively on Claude Code with no paid APIs. It tailors ATS-friendly resumes to a JD and builds 2-page PDFs, drafts cover letters, runs two-track networking (reactive applications + a proactive relationship CRM), analyses resume↔JD skill gaps, and produces daily/weekly reports. Scheduled cloud routines scout roles and build application packages autonomously behind a human review gate; outreach reminders sync to Google Calendar via MCP.
 - **Delivery/impact:** End-to-end automation of a real job search; demonstrates agentic AI, multi-agent orchestration, and system design over a plain-file data model.
 
-### P16. [MyFacit](https://www.myfacit.com) — analytics & decision-support SaaS for a small hospitality business `#personal #saas #ai #analytics #forecasting #bi`
+### P16. [Facit](https://www.myfacit.com) — multi-tenant profitability SaaS for independent cafés `#personal #saas #ai #analytics #forecasting #bi #hospitality #menu-engineering #margin #pricing #cogs #stakeholders`
 - **Site:** www.myfacit.com
-- **Skills/tech:** Data integration (8+ sources), AI-driven automation, forecasting, benchmarking, BI/insight generation.
-- **What I did:** Designed and built a centralised analytics platform for a small (cafe / hospitality) business, integrating 8+ data sources. Built AI-driven workflows to automate data processing, reporting, and insight generation; added forecasting for short-term operational planning; surfaced actionable insights for pricing, product mix, and operational efficiency; benchmarked performance against external indicators for business-health monitoring.
-- **Delivery/impact:** Scalable automated solution that significantly reduced manual effort; currently in pilot with a local small business and in active day-to-day use. Running weekly meetings with the business to fix bugs and assess the industry-specific implications of embedding the tool in a real-world setting.
-- _Want the tech stack named (frontend/backend/DB/hosting) and a user/status line? Send it and I'll add it._
+- **One-liner:** A multi-tenant SaaS that gives independent café owners a single weekly view of profitability by unifying their POS, wages and supplier invoices, so they know every Monday whether last week made money, why, and what to fix.
+- **Skills/tech:** Multi-source data integration (POS + payroll/wages + supplier invoices), multi-tenant SaaS architecture, AI-driven automation, revenue forecasting, menu engineering, supplier price-creep detection, BI/insight generation, designing for messy real-world data and a non-technical end user.
+- **Origin / context:** Started as a **real consulting engagement with Dom, owner of Neighbours Cafe in St Kilda, Melbourne** — a ~6-year-old café with ~20 staff running a TapTouch POS and QuickBooks (unintegrated). Rather than a one-off dashboard, built it as a **white-labellable product**: Neighbours is the live case study / design partner, and every architectural decision was made to generalise to "any independent café with a POS". Working with a real operator meant designing around messy real-world data and a non-technical end user, not a clean spec. (Personal build / product — Neighbours is the design-partner client, not an employer engagement.)
+- **What it does:**
+  - Pulls POS transactions, staff wages, and **14 suppliers' invoices** into one unified model.
+  - A weekly **"pulse"**: revenue, **wage cost %, food cost %, gross margin**, plus one recommended action for the week ahead.
+  - **Revenue forecasting**, cost breakdowns (labour / food / fixed), **menu engineering**, and **supplier price-creep detection**.
+- **Delivery/impact:** Scalable, automated, multi-tenant solution that significantly reduces manual effort; live with Neighbours Cafe as the design partner and in active day-to-day use, with weekly meetings to fix bugs and assess the industry-specific implications of embedding the tool in a real café. Turns unintegrated POS/payroll/supplier data into a Monday-morning profitability decision.
+- _Want the tech stack named (frontend/backend/DB/hosting)? Send it and I'll add it._
 
 ---
 
