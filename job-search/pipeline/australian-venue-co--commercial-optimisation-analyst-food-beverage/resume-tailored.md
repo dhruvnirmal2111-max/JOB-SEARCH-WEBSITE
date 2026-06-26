@@ -2,7 +2,7 @@
 Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](https://www.linkedin.com/in/dhruv-nirmal-data) | [GitHub](https://github.com/dhruvnirmal2111-max)
 
 ## Professional Summary
-I structure ambiguous commercial problems, turn the analysis into clear recommendations, and stay with the project until those recommendations are implemented. I have done this in hospitality twice over: as the sole analyst running a pricing and margin engagement for an AU/NZ restaurant chain (a product catalog of up to ~3,000 items, category-level price-movement dashboards, supplier deal negotiations, direct reporting to the Chief Procurement Officer and food category manager, around 30% savings identified in their largest category in one year), and as the builder of Facit, a multi-tenant SaaS I designed to give independent cafes a weekly view of food cost %, gross margin, and menu engineering signals, with 14 supplier invoices unified into one model. Both are the same discipline: turning messy, unintegrated hospitality data into a decision a non-financial operator can act on. On top of that, I run analytics for enterprise procurement clients whose combined spend exceeds A$12B, and I have built AI and forecasting workflows in production. Commercial decision support with a genuine technical base, in the room with the people who act on it.
+I structure ambiguous commercial problems, turn the analysis into clear recommendations, and stay with the work until they are implemented. I have done this in hospitality twice over: as the sole analyst on a pricing and margin engagement for an AU/NZ restaurant chain, reporting directly to the Chief Procurement Officer and category managers, and as the builder of Facit, a SaaS I designed to give independent cafes a weekly read on food cost %, gross margin, and menu engineering. Both come down to the same discipline: turning messy, unintegrated hospitality data into a decision a non-financial operator can act on. Underneath sits a real technical base, including analytics for enterprise procurement clients whose combined spend exceeds A$12B and AI and forecasting work in production.
 
 ## Key Skills
 **Commercial Analytics:** Menu Engineering, Food Cost % / Gross Margin / COGS, Pricing Analysis, GP$ / GP%, Supplier Price-Creep Detection, Promotional Performance, Sales Mix Analysis, Cost-Leakage Identification
@@ -21,6 +21,7 @@ Sole analyst on multiple enterprise client accounts at a procurement analytics c
 - Identified around 30% savings in the client largest category over one year by surfacing price movement and cost leakage at the product and venue level, giving the procurement team a clear basis for negotiating better supplier deals.
 - Built an ML spend-categorisation pipeline (TF-IDF, Logistic Regression, one-vs-all binary classifier) across roughly A$12B of client spend, applying a Pareto approach: manual review for the high-value head, model for the long tail. Cut categorisation time from about 1 to 1.5 months of account-manager work to a single-day model run.
 - Built 16+ Tableau dashboards and a Power BI solution (adopted by the Department of Transport) giving stakeholder teams live visibility into supplier performance, KPI trends, and cost-optimisation opportunities.
+- Own the end-to-end automated data pipeline for the firm's largest client (spend across 5 global regions and 13 sub-regions, ~6M invoice rows refreshed weekly): replaced a manual upload-and-check process with automated email-based ingestion and validation, a reproducible process that cut weekly turnaround from ~4-5 hours to a ~75-minute run and standardised delivery so insights refresh quickly across all 13 regions.
 - Developed a time-series forecasting model (Prophet) for a fresh-produce client to plan raw-material and chemical inventory 3 months ahead, incorporating sea-freight price drivers; achieved a 12.5 to 14% error margin, inside the client accepted tolerance.
 - Deployed agentic AI workflows (multi-agent data QA, automated client report generation) that cut delivery turnaround by roughly 50% and replaced manual, per-client report-assembly across the team.
 
@@ -41,12 +42,6 @@ Jan 2021 to Jul 2021
 - Built Facit ([myfacit.com](https://www.myfacit.com)) as a white-labellable, multi-tenant SaaS for independent cafes: pulls POS transactions, staff wages, and 14 suppliers' invoices into one unified model so owners know every week whether last week made money, why, and what to change.
 - Delivers a weekly profitability pulse covering revenue, wage cost %, food cost %, and gross margin, plus menu engineering signals (which items drive margin, which erode it), supplier price-creep detection (flagging rising input costs before they hit the P&L), and revenue forecasting for the week ahead.
 - Built with Neighbours Cafe, St Kilda (a live ~20-staff café) as the design partner: designed around messy, unintegrated real-world data (TapTouch POS, QuickBooks, manual supplier invoices) and a non-technical operator. Running weekly sessions to test and refine the tool in active day-to-day use.
-
-### Restaurant Chain Pricing and Margin Platform (Python, SQL, BI Dashboards) -- client work
-- Built the end-to-end commercial analytics suite for a multi-site AU/NZ restaurant chain: product catalog (up to ~3,000 items), pricing-decision dashboard tracking category-level price movement for supplier negotiations, and a substitute-product flagging tool. Identified around 30% savings in the client largest category over one year.
-
-### ML Spend-Categorisation Pipeline (Python, Scikit-learn, TF-IDF) -- client work
-- Led the design and build of a one-vs-all binary ML classifier to categorise roughly A$12B of client spend; applied a Pareto approach (manual head, model tail), handled class imbalance, and packaged the method into a repeatable pipeline now rolled out across clients. Cut categorisation time from about 1 to 1.5 months to a single-day model run.
 
 ## Education
 
