@@ -40,6 +40,9 @@ Role-agnostic. Future roles will differ in their specifics (title, domain, arche
 - **Pick projects by relevance to THIS JD**, not by how flashy or AI-heavy they are. Drop weak or off-target bullets; include analytics/decision-support and domain-adjacent work even if it's less "impressive" on paper.
 - Be selective: a tight set of strong, relevant bullets beats an exhaustive list.
 
+## Remote / distributed roles
+- When the role is remote or hybrid, explicitly highlight the strengths that de-risk remote work: **proactive, clear written communication, async updates, and thorough documentation** of methods, decisions and handovers. The owner deliberately over-communicates and over-documents on remote work, so make that visible (in the summary and/or a bullet, e.g. "keep clear written documentation and proactive updates so distributed teams and clients stay aligned"). Only do this for genuinely remote/hybrid roles, not co-located ones.
+
 ## Titles
 - **Target the ACTUAL posting title** — it can differ from the body text (e.g. posting says "Data Scientist (Consulting)" while the body says "Analyst"). Confirm and use the real one.
 - Align the **displayed** current-role title to the JD's generic discipline only when truthful (e.g. Data Engineer -> Data Scientist when the work genuinely supports it). The master files keep the real title.
