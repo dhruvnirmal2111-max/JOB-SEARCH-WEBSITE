@@ -3,8 +3,12 @@
 > **Read this every run.** The commander, scout, engine, and reports all factor these in. This is *why* we're doing the hunt, not just the mechanics. Update anytime (phone app, GitHub, or just tell Claude) — the weekly review revisits it.
 > Lines tagged **[TELL ME]** are waiting on your input — fill them when you can.
 
-## North star (the bigger why)
-- [TELL ME] — what are you ultimately optimising for? (e.g. "senior AI/ML role at a product company within 12 months", "max comp", "work on agentic AI", "visa/PR path", "lifestyle/remote", "learning + growth")
+## North star (the bigger why) — updated 2026-06-24
+- **Relocating to India soon.** Going hard on the job search now with a two-part aim:
+  1. Land a **higher-paying role while still in Australia** (near-term income).
+  2. Build **remote opportunities that survive the move to India** — for a smooth transition (a role I can keep, or warm pipeline I can convert, once in India).
+- **Remote-first** is the through-line: prioritise fully-remote roles over onsite.
+- **Geographies in scope:** Australia + India (primary), plus **India, Dubai, Saudi Arabia, Singapore**. (US is out of scope unless explicitly remote-from-AU/India.)
 
 ## 30-day goal (this campaign)
 - Signed offer by **2026-07-21** for a Data Analyst / Data Scientist / AI-focused role.
@@ -15,8 +19,9 @@
 - [TELL ME] — which direction excites you most long-term: **AI/ML engineering**, **data science**, **analytics/consulting**, or **product/decision-support**? This steers scouting + how resumes are framed.
 
 ## Compensation & logistics
-- Base floor: **AUD 95,000+** (from preferences).
-- Location: Melbourne + remote/hybrid AU.
+- Base floor (AU roles): **AUD 95,000+** (from preferences).
+- Location: **remote-first** — AU + India (primary), plus India / Dubai / Saudi / Singapore. Melbourne is the current base only.
+- For non-AU roles: benchmark to strong local senior data/AI pay (no AUD floor); flag work-authorization/sponsorship per geography.
 - [TELL ME] — any comp stretch target, equity preference, or company-size preference (startup vs enterprise)?
 
 ## What "a great outcome" looks like

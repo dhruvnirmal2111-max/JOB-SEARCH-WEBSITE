@@ -46,5 +46,65 @@
     "status": "created",
     "gcal_event_id": "32q9do3pq8ruebl0sdh9qdp3ks",
     "gcal_link": "https://www.google.com/calendar/event?eid=MzJxOWRvM3BxOHJ1ZWJsMHNkaDlxZHAza3MgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "pitt-neurology-outreach-week1-20260625",
+    "title": "Send outreach: Univ. of Pittsburgh Data Analyst (Neurology) — peer + recruiter",
+    "kind": "outreach",
+    "start": "2026-06-25T09:00:00",
+    "end": "2026-06-25T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/university-of-pittsburgh--data-analyst-neurology/outreach.md (week-1: Katherine McFarlane (peer) + Zach Kurta (recruiter)). Kurta message also raises the Melbourne/US-payroll eligibility question — confirm that BEFORE investing further. You send manually.",
+    "source": "university-of-pittsburgh--data-analyst-neurology",
+    "status": "created",
+    "gcal_event_id": "dan58mqi27crlc3k7ist4lots0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=ZGFuNThtcWkyN2NybGMzazdpc3Q0bG90czAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "hack-the-box-outreach-week1-20260625",
+    "title": "Send outreach: Hack The Box Data Analyst (recruiter + peer)",
+    "kind": "outreach",
+    "start": "2026-06-25T09:30:00",
+    "end": "2026-06-25T09:50:00",
+    "notes": "CONFIRM US work-eligibility / remote-from-AU FIRST (federal-facing role). Then send the drafted messages in job-search/pipeline/hack-the-box--data-analyst/outreach.md: recruiter (HTB TA, find name) + a peer (Yannis Sarantis or Panagiotis Apostolopoulos). Verify each is currently at HTB. You send manually.",
+    "source": "hack-the-box--data-analyst",
+    "status": "created",
+    "gcal_event_id": "sp0jgfgk3b20a4kllhrpp6endg",
+    "gcal_link": "https://www.google.com/calendar/event?eid=c3AwamdmZ2szYjIwYTRrbGxocnBwNmVuZGcgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "caterpillar-outreach-week1-20260626",
+    "title": "Send outreach: Caterpillar Junior Data Analyst (recruiter + peer)",
+    "kind": "outreach",
+    "start": "2026-06-26T09:00:00",
+    "end": "2026-06-26T09:20:00",
+    "notes": "CONFIRM location/eligibility FIRST (Caterpillar is US/Peoria-based; check fit vs remote-first/India plan). Then send the week-1 drafted messages in job-search/pipeline/caterpillar--junior-data-analyst/outreach.md: Angela Middleton (recruiter) + Yusuf Afolabi (peer). Verify Angela is still at Caterpillar (last public activity 2023). You send manually.",
+    "source": "caterpillar--junior-data-analyst",
+    "status": "created",
+    "gcal_event_id": "lo4ij1brfn7bdjp4ldcm1a7mm0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=bG80aWoxYnJmbjdiZGpwNGxkY20xYTdtbTAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "australian-venue-co-outreach-week1-20260626",
+    "title": "Send outreach: Australian Venue Co. Commercial Optimisation Analyst (recruiter + manager)",
+    "kind": "outreach",
+    "start": "2026-06-26T10:00:00",
+    "end": "2026-06-26T10:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/australian-venue-co--commercial-optimisation-analyst-food-beverage/outreach.md: Stephanie Thomson (recruiter) + Fonda Kourmadias (Head of Food Procurement, manager proxy). Peers: Rebecca Tonacao / Cathal Pearse (Analytics). Verify each is currently at AVC first. You send manually.",
+    "source": "australian-venue-co--commercial-optimisation-analyst-food-beverage",
+    "status": "created",
+    "gcal_event_id": "3j4sua6cmak2cb3sr79g4s0hkk",
+    "gcal_link": "https://www.google.com/calendar/event?eid=M2o0c3VhNmNtYWsyY2Izc3I3OWc0czBoa2sgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "github-ts-outreach-week1-20260627",
+    "title": "Send outreach: GitHub Data Analyst (Trust & Safety) — recruiter + peer",
+    "kind": "outreach",
+    "start": "2026-06-27T09:30:00",
+    "end": "2026-06-27T09:50:00",
+    "notes": "CONFIRM work-authorization (role is Remote-Ontario-Canada, outside geo scope) BEFORE investing. Then send the week-1 drafted messages in job-search/pipeline/github--data-analyst-trust-safety-copilot/outreach.md: recruiter + a peer. Three of five contacts are unconfirmed — use the LinkedIn search filters in the file to find real, currently-employed GitHub T&S/Copilot people first. Confirmed leads: Derek Jedamski (Copilot peer), Alexis Wales (CISO, senior). You send manually. NOTE: Physio is at 09:30 Jun 27 — move this event if needed.",
+    "source": "github--data-analyst-trust-safety-copilot",
+    "status": "created",
+    "gcal_event_id": "63mb5m9poj7mpa4qo9df5bbv74",
+    "gcal_link": "https://www.google.com/calendar/event?eid=NjNtYjVtOXBvajdtcGE0cW85ZGY1YmJ2NzQgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

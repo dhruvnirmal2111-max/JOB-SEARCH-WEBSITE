@@ -39,6 +39,47 @@
 | 31 | Jemena | Senior Data Scientist | Melbourne | Jun 2026 | Utilities/energy; Senior DS building ML apps for electricity network management; DS/ML scope; est. $130–160k | 7 | Specific posting | |
 | 32 | Suncorp | Data Scientist | Melbourne CBD (hybrid) | Jun 2026 | Insurance/fintech; DS role Python + SQL + AI; Melbourne CBD 3-days/wk hybrid; est. $115–145k | 7 | Specific posting | |
 | 33 | Transurban | Data Engineer | Melbourne CBD | Jun 2026 | Toll roads/infrastructure; enterprise data platform architecture + dev; Melbourne CBD; flexible working + benefits | 7 | Specific posting | |
+| 34 | ASX Ltd | Data Engineer | Melbourne (hybrid) | Jun 2026 | Financial-markets data platform; Azure/Databricks/Snowflake/dbt stack direct match; elite AU-listed fintech; est. $120–145k | 8 | Specific posting | |
+| 35 | Deloitte Australia | Data Engineer / Analytics Consultant | Melbourne | Jun 2026 | Big 4 analytics consulting; data platform modernisation; analytics/consulting domain strength; $104–171k | 8 | Company target | |
+| 36 | KPMG Australia | Cloud / Analytics Data Engineer | Melbourne | Jun 2026 | Big 4 data & AI practice; cloud + BI stack match; consulting domain; $99–184k | 7 | Company target | |
+| 37 | AGL Energy | Data Scientist | Melbourne (hybrid) | Jun 2026 | Energy/utilities DS; Python + cloud + ML/AI scope; supply-chain/operations domain crossover; est. $105–155k | 7 | Specific posting | |
+| 38 | Optus | Process Mining Data Engineer | Melbourne (hybrid, 3d/wk) | Jun 2026 | Process mining + data pipelines; telecom domain; fixed-term with permanency pathway; $95–126k | 6 | Specific posting | |
+| 39 | CSIRO Data61 | Data Scientist | Melbourne | Jun 2026 | Govt AI research org; energy + analytics domain; Python + ML/AI scope; strong super; est. $105–130k | 7 | Specific posting | |
+| 40 | Wesfarmers OneDigital | Data Engineer | Melbourne (hybrid) | ~Jun 2026 | Retail tech arm (Kmart, Bunnings, Officeworks + OnePass data platform); data pipelines + DS collaboration; Python/cloud stack; est. $120–155k | 8 | Specific posting | |
+| 41 | Woolworths Group | Data Engineer | Melbourne / Sydney (hybrid) | ~Jun 2026 | AU's #1 retailer; Quantium data-science connection; Python/cloud pipeline at scale; supply-chain domain strength; est. $120–145k | 7 | Specific posting | |
+| 42 | SafetyCulture | Data Engineer, Machine Learning | Sydney (remote-hybrid) | ~Mar–Jun 2026 | SaaS unicorn (iAuditor); ML data pipeline focus directly matches DE + ML strengths; remote-hybrid option; est. $120–160k | 7 | Specific posting | |
+| 43 | Block (Square / Afterpay) | Data Scientist / Analytics Engineer | Melbourne | verify | Global fintech; Afterpay AU HQ Melbourne; ML/DS scope + payments-fraud ML; strong comp est. $130–165k; verify live posting before applying | 7 | Company target | |
+| 44 | Monash University | Senior Data Engineer | Clayton, Melbourne (hybrid) | Jun 2026 | Higher-ed/public sector; salary confirmed $120,138–$132,610 + 17% super (total ~$140–155k); stable data infrastructure team | 6 | Specific posting | |
+| 45 | TikTok / ByteDance | Machine Learning Engineer | Sydney / Melbourne | ~Jun 2026 | Top-tier tech employer; 400+ AU open roles; ML engineering at scale; Trust & Safety ML track confirmed Jun 2026; est. $130–180k | 7 | Specific posting | |
+
+---
+
+## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
+
+> Triggered by the strategy switch to **remote-first** ahead of a move to India. Ranking weights: **(a) fully remote**, **(b) survives a move to India** (employer hires India-based remote/contract — the highest-value trait), **(c) AI/LLM scope**, **(d) role fit**.
+> **"Survives move? = yes"** means the employer hires globally / India-based, so you could keep the role after relocating. **"AU-only"** roles serve the near-term AU-income goal but would NOT follow you to India.
+> Salary: AUD 95k floor applies to AU rows only; international rows benchmarked to strong local senior pay (most clear easily).
+> These came from job-board aggregators + career pages — **confirm each is a live posting and check work-authorization per geography before applying.**
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R1 | GitLab | Data Analyst / Data Scientist (Data team) | Fully remote (global) | verify | All-remote pioneer, hires in 50+ countries incl. India; modern data stack + analytics. **Survives move: YES** | 9 | Company target (no specific posting verified) | |
+| R2 | Deel | Data Scientist / Analytics | Fully remote (global) | verify | Global EOR/payroll co — hires worldwide incl. India *and* can employ you compliantly post-move; data/AI scope. **Survives move: YES** | 9 | Company target (no specific posting verified) | |
+| R3 | Hugging Face | ML / Data roles | Fully remote (global, distributed) | verify | Core LLM/agentic-AI company — directly matches your rare edge; hires internationally. Senior bar high. **Survives move: YES** | 9 | Company target (no specific posting verified) | |
+| R4 | Zapier | Data Analyst / Data Scientist | Fully remote (global) | verify | Remote-first automation/AI co; analytics + workflow-automation overlaps your agentic-AI work. **Survives move: YES** | 8 | Company target (no specific posting verified) | |
+| R5 | Automattic | Data Wrangler / Data Scientist | Fully remote (global, distributed) | verify | Fully distributed; hires globally incl. India; SQL/Python analytics. **Survives move: YES** | 8 | Company target (no specific posting verified) | |
+| R6 | Canva | Senior Data Scientist – People Analytics | Remote across ANZ | Jun 2026 | Verified live remote-ANZ posting; Snowflake+Python+SQL; design-tech scale; ~$130–170k. **Survives move: AU-only** (near-term income) | 9 | Specific posting | |
+| R7 | Mozn | Data Scientist / Data Science Manager | Riyadh, Saudi Arabia (remote/relocation pkg) | ~Jun 2026 | Fast-growing Saudi AI/data-science firm (Vision 2030); AI products; tax-free pay, relocation offered. Verify remote vs onsite. **Survives move: partial** | 7 | Specific posting | |
+| R8 | Crossover | Data / AI Engineer (remote contract) | Fully remote (global) | verify | Global remote contracts, explicitly India-eligible; high-pay async roles. Contract, not perm. **Survives move: YES** | 7 | Company target (no specific posting verified) | |
+| R9 | Binance | Data Scientist / Data Analyst | Remote (global, region-flexible) | verify | Remote-friendly fintech/crypto; ML + analytics; hires across India/SG/UAE. **Survives move: YES** | 7 | Company target (no specific posting verified) | |
+| R10 | Shift Technology | Data Scientist (fraud/insurance ML) | Remote (Singapore / APAC) | verify | AI fraud-detection — overlaps your anomaly-detection work; SG remote DS surfaced. **Survives move: partial (APAC)** | 7 | Specific posting | |
+| R11 | Cohere / Together AI | ML / Applied AI roles | Fully remote (global) | verify | LLM-platform companies hiring internationally remote; matches LLM/agentic edge. Senior/strong bar. **Survives move: YES** | 7 | Company target (no specific posting verified) | |
+| R12 | India BI/Analytics (remote, anywhere-in-India) | BI Analyst / Data Scientist (3–5 yrs, SQL+Python+Looker/Tableau/Power BI) | Remote India | Jun 2026 | Many anywhere-in-India remote analytics roles on Naukri/Hirist/Indeed; direct fit; lands you in target market. **Survives move: YES (in-country)** | 7 | Company target (confirm a specific posting) | |
+| R13 | Dubai fintech/e-commerce (remote) | Data Analyst / Data Scientist (Python/SQL/Power BI) | Remote UAE | Jun 2026 | 60+ remote DA roles in Dubai (Bayt/Indeed); finance/fintech/e-commerce sectors; tax-free. Check work-auth. **Survives move: partial** | 6 | Company target (confirm a specific posting) | |
+| R14 | Goldman Sachs | Data, Lakehouse & AI Platform Engineer | Bengaluru, India | Jun 2026 | Elite IB; Python/SQL + AI data platform; India-based role (no AUD floor). Verify senior comp band — analyst range posted but GS Bengaluru pays well above. **Survives move: YES** | 8 | Specific posting | |
+| R15 | Shopify | Data Engineer | Fully remote (global) | verify | Remote-first commerce/fintech; hires globally incl. India-compatible timezone; Python + data pipelines + cloud; strong async culture. **Survives move: YES** | 7 | Company target (no specific posting verified) | |
+| R16 | Supabase | Platform Engineer, Data | Worldwide remote | Jun 2026 | Born-remote, hires from 35+ countries incl. India; data-platform infra + distributed services; equity for all. **Stack note: TypeScript/Go primary — confirm fit before applying. Survives move: YES** | 6 | Specific posting | |
+| R17 | Atlassian | Senior Data Engineer | Remote (global, India-eligible) | verify | Fully distributed; India legal entity confirmed; Data Engineering team builds data lake + big-data pipelines; Python/cloud stack match; est. $130–175k. **Survives move: YES** | 8 | Company target | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -81,3 +122,38 @@
 - [Jemena — Senior Data Scientist, Melbourne (SEEK)](https://au.seek.com/Jemena-jobs/in-All-Melbourne-VIC)
 - [Suncorp — Data Scientist, Melbourne (SEEK)](https://au.seek.com/Suncorp-jobs/in-All-Melbourne-VIC)
 - [Transurban — Data Engineer, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/data-engineer/4817227)
+
+### Daily scout sources — 2026-06-25 (rows 40–45, R16–R17)
+- [Wesfarmers OneDigital — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-wesfarmers-onedigital-3742187496)
+- [Woolworths Group — Data Engineer, Melbourne/Sydney (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-woolworths-group-4240628526)
+- [SafetyCulture — Data Engineer Machine Learning, Sydney (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-machine-learning-at-safetyculture-4383539508)
+- [Block / Afterpay — Data Scientist, Melbourne (LinkedIn — verify still live)](https://au.linkedin.com/jobs/view/data-scientist-at-afterpay-3068391259)
+- [Monash University — Senior Data Engineer, Clayton Melbourne (SEEK)](https://au.seek.com/Monash-University-jobs/in-Clayton-VIC-3168)
+- [TikTok / ByteDance — ML Engineer, AU open roles (joinbytedance.com)](https://joinbytedance.com/)
+- [Supabase — Platform Engineer Data, Worldwide Remote (RemoteRocketship)](https://www.remoterocketship.com/company/supabase/jobs/platform-engineer-data-worldwide-remote/)
+- [Atlassian — Data Engineering Careers, Remote Global](https://www.atlassian.com/company/careers/all-jobs)
+
+### Daily scout sources — 2026-06-24 (rows 34–39, R14–R15)
+- [ASX Ltd — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-asx-4138499787)
+- [Deloitte Australia — Technology & Transformation / Data & Analytics Careers](https://www.deloitte.com/au/en/careers/professionals/technology-transformation.html)
+- [KPMG Australia — Digital, Data & Analytics Careers](https://kpmg.com/au/en/careers/job-search/digital-data.html)
+- [AGL Energy — Careers, Melbourne](https://www.agl.com.au/about-agl/careers)
+- [Optus — Process Mining Data Engineer, Melbourne (SEEK)](https://www.seek.com.au/Optus-jobs/in-All-Melbourne-VIC)
+- [CSIRO Data61 — Data Scientist, Melbourne (CSIRO Jobs)](https://jobs.csiro.au/)
+- [Goldman Sachs — Data, Lakehouse & AI Platform Engineer, Bengaluru (GS Careers)](https://higher.gs.com/roles/149322)
+- [Shopify — Data Engineering Careers (Remote, Global)](https://www.shopify.com/careers/disciplines/engineering-data)
+
+### Remote-first scout sources (2026-06-24)
+- [Remote data scientist jobs in Australia — Glassdoor](https://www.glassdoor.com.au/Job/remote-data-scientist-jobs-SRCH_KO0,21.htm)
+- [Canva — Senior Data Scientist People Analytics, Remote across ANZ](https://www.lifeatcanva.com/en/jobs/6000000000809644/senior-data-scientist-people-analytics-remote-across-anz/)
+- [Top AI companies hiring remote 2026 — Built In (GitLab, Zapier, Automattic, Hugging Face, Cohere, Together AI, Deel)](https://builtin.com/companies/hiring/remote/type/artificial-intelligence-companies)
+- [Remote AI Engineer jobs — RemoteRocketship](https://www.remoterocketship.com/jobs/ai-engineer/)
+- [Remote AI Engineer jobs — Crossover](https://www.crossover.com/jobs/ai-engineer)
+- [AI/ML jobs June 2026 — hirist.tech (India)](https://www.hirist.tech/c/ai-ml-jobs)
+- [AI/ML Data Analyst Remote jobs — Indeed India](https://in.indeed.com/q-ai-ml-data-analyst-remote-jobs.html)
+- [Gen AI jobs — Naukri (India)](https://www.naukri.com/gen-ai-jobs)
+- [Data Analyst Remote jobs in UAE — Bayt](https://www.bayt.com/en/uae/jobs/data-analyst-remote-jobs/)
+- [Remote Data & Analytics jobs Dubai/Abu Dhabi — MeetFrank](https://meetfrank.com/?category=FULLY_REMOTE)
+- [Remote data scientist jobs Singapore — Glassdoor (Shift Technology, Feedzai, Palantir, Binance)](https://www.glassdoor.sg/Job/singapore-remote-data-scientist-jobs-SRCH_IL.0,9_IC3235921_KO10,31.htm)
+- [Remote Data Scientist jobs Saudi Arabia — Jobgether (Mozn, Riyadh)](https://jobgether.com/remote-jobs/saudi-arabia/data-scientist)
+- [AI & ML jobs in Saudi Arabia 2026, visa sponsorship & salaries — ZeroTaxJobs](https://zerotaxjobs.com/ai-jobs-in-saudi-arabia)
