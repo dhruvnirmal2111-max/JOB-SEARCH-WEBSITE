@@ -51,6 +51,12 @@
 | 43 | Block (Square / Afterpay) | Data Scientist / Analytics Engineer | Melbourne | verify | Global fintech; Afterpay AU HQ Melbourne; ML/DS scope + payments-fraud ML; strong comp est. $130–165k; verify live posting before applying | 7 | Company target | |
 | 44 | Monash University | Senior Data Engineer | Clayton, Melbourne (hybrid) | Jun 2026 | Higher-ed/public sector; salary confirmed $120,138–$132,610 + 17% super (total ~$140–155k); stable data infrastructure team | 6 | Specific posting | |
 | 45 | TikTok / ByteDance | Machine Learning Engineer | Sydney / Melbourne | ~Jun 2026 | Top-tier tech employer; 400+ AU open roles; ML engineering at scale; Trust & Safety ML track confirmed Jun 2026; est. $130–180k | 7 | Specific posting | |
+| 46 | Culture Amp | Senior Data Engineer | Melbourne (hybrid) | ~Jun 22, 2026 | HR tech SaaS unicorn (Melbourne-HQ); data platform + pipelines at product scale; Python + dbt/cloud; est. $120–155k | 8 | Specific posting | |
+| 47 | McKinsey QuantumBlack | Data Scientist | Melbourne | Jun 2026 | Elite AI consulting arm (QuantumBlack); Python + ML deployed on client engagements; premier brand; agentic-AI scope; est. $180–220K TC | 8 | Specific posting | |
+| 48 | PwC Australia | AI Engineer (Data & AI) | Melbourne | Jun 2026 | Big 4 Data & AI practice; GenAI + LLM architecture + cloud; directly matches agentic-AI/LLM edge; est. $130–160k | 8 | Specific posting | |
+| 49 | EY Australia | Data Scientist (AI & Data) | Melbourne | Jun 2026 | Big 4 technology consulting; DS + GenAI scope; Databricks + Azure ADF + Power BI stack; est. $100–155k | 7 | Specific posting | |
+| 50 | Airwallex | Senior Data Scientist (ANZ) | Melbourne (hybrid) | ~Jun 2026 | Global fintech unicorn (Melbourne-founded); ML + exec-level analytics + forecasting; fintech domain; est. $150–175k | 8 | Specific posting | |
+| 51 | IRESS | Data Engineer | Melbourne (hybrid) | ~Jun 2026 | Wealthtech / investment-management SaaS; serverless cloud data platform; Python + cloud pipelines; fintech domain; est. $115–140k | 7 | Specific posting | |
 
 ---
 
@@ -80,6 +86,8 @@
 | R15 | Shopify | Data Engineer | Fully remote (global) | verify | Remote-first commerce/fintech; hires globally incl. India-compatible timezone; Python + data pipelines + cloud; strong async culture. **Survives move: YES** | 7 | Company target (no specific posting verified) | |
 | R16 | Supabase | Platform Engineer, Data | Worldwide remote | Jun 2026 | Born-remote, hires from 35+ countries incl. India; data-platform infra + distributed services; equity for all. **Stack note: TypeScript/Go primary — confirm fit before applying. Survives move: YES** | 6 | Specific posting | |
 | R17 | Atlassian | Senior Data Engineer | Remote (global, India-eligible) | verify | Fully distributed; India legal entity confirmed; Data Engineering team builds data lake + big-data pipelines; Python/cloud stack match; est. $130–175k. **Survives move: YES** | 8 | Company target | |
+| R18 | Joveo | LLM Engineer | Remote (India-friendly) | Jun 2026 | Recruitment-AI startup; RAG pipelines + LLM fine-tuning + agentic workflows + RAGAS eval; India hiring confirmed. **⚠ DEADLINE ~Jun 26 — apply today. Survives move: YES** | 8 | Specific posting | |
+| R19 | Datafold | Forward Deployed Data Engineer | Remote (EU/US tz preferred) | Jun 2026 | Data observability SaaS (dbt + Snowflake + Databricks); $155–185K USD; strong comp. EU/US tz preferred — flag for AU/India. **Survives move: partial** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -122,6 +130,16 @@
 - [Jemena — Senior Data Scientist, Melbourne (SEEK)](https://au.seek.com/Jemena-jobs/in-All-Melbourne-VIC)
 - [Suncorp — Data Scientist, Melbourne (SEEK)](https://au.seek.com/Suncorp-jobs/in-All-Melbourne-VIC)
 - [Transurban — Data Engineer, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/data-engineer/4817227)
+
+### Daily scout sources — 2026-06-26 (rows 46–51, R18–R19)
+- [Culture Amp — Senior Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-engineer-at-culture-amp-1993902118)
+- [McKinsey QuantumBlack — Data Scientist, Melbourne (McKinsey Careers)](https://www.mckinsey.com/capabilities/quantumblack/careers-and-community/data-scientist)
+- [PwC Australia — AI Engineer (Data & AI), Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/ai-engineer-data-ai-at-pwc-australia-4426065414)
+- [EY Australia — Data Scientist (AI & Data), Melbourne (EY Careers)](https://careers.ey.com/ey/job/Melbourne-Data-Scientist-AI-and-Data-Technology-Consulting-VIC-3000/1248453401/)
+- [Airwallex — Senior Data Scientist (ANZ), Melbourne (Airwallex Careers)](https://careers.airwallex.com/job/23da3071-b59f-4db9-b46f-8ad8e27de5f6/senior-data-scientist-anz/)
+- [IRESS — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-iress-2958064444)
+- [Joveo — LLM Engineer, Remote/India (LinkedIn India)](https://in.linkedin.com/jobs/view/llm-engineer-remote-at-joveo-ai-4404314000)
+- [Datafold — Forward Deployed Data Engineer, Remote (Ashby)](https://jobs.ashbyhq.com/datafold/21cad7b8-546a-40a1-9a37-cde266201821)
 
 ### Daily scout sources — 2026-06-25 (rows 40–45, R16–R17)
 - [Wesfarmers OneDigital — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-wesfarmers-onedigital-3742187496)
