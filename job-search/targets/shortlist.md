@@ -58,6 +58,17 @@
 | 50 | Airwallex | Senior Data Scientist (ANZ) | Melbourne (hybrid) | ~Jun 2026 | Global fintech unicorn (Melbourne-founded); ML + exec-level analytics + forecasting; fintech domain; est. $150–175k | 8 | Specific posting | |
 | 51 | IRESS | Data Engineer | Melbourne (hybrid) | ~Jun 2026 | Wealthtech / investment-management SaaS; serverless cloud data platform; Python + cloud pipelines; fintech domain; est. $115–140k | 7 | Specific posting | |
 
+### Daily scout — 2026-06-27
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 52 | Hostplus | Data Engineer | Melbourne (hybrid) | ~Jun 2026 | Azure ADF + Snowflake + Python + PySpark stack is a direct match; building resilient data pipelines at a large super fund (Strategy, Data & Analytics transformation); fintech-adjacent domain; est. $120–145k | 9 | Specific posting | |
+| 53 | Flybuys | Senior Data Engineer | Melbourne CBD (flex/hybrid/WFH Australia-wide) | ~Jun 2026 | Snowflake + CI/CD data pipelines; enrichment, governance & analytics toolkit squad; loyalty/retail domain; Australia-wide WFH option (strong remote fit); est. $120–145k | 8 | Specific posting | |
+| 54 | AustralianSuper | Data Science Engineer | Melbourne (hybrid) | ~Jun 2026 | MLOps + model deployment + Python + cloud; transforms Advanced Analytics practice at AU's largest super fund; DevOps/MLOps edge matches agentic-AI profile; est. $130–160k. ⚠ AU/NZ citizenship or PR required — verify before applying | 8 | Specific posting | |
+| 55 | Car Group (carsales.com.au) | Senior Data Scientist | Melbourne (office / hybrid / anywhere) | ~Jun 2026 | Advanced analytics end-to-end ownership from concept to production; "Anywhere" WFH policy (remote eligible); DS mentoring scope; Great Place to Work–certified; est. $130–155k | 7 | Specific posting | |
+| 56 | Downer | Data Engineer | Melbourne | ~Jun 2026 | Azure + Databricks + PySpark + Delta Lake stack match; critical infrastructure data engineering (data centres, hospitals, defence/government); supply-chain/operations domain crossover; est. $110–140k | 7 | Specific posting | |
+| 57 | Accenture Australia | Data Engineer | Melbourne / national (hybrid) | ~Jun 2026 | Enterprise cloud data pipelines at consulting scale; 125+ AU openings (active hiring); data & analytics consulting matches existing consulting-firm exposure; est. $105–145k. Verify Melbourne-specific posting on accenture.com/au-en/careers | 7 | Company target | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -175,3 +186,12 @@
 - [Remote data scientist jobs Singapore — Glassdoor (Shift Technology, Feedzai, Palantir, Binance)](https://www.glassdoor.sg/Job/singapore-remote-data-scientist-jobs-SRCH_IL.0,9_IC3235921_KO10,31.htm)
 - [Remote Data Scientist jobs Saudi Arabia — Jobgether (Mozn, Riyadh)](https://jobgether.com/remote-jobs/saudi-arabia/data-scientist)
 - [AI & ML jobs in Saudi Arabia 2026, visa sponsorship & salaries — ZeroTaxJobs](https://zerotaxjobs.com/ai-jobs-in-saudi-arabia)
+
+### Daily scout sources — 2026-06-27 (rows 52–57)
+- [Hostplus — Data Engineer, Melbourne (LiveHire / Humanforce Talent)](https://www.livehire.com/careers/hostplus/job/AQ438/ERSFYB2YHH/data-engineer)
+- [Flybuys — Senior Data Engineer (WFH-Australia), Melbourne CBD (LinkedIn)](https://au.linkedin.com/jobs/view/jnr-mid-level-senior-data-engineers-new-roles!-flex-hybrid-wfh-within-australia-at-flybuys-3658283399)
+- [AustralianSuper — Data Science Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-science-engineer-at-australiansuper-4247363504)
+- [Car Group (carsales.com.au) — Senior Data Scientist, Melbourne (SmartRecruiters)](https://jobs.smartrecruiters.com/carsales/743999823291874-senior-data-scientist)
+- [Downer — Data Engineer, Melbourne (aijobs.net)](https://aijobs.net/job/1138249-data-engineer/)
+- [Downer — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-downer-4245850112)
+- [Accenture Australia — Data Engineer, AU careers portal](https://www.accenture.com/au-en/careers)
