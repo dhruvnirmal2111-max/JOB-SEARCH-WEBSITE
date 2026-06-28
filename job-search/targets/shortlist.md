@@ -69,6 +69,18 @@
 | 56 | Downer | Data Engineer | Melbourne | ~Jun 2026 | Azure + Databricks + PySpark + Delta Lake stack match; critical infrastructure data engineering (data centres, hospitals, defence/government); supply-chain/operations domain crossover; est. $110–140k | 7 | Specific posting | |
 | 57 | Accenture Australia | Data Engineer | Melbourne / national (hybrid) | ~Jun 2026 | Enterprise cloud data pipelines at consulting scale; 125+ AU openings (active hiring); data & analytics consulting matches existing consulting-firm exposure; est. $105–145k. Verify Melbourne-specific posting on accenture.com/au-en/careers | 7 | Company target | |
 
+### Daily scout — 2026-06-28
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 58 | Sitemate | Machine Learning Engineer | Remote AU | Jun 2026 | Agentic AI / LLM pipelines + intelligent document processing at a construction-tech SaaS; Python + AWS; $115k–$200k; high ownership, lean team — directly plays to the rare LLM edge | 9 | Specific posting | |
+| 59 | InfoCentric | Senior Data Engineer | Melbourne (hybrid) | ~Jun 2026 | AU's largest independent data consultancy; Azure / Snowflake / dbt / GenAI stack is a direct match; covers certification costs; est. $145k–$165k | 8 | Specific posting | |
+| 60 | Kasada | Senior Data Engineer | Remote AU | Jun 2026 | Cybersecurity/bot-detection SaaS; real-time streaming data platform on AWS + Kafka + Spark processing 60k req/sec; adjacent to anomaly-detection strength; est. $175k–$183k | 8 | Specific posting | |
+| 61 | VAPAR | Data Engineer | Remote AU | Jun 2026 | Deep-tech AI/computer-vision startup (pipe-inspection automation); Python + Azure/AWS + ML pipeline; fully remote-AU; $120k–$150k | 7 | Specific posting | |
+| 62 | Employment Hero | Senior Analytics Engineer | Remote AU | ~May–Jun 2026 | HR-tech SaaS unicorn (~$1B+ val); dbt + Python + data modelling; remote-first; own EOR product may enable India portability at offer stage; est. $138k–$160k | 8 | Specific posting | |
+| 63 | Go1 | Senior Data Scientist | Remote AU | Jun 2026 | Ed-tech SaaS scale-up; Python + SQL + ML end-to-end; fully remote-AU + equity + $500 USD learning budget; strong async culture | 8 | Specific posting | |
+| 64 | Bendigo Kangan Institute | Senior Data Engineer | Broadmeadows, Melbourne | Jun 2026 | Lead Azure data lake platform at a major TAFE; ADF + Python + SQL stack match; salary from $164,669 incl. super (well above floor) | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -99,6 +111,8 @@
 | R17 | Atlassian | Senior Data Engineer | Remote (global, India-eligible) | verify | Fully distributed; India legal entity confirmed; Data Engineering team builds data lake + big-data pipelines; Python/cloud stack match; est. $130–175k. **Survives move: YES** | 8 | Company target | |
 | R18 | Joveo | LLM Engineer | Remote (India-friendly) | Jun 2026 | Recruitment-AI startup; RAG pipelines + LLM fine-tuning + agentic workflows + RAGAS eval; India hiring confirmed. **⚠ DEADLINE ~Jun 26 — apply today. Survives move: YES** | 8 | Specific posting | |
 | R19 | Datafold | Forward Deployed Data Engineer | Remote (EU/US tz preferred) | Jun 2026 | Data observability SaaS (dbt + Snowflake + Databricks); $155–185K USD; strong comp. EU/US tz preferred — flag for AU/India. **Survives move: partial** | 7 | Specific posting | |
+| R20 | Sezzle | AI Engineer II | Remote India | ~Jun 2026 | US-listed BNPL fintech; end-to-end AI platform engineering — agentic systems, LLM RAG pipelines, customer-facing AI products; USD-paid; India-remote by design; 3–5 yrs exp. **Survives move: YES** | 8 | Specific posting | |
+| R21 | Canonical | Software Engineer – Data Infrastructure | Remote Worldwide | Jun 2026 | Ubuntu / open-source; globally distributed (India entity since 2004, 1,200+ employees in 75+ countries); data platform infra + Kafka; Python + big-data; no geo restriction; ~$95–109K USD equiv. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -195,3 +209,15 @@
 - [Downer — Data Engineer, Melbourne (aijobs.net)](https://aijobs.net/job/1138249-data-engineer/)
 - [Downer — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-downer-4245850112)
 - [Accenture Australia — Data Engineer, AU careers portal](https://www.accenture.com/au-en/careers)
+
+### Daily scout sources — 2026-06-28 (rows 58–64, R20–R21)
+- [Sitemate — Machine Learning Engineer, Remote AU (Remotive)](https://remotive.com/remote/jobs/software-dev/machine-learning-engineer-2300776)
+- [Sitemate — Machine Learning Engineer application (Ashby)](https://jobs.ashbyhq.com/Sitemate/be95df0d-fabb-4373-a3c6-7c4d4cd0eeb2/application)
+- [InfoCentric — Senior Data Engineer, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/senior-data-engineer/8885016)
+- [Kasada — Senior Data Engineer, Remote AU (Lever)](https://jobs.lever.co/kasada/1723ee59-3e90-4b8f-8dab-a1938d3c2871)
+- [VAPAR — Data Engineer, Remote AU (VAPAR Careers)](https://www.vapar.co/careers/)
+- [Employment Hero — Senior Analytics Engineer, Remote AU (Employment Hero Careers)](https://employmenthero.com/jobs/position/employment-hero-senior-analytics-engineer-remote-mm5at/)
+- [Go1 — Senior Data Scientist, Remote AU (OIF Ventures Job Board)](https://oifvc.getro.com/companies/go1/jobs/67532622-senior-data-scientist)
+- [Bendigo Kangan Institute — Senior Data Engineer, Melbourne (SEEK)](https://au.seek.com/Bendigo-Kangan-Institute-jobs/in-All-Melbourne-VIC)
+- [Sezzle — AI Engineer II, Remote India (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4378063866)
+- [Canonical — Software Engineer Data Infrastructure, Remote Worldwide (Canonical Careers)](https://canonical.com/careers/3014391)
