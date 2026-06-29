@@ -81,6 +81,15 @@
 | 63 | Go1 | Senior Data Scientist | Remote AU | Jun 2026 | Ed-tech SaaS scale-up; Python + SQL + ML end-to-end; fully remote-AU + equity + $500 USD learning budget; strong async culture | 8 | Specific posting | |
 | 64 | Bendigo Kangan Institute | Senior Data Engineer | Broadmeadows, Melbourne | Jun 2026 | Lead Azure data lake platform at a major TAFE; ADF + Python + SQL stack match; salary from $164,669 incl. super (well above floor) | 7 | Specific posting | |
 
+### Daily scout — 2026-06-29
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 65 | Redbubble | Data Engineer | Melbourne | Jun 2026 | ASX-listed e-commerce/creative marketplace; GCP + BigQuery + Airflow + Python data layer rebuild; lean DE + analyst + DS team; est. $115–145k | 7 | Specific posting | |
+| 66 | Thoughtworks | Principal Data Engineer | Melbourne | Jun 2026 | Global tech consultancy; client-facing data platform architecture + hands-on pipeline delivery at scale; consulting domain match; est. $150–180k. ⚠ Principal level — verify experience threshold | 7 | Specific posting | |
+| 67 | DoorDash | Senior Data Scientist | Melbourne / ANZ (hybrid) | Jun 2026 | Global food-delivery; ANZ analytics + A/B testing + strategic DS initiatives; very high comp est. $200–260k TC (E5 band); Python/SQL/Tableau stack | 7 | Specific posting | |
+| 68 | Budgetly | AI Engineer | Remote AU | Jun 2026 | AU fintech SaaS; agentic AI/LLM pipeline engineering for revenue operations; directly matches rare LLM/agentic-AI edge; fully remote AU; est. $110–130k | 8 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -113,6 +122,8 @@
 | R19 | Datafold | Forward Deployed Data Engineer | Remote (EU/US tz preferred) | Jun 2026 | Data observability SaaS (dbt + Snowflake + Databricks); $155–185K USD; strong comp. EU/US tz preferred — flag for AU/India. **Survives move: partial** | 7 | Specific posting | |
 | R20 | Sezzle | AI Engineer II | Remote India | ~Jun 2026 | US-listed BNPL fintech; end-to-end AI platform engineering — agentic systems, LLM RAG pipelines, customer-facing AI products; USD-paid; India-remote by design; 3–5 yrs exp. **Survives move: YES** | 8 | Specific posting | |
 | R21 | Canonical | Software Engineer – Data Infrastructure | Remote Worldwide | Jun 2026 | Ubuntu / open-source; globally distributed (India entity since 2004, 1,200+ employees in 75+ countries); data platform infra + Kafka; Python + big-data; no geo restriction; ~$95–109K USD equiv. **Survives move: YES** | 7 | Specific posting | |
+| R22 | ITC Infotech | AWS Data Engineer (PySpark + Databricks + Snowflake) | Pune, India | Jun 2026 | Tier-1 India IT services firm (ITC Group); exact stack match (AWS Glue/Lambda, Databricks, PySpark, Snowflake, Kafka); India-based = relocation-ready; large enterprise client exposure. **Survives move: YES** | 7 | Specific posting | |
+| R23 | ZettaMine Labs | Data Engineer (Python + PySpark + Databricks + Snowflake) | Bengaluru, India | ~Apr–Jun 2026 | Data engineering boutique, Bengaluru; exact tech stack match (PySpark, Databricks, Snowflake, Python); India-based = relocation-ready; good market-entry role. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -221,3 +232,11 @@
 - [Bendigo Kangan Institute — Senior Data Engineer, Melbourne (SEEK)](https://au.seek.com/Bendigo-Kangan-Institute-jobs/in-All-Melbourne-VIC)
 - [Sezzle — AI Engineer II, Remote India (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4378063866)
 - [Canonical — Software Engineer Data Infrastructure, Remote Worldwide (Canonical Careers)](https://canonical.com/careers/3014391)
+
+### Daily scout sources — 2026-06-29 (rows 65–68, R22–R23)
+- [Redbubble — Data Engineer, Melbourne (Redbubble Careers)](https://careers.redbubble.com/jobs/5091014)
+- [Thoughtworks — Principal Data Engineer, Melbourne (Thoughtworks Careers)](https://www.thoughtworks.com/careers/jobs/5801529)
+- [DoorDash — Senior Data Scientist, ANZ (DoorDash Careers)](https://careersatdoordash.com/jobs/senior-data-scientist/)
+- [Budgetly — AI Engineer, Remote AU (Himalayas)](https://himalayas.app/companies/budgetly/jobs/ai-engineer-remote-in-au)
+- [ITC Infotech — AWS Data Engineer, Pune India (BeBee)](https://bebee.com/in/jobs/aws-data-engineer-pyspark-with-databricks-or-snowflake-itc-infotech-india-pune--techmap_in_48630534)
+- [ZettaMine Labs — Data Engineer, Bengaluru India (LinkedIn India)](https://in.linkedin.com/jobs/view/data-engineer-python-pyspark-databricks-snowflake-at-zettamine-labs-pvt-ltd-4398688144)
