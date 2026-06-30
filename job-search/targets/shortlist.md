@@ -90,6 +90,18 @@
 | 67 | DoorDash | Senior Data Scientist | Melbourne / ANZ (hybrid) | Jun 2026 | Global food-delivery; ANZ analytics + A/B testing + strategic DS initiatives; very high comp est. $200–260k TC (E5 band); Python/SQL/Tableau stack | 7 | Specific posting | |
 | 68 | Budgetly | AI Engineer | Remote AU | Jun 2026 | AU fintech SaaS; agentic AI/LLM pipeline engineering for revenue operations; directly matches rare LLM/agentic-AI edge; fully remote AU; est. $110–130k | 8 | Specific posting | |
 
+### Daily scout — 2026-06-30
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 69 | Westpac | Senior Data Scientist / Data & AI | Melbourne (hybrid) | Jun 2026 | Big-4 bank; broad ML/AI practice at scale; salary range $95.5K–$187K; strong comp ceiling with AI/ML scope | 8 | Specific posting | |
+| 70 | Linktree | Senior Data Scientist / Staff Applied AI Engineer | Melbourne | Jun 2026 | Consumer-social unicorn (Melbourne HQ); applied AI + ML platform engineering; agentic-AI edge directly fits; est. $130–175k | 9 | Specific posting | |
+| 71 | Tyro Payments | Data Engineer – Data & AI Platform | Melbourne (hybrid) | Jun 2026 | Melbourne fintech (payments); cloud data platform modernisation; Python + pipeline stack match; est. $120–150k | 8 | Specific posting | |
+| 72 | Linfox | Senior Data Analyst | Essendon Fields, Melbourne | Jun 2026 | Australia's largest logistics operator; supply-chain/procurement domain maps directly to Comprara background; Power BI + Python analytics; est. $100–130k | 7 | Specific posting | |
+| 73 | Centorrino Technologies | Data Engineer | Remote Australia | Jun 2026 | IT managed services; fully remote-AU; data platform migration + ETL pipelines (SQL Server → ClickHouse); est. $120–160k | 7 | Specific posting | |
+| 74 | Earth AI | Data Engineer | Remote AU / distributed | ~Jun 2026 | Deep-tech AI startup (mineral-exploration ML); spatial data + ML pipelines; Python + cloud; high-ownership lean team; est. $100–140k | 7 | Specific posting | |
+| 75 | MCRI (Murdoch Children's Research Institute) | Data Scientist | Melbourne (on-site) | Jun 2026 | Govt-funded health research; ML / Deep Learning / NLP scope confirmed; salary $111,103–$121,274 + super; stable public-sector benefits | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -124,6 +136,8 @@
 | R21 | Canonical | Software Engineer – Data Infrastructure | Remote Worldwide | Jun 2026 | Ubuntu / open-source; globally distributed (India entity since 2004, 1,200+ employees in 75+ countries); data platform infra + Kafka; Python + big-data; no geo restriction; ~$95–109K USD equiv. **Survives move: YES** | 7 | Specific posting | |
 | R22 | ITC Infotech | AWS Data Engineer (PySpark + Databricks + Snowflake) | Pune, India | Jun 2026 | Tier-1 India IT services firm (ITC Group); exact stack match (AWS Glue/Lambda, Databricks, PySpark, Snowflake, Kafka); India-based = relocation-ready; large enterprise client exposure. **Survives move: YES** | 7 | Specific posting | |
 | R23 | ZettaMine Labs | Data Engineer (Python + PySpark + Databricks + Snowflake) | Bengaluru, India | ~Apr–Jun 2026 | Data engineering boutique, Bengaluru; exact tech stack match (PySpark, Databricks, Snowflake, Python); India-based = relocation-ready; good market-entry role. **Survives move: YES** | 7 | Specific posting | |
+| R24 | Peakflo | AI / ML Engineer | Remote (India / AU) | Jun 2026 | YC-backed fintech startup (AP automation + billing AI); agentic-AI for fintech workflows; India-remote hiring confirmed — fits dual AU+India objective. **Survives move: YES** | 8 | Specific posting | |
+| R25 | HCLTech | Data Scientist | Singapore (hybrid) | ~Jun 17, 2026 | Large IT services (HCL group); ML/NLP scope; Singapore-based with remote flexibility; employer typically sponsors SG work visa (confirm remote terms before applying). **Survives move: partial (SG)** | 6 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -232,6 +246,17 @@
 - [Bendigo Kangan Institute — Senior Data Engineer, Melbourne (SEEK)](https://au.seek.com/Bendigo-Kangan-Institute-jobs/in-All-Melbourne-VIC)
 - [Sezzle — AI Engineer II, Remote India (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4378063866)
 - [Canonical — Software Engineer Data Infrastructure, Remote Worldwide (Canonical Careers)](https://canonical.com/careers/3014391)
+
+### Daily scout sources — 2026-06-30 (rows 69–75, R24–R25)
+- [Westpac — Data Scientist / Data & AI, Melbourne (Westpac Careers)](https://www.westpac.com.au/about-westpac/careers/)
+- [Linktree — Senior Data Scientist / Applied AI Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/linktree-jobs-melbourne)
+- [Tyro Payments — Data Engineer (Data & AI Platform), Melbourne (Tyro Careers)](https://www.tyro.com/careers/)
+- [Linfox — Senior Data Analyst, Essendon Fields Melbourne (BeBee / SEEK)](https://bebee.com/au/jobs/senior-data-analyst-linfox-essendon-fields-vic--theirstack-658174985)
+- [Centorrino Technologies — Data Engineer, Remote Australia (RemoteRocketship)](https://www.remoterocketship.com/company/ct-com-au/jobs/data-engineer-australia-remote/)
+- [Earth AI — Data Engineer, Remote AU (SEEK / Earth AI Careers)](https://www.seek.com.au/Earth-AI-jobs)
+- [MCRI — Data Scientist, Melbourne (SEEK)](https://au.seek.com/data-scientist-jobs/in-All-Melbourne-VIC)
+- [Peakflo — AI/ML Engineer, Remote India/AU (Y Combinator Jobs)](https://www.ycombinator.com/companies/peakflo/jobs/)
+- [HCLTech — Data Scientist, Singapore (HCLTech Careers)](https://www.hcltech.com/careers/singapore)
 
 ### Daily scout sources — 2026-06-29 (rows 65–68, R22–R23)
 - [Redbubble — Data Engineer, Melbourne (Redbubble Careers)](https://careers.redbubble.com/jobs/5091014)
