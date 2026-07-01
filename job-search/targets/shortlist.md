@@ -102,6 +102,22 @@
 | 74 | Earth AI | Data Engineer | Remote AU / distributed | ~Jun 2026 | Deep-tech AI startup (mineral-exploration ML); spatial data + ML pipelines; Python + cloud; high-ownership lean team; est. $100–140k | 7 | Specific posting | |
 | 75 | MCRI (Murdoch Children's Research Institute) | Data Scientist | Melbourne (on-site) | Jun 2026 | Govt-funded health research; ML / Deep Learning / NLP scope confirmed; salary $111,103–$121,274 + super; stable public-sector benefits | 7 | Specific posting | |
 
+### Daily scout — 2026-07-01
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 76 | Nearmap | Machine Learning Engineer (Insurance AI) | Carlsbad, CA USA (remote) | ~Mar 2026 | Aerial imaging AI company; Python + AWS ML pipelines for insurance damage assessment; USD $72–108k; ⚠ Role is US-based (not AU remote) — out of scope per preferences unless company explicitly approves AU-based remote. Verify before applying | 5 | Specific posting | |
+| 77 | Zip Co | Senior Data Scientist (Credit Risk) | Sydney (hybrid) | ~Jun 2026 | BNPL fintech; credit-risk ML (Python + statistical modelling + feature engineering); fintech domain match; est. AUD $120–180k ⚠ Verify still live — listing may have aged | 7 | Specific posting | |
+| 78 | RMIT University | Postdoctoral Research Fellow – Applied LLM & Knowledge Engineering | Melbourne | Jul 2026 | Academic research role that directly matches the Claude/agentic-AI/LLM rare edge; Applied Large Language Modelling + Geospatial Analytics; AUD $115,303–$136,925 + 17% super (~$135–160k total) ⚠ Academic track — check if industry is preferred | 7 | Specific posting | |
+| 79 | Medibank | Senior Data Engineer (AWS / Databricks) | Melbourne (hybrid) | verify | Private health insurance leader; AWS + Databricks + Python cloud data platform; Melbourne HQ; enterprise-scale digital transformation; est. AUD $120–155k — verify live posting on careers.medibank.com.au | 7 | Company target | |
+| 80 | Tabcorp | Data Engineer / Analytics Engineer | Melbourne | verify | ASX-listed wagering/entertainment platform (TAB / Sky Racing); enterprise data engineering at scale; Python + SQL + cloud; supply-chain-adjacent operations data domain; est. AUD $110–145k — verify live posting | 6 | Company target | |
+| 81 | dbt Labs | Analytics Engineer (Senior / Staff) | Remote Global (India-eligible) | verify | THE dbt product company — analytics engineering at the source; dbt + Snowflake + Python stack exact match; fully remote, hires globally incl. India; **Survives move: YES**; est. USD $130–160k (~AUD 195–240k) | 8 | Company target | |
+| 82 | Confluent | Data / Platform Engineer | Remote Global (India-eligible) | verify | Kafka streaming data platform company (Apache Kafka creators); Kafka + Python + cloud streaming stack directly matches profile; remote, India entity confirmed; **Survives move: YES**; est. USD $130–180k; strong engineering culture | 7 | Company target | |
+| 83 | Palo Alto Networks | Data Scientist / Data Engineer | Sydney or Melbourne (hybrid) | verify | Global cybersecurity leader; ML for threat intelligence and anomaly detection maps directly to candidate's anomaly-detection edge; Python + cloud; est. AUD $130–175k — verify specific DE/DS opening on paloaltonetworks.com/company/careers | 7 | Company target | |
+| 84 | Prospa | (Senior) Data Engineer | Remote AU/NZ | ~Jun–Jul 2026 | SMB fintech lending; Google Cloud + AWS + Azure + Databricks + Airflow + Spark stack is a direct match; **remote AU/NZ confirmed**; AUD $135,000–$140,000 + super; high ownership in a lean data team — top new pick for remote-first goal | 9 | Specific posting | |
+| 85 | Zip Co | Senior Data Scientist – Customer Data Science | Sydney (hybrid, 2 days/wk) | ~Jun 2026 | BNPL fintech; explicitly "building and deploying cutting-edge AI and ML solutions"; Python + SQL + ML models; distinct from the Credit Risk role (row 77) — broader AI/ML scope; est. AUD $120–175k | 8 | Specific posting | |
+| 86 | Nuix | Senior Data Engineer (Databricks) | Sydney (hybrid, 3 days/wk) | ~Mar–Jun 2026 | Legal-tech / investigation data analytics platform; Databricks + AWS + Python + Lakehouse + data observability stack exactly matches profile; design/oversee data pipelines + SaaS integrations; est. AUD $160,000–$188,750 | 8 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -257,6 +273,19 @@
 - [MCRI — Data Scientist, Melbourne (SEEK)](https://au.seek.com/data-scientist-jobs/in-All-Melbourne-VIC)
 - [Peakflo — AI/ML Engineer, Remote India/AU (Y Combinator Jobs)](https://www.ycombinator.com/companies/peakflo/jobs/)
 - [HCLTech — Data Scientist, Singapore (HCLTech Careers)](https://www.hcltech.com/careers/singapore)
+
+### Daily scout sources — 2026-07-01 (rows 76–86)
+- [Prospa — Senior Data Engineer, Remote AU/NZ (Prospa Careers)](https://www.prospa.com/about-us/careers/senior-data-engineer-remote-au-nz)
+- [Zip Co — Senior Data Scientist (Customer Data Science), Sydney (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-scientist-at-zip-co-3252803104)
+- [Zip Co — Senior Data Scientist (Credit Risk), Sydney (Greenhouse / Zip Careers)](https://zip.co/careers/roles/4567473006)
+- [Nuix — Senior Data Engineer (Databricks), Sydney (Nuix Careers)](https://careers.nuix.com/postings/e6f841d7-8e70-465b-9a75-83efa907ba8b)
+- [RMIT University — Postdoctoral Research Fellow Applied LLM, Melbourne (The Conversation Job Board)](https://jobs.theconversation.com/jobs/424114912-postdoctoral-research-fellow-applied-large-language-modelling-at-rmit-university)
+- [Nearmap — ML Engineer Insurance AI (US-based, Himalayas)](https://himalayas.app/companies/nearmap/jobs/machine-learning-engineer-insurance-ai-6210895765)
+- [dbt Labs — Careers (Remote Global)](https://www.getdbt.com/dbt-labs/open-roles)
+- [Confluent — Careers (Remote Global)](https://www.confluent.io/careers/)
+- [Palo Alto Networks — AU Careers](https://www.paloaltonetworks.com/company/careers)
+- [Medibank — Careers](https://careers.medibank.com.au/)
+- [Tabcorp — Careers](https://careers.tabcorp.com.au/)
 
 ### Daily scout sources — 2026-06-29 (rows 65–68, R22–R23)
 - [Redbubble — Data Engineer, Melbourne (Redbubble Careers)](https://careers.redbubble.com/jobs/5091014)
