@@ -118,6 +118,18 @@
 | 85 | Zip Co | Senior Data Scientist – Customer Data Science | Sydney (hybrid, 2 days/wk) | ~Jun 2026 | BNPL fintech; explicitly "building and deploying cutting-edge AI and ML solutions"; Python + SQL + ML models; distinct from the Credit Risk role (row 77) — broader AI/ML scope; est. AUD $120–175k | 8 | Specific posting | |
 | 86 | Nuix | Senior Data Engineer (Databricks) | Sydney (hybrid, 3 days/wk) | ~Mar–Jun 2026 | Legal-tech / investigation data analytics platform; Databricks + AWS + Python + Lakehouse + data observability stack exactly matches profile; design/oversee data pipelines + SaaS integrations; est. AUD $160,000–$188,750 | 8 | Specific posting | |
 
+### Daily scout — 2026-07-02
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 87 | Endeavour Group | Data Scientist | Richmond, Melbourne (hybrid) | ~Jul 2026 | Retail/hospitality giant (Dan Murphy's / BWS / ALH Hotels); Python + SQL + dbt + GCP/AWS ML scope; end-to-end DS in agile Advanced Analytics chapter; retail + supply-chain domain crossover; live on SmartRecruiters; est. $115–145k | 7 | Specific posting | |
+| 88 | Endeavour Group | ML Engineering Chapter Lead – Advanced Analytics | Richmond, Melbourne (hybrid) | ~Jul 2026 | Lead Python + BigQuery + Azure/GCP ML team at retail scale; ML model deployment + Advanced Analytics chapter leadership; est. $130–170k ⚠ lead level — confirm experience threshold | 7 | Specific posting | |
+| 89 | NCS Group Australia | Senior Data Engineer | Melbourne (hybrid) | ~Jul 2026 | Databricks Solutions partner (Singapore-HQ IT services); design + build Databricks (PySpark) or Snowflake + dbt pipelines on Azure/AWS/GCP; data platform modernisation; SmartRecruiters + Built In Melbourne confirmed; est. $120–155k | 8 | Specific posting | |
+| 90 | UniSuper | Data Engineer | Melbourne (hybrid, 60% in office) | ~Jun–Jul 2026 | AU's 2nd-largest industry super fund (~$120B+ AUM); data platform + governance engineering; financial services domain; LinkedIn confirmed; est. $110–140k ⚠ 60% in-office requirement | 7 | Specific posting | |
+| 91 | Shell Energy Australia | Data Scientist | Melbourne (hybrid) | ~Jun–Jul 2026 | Energy/utilities sector ML; customer segmentation, churn prediction + demand/load forecasting; Python + ML stack; LinkedIn confirmed; est. $100–140k ⚠ confirm salary ≥ AUD 95k floor before applying | 6 | Specific posting | |
+| 92 | Xephyr | Lead Data Scientist | Melbourne CBD (447 Collins St, hybrid) | ~Jul 2026 | AI/GenAI consulting firm; enterprise AI architecture + team leadership + strategic AI client delivery; GenAI focus directly matches agentic-AI/LLM edge; avg AU lead DS $152k; est. $130–170k | 8 | Specific posting | |
+| 93 | Bendigo and Adelaide Bank | Data Engineer | Melbourne / multi-site (hybrid, 60% in office) | ~Jul 2026 | Regional bank; Digital Data Hub — Enterprise Streaming + Data Assets in the Data & AI Engineering portfolio; cloud-based data pipelines at banking scale; careers page confirmed; est. $110–145k | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -294,3 +306,13 @@
 - [Budgetly — AI Engineer, Remote AU (Himalayas)](https://himalayas.app/companies/budgetly/jobs/ai-engineer-remote-in-au)
 - [ITC Infotech — AWS Data Engineer, Pune India (BeBee)](https://bebee.com/in/jobs/aws-data-engineer-pyspark-with-databricks-or-snowflake-itc-infotech-india-pune--techmap_in_48630534)
 - [ZettaMine Labs — Data Engineer, Bengaluru India (LinkedIn India)](https://in.linkedin.com/jobs/view/data-engineer-python-pyspark-databricks-snowflake-at-zettamine-labs-pvt-ltd-4398688144)
+
+### Daily scout sources — 2026-07-02 (rows 87–93)
+- [Endeavour Group — Data Scientist, Richmond Melbourne (SmartRecruiters)](https://www.smartrecruiters.com/EndeavourGroupCareers/744000096282341-data-scientist)
+- [Endeavour Group — ML Engineering Chapter Lead Advanced Analytics, Richmond Melbourne (Endeavour Careers)](https://endeavourgroupcareers.com.au/job/machine-learning-engineering-chapter-lead-advanced-analytics-in-richmond-vic-3121-jid-169)
+- [NCS Group Australia — Senior Data Engineer, Melbourne (SmartRecruiters)](https://jobs.smartrecruiters.com/NCSAustralia/6000000000890454-senior-data-engineer)
+- [NCS Group Australia — Senior Data Engineer, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/senior-data-engineer/8569220)
+- [UniSuper — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-unisuper-3684496935)
+- [Shell Energy Australia — Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-scientist-at-shell-energy-australia-3799283659)
+- [Xephyr — Lead Data Scientist, Melbourne CBD (Built In Melbourne)](https://builtinmelbourne.com/job/lead-data-scientist/7106035)
+- [Bendigo and Adelaide Bank — Data Engineer, Melbourne (Bank Careers)](https://careers-ext.bendigoadelaide.com.au/jobs/8cde66fe-e4a8-4746-8c18-394c1801a344)
