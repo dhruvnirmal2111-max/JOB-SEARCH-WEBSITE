@@ -130,6 +130,19 @@
 | 92 | Xephyr | Lead Data Scientist | Melbourne CBD (447 Collins St, hybrid) | ~Jul 2026 | AI/GenAI consulting firm; enterprise AI architecture + team leadership + strategic AI client delivery; GenAI focus directly matches agentic-AI/LLM edge; avg AU lead DS $152k; est. $130–170k | 8 | Specific posting | |
 | 93 | Bendigo and Adelaide Bank | Data Engineer | Melbourne / multi-site (hybrid, 60% in office) | ~Jul 2026 | Regional bank; Digital Data Hub — Enterprise Streaming + Data Assets in the Data & AI Engineering portfolio; cloud-based data pipelines at banking scale; careers page confirmed; est. $110–145k | 7 | Specific posting | |
 
+### Daily scout — 2026-07-03
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 94 | Block (Afterpay) | Senior ML Engineer (Modelling), Risk | Melbourne / Remote AU/NZ | ~Jul 2026 | Real-time fraud/risk ML at Afterpay scale; multiple active openings confirmed on block.xyz; experiment + deploy production ML models; Python + ML directly matches DE+ML edge + anomaly-detection history; remote AU/NZ option fits remote-first goal; est. $150–200k | 9 | Specific posting | |
+| 95 | Zeller | Data Science Lead | Melbourne | ~Jun–Jul 2026 | Melbourne B2B fintech startup (POS/payments for businesses); DS Lead spanning product, risk + performance analytics; 5+ yrs BI/DS required; Python + ML; equity stake from an early-stage scale-up; Wellfound listing confirmed; est. $130–165k | 8 | Specific posting | |
+| 96 | Lendi Group | Lead Data Engineer | Remote AU (flex-first) | ~Jun–Jul 2026 | AU's largest digital mortgage broker; Snowflake + dbt + Airflow (all mandatory) + Kafka + Fivetran stack; fully flex-first/remote-capable permanent role; fintech-adjacent domain; Built In Melbourne confirmed; est. $135–165k | 8 | Specific posting | |
+| 97 | CBUS Super | Data Engineer | Melbourne CBD (hybrid) | ~Jul 2026 | $50B+ construction industry super fund; cloud data solutions for investment data — pipelines, governance + automation; same super-fund domain as Hostplus/UniSuper rows; hybrid Melbourne CBD; est. $120–150k ⚠ Verify specific listing on seek.com.au/CBUS-Super-jobs | 7 | Specific posting | |
+| 98 | Judo Bank | Machine Learning Engineering Lead | Sydney (remote/hybrid) | ~Jun 2026 | Challenger SMB bank; greenfield design + deploy of new ML platform; high ownership in small team; Python + ML at banking scale; LinkedIn confirmed (JD 3661619995); est. $140–175k ⚠ Sydney-primary — confirm Melbourne/remote option before applying | 7 | Specific posting | |
+| 99 | BCG X | Data Scientist / Senior Data Scientist | Sydney / Melbourne | ~Apr–Jul 2026 | BCG's applied AI/DS consulting arm; enterprise AI + data science on real-world client engagements; elite brand + high comp; careers.bcg.com confirmed live (job 56245); est. $140–183k TC ⚠ Requires AU citizenship/PR — verify visa eligibility before applying | 7 | Specific posting | |
+| 100 | Capgemini Australia | AI / Data Engineer (Senior) | Melbourne (hybrid) | Jul 2026 | Global IT/consulting firm with 125+ AU open roles; building AI + data pipelines for enterprise clients at scale; analytics-consulting domain matches DE + client-facing background; est. $115–145k ⚠ Verify specific posting on capgemini.com/en-au/jobs | 7 | Company target | |
+| 101 | Domain Group | Data Analytics Engineer | Melbourne | ~Jul 2026 | Australia's #2 property marketplace (domain.com.au); Snowflake + Python cloud data; Data Decision Science team; $93k–$158k salary range cited by SEEK ⚠ No single listing URL confirmed — verify current opening on seek.com.au/Domain-Group-jobs/in-All-Melbourne-VIC | 6 | Company target | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -316,3 +329,18 @@
 - [Shell Energy Australia — Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-scientist-at-shell-energy-australia-3799283659)
 - [Xephyr — Lead Data Scientist, Melbourne CBD (Built In Melbourne)](https://builtinmelbourne.com/job/lead-data-scientist/7106035)
 - [Bendigo and Adelaide Bank — Data Engineer, Melbourne (Bank Careers)](https://careers-ext.bendigoadelaide.com.au/jobs/8cde66fe-e4a8-4746-8c18-394c1801a344)
+
+### Daily scout sources — 2026-07-03 (rows 94–101)
+- [Block (Afterpay) — Senior ML Engineer (Modelling), Risk — Melbourne/AU Remote (block.xyz)](https://block.xyz/careers/jobs/4326016008)
+- [Block (Afterpay) — Senior ML Engineer, Risk Modeling (block.xyz)](https://block.xyz/careers/jobs/5115946008)
+- [Block (Afterpay) — Staff ML Engineer, Fraud & Abuse (block.xyz)](https://block.xyz/careers/jobs/4959469008)
+- [Block (Afterpay) — Senior ML Engineer (Modelling), Risk (Built In)](https://builtin.com/job/senior-machine-learning-engineer-modelling-risk/3996469)
+- [Zeller — Data Science Lead, Melbourne (Wellfound)](https://wellfound.com/company/zeller-2/jobs/1636151-data-science-lead)
+- [Zeller — Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-scientist-at-zeller-3675906993)
+- [Lendi Group — Lead Data Engineer, AU Remote (Built In)](https://builtin.com/job/lead-data-engineer/3562303)
+- [Lendi Group — Senior Data Engineer, AU (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-engineer-at-lendi-group-3432172920)
+- [CBUS Super — Data Engineer, Melbourne (SEEK)](https://www.seek.com.au/CBUS-Super-jobs/in-All-Melbourne-VIC)
+- [Judo Bank — Machine Learning Engineering Lead, Sydney (LinkedIn)](https://au.linkedin.com/jobs/view/machine-learning-engineering-lead-at-judo-bank-3661619995)
+- [BCG X — Data Scientist / Senior Data Scientist, Australia (BCG Careers)](https://careers.bcg.com/global/en/job/56245/Data-Scientist-Senior-Data-Scientist-Australia-BCG-X)
+- [Capgemini Australia — Careers Portal (AI/Data Engineering)](https://www.capgemini.com/en-au/careers/)
+- [Domain Group — Data Analytics Engineer Jobs, Melbourne (SEEK)](https://au.seek.com/Domain-Group-jobs/in-All-Melbourne-VIC)
