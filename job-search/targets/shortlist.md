@@ -143,6 +143,21 @@
 | 100 | Capgemini Australia | AI / Data Engineer (Senior) | Melbourne (hybrid) | Jul 2026 | Global IT/consulting firm with 125+ AU open roles; building AI + data pipelines for enterprise clients at scale; analytics-consulting domain matches DE + client-facing background; est. $115–145k ⚠ Verify specific posting on capgemini.com/en-au/jobs | 7 | Company target | |
 | 101 | Domain Group | Data Analytics Engineer | Melbourne | ~Jul 2026 | Australia's #2 property marketplace (domain.com.au); Snowflake + Python cloud data; Data Decision Science team; $93k–$158k salary range cited by SEEK ⚠ No single listing URL confirmed — verify current opening on seek.com.au/Domain-Group-jobs/in-All-Melbourne-VIC | 6 | Company target | |
 
+### Daily scout — 2026-07-04
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 102 | Bupa | Senior Data Engineer | Melbourne CBD (hybrid) | Jun 2026 | Azure + CI/CD + MLOps at Australia's largest private health insurer; 12m FTC with permanency potential; ML pipeline engineering + data modelling; est. $120–145k | 7 | Specific posting | |
+| 103 | Philip Morris International | Data Scientist | Richmond, Melbourne | ~Jul 2026 | Commercial AI/ML analytics powering ANZ & Pacific "smoke-free transformation" strategy; Python/ML at global FMCG scale; est. $120–140k | 7 | Specific posting | |
+| 104 | Neara | Senior ML Engineer | Remote AU (Sydney HQ) | Jul 2026 | Physics-enabled digital twins of electricity grids using ML on LiDAR + aerial imagery + GIS; Series C, Times 100 Most Influential Companies 2024; fully remote-AU; end-to-end ML lifecycle (training/serving/monitoring); $109k–$135k ⚠ no visa sponsorship | 8 | Specific posting | |
+| 105 | Department of Health Victoria | Analytics Engineer | Melbourne (VPS hybrid) | Jun 2026 | Govt analytics engineering — dimensional data models for Victoria's state health analytics platform; flexible hybrid; AU work rights; ⚠ closes ~14 Jul 2026 — apply soon; est. $100k–$130k VPS | 6 | Specific posting | |
+| 106 | HESTA Super Fund | Data Scientist (AI/ML) | Melbourne (hybrid) | Apr 2026 (active Jul 2026) | Predictive models + scalable ML for industry super fund; 12m max-term contract; Python/R/SQL/cloud deployment; 15% employer super contribution; est. $110k–$130k base ⚠ verify still open (Apr post date) | 7 | Specific posting | |
+| 107 | Omnicom Media Group | Data Scientist | Melbourne | ~Jul 2026 | XGBoost/K-means/GenAI for audience segmentation at Australia's largest media agency group; propensity modelling + AI deployment in commercial analytics; est. $138k–$155k | 7 | Specific posting | |
+| 108 | Service Stream | Data Engineer | Melbourne (hybrid) | ~Jul 2026 | Microsoft Fabric + Power BI data platform at ASX-listed infrastructure/utilities services company; AI-led insights scope; supply-chain-adjacent operations data domain; est. $110k–$135k | 6 | Specific posting | |
+| 109 | oOH!media | ML Engineer | Melbourne or Brisbane (flexible hybrid) | Jun–Jul 2026 | ML for out-of-home advertising analytics at ASX-listed adtech; Python/ML pipeline; competitive remuneration + professional development; est. $108k–$148k | 6 | Specific posting | |
+| 110 | Binance | Senior Data Analyst (AI Compliance) | Melbourne | ~Jul 2026 | AI Compliance analytics at world's largest crypto exchange AU office; Python/SQL; strong comp est. $115k–$195k ⚠ crypto/Web3 domain — confirm cultural fit; apply via Lever | 6 | Specific posting | |
+| 111 | Woolworths Group | Analytics Engineer | Melbourne (hybrid) | ~Jun 2026 | dbt/Python/cloud analytics engineering in Woolworths Digital Data & Technology team; distinct from DE row 41 — focus on transformation layer + BI analytics; retail/supply-chain domain strength; $130k–$140k | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -344,3 +359,15 @@
 - [BCG X — Data Scientist / Senior Data Scientist, Australia (BCG Careers)](https://careers.bcg.com/global/en/job/56245/Data-Scientist-Senior-Data-Scientist-Australia-BCG-X)
 - [Capgemini Australia — Careers Portal (AI/Data Engineering)](https://www.capgemini.com/en-au/careers/)
 - [Domain Group — Data Analytics Engineer Jobs, Melbourne (SEEK)](https://au.seek.com/Domain-Group-jobs/in-All-Melbourne-VIC)
+
+### Daily scout sources — 2026-07-04 (rows 102–111)
+- [Bupa — Senior Data Engineer, Melbourne CBD (Bupa Careers)](https://careers.bupa.com.au/job/melbourne/senior-data-engineer/40796/39762560832)
+- [Philip Morris International — Data Scientist, Richmond Melbourne (SEEK)](https://au.seek.com/Philip-Morris-International-jobs)
+- [Neara — Senior ML Engineer, Remote AU (Ashby)](https://jobs.ashbyhq.com/neara/1ea30af7-974f-49cf-8742-edcfc4230c52)
+- [Department of Health Victoria — Analytics Engineer, Melbourne (SEEK)](https://au.seek.com/Department-of-Health-Victoria-jobs)
+- [HESTA Super Fund — Data Scientist (AI/ML), Melbourne (Talent.com)](https://au.talent.com/view?id=614533633954089241)
+- [Omnicom Media Group — Data Scientist, Melbourne (Glassdoor)](https://www.glassdoor.com.au/job-listing/data-scientist-omnicom-media-group-JV_IC2264754_KO0,14_KE15,34.htm?jl=1010176663276)
+- [Service Stream — Data Engineer, Melbourne (Service Stream Careers)](https://servicestream.com.au/open-job-opportunities)
+- [oOH!media — ML Engineer, Melbourne (SEEK / Glassdoor)](https://www.seek.com.au/oOh!-Media-jobs/in-All-Melbourne-VIC)
+- [Binance — Senior Data Analyst (AI Compliance), Melbourne (Lever)](https://jobs.lever.co/binance)
+- [Woolworths Group — Analytics Engineer, Melbourne (SEEK)](https://www.seek.com.au/analytics-engineer-data-woolworths-group-jobs/in-Melbourne-VIC-3004)
