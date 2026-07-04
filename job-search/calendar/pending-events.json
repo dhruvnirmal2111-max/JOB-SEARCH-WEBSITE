@@ -106,5 +106,35 @@
     "status": "created",
     "gcal_event_id": "63mb5m9poj7mpa4qo9df5bbv74",
     "gcal_link": "https://www.google.com/calendar/event?eid=NjNtYjVtOXBvajdtcGE0cW85ZGY1YmJ2NzQgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "submit-focus-block-20260704",
+    "title": "Submit 6 applications: Quantium / Capital.com / Kogan.com / Qualitas / Melbourne Water / AVC",
+    "kind": "focus",
+    "start": "2026-07-04T09:00:00",
+    "end": "2026-07-04T11:00:00",
+    "notes": "All 6 draft packages are ready (2-page PDF + cover letter in each pipeline folder). All submit-by dates have passed (5–12 days overdue). Step: confirm each posting is still live (~5 min each), then submit and mark Applied in pipeline/pipeline.md + the relevant log.md. Quantium: quantium.com/careers; Capital.com: careers.capital.com; Kogan.com: Lever; Qualitas: qualitas.com.au/careers (requires short note — cover letter doubles as it); Melbourne Water: melbournewater.com.au/careers; AVC: avc.com.au/careers.",
+    "source": "campaign",
+    "status": "pending"
+  },
+  {
+    "id": "doh-vic-deadline-20260712",
+    "title": "Deadline: Dept. of Health Victoria Analytics Engineer (closes ~14 Jul)",
+    "kind": "deadline",
+    "start": "2026-07-12T09:00:00",
+    "end": "2026-07-12T09:30:00",
+    "notes": "Row 105 in shortlist.md: Analytics Engineer, VPS hybrid Melbourne, est. $100–130K. Posting closes approximately 14 July 2026. If you want to apply, set Pursue? = yes in shortlist.md today so tonight's engine can build it, OR run /quick-apply with the JD directly. Source: job-search/targets/shortlist.md row 105.",
+    "source": "campaign",
+    "status": "pending"
+  },
+  {
+    "id": "week2-outreach-batch1-20260711",
+    "title": "Week 2 outreach: Quantium / Capital.com / Kogan.com (hiring manager + peer 2)",
+    "kind": "follow-up",
+    "start": "2026-07-11T09:00:00",
+    "end": "2026-07-11T09:30:00",
+    "notes": "Assumes Week 1 outreach is sent around 4 July. Week 2 (7 days later) is the hiring manager + second peer message for the first three roles (Quantium, Capital.com, Kogan.com). Move this event forward or backward based on when Week 1 is actually sent. Drafts are in each pipeline/*/outreach.md. You send manually.",
+    "source": "campaign",
+    "status": "pending"
   }
 ]
