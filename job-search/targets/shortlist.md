@@ -158,6 +158,17 @@
 | 110 | Binance | Senior Data Analyst (AI Compliance) | Melbourne | ~Jul 2026 | AI Compliance analytics at world's largest crypto exchange AU office; Python/SQL; strong comp est. $115k–$195k ⚠ crypto/Web3 domain — confirm cultural fit; apply via Lever | 6 | Specific posting | |
 | 111 | Woolworths Group | Analytics Engineer | Melbourne (hybrid) | ~Jun 2026 | dbt/Python/cloud analytics engineering in Woolworths Digital Data & Technology team; distinct from DE row 41 — focus on transformation layer + BI analytics; retail/supply-chain domain strength; $130k–$140k | 7 | Specific posting | |
 
+### Daily scout — 2026-07-05
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 112 | Australian Unity | Senior AI Enablement Engineer | Melbourne CBD (hybrid) | Jul 2026 | Healthcare/financial mutual; LLM/AI enablement in a regulated environment + MLOps/LLMOps scope directly matches rare agentic-AI edge; Power BI + Python; est. $115–135k | 8 | Specific posting | |
+| 113 | Kinetic | Data Engineer | Melbourne (hybrid) | Jun–Jul 2026 | Australia's largest private bus/rail operator mid-digital-transformation; Azure + Databricks + Snowflake greenfield build is a direct stack match; supply-chain/logistics domain crossover; est. $120–150k | 8 | Specific posting | |
+| 114 | Mimecast | Senior Data Engineer (NLP & ML) | Melbourne (hybrid) | Jul 2026 | Cybersecurity SaaS; design + deploy NLP and ML data pipelines + infra; mentoring scope; ML pipeline + LLM edge directly fits; est. $120–145k | 8 | Specific posting | |
+| 115 | NBN Co | Principal Data Architect | Melbourne | Jun–Jul 2026 | National digital infrastructure; cloud-native data architecture at scale; $120–182k Glassdoor-confirmed ceiling ⚠ Principal level — verify experience threshold | 7 | Specific posting | |
+| 116 | Quantexa | Senior Data Engineer | Melbourne (hybrid) | Jun–Jul 2026 | Entity-resolution SaaS for Tier-1 banks/insurers/telcos; Spark + GCP consulting-scale delivery mirrors current client background; est. $125–145k ⚠ Scala requirement — tech gap to flag | 7 | Specific posting | |
+| 117 | Compare the Market AU | Data Engineer / Data Scientist (CDP) | Melbourne | Jun–Jul 2026 | Customer Data Platform on Microsoft Fabric + Azure + Power BI — exact stack match; high-traffic price-comparison platform; est. $115–145k | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -194,6 +205,10 @@
 | R23 | ZettaMine Labs | Data Engineer (Python + PySpark + Databricks + Snowflake) | Bengaluru, India | ~Apr–Jun 2026 | Data engineering boutique, Bengaluru; exact tech stack match (PySpark, Databricks, Snowflake, Python); India-based = relocation-ready; good market-entry role. **Survives move: YES** | 7 | Specific posting | |
 | R24 | Peakflo | AI / ML Engineer | Remote (India / AU) | Jun 2026 | YC-backed fintech startup (AP automation + billing AI); agentic-AI for fintech workflows; India-remote hiring confirmed — fits dual AU+India objective. **Survives move: YES** | 8 | Specific posting | |
 | R25 | HCLTech | Data Scientist | Singapore (hybrid) | ~Jun 17, 2026 | Large IT services (HCL group); ML/NLP scope; Singapore-based with remote flexibility; employer typically sponsors SG work visa (confirm remote terms before applying). **Survives move: partial (SG)** | 6 | Specific posting | |
+| R26 | Codvo AI | RAG + Agentic AI Engineer | Remote India | Jul 2026 | AI product consultancy; LangGraph + RAG hybrid retrieval + LLM orchestration + agentic pipelines — most precise match to rare LLM/agentic-AI edge available in the India market; India remote explicit. **Survives move: YES** | 9 | Specific posting | |
+| R27 | Impact Analytics | Senior Snowflake Data Engineer | Remote India | Jul 2026 | Series D AI-native SaaS for retail/grocery/supply-chain planning — domain crossover to Comprara background; Snowflake stack direct match. **Survives move: YES** | 8 | Specific posting | |
+| R28 | Lumenalta | Senior Data Engineer (Databricks / Azure) | Fully remote (global) | Jul 2026 | Fully-distributed tech consultancy; Databricks + Azure direct match; USD $80–150k/yr; requires US-tz overlap ⚠ negotiate IST evening shift; **URGENT: closes ~Jul 12, 2026. Survives move: PARTIAL** | 7 | Specific posting | |
+| R29 | Revolut | Data Scientist (NLP Deep Learning) | Remote India | Jul 2026 | Global fintech unicorn; GCP + Python + Airflow + GenAI/LLM pipelines; India careers page confirmed active; strong brand + comp ~30–55 LPA. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -359,6 +374,20 @@
 - [BCG X — Data Scientist / Senior Data Scientist, Australia (BCG Careers)](https://careers.bcg.com/global/en/job/56245/Data-Scientist-Senior-Data-Scientist-Australia-BCG-X)
 - [Capgemini Australia — Careers Portal (AI/Data Engineering)](https://www.capgemini.com/en-au/careers/)
 - [Domain Group — Data Analytics Engineer Jobs, Melbourne (SEEK)](https://au.seek.com/Domain-Group-jobs/in-All-Melbourne-VIC)
+
+### Daily scout sources — 2026-07-05 (rows 112–117, R26–R29)
+- [Australian Unity — Senior AI Enablement Engineer, Melbourne (Careers)](https://careers.australianunity.com.au/job/Melbourne-AI-Enablement-Engineer-VIC-3000/1330325866/)
+- [Kinetic — Data Engineer, Melbourne (SEEK)](https://au.seek.com/Kinetic-jobs/in-All-Melbourne-VIC)
+- [Kinetic — Australia Vacancies (wearekinetic.com)](https://www.wearekinetic.com/our-company/join-our-team/australia-vacancies)
+- [Mimecast — Senior Data Engineer NLP & ML, Melbourne (The Round)](https://www.theround.com/mimecast-jobs/senior-data-engineer-nlp--ml/3686b901-ef4d-4a7b-95c5-93d95ed02ea6)
+- [NBN Co — Data Architect / Data Jobs Melbourne (SEEK)](https://au.seek.com/NBN-Co-jobs/in-Melbourne-VIC-3000)
+- [Quantexa — Senior Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-engineer-at-quantexa-3542332539)
+- [Compare the Market AU — Data Engineer/CDP roles, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/jobs/data-analytics/search/data-engineer)
+- [Codvo AI — RAG + Agentic AI Engineer, India Remote (LinkedIn India)](https://in.linkedin.com/jobs/view/rag-+-agentic-ai-engineer-india-remote-at-codvo-ai-4324072259)
+- [Codvo AI — Direct Freshteam Application](https://codvo-team.freshteam.com/jobs/oX2fH9z166qF/rag-agentic-ai-engineer-india-remote)
+- [Impact Analytics — Senior Snowflake Data Engineer, India Remote (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-snowflake-data-engineer-at-impact-analytics-4390611273)
+- [Lumenalta — Senior Data Engineer Databricks/Azure, Global Remote (Lumenalta Careers)](https://lumenalta.com/jobs/data-engineer-senior-data-engineer-databricks-azure-197)
+- [Revolut India — Data Scientist NLP Deep Learning (Revolut India Careers)](https://www.revolut.com/en-IN/careers/position/data-scientist-nlp-deep-learning-engineer-7fdeec15-cd49-4ca9-b509-ae6ca2613cd5/)
 
 ### Daily scout sources — 2026-07-04 (rows 102–111)
 - [Bupa — Senior Data Engineer, Melbourne CBD (Bupa Careers)](https://careers.bupa.com.au/job/melbourne/senior-data-engineer/40796/39762560832)
