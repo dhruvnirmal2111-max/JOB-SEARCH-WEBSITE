@@ -169,6 +169,13 @@
 | 116 | Quantexa | Senior Data Engineer | Melbourne (hybrid) | Jun–Jul 2026 | Entity-resolution SaaS for Tier-1 banks/insurers/telcos; Spark + GCP consulting-scale delivery mirrors current client background; est. $125–145k ⚠ Scala requirement — tech gap to flag | 7 | Specific posting | |
 | 117 | Compare the Market AU | Data Engineer / Data Scientist (CDP) | Melbourne | Jun–Jul 2026 | Customer Data Platform on Microsoft Fabric + Azure + Power BI — exact stack match; high-traffic price-comparison platform; est. $115–145k | 7 | Specific posting | |
 
+### Daily scout — 2026-07-06
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 118 | Salesforce | Agentic Data Specialist | Sydney (hybrid) | ~Jun–Jul 2026 | Forward Deployed Engineering Team — design/build RAG/vector databases + Agentforce AI-agent data integrations + custom APIs; 5+ yrs data engineering; Python; agentic-AI/LLM edge is the CORE skill req (rare); est. $150–200k ⚠ Sydney-primary — confirm Melbourne-remote / hybrid option before applying | 9 | Specific posting | |
+| 119 | Jetstar Airways | Senior Data Engineer – Machine Learning | Collingwood, Melbourne (hybrid) | ~Jun–Jul 2026 | Qantas Group aviation-tech; permanent role building ML data pipelines on NextGen Cloud Data Platform with Data Scientists + DevOps; Python + cloud platform engineering; Collingwood HQ (3 tram stops from CBD) with hybrid WFH; est. $120–155k | 8 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -209,6 +216,10 @@
 | R27 | Impact Analytics | Senior Snowflake Data Engineer | Remote India | Jul 2026 | Series D AI-native SaaS for retail/grocery/supply-chain planning — domain crossover to Comprara background; Snowflake stack direct match. **Survives move: YES** | 8 | Specific posting | |
 | R28 | Lumenalta | Senior Data Engineer (Databricks / Azure) | Fully remote (global) | Jul 2026 | Fully-distributed tech consultancy; Databricks + Azure direct match; USD $80–150k/yr; requires US-tz overlap ⚠ negotiate IST evening shift; **URGENT: closes ~Jul 12, 2026. Survives move: PARTIAL** | 7 | Specific posting | |
 | R29 | Revolut | Data Scientist (NLP Deep Learning) | Remote India | Jul 2026 | Global fintech unicorn; GCP + Python + Airflow + GenAI/LLM pipelines; India careers page confirmed active; strong brand + comp ~30–55 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R30 | Razorpay | Data Scientist | Bengaluru, India | Jul 2026 | India's #1 fintech payments unicorn (~200M users, Sequoia/GIC-backed); build + deploy production ML models across company-wide payments problems; Python + ML + Spark; 4-9 yrs exp; strong brand; est. 35–65 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R31 | PhonePe | Data Scientist | Bengaluru, India | Jul 2026 | Walmart-backed payments superapp (350M+ users); large-scale ML on massive real-time transaction data; 6-10 yrs exp; Python; 76+ data vacancies confirmed Jul 2026; est. 30–60 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R32 | Flipkart | Senior Data Scientist | Bengaluru, India | Jul 2026 | India's #1 e-commerce platform (Walmart-owned); 5-12 yrs exp; Python + ML + NLP + Data Mining; end-to-end model development; est. 36–84 LPA (Levels.fyi); Bengaluru HQ. **Survives move: YES** | 7 | Specific posting | |
+| R33 | Zomato | Data Platform Engineer | Bengaluru, India | ~Jun–Jul 2026 | India's #1 food-delivery + quick-commerce platform (Blinkit + Hyperpure); data platform infra + ETL pipelines at extreme scale; Python + cloud pipelines; startup.jobs confirmed listing; equity + strong comp est. 25–55 LPA. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -388,6 +399,19 @@
 - [Impact Analytics — Senior Snowflake Data Engineer, India Remote (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-snowflake-data-engineer-at-impact-analytics-4390611273)
 - [Lumenalta — Senior Data Engineer Databricks/Azure, Global Remote (Lumenalta Careers)](https://lumenalta.com/jobs/data-engineer-senior-data-engineer-databricks-azure-197)
 - [Revolut India — Data Scientist NLP Deep Learning (Revolut India Careers)](https://www.revolut.com/en-IN/careers/position/data-scientist-nlp-deep-learning-engineer-7fdeec15-cd49-4ca9-b509-ae6ca2613cd5/)
+
+### Daily scout sources — 2026-07-06 (rows 118–119, R30–R33)
+- [Salesforce — Agentic Data Specialist, Sydney Australia (Salesforce Careers)](https://careers.salesforce.com/en/jobs/jr305559/agentic-data-specialist/)
+- [Salesforce — Agentic Data Specialist, direct apply (Workday)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/Agentic-Data-Specialist_JR305559/apply/applyManually)
+- [Jetstar Airways — Senior Data Engineer Machine Learning, Collingwood Melbourne (Jetstar Careers)](https://www.jetstar.com/au/en/careers/it-jobs/senior-data-engineer-machine-learning/3355410)
+- [Jetstar Airways — Data Scientist, Collingwood Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-scientist-at-jetstar-airways-3583077124)
+- [Razorpay — Data Scientist, Bengaluru (LinkedIn India)](https://www.linkedin.com/jobs/view/data-scientist-at-razorpay-3443417199)
+- [Razorpay — Data Scientist, Bengaluru (Built In)](https://builtin.com/job/data-scientist/4023550)
+- [PhonePe — Data Scientist, Bengaluru (Instahyre)](https://www.instahyre.com/job-286904-data-scientist-at-phonepe-bangalore/)
+- [PhonePe — All job openings (PhonePe Careers)](https://www.phonepe.com/careers/job-openings/)
+- [Flipkart — Senior Data Scientist 5-12 yrs, Bengaluru (Foundit.in)](https://www.foundit.in/job/senior-data-scientist-flipkart-bengaluru-bangalore-42719095)
+- [Flipkart — Data Scientist, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/data-scientist-at-flipkart-4387960445)
+- [Zomato — Data Platform Engineer, Bengaluru (startup.jobs)](https://startup.jobs/data-platform-engineer-zomato-632593)
 
 ### Daily scout sources — 2026-07-04 (rows 102–111)
 - [Bupa — Senior Data Engineer, Melbourne CBD (Bupa Careers)](https://careers.bupa.com.au/job/melbourne/senior-data-engineer/40796/39762560832)
