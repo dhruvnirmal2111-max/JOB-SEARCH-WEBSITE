@@ -9,7 +9,7 @@ I'm a data analyst who works closely with stakeholders to turn business question
 **Data & Programming:** Python, Data Modelling, Data Cleaning, ETL Pipelines, Data Validation and Quality Checks, KNIME
 **Cloud & Platforms:** Azure, Databricks, PySpark, AWS, Docker
 **Stakeholder & Delivery:** Stakeholder Management, Client Relationship Ownership, Documentation and Process Standardisation, Data Literacy Enablement, Cross-functional Collaboration
-**AI/Automation (exposure):** LLM-assisted workflow automation (Claude, ChatGPT)
+**AI & Automation:** LLM and agentic workflow automation (Claude, ChatGPT), AI-output QA and validation, scaled team adoption
 
 ## Experience
 
@@ -21,7 +21,8 @@ Client-facing analytics consultancy; independently manage BI delivery, stakehold
 - Independently manage BI delivery and stakeholder relationships across five enterprise client accounts, translating business needs into reporting and presenting outputs directly to senior executives.
 - Owned a restaurant-chain client account end to end as sole analyst: structured a product catalog of roughly 3,000 to 3,500 items, built a pricing-decision dashboard tracking price movements across categories and suppliers, and ran bi-weekly stakeholder meetings with the CFO, Chief Procurement Officer, category managers and general managers, helping the client identify roughly A$2M in savings in one major spend category.
 - Designed, built and maintained 16+ Tableau dashboards for procurement and finance teams, giving stakeholders self-service visibility into supplier spend, category-level KPIs and cost-optimisation opportunities.
-- Promoted self-service and data literacy: documented metrics and definitions so stakeholders could explore dashboards without analyst help, and rolled out a standardised reporting workflow adopted across the analyst team so colleagues could produce consistent client reporting themselves.
+- Promoted self-service and data literacy: documented metrics and definitions and built dashboards stakeholders could explore on their own, reducing repeat manual reporting requests.
+- Built AI-driven automation adopted across the whole analyst team, not just by me: an LLM-based workflow that auto-generates client reports and saves roughly 12 to 15 hours a week, paired with a multi-agent QA step that validates outputs before they reach a client, so the automation stays accurate and governed at scale.
 - Manage the end-to-end data for the company's largest client account, spanning 5 global regions, 13 sub-regions and multiple source datasets: coordinate directly with the regional teams and data owners who supply the data, standardise file-submission and naming conventions across every region, run automated data validation that flags row and format discrepancies and logs issues for review, and document the process so it stays consistent.
 - Automated 20+ recurring SQL and Python reporting processes handling millions of transactions monthly, meeting BAU reporting SLAs and cutting manual reporting effort roughly 40%.
 - Performed anomaly detection on procurement datasets to surface cost-leakage patterns, contributing to roughly 15% in cost savings across client accounts.
