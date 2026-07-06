@@ -145,6 +145,8 @@
     "end": "2026-06-29T09:20:00",
     "notes": "Send the drafted messages in job-search/pipeline/unisuper--data-analyst/outreach.md (week-1: recruiter + a peer). Verify each is currently at UniSuper first. You send manually.",
     "source": "unisuper--data-analyst",
-    "status": "pending"
+    "status": "created",
+    "gcal_event_id": "5rjr8kkl9jkh5644qo109fj1uo",
+    "gcal_link": "https://www.google.com/calendar/event?eid=NXJqcjhra2w5amtoNTY0NHFvMTA5ZmoxdW8gZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
