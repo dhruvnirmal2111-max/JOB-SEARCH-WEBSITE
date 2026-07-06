@@ -49,11 +49,11 @@
   },
   {
     "id": "pitt-neurology-outreach-week1-20260625",
-    "title": "Send outreach: Univ. of Pittsburgh Data Analyst (Neurology) — peer + recruiter",
+    "title": "Send outreach: Univ. of Pittsburgh Data Analyst (Neurology) \u2014 peer + recruiter",
     "kind": "outreach",
     "start": "2026-06-25T09:00:00",
     "end": "2026-06-25T09:20:00",
-    "notes": "Send the drafted messages in job-search/pipeline/university-of-pittsburgh--data-analyst-neurology/outreach.md (week-1: Katherine McFarlane (peer) + Zach Kurta (recruiter)). Kurta message also raises the Melbourne/US-payroll eligibility question — confirm that BEFORE investing further. You send manually.",
+    "notes": "Send the drafted messages in job-search/pipeline/university-of-pittsburgh--data-analyst-neurology/outreach.md (week-1: Katherine McFarlane (peer) + Zach Kurta (recruiter)). Kurta message also raises the Melbourne/US-payroll eligibility question \u2014 confirm that BEFORE investing further. You send manually.",
     "source": "university-of-pittsburgh--data-analyst-neurology",
     "status": "created",
     "gcal_event_id": "dan58mqi27crlc3k7ist4lots0",
@@ -97,11 +97,11 @@
   },
   {
     "id": "github-ts-outreach-week1-20260627",
-    "title": "Send outreach: GitHub Data Analyst (Trust & Safety) — recruiter + peer",
+    "title": "Send outreach: GitHub Data Analyst (Trust & Safety) \u2014 recruiter + peer",
     "kind": "outreach",
     "start": "2026-06-27T09:30:00",
     "end": "2026-06-27T09:50:00",
-    "notes": "CONFIRM work-authorization (role is Remote-Ontario-Canada, outside geo scope) BEFORE investing. Then send the week-1 drafted messages in job-search/pipeline/github--data-analyst-trust-safety-copilot/outreach.md: recruiter + a peer. Three of five contacts are unconfirmed — use the LinkedIn search filters in the file to find real, currently-employed GitHub T&S/Copilot people first. Confirmed leads: Derek Jedamski (Copilot peer), Alexis Wales (CISO, senior). You send manually. NOTE: Physio is at 09:30 Jun 27 — move this event if needed.",
+    "notes": "CONFIRM work-authorization (role is Remote-Ontario-Canada, outside geo scope) BEFORE investing. Then send the week-1 drafted messages in job-search/pipeline/github--data-analyst-trust-safety-copilot/outreach.md: recruiter + a peer. Three of five contacts are unconfirmed \u2014 use the LinkedIn search filters in the file to find real, currently-employed GitHub T&S/Copilot people first. Confirmed leads: Derek Jedamski (Copilot peer), Alexis Wales (CISO, senior). You send manually. NOTE: Physio is at 09:30 Jun 27 \u2014 move this event if needed.",
     "source": "github--data-analyst-trust-safety-copilot",
     "status": "created",
     "gcal_event_id": "63mb5m9poj7mpa4qo9df5bbv74",
@@ -135,6 +135,16 @@
     "end": "2026-07-11T09:30:00",
     "notes": "Assumes Week 1 outreach is sent around 4 July. Week 2 (7 days later) is the hiring manager + second peer message for the first three roles (Quantium, Capital.com, Kogan.com). Move this event forward or backward based on when Week 1 is actually sent. Drafts are in each pipeline/*/outreach.md. You send manually.",
     "source": "campaign",
+    "status": "pending"
+  },
+  {
+    "id": "unisuper-outreach-week1-20260629",
+    "title": "Send outreach: UniSuper Data Analyst (recruiter + peer)",
+    "kind": "outreach",
+    "start": "2026-06-29T09:00:00",
+    "end": "2026-06-29T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/unisuper--data-analyst/outreach.md (week-1: recruiter + a peer). Verify each is currently at UniSuper first. You send manually.",
+    "source": "unisuper--data-analyst",
     "status": "pending"
   }
 ]

@@ -22,6 +22,7 @@
 | Australian Venue Co. | Commercial Optimisation Analyst - Food & Beverage | australian-venue-co--commercial-optimisation-analyst-food-beverage | Applying | Owner: confirm displayed title ("Data & Commercial Analyst"); review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-29 | 2026-06-25 |
 | Confidential (agency) | Data Analyst (Tableau) — Remote/Canada, CAD contract | confidential--data-analyst-tableau | Applying | **Owner: confirm Canada work-authorization / India-remote acceptable BEFORE submitting** (out of stated geo scope); review PDF + cover letter → submit. No outreach (anonymous company). | confirm eligibility first | 2026-06-25 |
 | GitHub | Data Analyst (Trust & Safety — Copilot abuse) | github--data-analyst-trust-safety-copilot | Applying | **Owner: confirm work-authorization (Remote-Ontario-Canada, outside geo scope) BEFORE submitting**; review PDF + cover letter; `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-06-25 |
+| UniSuper (confirm) | Data Analyst (Enterprise Data Platform / BI) | unisuper--data-analyst | Applying | Owner: confirm company = UniSuper; review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-29 | 2026-06-26 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
