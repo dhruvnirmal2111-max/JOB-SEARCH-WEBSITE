@@ -39,8 +39,8 @@ Jan 2021 to Jul 2021
 
 ## Projects
 
-### Restaurant Chain Pricing and Supplier Analytics (Python, SQL, Tableau)
-- Built an end-to-end pricing-decision platform for a restaurant chain operating across Australia and New Zealand: structured a 3,000 to 3,500 product catalog, developed a dashboard tracking price movements and cost leakage across products, venues and suppliers, and ran the stakeholder relationship directly. Identified roughly A$2M in savings in one spend category.
+### [MyFacit](https://www.myfacit.com): Analytics and Decision-Support Platform (SQL, Python, BI, Forecasting)
+- Built a centralised analytics platform for a small hospitality business, integrating 8+ data sources into one consistent model with dashboards and short-term forecasting that surface insights for pricing, product mix and day-to-day operations. Now in pilot with a local business, with weekly sessions to refine it in a real setting.
 
 ### Global Multi-Region Spend Analytics Platform (SQL, Python, Azure, BI dashboards)
 - Own the end-to-end pipeline for the company's largest client account (5 regions, 13 sub-regions, roughly 6 million invoice rows). Replaced a manual upload process with automated email-based ingestion, standardised naming and submission conventions across all regions, and built automated validation that catches and logs discrepancies before they reach a dashboard, cutting weekly processing time from 4 to 5 hours down to roughly 75 minutes.
