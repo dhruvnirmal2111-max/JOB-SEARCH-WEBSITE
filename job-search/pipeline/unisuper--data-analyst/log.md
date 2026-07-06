@@ -8,10 +8,11 @@
 ## Artifacts
 - [x] jd.md
 - [ ] analysis.md (career-coach) — not run by default (run `/career-coach unisuper` on demand)
-- [ ] resume-tailored.md (resume-intelligence)
-- [ ] cover-letter.md (resume-intelligence)
-- [ ] Dhruv_Nirmal_UniSuper_Data_Analyst.pdf
-- [ ] outreach.md (outreach)
+- [x] resume-tailored.md (resume-intelligence) — ~85% match; Data Analyst archetype; A$2M attribution corrected
+- [x] cover-letter.md (resume-intelligence) — 1 page
+- [x] Dhruv_Nirmal_UniSuper_Data_Analyst.pdf — 2 pages, 10.5pt
+- [x] Dhruv_Nirmal_UniSuper_CoverLetter.pdf — 1 page
+- [x] outreach.md (outreach) — 5 verified contacts (Suhel Khan/mgr, Samardh Moka + Anubhav Jain/peers, Matthew Bradley/recruiter, Steve McGregor/CTO)
 
 ## Application
 - Submitted: ❌ not yet (owner submits; then mark Applied)
