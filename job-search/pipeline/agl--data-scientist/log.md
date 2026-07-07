@@ -8,10 +8,11 @@
 ## Artifacts
 - [x] jd.md
 - [ ] analysis.md (career-coach) — on demand (`/career-coach agl`)
-- [ ] resume-tailored.md (resume-intelligence)
-- [ ] cover-letter.md (resume-intelligence)
-- [ ] Dhruv_Nirmal_AGL_Data_Scientist.pdf
-- [ ] outreach.md (outreach)
+- [x] resume-tailored.md (resume-intelligence) — ~85% match; DS archetype; MyFacit embellishment reverted to confirmed facts
+- [x] cover-letter.md (resume-intelligence) — 1 page, personal, no disclaimer
+- [x] Dhruv_Nirmal_AGL_Data_Scientist.pdf — 2 pages
+- [x] Dhruv_Nirmal_AGL_CoverLetter.pdf — 1 page
+- [x] outreach.md (outreach) — 4 verified (Vivian Naumcev/recruiter, Noriko Tokushima/peer DS, Sankalp Nath/product mgr [caveated], Shaun Code/CDAO senior) + 1 peer placeholder to fill
 
 ## Application
 - Submitted: ❌ not yet (owner submits; then mark Applied)
