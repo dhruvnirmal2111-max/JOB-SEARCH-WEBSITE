@@ -176,6 +176,15 @@
 | 118 | Salesforce | Agentic Data Specialist | Sydney (hybrid) | ~Jun–Jul 2026 | Forward Deployed Engineering Team — design/build RAG/vector databases + Agentforce AI-agent data integrations + custom APIs; 5+ yrs data engineering; Python; agentic-AI/LLM edge is the CORE skill req (rare); est. $150–200k ⚠ Sydney-primary — confirm Melbourne-remote / hybrid option before applying | 9 | Specific posting | |
 | 119 | Jetstar Airways | Senior Data Engineer – Machine Learning | Collingwood, Melbourne (hybrid) | ~Jun–Jul 2026 | Qantas Group aviation-tech; permanent role building ML data pipelines on NextGen Cloud Data Platform with Data Scientists + DevOps; Python + cloud platform engineering; Collingwood HQ (3 tram stops from CBD) with hybrid WFH; est. $120–155k | 8 | Specific posting | |
 
+### Daily scout — 2026-07-07
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 120 | QBE Insurance | Data Science Specialist | Melbourne (hybrid) | Jun–Jul 2026 | Insurance ML across underwriting, claims + risk; Python + statistical modelling + predictive analytics; active LinkedIn listing confirmed Jul 2026; est. AUD $120–155k | 8 | Specific posting | |
+| 121 | Palantir Technologies | Forward Deployed AI Engineer | Melbourne / Sydney (hybrid) | Jul 2026 | Client-embedded GenAI + LLM/RAG pipeline delivery on Palantir AIP + Foundry; agentic-AI/LLM edge is the core skill req (rare); est. AUD $154–197k ⚠ Sydney may be primary — confirm Melbourne / remote option before applying | 9 | Specific posting | |
+| 122 | Allianz Australia | Data Engineer | Melbourne (hybrid) | Jun–Jul 2026 | Insurance data platform (IDP); Python + cloud ETL/ELT + batch + streaming pipelines at AU's largest general insurer; new company on shortlist; est. AUD $105–148k | 7 | Specific posting | |
+| 123 | RACV | Lead Data Scientist | Melbourne CBD (hybrid) | Oct 2025 (ongoing) | Lead Advanced Analytics across Insurance, Digital, Membership + Roadside; ML model deployment + Python; est. AUD $140–180k ⚠ originally posted Oct 2025 — verify still open on careers.racv.com.au before applying | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -220,6 +229,16 @@
 | R31 | PhonePe | Data Scientist | Bengaluru, India | Jul 2026 | Walmart-backed payments superapp (350M+ users); large-scale ML on massive real-time transaction data; 6-10 yrs exp; Python; 76+ data vacancies confirmed Jul 2026; est. 30–60 LPA. **Survives move: YES** | 8 | Specific posting | |
 | R32 | Flipkart | Senior Data Scientist | Bengaluru, India | Jul 2026 | India's #1 e-commerce platform (Walmart-owned); 5-12 yrs exp; Python + ML + NLP + Data Mining; end-to-end model development; est. 36–84 LPA (Levels.fyi); Bengaluru HQ. **Survives move: YES** | 7 | Specific posting | |
 | R33 | Zomato | Data Platform Engineer | Bengaluru, India | ~Jun–Jul 2026 | India's #1 food-delivery + quick-commerce platform (Blinkit + Hyperpure); data platform infra + ETL pipelines at extreme scale; Python + cloud pipelines; startup.jobs confirmed listing; equity + strong comp est. 25–55 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-07
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R34 | Remote.com | Senior Analytics Engineer | Fully remote (global, APAC priority) | Jul 2026 | Snowflake + dbt stack is a direct match; APAC-priority hire explicitly confirms India eligibility; company product IS global employment infrastructure — high-impact analytics work; est. $70–110k USD. **Survives move: YES** | 8 | Specific posting | |
+| R35 | Grafana Labs | Data Analytics Engineer | Fully remote (global) | 2026 | Open-source observability leader ($6B); dbt-style data platform + analytics engineering; formally employs India-based remote workers (benefits confirmed on careers page); est. $114–175k USD. **Survives move: YES** | 7 | Specific posting | |
+| R36 | Palantir Technologies | Forward Deployed Software Engineer | Singapore (on-site) | Jul 2026 | 27 open FDSE roles in SG confirmed Jul 2026; client-embedded AI/data platform delivery for govt + financial services clients; SGD 160–176k (~AUD 180–200k) + PLTR equity, Singapore effective tax ~10%. **Survives move: NO — Singapore presence required; relocation/sponsorship option** | 7 | Specific posting | |
+| R37 | Careem (Uber subsidiary) | Staff Data Scientist I — Careem Pay | Dubai, UAE (hybrid) | 2026 | Real-time pricing, fraud detection + ETA ML at MENA super-app scale; Python + ML + causal inference; AED 372–520k median (~$101–141k USD, zero personal tax). **Survives move: NO — Dubai presence required; relocation option** | 7 | Specific posting | |
+| R38 | Stripe | Backend Engineer, Data / Data Lake | Remote (confirm India eligibility) | Jul 2026 | Data infrastructure at global payments scale; Scala + Spark + Kafka + Airflow stack; premium brand + elite engineering culture; $157–235k USD (US band) ⚠ India eligibility unconfirmed — verify directly with recruiter before applying. **Survives move: PARTIAL** | 6 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -424,3 +443,21 @@
 - [oOH!media — ML Engineer, Melbourne (SEEK / Glassdoor)](https://www.seek.com.au/oOh!-Media-jobs/in-All-Melbourne-VIC)
 - [Binance — Senior Data Analyst (AI Compliance), Melbourne (Lever)](https://jobs.lever.co/binance)
 - [Woolworths Group — Analytics Engineer, Melbourne (SEEK)](https://www.seek.com.au/analytics-engineer-data-woolworths-group-jobs/in-Melbourne-VIC-3004)
+
+### Daily scout sources — 2026-07-07 (rows 120–123, R34–R38)
+- [QBE Insurance — Data Science Specialist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-science-specialist-at-qbe-insurance-4353061179)
+- [QBE Insurance — Data Science Specialist, Melbourne (Built In Sydney)](https://builtinsydney.au/job/data-science-specialist/6797066)
+- [Palantir — Forward Deployed AI Engineer, Australia (Lever)](https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488)
+- [Palantir — Forward Deployed AI Engineer, AU (LinkedIn)](https://www.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-palantir-technologies-3867112975)
+- [Allianz Australia — Data Engineering Careers, Melbourne (Allianz Careers)](https://careers.allianz.com/au/en/data)
+- [Allianz Australia — Data Engineer, Melbourne (eFinancialCareers)](https://www.efinancialcareers.com.au/jobs/data-engineer/at-allianz)
+- [RACV — Lead Data Scientist, Melbourne CBD (RACV Careers)](https://careers.racv.com.au/job/485-Bourke-Street-Melbourne-Lead-Data-Scientist/1327794666/)
+- [Remote.com — Senior Analytics Engineer, Global Remote (Remote.com Openings)](https://remote.com/openings/5748624003)
+- [Grafana Labs — Data Analytics Engineer, Remote (Grafana Careers)](https://grafana.com/careers/)
+- [Grafana Labs — Data Analytics Engineer, Remote (startup.jobs)](https://startup.jobs/data-analytics-engineer-remote-grafana-labs-2-3031656)
+- [Palantir — FDSE, Singapore (Lever)](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0)
+- [Palantir — 27 Singapore jobs, July 2026 (Glassdoor SG)](https://www.glassdoor.sg/Job/singapore-palantir-jobs-SRCH_IL.0,9_IN217_KO10,18.htm)
+- [Careem — Staff Data Scientist I (Careem Pay), Dubai (edarabia)](https://www.edarabia.com/senior-data-scientist-careem-pay-dubai-uae/)
+- [Careem — Staff Data Scientist I salary, Dubai (Levels.fyi)](https://www.levels.fyi/companies/careem/salaries/data-scientist/locations/greater-dubai-area)
+- [Stripe — Backend Engineer, Data (Stripe Jobs)](https://stripe.com/jobs/listing/backend-engineer-data/6865161)
+- [Stripe — Backend Engineer, Data Lake (Stripe Jobs)](https://stripe.com/jobs/listing/backend-engineer-data-lake/6981419)
