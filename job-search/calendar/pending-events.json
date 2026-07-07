@@ -157,6 +157,8 @@
     "end": "2026-06-30T09:20:00",
     "notes": "Send the drafted messages in job-search/pipeline/agl--data-scientist/outreach.md (week-1: recruiter + a peer). Verify each is currently at AGL first. You send manually.",
     "source": "agl--data-scientist",
-    "status": "pending"
+    "status": "created",
+    "gcal_event_id": "la06mkd29vsojqkrmfva40t3t8",
+    "gcal_link": "https://www.google.com/calendar/event?eid=bGEwNm1rZDI5dnNvanFrcm1mdmE0MHQzdDggZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
