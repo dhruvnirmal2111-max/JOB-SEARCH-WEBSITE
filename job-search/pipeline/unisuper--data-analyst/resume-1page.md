@@ -23,9 +23,9 @@ Jun 2024 to Present | Melbourne, Australia
 Aug 2023 to Nov 2023 | Melbourne, Australia
 - Built and delivered a Power BI analytics solution adopted by senior Department of Transport stakeholders, plus a distributed anomaly-detection pipeline (Databricks, PySpark) that improved detection accuracy roughly 20%.
 
-### Research Data Analyst, Terminal Ballistics Research Laboratory (TBRL, DRDO)
-Jan 2021 to Jul 2021
-- Analysed blast-wave datasets with statistical models and compiled findings into a 70-page technical report (MATLAB, Excel).
+## Projects
+### [MyFacit](https://www.myfacit.com): Analytics & Decision-Support Platform (SQL, Python, BI, Forecasting)
+- Centralised analytics platform for a small hospitality business, integrating 8+ data sources with dashboards and short-term forecasting; now in pilot with a local business.
 
 ## Education
 ### Master of Data Science, Monash University | Feb 2022 to Dec 2023
