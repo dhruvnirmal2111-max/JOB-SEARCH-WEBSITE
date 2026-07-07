@@ -113,7 +113,7 @@
     "kind": "focus",
     "start": "2026-07-04T09:00:00",
     "end": "2026-07-04T11:00:00",
-    "notes": "All 6 draft packages are ready (2-page PDF + cover letter in each pipeline folder). All submit-by dates have passed (5–12 days overdue). Step: confirm each posting is still live (~5 min each), then submit and mark Applied in pipeline/pipeline.md + the relevant log.md. Quantium: quantium.com/careers; Capital.com: careers.capital.com; Kogan.com: Lever; Qualitas: qualitas.com.au/careers (requires short note — cover letter doubles as it); Melbourne Water: melbournewater.com.au/careers; AVC: avc.com.au/careers.",
+    "notes": "All 6 draft packages are ready (2-page PDF + cover letter in each pipeline folder). All submit-by dates have passed (5\u201312 days overdue). Step: confirm each posting is still live (~5 min each), then submit and mark Applied in pipeline/pipeline.md + the relevant log.md. Quantium: quantium.com/careers; Capital.com: careers.capital.com; Kogan.com: Lever; Qualitas: qualitas.com.au/careers (requires short note \u2014 cover letter doubles as it); Melbourne Water: melbournewater.com.au/careers; AVC: avc.com.au/careers.",
     "source": "campaign",
     "status": "pending"
   },
@@ -123,7 +123,7 @@
     "kind": "deadline",
     "start": "2026-07-12T09:00:00",
     "end": "2026-07-12T09:30:00",
-    "notes": "Row 105 in shortlist.md: Analytics Engineer, VPS hybrid Melbourne, est. $100–130K. Posting closes approximately 14 July 2026. If you want to apply, set Pursue? = yes in shortlist.md today so tonight's engine can build it, OR run /quick-apply with the JD directly. Source: job-search/targets/shortlist.md row 105.",
+    "notes": "Row 105 in shortlist.md: Analytics Engineer, VPS hybrid Melbourne, est. $100\u2013130K. Posting closes approximately 14 July 2026. If you want to apply, set Pursue? = yes in shortlist.md today so tonight's engine can build it, OR run /quick-apply with the JD directly. Source: job-search/targets/shortlist.md row 105.",
     "source": "campaign",
     "status": "pending"
   },
@@ -148,5 +148,15 @@
     "status": "created",
     "gcal_event_id": "5rjr8kkl9jkh5644qo109fj1uo",
     "gcal_link": "https://www.google.com/calendar/event?eid=NXJqcjhra2w5amtoNTY0NHFvMTA5ZmoxdW8gZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "agl-outreach-week1-20260630",
+    "title": "Send outreach: AGL Data Scientist (recruiter + peer)",
+    "kind": "outreach",
+    "start": "2026-06-30T09:00:00",
+    "end": "2026-06-30T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/agl--data-scientist/outreach.md (week-1: recruiter + a peer). Verify each is currently at AGL first. You send manually.",
+    "source": "agl--data-scientist",
+    "status": "pending"
   }
 ]
