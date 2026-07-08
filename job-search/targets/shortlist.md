@@ -185,6 +185,15 @@
 | 122 | Allianz Australia | Data Engineer | Melbourne (hybrid) | Jun–Jul 2026 | Insurance data platform (IDP); Python + cloud ETL/ELT + batch + streaming pipelines at AU's largest general insurer; new company on shortlist; est. AUD $105–148k | 7 | Specific posting | |
 | 123 | RACV | Lead Data Scientist | Melbourne CBD (hybrid) | Oct 2025 (ongoing) | Lead Advanced Analytics across Insurance, Digital, Membership + Roadside; ML model deployment + Python; est. AUD $140–180k ⚠ originally posted Oct 2025 — verify still open on careers.racv.com.au before applying | 7 | Specific posting | |
 
+### Daily scout — 2026-07-08
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 124 | Canva | Senior ML Engineer – Multimodal Data | Remote ANZ | ~Jul 2026 | THIRD distinct Canva role; builds data pipelines + evaluation datasets + LLM-based synthetic-data tooling for multimodal agent research (text, image); Python + ML at Canva scale; directly matches rare agentic-AI/LLM edge; est. $161–205k | 9 | Specific posting | |
+| 125 | Endava | AI/ML Engineer – GCP | Melbourne (hybrid) | ~Jul 2026 | Global tech consultancy (London HQ); ML model dev + deployment on GCP with Python (TF/PyTorch/Scikit); client-facing ML engineering; 3–5 yrs exp; est. $115–145k | 7 | Specific posting | |
+| 126 | St Vincent's Health Australia | Data Engineering & Innovation Lead | Remote WFH (AU) | Jun 21, 2026 | AU's largest NFP health network; build integrated Data, AI & Interoperability Platform; GenAI + ML scope; enterprise data architecture leadership; fully remote AU; ⚠ verify salary ≥ AUD 95k (NFP bands before applying) | 7 | Specific posting | |
+| 127 | Robert Half (client: tech co.) | Senior Azure Data Engineer | Melbourne CBD (contract) | ~Jul 2026 | Contract via Robert Half; Azure Data Factory + Azure Synapse + Microsoft Fabric + SQL; data re-platforming at a tech-driven business; AUD $180,000/yr ⚠ contract not perm — confirm preference before applying | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -239,6 +248,14 @@
 | R36 | Palantir Technologies | Forward Deployed Software Engineer | Singapore (on-site) | Jul 2026 | 27 open FDSE roles in SG confirmed Jul 2026; client-embedded AI/data platform delivery for govt + financial services clients; SGD 160–176k (~AUD 180–200k) + PLTR equity, Singapore effective tax ~10%. **Survives move: NO — Singapore presence required; relocation/sponsorship option** | 7 | Specific posting | |
 | R37 | Careem (Uber subsidiary) | Staff Data Scientist I — Careem Pay | Dubai, UAE (hybrid) | 2026 | Real-time pricing, fraud detection + ETA ML at MENA super-app scale; Python + ML + causal inference; AED 372–520k median (~$101–141k USD, zero personal tax). **Survives move: NO — Dubai presence required; relocation option** | 7 | Specific posting | |
 | R38 | Stripe | Backend Engineer, Data / Data Lake | Remote (confirm India eligibility) | Jul 2026 | Data infrastructure at global payments scale; Scala + Spark + Kafka + Airflow stack; premium brand + elite engineering culture; $157–235k USD (US band) ⚠ India eligibility unconfirmed — verify directly with recruiter before applying. **Survives move: PARTIAL** | 6 | Specific posting | |
+
+### Remote-first scout — 2026-07-08
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R39 | Beroe | AI Engineer (Agentic AI & LLM Systems) | Fully remote (global, India-eligible) | ~Jul 2026 | Procurement-intelligence SaaS (Chennai-HQ); agentic pipelines (LangGraph, LangChain, CrewAI), RAG, vector DBs, LLM fine-tuning; 7+ yrs exp; **4-day Mon–Thu week + 28d PTO**; India-eligible — can visit Chennai office; globally remote confirmed. **Survives move: YES** | 9 | Specific posting | |
+| R40 | DATAMAXIS | Senior Data Engineer (Databricks & PySpark) | India remote | ~Mar–Jul 2026 | US-based data consultancy; exact stack match (Databricks, PySpark, Python, SQL, Java); 5+ yrs; long-term annually-renewable contract; India remote confirmed on Himalayas + RemoteRocketship. **Survives move: YES** | 7 | Specific posting | |
+| R41 | Altimate AI | Senior Data Scientist / AI ML Engineer | Remote (SF-founded startup; India eligibility TBC) | ~Jul 2026 | AI-native data engineering platform (DataPilot + DataMates); multi-agent systems + RAG + LLM fine-tuning + dbt automation — directly matches rare LLM/agentic-AI edge + analytics background; $185k–$250k USD base ⚠ US tz overlap and India eligibility unconfirmed — verify before applying. **Survives move: PARTIAL** | 8 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -461,3 +478,15 @@
 - [Careem — Staff Data Scientist I salary, Dubai (Levels.fyi)](https://www.levels.fyi/companies/careem/salaries/data-scientist/locations/greater-dubai-area)
 - [Stripe — Backend Engineer, Data (Stripe Jobs)](https://stripe.com/jobs/listing/backend-engineer-data/6865161)
 - [Stripe — Backend Engineer, Data Lake (Stripe Jobs)](https://stripe.com/jobs/listing/backend-engineer-data-lake/6981419)
+
+### Daily scout sources — 2026-07-08 (rows 124–127, R39–R41)
+- [Canva — Senior ML Engineer Multimodal Data, Remote ANZ (Life at Canva)](https://www.lifeatcanva.com/en/jobs/6000000000975855/senior-machine-learning-engineer-multimodal-data/)
+- [Canva — Senior ML Engineer Multimodal Data (Working Nomads)](https://www.workingnomads.com/jobs/senior-machine-learning-engineer-multimodal-data-canva)
+- [Endava — AI/ML Engineer GCP, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/ai-ml-engineer-gcp/6216950)
+- [St Vincent's Health Australia — Data Engineering & Innovation Lead, Remote AU (Himalayas)](https://himalayas.app/companies/st-vincent-s-health-australia/jobs/data-engineering-innovation-lead)
+- [Robert Half — Senior Azure Data Engineer, Melbourne CBD (Robert Half)](https://www.roberthalf.com/au/en/job/melbourne-cbd-victoria/senior-azure-data-engineer/06810-0013336839-auen)
+- [Beroe — AI Engineer (Agentic AI & LLM Systems), Fully Remote (Beroe Careers)](https://www.beroeinc.com/careers-vacancies/ai-engineer-agentic-ai-llm-systems/)
+- [Beroe — AI Engineer (Agentic AI & LLM Systems), Remote (4dayweek.io)](https://4dayweek.io/remote-job/ai-engineer-agentic-ai-and-llm-systems-rJtHn-beroe)
+- [DATAMAXIS — Senior Data Engineer Databricks/PySpark, India Remote (RemoteRocketship)](https://www.remoterocketship.com/company/datamaxis-net/jobs/senior-data-engineer-databricks-pyspark-india-remote/)
+- [DATAMAXIS — Senior Data Engineer Databricks/PySpark (Himalayas)](https://himalayas.app/companies/datamaxis/jobs/senior-data-engineer-databricks-pyspark)
+- [Altimate AI — Senior Data Scientist / AI ML Engineer, Remote (Himalayas)](https://himalayas.app/companies/altimate-ai/jobs/senior-data-scientist-ai-ml-engineer-3429398478)
