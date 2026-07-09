@@ -194,6 +194,18 @@
 | 126 | St Vincent's Health Australia | Data Engineering & Innovation Lead | Remote WFH (AU) | Jun 21, 2026 | AU's largest NFP health network; build integrated Data, AI & Interoperability Platform; GenAI + ML scope; enterprise data architecture leadership; fully remote AU; ⚠ verify salary ≥ AUD 95k (NFP bands before applying) | 7 | Specific posting | |
 | 127 | Robert Half (client: tech co.) | Senior Azure Data Engineer | Melbourne CBD (contract) | ~Jul 2026 | Contract via Robert Half; Azure Data Factory + Azure Synapse + Microsoft Fabric + SQL; data re-platforming at a tech-driven business; AUD $180,000/yr ⚠ contract not perm — confirm preference before applying | 7 | Specific posting | |
 
+### Daily scout — 2026-07-09
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 128 | IAG | Agentic Systems Engineer | Melbourne or Sydney (hybrid) | Jul 2026 | SECOND IAG role — distinct from Lead AI Eng (row 15); builds RAG + agentic coding pipelines + fine-tuned SLMs in Data & Analytics division; LLM/agentic-AI edge is the core req; est. $160–230k | 9 | Specific posting | |
+| 129 | Vocus | Senior Data Engineer (GCP) | Melbourne (hybrid) | Jul 2026 | AU telco (Vocus Group); end-to-end GCP data lake architecture; 5–10 yrs exp; daily upskilling culture; new company on shortlist; est. $130–160k | 7 | Specific posting | |
+| 130 | University of Melbourne | Senior Data Engineer | Melbourne (hybrid) | Jul 2026 | Production-grade pipelines + business-critical data products at AU's #1 university; public-sector stability; est. $111–127k EA scale + strong super | 6 | Specific posting | |
+| 131 | Spriggy | Senior Data Engineer | Sydney (hybrid, 2d/wk) | Jul 2026 | Family-finance fintech scaleup; dbt + Snowflake stack direct match; senior ownership + mentoring scope; Sydney 2d/wk hybrid; est. $130–150k | 7 | Specific posting | |
+| 132 | Calvary | Data Science & AI Engineering Lead | Melbourne / multi-site AU (flexible) | ~Jul 2026 | Healthcare nonprofit; lead + build ML/AI team to productionise models in regulated health env; permanent full-time; ⚠ closes Jul 17 — apply soon; est. $140–180k | 7 | Specific posting | |
+| 133 | Mantel Group | Machine Learning Engineer | Melbourne (hybrid) | ~Jul 2026 | AU's award-winning tech & AI consultancy (AWS/GCP/Data/Security); ML model dev + deployment on enterprise client engagements; avg $126k/yr; consulting domain match + cert reimbursement | 7 | Specific posting | |
+| 134 | Macquarie Group | ML Platform Engineer | Sydney (hybrid) | Jul 2026 | Confirmed specific posting (ref BFS13157) — newly established ML team in Banking & Financial Services; MLOps tooling (GCP Vertex AI, SageMaker, DataRobot); Python + Java + CI/CD; est. $128–173k ⚠ Sydney-primary — confirm remote/Melbourne option | 8 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -256,6 +268,18 @@
 | R39 | Beroe | AI Engineer (Agentic AI & LLM Systems) | Fully remote (global, India-eligible) | ~Jul 2026 | Procurement-intelligence SaaS (Chennai-HQ); agentic pipelines (LangGraph, LangChain, CrewAI), RAG, vector DBs, LLM fine-tuning; 7+ yrs exp; **4-day Mon–Thu week + 28d PTO**; India-eligible — can visit Chennai office; globally remote confirmed. **Survives move: YES** | 9 | Specific posting | |
 | R40 | DATAMAXIS | Senior Data Engineer (Databricks & PySpark) | India remote | ~Mar–Jul 2026 | US-based data consultancy; exact stack match (Databricks, PySpark, Python, SQL, Java); 5+ yrs; long-term annually-renewable contract; India remote confirmed on Himalayas + RemoteRocketship. **Survives move: YES** | 7 | Specific posting | |
 | R41 | Altimate AI | Senior Data Scientist / AI ML Engineer | Remote (SF-founded startup; India eligibility TBC) | ~Jul 2026 | AI-native data engineering platform (DataPilot + DataMates); multi-agent systems + RAG + LLM fine-tuning + dbt automation — directly matches rare LLM/agentic-AI edge + analytics background; $185k–$250k USD base ⚠ US tz overlap and India eligibility unconfirmed — verify before applying. **Survives move: PARTIAL** | 8 | Specific posting | |
+
+### Remote-first scout — 2026-07-09
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R42 | Boeing | Senior Agentic AI Engineer | Bengaluru, India (on-site/hybrid) | Jul 3, 2026 | Global aerospace/defense giant; leads agentic AI engineering delivery for GTM systems; RAG + multi-agent systems (LangGraph/CrewAI/AutoGen); 8+ yrs exp; ₹28–42 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R43 | Visa Inc. India | Sr. Software Engineer — Agentic AI / GenAI / LLM / RAG | Bengaluru, India | Jul 3, 2026 | Global payments network; 7–11 yrs exp; Python + RAG + agentic AI pipelines at fintech scale; directly matches rare LLM/agentic-AI edge; est. ₹30–50 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R44 | CrowdStrike | Senior AI Engineer | Remote India (fully remote) | ~Jul 2026 | Cybersecurity AI leader; agentic AI delivery + multi-agent systems + LLM-powered workflows; LangGraph/CrewAI/AutoGen/MCP/Semantic Kernel; 8+ yrs; India remote explicitly confirmed; median ₹10.8M (~$129K USD). **Survives move: YES** | 8 | Specific posting | |
+| R45 | Luxoft | Senior AI Data Engineer | Remote India (fully remote) | Jul 2026 | Global IT services consultancy; maintains + extends internal LLM-powered assistant using hosted APIs; Python + PostgreSQL + OpenSearch + AWS ETL + RAG evaluation pipelines; 8+ yrs; est. ₹22–38 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R46 | dnata Travel (Emirates Group) | Data Scientist / AI Engineer | Dubai (on-site) | Jul 2026 | Emirates Group subsidiary (global travel services); GenAI + LLM + ML across dnata Travel portfolio; 2–4 yrs exp (MSc/PhD preferred); tax-free AED 15–22k/month (~₹35–50 LPA purchasing power) + Emirates flight perks ⚠ Dubai presence required; work-auth/visa check needed. **Survives move: NO — Dubai relocation** | 7 | Specific posting | |
+| R47 | Gojek / GoTo Group | Senior Data Scientist | Singapore (on-site, some flex) | Jul 2026 | ASEAN super-app (ride/payments/delivery); advanced analytics + cross-functional ML strategy + senior mentoring scope; est. SGD 126–150K/yr (~$94–112K USD) + equity ⚠ Singapore presence required; work-auth/visa check needed. **Survives move: NO — Singapore relocation** | 7 | Specific posting | |
+| R48 | Mastercard | Senior / Lead Data Engineer | Singapore (on-site) | ~Jul 1, 2026 | Global payments network; data pipelines + AI products at enterprise scale; Singapore senior band est. SGD 12–18K/month (~$108–162K USD/yr) ⚠ Singapore presence required; work-auth/visa check needed. **Survives move: NO — Singapore relocation** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -490,3 +514,21 @@
 - [DATAMAXIS — Senior Data Engineer Databricks/PySpark, India Remote (RemoteRocketship)](https://www.remoterocketship.com/company/datamaxis-net/jobs/senior-data-engineer-databricks-pyspark-india-remote/)
 - [DATAMAXIS — Senior Data Engineer Databricks/PySpark (Himalayas)](https://himalayas.app/companies/datamaxis/jobs/senior-data-engineer-databricks-pyspark)
 - [Altimate AI — Senior Data Scientist / AI ML Engineer, Remote (Himalayas)](https://himalayas.app/companies/altimate-ai/jobs/senior-data-scientist-ai-ml-engineer-3429398478)
+
+### Daily scout sources — 2026-07-09 (rows 128–134, R42–R48)
+- [IAG — Agentic Systems Engineer, Melbourne/Sydney (IAG Careers)](https://careers.iag.com.au/global/en/job/IAUIAGGLOBAL49575EXTERNALENGLOBAL/Agentic-Systems-Engineer)
+- [IAG — Lead AI Engineer, Melbourne (IAG Careers)](https://careers.iag.com.au/global/en/job/49216/Lead-AI-Engineer)
+- [Vocus — Senior Data Engineer GCP, Melbourne (Adzuna Melbourne CBD)](https://www.adzuna.com.au/melbourne-cbd/data-engineer)
+- [University of Melbourne — Senior Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-engineer-at-university-of-melbourne-4389512701)
+- [Spriggy — Senior Data Engineer, Sydney (SEEK — dbt/Snowflake postings)](https://au.seek.com/Snowflake-jobs/full-time)
+- [Calvary — Data Science & AI Engineering Lead, Melbourne/multi-site (Calvary Careers)](https://careers.calvarycare.org.au/jobs/data-science-ai-engineering-lead-canberra-act-australia-newcastle-nsw-sydney-adelaide-sa-hobart-tas-launceston-melbourne-vic)
+- [Mantel Group — Machine Learning Engineer, Melbourne (Mantel Careers)](https://careers.mantelgroup.com.au/jobs/5663564-machine-learning-engineer)
+- [Macquarie Group — ML Platform Engineer, Sydney (Macquarie Recruitment BFS13157)](https://recruitment.macquarie.com/en_US/careers/JobDetail/ML-Platform-Engineer-Sydney-BFS13157/10042)
+- [Boeing — Senior Agentic AI Engineer, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-agentic-ai-engineer-at-boeing-4433729568)
+- [Visa Inc. India — Sr. SE Agentic AI/GenAI/LLM/RAG, Bengaluru (Naukri)](https://www.naukri.com/job-listings-sr-software-engineer-agentic-ai-genai-llm-rag-python-visa-consolidated-support-services-india-pvt-ltd-bengaluru-7-to-11-years-030726927894)
+- [CrowdStrike — AI Engineer (Remote, India) (Himalayas)](https://himalayas.app/companies/crowdstrike/jobs/sr-ai-engineer-remote-ind)
+- [CrowdStrike — AI Engineer Remote IND (CrowdStrike Workday)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/AI-Engineer-Remote--IND-_R29106)
+- [Luxoft — Senior AI Data Engineer, Remote India (Luxoft Careers)](https://career.luxoft.com/jobs/senior-ai-data-engineer-23286)
+- [dnata Travel (Emirates Group) — Data Scientist/AI Engineer, Dubai (Emirates Group Careers)](https://www.emiratesgroupcareers.com/search-and-apply/25030)
+- [Gojek / GoTo Group — Senior Data Scientist, Singapore (Lever)](https://jobs.lever.co/GoToGroup/34f6146a-c482-407c-a31c-72ac9bb90a7c)
+- [Mastercard — Senior/Lead Data Engineer, Singapore (Mastercard Careers)](https://careers.mastercard.com/us/en/singapore)
