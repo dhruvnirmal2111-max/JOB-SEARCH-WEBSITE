@@ -24,6 +24,7 @@
 | GitHub | Data Analyst (Trust & Safety — Copilot abuse) | github--data-analyst-trust-safety-copilot | Applying | **Owner: confirm work-authorization (Remote-Ontario-Canada, outside geo scope) BEFORE submitting**; review PDF + cover letter; `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-06-25 |
 | UniSuper (confirm) | Data Analyst (Enterprise Data Platform / BI) | unisuper--data-analyst | Applying | Owner: confirm company = UniSuper; review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-29 | 2026-06-26 |
 | AGL | Data Scientist (Data Science Chapter — Pricing & Acquisition) | agl--data-scientist | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-30 | 2026-06-26 |
+| Confidential (recruiter) | Data Scientist — Advanced Analytics & Pricing (Richmond VIC) | confidential-richmond--data-scientist-pricing | Applying | Owner: reply to recruiter with resume PDF + call times (draft in recruiter-reply.md) | reply ASAP | 2026-07-07 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
