@@ -206,6 +206,17 @@
 | 133 | Mantel Group | Machine Learning Engineer | Melbourne (hybrid) | ~Jul 2026 | AU's award-winning tech & AI consultancy (AWS/GCP/Data/Security); ML model dev + deployment on enterprise client engagements; avg $126k/yr; consulting domain match + cert reimbursement | 7 | Specific posting | |
 | 134 | Macquarie Group | ML Platform Engineer | Sydney (hybrid) | Jul 2026 | Confirmed specific posting (ref BFS13157) — newly established ML team in Banking & Financial Services; MLOps tooling (GCP Vertex AI, SageMaker, DataRobot); Python + Java + CI/CD; est. $128–173k ⚠ Sydney-primary — confirm remote/Melbourne option | 8 | Specific posting | |
 
+### Daily scout — 2026-07-10
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 135 | ASIC | Data Engineer | Melbourne (hybrid, 50/50 WFH) | Jul 9, 2026 | Govt financial markets regulator; data delivery + infrastructure transformation; $136K–$149K + 15.4% super (24m fixed-term contract); hybrid Melbourne; government/public sector domain | 8 | Specific posting | |
+| 136 | Heidi Health | Senior AI Engineer | Melbourne | ~Mar–Jul 2026 | $100M-funded AI Care Partner for clinicians (NHS, Monash Health, Beth Israel); ML feature systems + LLM/AI infrastructure at scale; agentic-AI/LLM edge directly relevant; est. $140–180K | 8 | Specific posting | |
+| 137 | Publicis Sapient | Senior Data Engineer (AWS + Databricks) | Melbourne | Jul 2026 | Global tech consultancy (Publicis Groupe); AWS + Databricks + Python + PySpark direct stack match; enterprise data engineering at consulting scale; analytics consulting domain; est. $140K–$190K | 7 | Specific posting | |
+| 138 | Maincode | AI Software Engineer (Back End) | Melbourne | Jul 2026 | Building "Matilda" — Australia's first domestically-trained conversational AI model; Python + AI engineering at Melbourne's largest private AI compute environment; $121K–$160K; high-impact early-stage AI | 8 | Specific posting | |
+| 139 | Harrison.ai | Senior ML Engineer (Computer Vision) | Sydney (check remote) | Active Jul 2026 | $160M-funded healthcare AI (radiology AI in 3,500+ clinical deployments); ML model development + infrastructure; end-to-end ML lifecycle; est. ~$180K ⚠ Sydney-primary — confirm Melbourne/remote option before applying | 7 | Specific posting | |
+| 140 | Goldman Sachs | Data / ML Scientist | Melbourne | Active Jul 2026 | Elite IB Melbourne tech office; design + deploy advanced ML models across trading, analytics + business strategy; elite brand + strong comp est. $130–180K ⚠ verify specific Melbourne Data/ML opening is live (separate from Bengaluru role R14) | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -280,6 +291,14 @@
 | R46 | dnata Travel (Emirates Group) | Data Scientist / AI Engineer | Dubai (on-site) | Jul 2026 | Emirates Group subsidiary (global travel services); GenAI + LLM + ML across dnata Travel portfolio; 2–4 yrs exp (MSc/PhD preferred); tax-free AED 15–22k/month (~₹35–50 LPA purchasing power) + Emirates flight perks ⚠ Dubai presence required; work-auth/visa check needed. **Survives move: NO — Dubai relocation** | 7 | Specific posting | |
 | R47 | Gojek / GoTo Group | Senior Data Scientist | Singapore (on-site, some flex) | Jul 2026 | ASEAN super-app (ride/payments/delivery); advanced analytics + cross-functional ML strategy + senior mentoring scope; est. SGD 126–150K/yr (~$94–112K USD) + equity ⚠ Singapore presence required; work-auth/visa check needed. **Survives move: NO — Singapore relocation** | 7 | Specific posting | |
 | R48 | Mastercard | Senior / Lead Data Engineer | Singapore (on-site) | ~Jul 1, 2026 | Global payments network; data pipelines + AI products at enterprise scale; Singapore senior band est. SGD 12–18K/month (~$108–162K USD/yr) ⚠ Singapore presence required; work-auth/visa check needed. **Survives move: NO — Singapore relocation** | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-10
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R49 | UnitedHealth Group (Optum) | Senior AI/ML Engineer (LLM, RAG, Agentic AI) | Bengaluru, India | Jun 28, 2026 | Fortune 6 company's India tech arm; LLM + RAG + agentic workflows + orchestration pipelines in production healthcare AI; directly matches rare LLM/agentic-AI edge; est. ₹30–60 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R50 | Sarvam AI | Forward Deployed Software Engineer | Bengaluru, India | Jul 7, 2026 | India's leading sovereign AI lab (YC-backed, govt AI partner); deploys conversational AI agents (voice/WhatsApp/web) into production; 2–5 yrs exp; directly matches LLM/agentic-AI edge; est. ₹18–45 LPA + equity. **Survives move: YES** | 8 | Specific posting | |
+| R51 | Cognizant (India) | AI Engineer (Python, LangChain, LangGraph, Agentic AI) | Bengaluru, India (remote) | Jun 24, 2026 | Top-4 global IT firm's AI practice; multi-agent orchestration + RAG + LangGraph workflows + microservices for production AI apps; 7–13 yrs exp; distinct from AU Cognizant company-target (row 8); est. ₹25–50 LPA. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -532,3 +551,20 @@
 - [dnata Travel (Emirates Group) — Data Scientist/AI Engineer, Dubai (Emirates Group Careers)](https://www.emiratesgroupcareers.com/search-and-apply/25030)
 - [Gojek / GoTo Group — Senior Data Scientist, Singapore (Lever)](https://jobs.lever.co/GoToGroup/34f6146a-c482-407c-a31c-72ac9bb90a7c)
 - [Mastercard — Senior/Lead Data Engineer, Singapore (Mastercard Careers)](https://careers.mastercard.com/us/en/singapore)
+
+### Daily scout sources — 2026-07-10 (rows 135–140, R49–R51)
+- [ASIC — Data Engineer, Melbourne (ASIC Careers)](https://careers.asic.gov.au/)
+- [ASIC — Data Engineer Melbourne (SEEK)](https://au.seek.com/ASIC-jobs)
+- [Heidi Health — Senior AI Engineer, Melbourne (Blackbird VC Job Board)](https://jobs.blackbird.vc/companies/heidi-health/jobs/70819845-senior-ai-engineer)
+- [Heidi Health — Careers (Ashby)](https://jobs.ashbyhq.com/heidihealth.com.au)
+- [Publicis Sapient — Senior Data Engineer, Melbourne (Publicis Groupe Careers)](https://careers.publicisgroupe.com/jobs/164193?lang=en-us)
+- [Publicis Sapient — Senior Data Engineer (LinkedIn)](https://www.linkedin.com/jobs/view/senior-data-engineer-aws-databricks-at-publicis-sapient-4227553321)
+- [Maincode — AI Software Engineer & AI Infrastructure Engineer, Melbourne (Ashby)](https://jobs.ashbyhq.com/maincode)
+- [Maincode — Melbourne Jobs (Built In Melbourne)](https://builtinmelbourne.com/company/maincode/jobs)
+- [Harrison.ai — Senior ML Engineer Computer Vision (startup.jobs)](https://startup.jobs/senior-machine-learning-engineer-computer-vision-harrisonai-4446129)
+- [Harrison.ai — Full-time Jobs (SEEK)](https://au.seek.com/harrison-ai-pty-ltd-jobs/full-time)
+- [Goldman Sachs — Melbourne Jobs (LinkedIn)](https://au.linkedin.com/jobs/goldman-sachs-jobs-melbourne-vic)
+- [Goldman Sachs — Data/ML Scientist (GS Higher)](https://higher.gs.com/roles/147522)
+- [UnitedHealth Group (Optum) — Senior AI/ML Engineer Bengaluru (UHG Careers)](https://careers.unitedhealthgroup.com/job/bengaluru/senior-ai-ml-engineer-llm-rag-agentic-ai/34088/97067676544)
+- [Sarvam AI — Forward Deployed Software Engineer, Bengaluru (Sarvam Careers)](https://www.sarvam.ai/careers/jobs/ac2b835e-375c-48d8-a174-8c2935f408b2)
+- [Cognizant India — AI Engineer LangChain/LangGraph/Agentic AI (Cognizant Careers)](https://careers.cognizant.com/global-en/jobs/00067116281/ai-engineer-python-langchain-langgraph-agentic-ai-api-llms/)
