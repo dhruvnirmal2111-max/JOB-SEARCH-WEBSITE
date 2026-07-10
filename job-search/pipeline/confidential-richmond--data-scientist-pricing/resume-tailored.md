@@ -4,7 +4,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](
 
 ## Professional Summary
 
-I'm a data scientist who builds pricing, forecasting and ML models that feed real commercial decisions, and works with stakeholders to make sure they land. I've built a pricing analysis that helped a client find around **A$2M** in savings, Prophet forecasting models, and an ML classifier over roughly **A$12B** of data, in Python, SQL and Databricks/PySpark.
+I'm a data scientist who builds pricing, forecasting and ML models that feed real commercial decisions, and works with stakeholders to make sure they land. I've built a pricing analysis that helped a client find around **A$2M** in savings, Prophet forecasting models, and an ML classifier over roughly **A$12B** of spend. I work mainly in Python and SQL, and have used Databricks and PySpark for large-scale data.
 
 ## Key Skills
 
