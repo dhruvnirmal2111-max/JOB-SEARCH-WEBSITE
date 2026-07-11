@@ -217,6 +217,18 @@
 | 139 | Harrison.ai | Senior ML Engineer (Computer Vision) | Sydney (check remote) | Active Jul 2026 | $160M-funded healthcare AI (radiology AI in 3,500+ clinical deployments); ML model development + infrastructure; end-to-end ML lifecycle; est. ~$180K ⚠ Sydney-primary — confirm Melbourne/remote option before applying | 7 | Specific posting | |
 | 140 | Goldman Sachs | Data / ML Scientist | Melbourne | Active Jul 2026 | Elite IB Melbourne tech office; design + deploy advanced ML models across trading, analytics + business strategy; elite brand + strong comp est. $130–180K ⚠ verify specific Melbourne Data/ML opening is live (separate from Bengaluru role R14) | 7 | Specific posting | |
 
+### Daily scout — 2026-07-11
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 141 | LAB3 Pty Ltd | Senior Data Engineer | Remote AU (fully remote) | Jul 8–10, 2026 | Boutique AU Azure consultancy; Azure + Microsoft Fabric + Databricks + dbt + Snowflake + Terraform direct stack match; fully remote-AU; est. $130–160k — top pick for remote-first goal | 8 | Specific posting | |
+| 142 | Synechron | Senior Data Engineer | Melbourne CBD (Docklands, hybrid) | Jun–Jul 2026 | Global fintech tech-consulting firm (16,500+ staff); financial services + insurance APAC clients; Python + PySpark + Iceberg + ETL pipelines; consulting domain match; avg AU salary ~$111k (above floor) | 7 | Specific posting | |
+| 143 | Australia Post | Senior Data Scientist | Richmond, Melbourne | Jul 2026 | Leads forecasting + AI-enabled models for AU's largest logistics network; ML-driven operational decisions; Python + ML; permanent full-time; **distinct from Data Engineer (row 28)**; est. $130–155k | 7 | Specific posting | |
+| 144 | Salesforce | Responsible AI Data Scientist | Melbourne | Active Jul 2026 | Evaluates + audits foundation + predictive ML models for fairness/transparency/explainability; supports Einstein + AI Research teams; **distinct from Agentic Data Specialist (row 118)**; est. $130–165k | 7 | Specific posting | |
+| 145 | Global Kinetics | Senior Data Scientist | Melbourne CBD (hybrid) | Active 2026 | Medical device/digital health; IoT + cloud platform for Parkinson's monitoring (PKG wearable in AU/US/UK/EU); leads DS team; graph/network data science + forecasting + ML + MLOps; est. $120–155k | 7 | Specific posting | |
+| 146 | Cleanaway | Data Analytics Engineer | Melbourne (hybrid) | Jun–Jul 2026 | ASX 100 waste management + critical infrastructure; Azure + Databricks + Power BI + dbt data lake; supply-chain + operations domain crossover with Comprara background; est. $110–140k | 7 | Specific posting | |
+| 147 | Chemist Warehouse | AI Engineer | Preston, Melbourne (hybrid) | Jul 2026 | AU's largest pharmacy retailer mid-major post-ASX digital transformation; AI engineering in a high-investment tech wave; ⚠ verify salary ≥ $95k floor before applying; est. $95–125k | 6 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -299,6 +311,13 @@
 | R49 | UnitedHealth Group (Optum) | Senior AI/ML Engineer (LLM, RAG, Agentic AI) | Bengaluru, India | Jun 28, 2026 | Fortune 6 company's India tech arm; LLM + RAG + agentic workflows + orchestration pipelines in production healthcare AI; directly matches rare LLM/agentic-AI edge; est. ₹30–60 LPA. **Survives move: YES** | 8 | Specific posting | |
 | R50 | Sarvam AI | Forward Deployed Software Engineer | Bengaluru, India | Jul 7, 2026 | India's leading sovereign AI lab (YC-backed, govt AI partner); deploys conversational AI agents (voice/WhatsApp/web) into production; 2–5 yrs exp; directly matches LLM/agentic-AI edge; est. ₹18–45 LPA + equity. **Survives move: YES** | 8 | Specific posting | |
 | R51 | Cognizant (India) | AI Engineer (Python, LangChain, LangGraph, Agentic AI) | Bengaluru, India (remote) | Jun 24, 2026 | Top-4 global IT firm's AI practice; multi-agent orchestration + RAG + LangGraph workflows + microservices for production AI apps; 7–13 yrs exp; distinct from AU Cognizant company-target (row 8); est. ₹25–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-11
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R52 | Flexday AI | AI Engineer (Agentic AI) | Fully remote, India | Active Jul 2026 | Canadian/US-HQ enterprise AI consultancy; agentic pipelines (LangGraph/AutoGen/CrewAI/DSPy) for large enterprise clients; directly matches rare LLM/agentic-AI edge; India remote confirmed; est. ₹25–50 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R53 | BharatGen | Agentic AI Engineer | Bengaluru, India (remote-friendly) | Active Jul 2026 | India's sovereign AI initiative (multilingual LLMs for governance/agriculture/education); LangGraph + RAG + multi-agent orchestration; mission-driven; est. ₹20–40 LPA. **Survives move: YES** | 6 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -568,3 +587,17 @@
 - [UnitedHealth Group (Optum) — Senior AI/ML Engineer Bengaluru (UHG Careers)](https://careers.unitedhealthgroup.com/job/bengaluru/senior-ai-ml-engineer-llm-rag-agentic-ai/34088/97067676544)
 - [Sarvam AI — Forward Deployed Software Engineer, Bengaluru (Sarvam Careers)](https://www.sarvam.ai/careers/jobs/ac2b835e-375c-48d8-a174-8c2935f408b2)
 - [Cognizant India — AI Engineer LangChain/LangGraph/Agentic AI (Cognizant Careers)](https://careers.cognizant.com/global-en/jobs/00067116281/ai-engineer-python-langchain-langgraph-agentic-ai-api-llms/)
+
+### Daily scout sources — 2026-07-11 (rows 141–147, R52–R53)
+- [LAB3 Pty Ltd — Jobs (SEEK)](https://au.seek.com/Lab3-Pty-Ltd-jobs)
+- [LAB3 — Careers (lab3.com.au)](https://www.lab3.com.au/careers/)
+- [Synechron — Careers (synechron.com)](https://www.synechron.com/careers)
+- [Synechron — Data Engineer Melbourne CBD (Adzuna)](https://www.adzuna.com.au/melbourne-cbd/data-engineer)
+- [Australia Post — Senior Data Scientist, Richmond Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-scientist-at-australia-post-3650064508)
+- [Salesforce — Responsible AI Data Scientist, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/responsible-ai-data-scientist/3496611)
+- [Global Kinetics — Senior Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-scientist-at-global-kinetics-3571211447)
+- [Cleanaway — Data Analytics Engineer jobs Melbourne (SEEK)](https://au.seek.com/data-analytics-engineer-jobs/in-All-Melbourne-VIC)
+- [Chemist Warehouse — Jobs Melbourne (SEEK)](https://au.seek.com/Chemist-Warehouse-jobs/in-All-Melbourne-VIC)
+- [Flexday AI — AI Engineer (Agentic AI), India Remote (Flexday Careers)](https://flexday.ai/jobs/ai-engineer-agentic-ai-india/)
+- [Flexday AI — Agentic AI Engineer India (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-agentic-ai-india-at-flexday-ai-4403974923)
+- [BharatGen — Agentic AI Engineer (BharatGen Careers)](https://bharatgen.com/careers/technology-jobs/agentic-ai-engineer/)
