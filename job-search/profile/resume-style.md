@@ -39,6 +39,16 @@ Role-agnostic. Future roles will differ in their specifics (title, domain, arche
 - **Surface the strongest archetype signal at the TOP of the current role**, not buried in a bullet. E.g. independent ownership of multiple client accounts is a lead context line, not bullet #6.
 - **Pick projects by relevance to THIS JD**, not by how flashy or AI-heavy they are. Drop weak or off-target bullets; include analytics/decision-support and domain-adjacent work even if it's less "impressive" on paper.
 - Be selective: a tight set of strong, relevant bullets beats an exhaustive list.
+- **Order bullets by relevance to the archetype.** Lead the current role with the bullets that match the target role (analyst / data-science / stakeholder work first); push engineering-sounding bullets lower. The first two bullets set the reader's impression of *what you are*, so don't let them read "data engineer" for an analyst/DS role.
+- **Detune verbs that mis-signal the archetype.** E.g. "own the end-to-end data pipeline" reads data-engineer; use "manage the end-to-end data". Same facts, right signal.
+
+## Resume length (1 vs 2 pages)
+- With under ~5 years of experience, **default to a 1-page resume for straightforward, BAU, junior or analyst roles**. Keep a **2-page** version for senior, consulting, or data-science-depth roles where the extra depth is the selling point. It's fine to maintain both variants in the folder.
+- When condensing to 1 page: cut the oldest/least-relevant role (e.g. early research roles like TBRL), drop or one-line the Projects section, merge weaker bullets, and trim education detail. Build with `--max-pages 1`. ~9.5 to 10.5pt is fine; do not cram below ~9.5pt, trim content instead.
+
+## Recruiter reach-outs & adapting an existing resume
+- **Recruiter-sourced reach-out** (a recruiter messages directly asking for a resume + call times): the deliverable is the tailored resume plus a short, personal reply (`recruiter-reply.md`) with a few availability slots. Do NOT write a formal cover letter or run 5-contact outreach — the recruiter is the channel. If the company isn't named, use a `confidential-...` folder and note it; rename once disclosed.
+- **Adapting an existing resume** (owner says "work from the X resume for this JD"): work from that file, retarget it, don't regenerate from scratch. Retarget the summary, re-order and re-emphasise bullets/skills for the new archetype, and strip the previous role's company-specific framing (e.g. remove "Quantium"/"financial services" when moving to a pricing role).
 
 ## Remote / distributed roles
 - When the role is remote or hybrid, explicitly highlight the strengths that de-risk remote work: **proactive, clear written communication, async updates, and thorough documentation** of methods, decisions and handovers. The owner deliberately over-communicates and over-documents on remote work, so make that visible (in the summary and/or a bullet, e.g. "keep clear written documentation and proactive updates so distributed teams and clients stay aligned"). Only do this for genuinely remote/hybrid roles, not co-located ones.
@@ -62,3 +72,5 @@ Role-agnostic. Future roles will differ in their specifics (title, domain, arche
 ## Always
 - **Flag judgment calls to the owner** (e.g. displayed-title alignment vs. the real title, an inferred metric) rather than deciding silently.
 - **Truthful only.** Never fabricate experience or metrics. Name honest gaps (e.g. no production R) rather than hiding them.
+- **Attribute tools and outcomes to the right work.** Never imply a tool was used for work it wasn't, or that one project produced another's result. Examples caught in review: a summary that trailed "in Python, SQL and Databricks/PySpark" after the pricing/ML savings, implying those were built in Databricks/PySpark (they were Python/SQL; Databricks/PySpark was a separate VCDI project); and tying the ~A$2M restaurant-chain figure to the Tableau/Power BI builds. Check every summary and bullet for this conflation and keep tools/impacts with the project that actually earned them.
+- **Never invent project specifics.** Use only facts in `projects.md` or explicitly confirmed by the owner. Agents have embellished (e.g. inventing "14 suppliers", "POS/wages", "menu engineering", "multi-tenant" for MyFacit). Revert any detail the owner hasn't confirmed.

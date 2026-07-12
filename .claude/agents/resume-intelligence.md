@@ -100,6 +100,8 @@ After compiling the full report, loop back and verify:
 3. Every rewritten bullet — truthful and natural-sounding?
 4. Keyword match rate calculated correctly?
 5. Professional tone throughout?
+6. **Attribution:** is every tool and metric tied to the project that actually earned it? No sentence implying a tool was used for work it wasn't (e.g. Databricks/PySpark trailing a Python/SQL pricing result), and no impact number pinned to the wrong project.
+7. **No invented specifics:** every project/bullet detail traces to `projects.md`, `base-resume.json`, or an owner-confirmed fact. Strip anything embellished (invented counts, systems, features).
 
 **Run this check TWICE. Fix anything off before returning.**
 
