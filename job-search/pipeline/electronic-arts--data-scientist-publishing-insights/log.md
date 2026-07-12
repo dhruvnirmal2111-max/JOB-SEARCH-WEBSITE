@@ -8,10 +8,10 @@
 ## Artifacts
 - [x] jd.md
 - [ ] analysis.md (career-coach) — on demand (`/career-coach ea`)
-- [ ] resume-tailored.md (resume-intelligence)
-- [ ] cover-letter.md (resume-intelligence)
-- [ ] Dhruv_Nirmal_EA_Data_Scientist.pdf
-- [ ] outreach.md (outreach)
+- [x] resume-tailored.md (resume-intelligence) - ~74% match; DS 'builder who validates + documents' archetype
+- [x] cover-letter.md (resume-intelligence) - 1 page
+- [x] Dhruv_Nirmal_EA_Data_Scientist.pdf - 2 pages
+- [x] outreach.md (outreach) - 3 verified (Wendy Su/peer, Alan Venegas/recruiter, Jamie McKinlay/senior) + 2 placeholders
 
 ## Notes
 - Good DS fit. Direct matches: forecasting (P7 Prophet), report automation (P5 -> "automation of distributed reports using DS outputs"), documentation of models/pipelines (P18), model validation (cross-validation), quantitative analysis (P3), trend/anomaly detection (P11), scikit-learn/pandas/Python/SQL.
