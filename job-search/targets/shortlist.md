@@ -229,6 +229,17 @@
 | 146 | Cleanaway | Data Analytics Engineer | Melbourne (hybrid) | Jun–Jul 2026 | ASX 100 waste management + critical infrastructure; Azure + Databricks + Power BI + dbt data lake; supply-chain + operations domain crossover with Comprara background; est. $110–140k | 7 | Specific posting | |
 | 147 | Chemist Warehouse | AI Engineer | Preston, Melbourne (hybrid) | Jul 2026 | AU's largest pharmacy retailer mid-major post-ASX digital transformation; AI engineering in a high-investment tech wave; ⚠ verify salary ≥ $95k floor before applying; est. $95–125k | 6 | Specific posting | |
 
+### Daily scout — 2026-07-12
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 148 | Insignia Financial | GCP Data Engineer / Modeller | Docklands, Melbourne (hybrid) | Jul 6, 2026 | ASX-listed wealthtech (MLC Life / Navigator); GCP + BigQuery data platform with ML/AI roadmap; fintech domain match; freshest confirmed posting; est. $110–140k | 8 | Specific posting | |
+| 149 | PEXA Group | Principal Data Engineer | Melbourne (hybrid) | Active Jul 2026 | ASX-listed digital property exchange; PySpark + Databricks direct stack match; greenfield data platform ownership; est. $140–175k ⚠ Principal level — verify experience threshold | 8 | Specific posting | |
+| 150 | Amber Electric | Senior Data Engineer | Melbourne / anywhere AU (remote-first) | Active Jul 2026 | Renewable energy tech startup; AWS + Snowflake + dbt + Tableau direct stack match; fully remote-AU option; equity included; est. $140–165k ⚠ verify listing still live | 8 | Specific posting | |
+| 151 | Aware Super | Senior Data Engineer | South Melbourne (hybrid) | Active Jul 2026 | Industry super fund (~$150B+ AUM); data pipeline + governance engineering in Data & Analytics transformation; fintech-adjacent domain; est. $115–145k | 7 | Specific posting | |
+| 152 | Wisr | Senior Analytics Engineer | Melbourne (hybrid, 2d/wk) | ~Jun–Jul 2026 | ASX-listed neobank (consumer lending); AI/ML/LLM/GenAI embedded in product analytics; dbt + cloud data warehouse; fintech domain; est. $120–150k | 7 | Specific posting | |
+| 153 | Canva | Senior ML Engineer – Content ML | AU remote | ~Jul 2026 | 4th distinct Canva ML role (cf. rows 18, 21, 124); content safety + IP + quality moderation AI at Canva product scale; Python + PyTorch/TF; AU remote; est. $210–280k TC | 8 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -318,6 +329,13 @@
 |------|---------|------|----------|--------|------------------------------|-----|------|---------|
 | R52 | Flexday AI | AI Engineer (Agentic AI) | Fully remote, India | Active Jul 2026 | Canadian/US-HQ enterprise AI consultancy; agentic pipelines (LangGraph/AutoGen/CrewAI/DSPy) for large enterprise clients; directly matches rare LLM/agentic-AI edge; India remote confirmed; est. ₹25–50 LPA. **Survives move: YES** | 8 | Specific posting | |
 | R53 | BharatGen | Agentic AI Engineer | Bengaluru, India (remote-friendly) | Active Jul 2026 | India's sovereign AI initiative (multilingual LLMs for governance/agriculture/education); LangGraph + RAG + multi-agent orchestration; mission-driven; est. ₹20–40 LPA. **Survives move: YES** | 6 | Specific posting | |
+
+### Remote-first scout — 2026-07-12
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R54 | Eightfold AI | Senior Engineer, Agentic AI | Bengaluru, India (hybrid, 3d/wk) | Active Jul 12, 2026 | $2B+ talent intelligence AI platform ($410M raised); research + build complex multi-agent + planning AI systems; Python; directly matches rare LLM/agentic-AI edge; est. ₹38–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R55 | Irth Solutions | MLOps / LLMOps Engineer | India (fully remote) | ~Feb 2026 ⚠ verify still open | Enterprise SaaS for infrastructure asset integrity; Databricks + Delta Lake + Unity Catalog + LLM observability + CI/CD; product co (not staffing); salary TBD. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -601,3 +619,14 @@
 - [Flexday AI — AI Engineer (Agentic AI), India Remote (Flexday Careers)](https://flexday.ai/jobs/ai-engineer-agentic-ai-india/)
 - [Flexday AI — Agentic AI Engineer India (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-agentic-ai-india-at-flexday-ai-4403974923)
 - [BharatGen — Agentic AI Engineer (BharatGen Careers)](https://bharatgen.com/careers/technology-jobs/agentic-ai-engineer/)
+
+### Daily scout sources — 2026-07-12 (rows 148–153, R54–R55)
+- [Insignia Financial — GCP Data Engineer / Modeller, Melbourne (Insignia Careers)](https://careers.insigniafinancial.com.au/)
+- [PEXA Group — Principal Data Engineer, Melbourne (Lever)](https://jobs.lever.co/pexa/fae82380-3cc5-4d79-b78c-ab192581a23d)
+- [Amber Electric — Senior Data Engineer, Remote AU (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-engineer-at-amber-electric-3379861273)
+- [Aware Super — Senior Data Engineer, South Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-aware-super-4324266761)
+- [Wisr — Senior Analytics Engineer, Melbourne (startup.jobs)](https://startup.jobs/senior-analytics-engineer-wisr-6590240)
+- [Canva — Senior ML Engineer Content ML, AU Remote (Life at Canva)](https://www.lifeatcanva.com/en/jobs/6000000000970331/senior-machine-learning-engineer-content-ml-au-remote/)
+- [Eightfold AI — Senior Engineer Agentic AI, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-engineer-agentic-ai-at-eightfold-ai-4434478313)
+- [Irth Solutions — MLOps/LLMOps Engineer, India Remote (Remotive)](https://remotive.com/remote/jobs/artificial-intelligence/mlops-llmops-engineer-4639578)
+- [Irth Solutions — MLOps/LLMOps Engineer (Workable)](https://apply.workable.com/irth-solutions/j/3CCDCF0091)
