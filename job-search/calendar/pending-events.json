@@ -169,6 +169,8 @@
     "end": "2026-07-10T09:20:00",
     "notes": "Send the drafted messages in job-search/pipeline/electronic-arts--data-scientist-publishing-insights/outreach.md (week-1: recruiter + a peer). Verify each is currently at EA first. You send manually.",
     "source": "electronic-arts--data-scientist-publishing-insights",
-    "status": "pending"
+    "status": "created",
+    "gcal_event_id": "k65c50kugpuaisqrqjju75u6dg",
+    "gcal_link": "https://www.google.com/calendar/event?eid=azY1YzUwa3VncHVhaXNxcnFqanU3NXU2ZGcgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
