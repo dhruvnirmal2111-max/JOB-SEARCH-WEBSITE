@@ -240,6 +240,16 @@
 | 152 | Wisr | Senior Analytics Engineer | Melbourne (hybrid, 2d/wk) | ~Jun–Jul 2026 | ASX-listed neobank (consumer lending); AI/ML/LLM/GenAI embedded in product analytics; dbt + cloud data warehouse; fintech domain; est. $120–150k | 7 | Specific posting | |
 | 153 | Canva | Senior ML Engineer – Content ML | AU remote | ~Jul 2026 | 4th distinct Canva ML role (cf. rows 18, 21, 124); content safety + IP + quality moderation AI at Canva product scale; Python + PyTorch/TF; AU remote; est. $210–280k TC | 8 | Specific posting | |
 
+### Daily scout — 2026-07-13
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 154 | WorkSafe Victoria | Lead Data Engineer | Melbourne (hybrid, 50/50 WFH) | Active Jul 2026 (FTC to 31 Dec 2026) | Govt workplace safety regulator; lead cloud data platform delivery + CI/CD; AUD $152,556 + 12% super (~$170,900 total package — confirmed salary); AWS/Airflow/dbt/Snowflake stack signals; supply-chain-adjacent ops data domain | 8 | Specific posting | |
+| 155 | Bunnings | Data Engineering Team Lead | Melbourne (hybrid) | Active Jul 2026 | AU's largest hardware retailer (Wesfarmers; distinct from OneDigital row 40); lead Snowflake data engineering squads + agile data products at enterprise scale; est $150–180k | 8 | Specific posting | |
+| 156 | Origin Energy | Senior Data Engineer | Melbourne CBD (hybrid) | ~Jun–Jul 2026 | Major AU energy retailer; design + maintain scalable AWS data pipelines for Virtual Power Plant (VPP) initiatives; Python + SQL + cloud stack match; energy sector not yet on shortlist; est $130–145k | 7 | Specific posting | |
+| 157 | Commonwealth Bank (CBA) | Data Scientist – People Analytics | Melbourne / Sydney (hybrid) | ~Jun 2026 | Confirmed specific posting REQ259563 on CBA Workday — distinct from company-target row 4; ML modelling for workforce analytics at AU's #1 bank; Python/SQL; est $130–165k | 7 | Specific posting | |
+| 158 | Macquarie Group | Data Engineer | Melbourne / Sydney (hybrid) | Jul 2026 | Confirmed specific postings IDs 18985 & 19464 on Macquarie ATS — distinct from company-target row 5 and ML Platform row 134; data pipeline design + AI/automation at investment-bank scale; est $160–200k | 8 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -336,6 +346,15 @@
 |------|---------|------|----------|--------|------------------------------|-----|------|---------|
 | R54 | Eightfold AI | Senior Engineer, Agentic AI | Bengaluru, India (hybrid, 3d/wk) | Active Jul 12, 2026 | $2B+ talent intelligence AI platform ($410M raised); research + build complex multi-agent + planning AI systems; Python; directly matches rare LLM/agentic-AI edge; est. ₹38–55 LPA. **Survives move: YES** | 8 | Specific posting | |
 | R55 | Irth Solutions | MLOps / LLMOps Engineer | India (fully remote) | ~Feb 2026 ⚠ verify still open | Enterprise SaaS for infrastructure asset integrity; Databricks + Delta Lake + Unity Catalog + LLM observability + CI/CD; product co (not staffing); salary TBD. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-13
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R56 | Cohere AI | Forward Deployed Engineer, Agentic Platform | Fully remote (global, APAC-eligible) | Active Jul 2026 ⚠ CLOSES Jul 16 — apply by Sunday | Design + deploy production-grade agentic LLM workflows for enterprise clients; RAG pipelines, orchestration frameworks, vector DBs; JD is a direct profile match; confirmed on Ashby (job 75c0032c), RemoteOK, Welcome to the Jungle; **distinct from company-target R11 — now a confirmed specific posting with hard deadline. Survives move: YES** | 9 | Specific posting | |
+| R57 | Meesho | AI Engineer | Bengaluru (hybrid, 4 days/wk) | Active Jul 2026 | India's #1 social commerce unicorn (130M+ users); LLMs + GenAI + NLP for recommendation/search at scale; 4-8 yrs exp; confirmed on Instahyre (job 410728); est ₹25–55 LPA + equity. **Survives move: YES** | 8 | Specific posting | |
+| R58 | Swiggy | Data Engineer (Analytics Engineer) | Bengaluru / India (hybrid) | Active Jul 2026 | India's #1 food-delivery + quick-commerce platform (Instamart); real-time data pipelines + Databricks/dbt/Snowflake + BigQuery at extreme scale; confirmed on Instahyre + Naukri (124 active listings); est ₹20–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R59 | Observe.AI | ML Engineer (NLP) | Bengaluru / India remote | Active Jul 2026 | Series C contact-centre intelligence SaaS (USA HQ, India engineering hub); LLM + NLP data pipelines for speech AI; 51+ India roles confirmed Jul 2026; est ₹20–45 LPA; India remote eligible. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -630,3 +649,24 @@
 - [Eightfold AI — Senior Engineer Agentic AI, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-engineer-agentic-ai-at-eightfold-ai-4434478313)
 - [Irth Solutions — MLOps/LLMOps Engineer, India Remote (Remotive)](https://remotive.com/remote/jobs/artificial-intelligence/mlops-llmops-engineer-4639578)
 - [Irth Solutions — MLOps/LLMOps Engineer (Workable)](https://apply.workable.com/irth-solutions/j/3CCDCF0091)
+
+### Daily scout sources — 2026-07-13 (rows 154–158, R56–R59)
+- [WorkSafe Victoria — Lead Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/lead-data-engineer-at-worksafe-victoria-898548247)
+- [WorkSafe Victoria — Careers](https://www.worksafe.vic.gov.au/careers)
+- [Bunnings — Data Engineering Team Lead, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineering-team-lead-at-bunnings-3889123263)
+- [Bunnings — Jobs Portal](https://www.bunnings.com.au/jobs)
+- [Origin Energy — Senior Data Engineer, Melbourne (careers portal)](https://careers.originenergy.com.au/job/Melbourne-Senior-Data-Engineer-VIC-3000/1297454000/)
+- [Origin Energy — Senior Data Engineer (aijobs.net)](https://aijobs.net/job/1327186-senior-data-engineer/)
+- [Commonwealth Bank — Data Scientist People Analytics REQ259563 (CBA Workday)](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Data-Scientist--People-Analytics_REQ259563)
+- [CBA — Data & AI Careers](https://www.commbank.com.au/about-us/careers/data-and-analytics.html)
+- [Macquarie Group — Data Engineer 18985 (Macquarie ATS)](https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Engineer/18985)
+- [Macquarie Group — Data Engineer 19464 (Macquarie ATS)](https://recruitment.macquarie.com/en_US/careers/JobDetail/Data-Engineer/19464)
+- [Cohere AI — Forward Deployed Engineer, Agentic Platform (Ashby)](https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9)
+- [Cohere AI — Forward Deployed Engineer (Welcome to the Jungle)](https://www.welcometothejungle.com/en/companies/cohere/jobs/forward-deployed-engineer_fr_jfjwbzcr)
+- [Cohere AI — Forward Deployed Engineer (RemoteOK)](https://remoteok.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611)
+- [Meesho — AI Engineer, Bengaluru (Instahyre)](https://www.instahyre.com/job-410728-ai-engineer-at-meesho-bangalore/)
+- [Meesho — Careers](https://www.meesho.io/jobs?d=engineering)
+- [Swiggy — Data Engineer, Bengaluru (Instahyre)](https://www.instahyre.com/job-48890-data-engineer-at-swiggy-bangalore/)
+- [Swiggy — Careers](https://careers.swiggy.com/)
+- [Observe.AI — ML Engineer NLP, India (LinkedIn India)](https://in.linkedin.com/jobs/view/machine-learning-engineer-nlp-at-observe-ai-4187977491)
+- [Observe.AI — Careers](https://www.observe.ai/careers)
