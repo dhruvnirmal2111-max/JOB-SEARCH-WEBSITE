@@ -48,11 +48,6 @@ Aug 2023 to Nov 2023 | Melbourne, Australia
 - Approach: built a distributed anomaly-detection pipeline in Databricks with PySpark, engineering scalable transformation layers, and delivered the findings through a Power BI solution.
 - Result: detection accuracy improved by about 20%; the Power BI solution was adopted by senior Department of Transport stakeholders.
 
-### Research Data Analyst, Terminal Ballistics Research Laboratory (TBRL, DRDO)
-Jan 2021 to Jul 2021 | India
-
-- Built statistical models with Butterworth signal filtering to predict blast-wave noise levels, improving prediction accuracy by about 20%, and compiled the findings into a technical report.
-
 ## Projects
 
 ### [MyFacit](https://www.myfacit.com): Analytics and Decision-Support SaaS for Hospitality
