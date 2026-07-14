@@ -21,21 +21,32 @@ Jun 2024 to Present | Melbourne, Australia
 A data and analytics consultancy. I own client engagements end to end: framing the problem, building the model, and presenting the results to commercial stakeholders. Selected engagements:
 
 **Pricing and cost analytics — multi-venue restaurant group (AU/NZ)**
-- The client felt their supply costs were too high but couldn't see where the money was leaking. I owned the account, built a product catalogue of roughly 3,000 to 3,500 items, then a pricing-decision dashboard tracking price movement and cost leakage by product, venue and supplier, using Python (pandas, numpy) and SQL. Presenting to the CFO and category managers, the analysis helped them identify close to 30% savings, roughly **A$2M** over a year, in their largest category, which they used directly in supplier negotiations.
+- Problem: the client felt their supply costs were too high but couldn't see where the money was leaking.
+- Approach: owned the account and built a product catalogue of roughly 3,000 to 3,500 items, then a pricing-decision dashboard tracking price movement and cost leakage by product, venue and supplier, using Python (pandas, numpy) and SQL; presented findings to the CFO and category managers.
+- Result: helped them identify close to 30% savings, roughly **A$2M** over a year, in their largest category, used directly in supplier negotiations.
 
 **ML spend classification — enterprise procurement client (~A$12B spend)**
-- Categorising the client's five-year, roughly **A$12B** spend book was manual and took an account manager over a month per cycle. I led the company's first ML classifier to automate it: a one-vs-all model built in scikit-learn (TfidfVectorizer on the transaction text, LogisticRegression with class weights for the heavy class imbalance, GridSearchCV and cross-validation for tuning), with pandas and numpy for feature engineering, and I evaluated it on precision, recall and F1 rather than accuracy. It cut the cycle to a single day's model run, and I documented the pipeline so it could be reused across other clients.
+- Problem: categorising the client's five-year, roughly **A$12B** spend book was manual and took an account manager over a month per cycle.
+- Approach: led the company's first ML classifier to automate it, a one-vs-all model that keeps high-value spend on manual review and models the long tail. Built in scikit-learn with text features from the transaction descriptions (originally TF-IDF, now moving to embeddings for better semantic matching), LogisticRegression with class weights for the heavy imbalance, and GridSearchCV with cross-validation for tuning; pandas and numpy for feature engineering.
+- Validation: evaluated on precision, recall and F1 rather than accuracy, given the heavy class imbalance across categories.
+- Result: cut the cycle from over a month to a single day's model run, and documented the pipeline for reuse across clients.
 
 **Demand forecasting — fresh-produce and agricultural client**
-- The client needed to plan raw-material and chemical inventory three months ahead. I built a Prophet time-series model with external regressors such as sea-freight trends and input prices, prepared the data with pandas, and backtested on held-out periods, delivering it through a planning dashboard. Forecasts landed within a 12.5 to 14% error margin, comfortably inside the client's tolerance.
+- Problem: the client needed to plan raw-material and chemical inventory three months ahead.
+- Approach: built a Prophet time-series model with external regressors such as sea-freight trends and input prices, prepared the data with pandas, and backtested on held-out periods; delivered through a planning dashboard.
+- Result: forecasts within a 12.5 to 14% error margin, comfortably inside the client's tolerance.
 
 **Reporting automation — internal, my own firm**
-- Our analysts were each spending 12 to 15 hours a week hand-assembling client progress reports. I built an internal LLM-based workflow that generates them straight from our analytics outputs, with a QA step that checks the output before it goes out. It was adopted across the whole analyst team, around 25 to 30 accounts, saving roughly 12 to 15 hours a week.
+- Problem: our analysts were each spending 12 to 15 hours a week hand-assembling client progress reports.
+- Approach: built an internal LLM-based workflow that generates them from our analytics outputs, with a QA step that checks the output before it goes out.
+- Result: adopted across the whole analyst team (around 25 to 30 accounts), saving roughly 12 to 15 hours a week.
 
 ### Data Engineer Intern, Victorian Centre for Data Insights (VCDI)
 Aug 2023 to Nov 2023 | Melbourne, Australia
 
-- Government procurement data was too large to screen on a single machine. I built a distributed anomaly-detection pipeline in Databricks with PySpark, engineering scalable transformation layers, and delivered the findings through a Power BI solution adopted by senior Department of Transport stakeholders. Detection accuracy improved by about 20%.
+- Problem: government procurement data was too large to screen on a single machine.
+- Approach: built a distributed anomaly-detection pipeline in Databricks with PySpark, engineering scalable transformation layers, and delivered the findings through a Power BI solution.
+- Result: detection accuracy improved by about 20%; the Power BI solution was adopted by senior Department of Transport stakeholders.
 
 ### Research Data Analyst, Terminal Ballistics Research Laboratory (TBRL, DRDO)
 Jan 2021 to Jul 2021 | India
