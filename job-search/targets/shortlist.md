@@ -250,6 +250,16 @@
 | 157 | Commonwealth Bank (CBA) | Data Scientist – People Analytics | Melbourne / Sydney (hybrid) | ~Jun 2026 | Confirmed specific posting REQ259563 on CBA Workday — distinct from company-target row 4; ML modelling for workforce analytics at AU's #1 bank; Python/SQL; est $130–165k | 7 | Specific posting | |
 | 158 | Macquarie Group | Data Engineer | Melbourne / Sydney (hybrid) | Jul 2026 | Confirmed specific postings IDs 18985 & 19464 on Macquarie ATS — distinct from company-target row 5 and ML Platform row 134; data pipeline design + AI/automation at investment-bank scale; est $160–200k | 8 | Specific posting | |
 
+### Daily scout — 2026-07-14
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 159 | TransitLinX (RATP Dev Australia JV) | Senior Data Engineer | Moonee Ponds, Melbourne (hybrid) | Jul 2026 | Greenfield data lake for Melbourne's Suburban Rail Loop mega-project; AWS + Snowflake + Python built from scratch; top-of-market comp $150–170k | 8 | Specific posting | |
+| 160 | Intelligen Group | Data Engineer Consultant | Melbourne (hybrid, client-facing) | Jul 2026 | Boutique AU data consultancy; Databricks + Snowflake + dbt + Delta Lake multi-cloud stack direct match; consulting domain crossover; $120–150k | 8 | Specific posting | |
+| 161 | Confidential energy startup (via Precision Sourcing) | Senior ML Engineer | Melbourne (hybrid) | ~Jun–Jul 2026 | First ML hire at undisclosed energy startup; full architecture ownership from scratch + ESOP upside; energy domain (demand forecasting / grid optimisation); $155–160k + super | 8 | Specific posting | |
+| 162 | Synogize | Data Engineer (Snowflake Technology) | Melbourne (hybrid) | Jul 2026 | Specialist Snowflake consultancy; data platform delivery + mentoring scope; est. $100–138k ⚠ confirm salary ≥ AUD 95k floor before applying | 7 | Specific posting | |
+| 163 | Housing Choices Australia | Senior Data Engineer | Melbourne (hybrid) | Jul 7–8, 2026 | Greenfield Azure + Microsoft Fabric enterprise data platform at community housing org; ⚠ contract role — est. $120–145k perm equiv; verify contract duration and conversion pathway | 6 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -355,6 +365,16 @@
 | R57 | Meesho | AI Engineer | Bengaluru (hybrid, 4 days/wk) | Active Jul 2026 | India's #1 social commerce unicorn (130M+ users); LLMs + GenAI + NLP for recommendation/search at scale; 4-8 yrs exp; confirmed on Instahyre (job 410728); est ₹25–55 LPA + equity. **Survives move: YES** | 8 | Specific posting | |
 | R58 | Swiggy | Data Engineer (Analytics Engineer) | Bengaluru / India (hybrid) | Active Jul 2026 | India's #1 food-delivery + quick-commerce platform (Instamart); real-time data pipelines + Databricks/dbt/Snowflake + BigQuery at extreme scale; confirmed on Instahyre + Naukri (124 active listings); est ₹20–50 LPA. **Survives move: YES** | 7 | Specific posting | |
 | R59 | Observe.AI | ML Engineer (NLP) | Bengaluru / India remote | Active Jul 2026 | Series C contact-centre intelligence SaaS (USA HQ, India engineering hub); LLM + NLP data pipelines for speech AI; 51+ India roles confirmed Jul 2026; est ₹20–45 LPA; India remote eligible. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-14
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R65 | Steps AI | Sr. Software Engineer — Full-Stack & Agentic AI | Hyderabad, India (hybrid) | May 2026 (active Jul 2026) | Explicitly uses **Anthropic Claude** in production + LangGraph required — candidate's Claude-based multi-agent background is a rare differentiator almost no other applicant will have; est. ₹25–45 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R66 | Optimum Solutions Pte Ltd | AI Engineer (Python / GenAI / LLM / RAG / Agentic AI / LangChain) | Chennai / Bengaluru, India (hybrid) | ~Jul 1–7, 2026 | Role title IS the candidate's skills checklist — Python, GenAI, LLM, RAG, Agentic AI, LangChain, AWS/Azure/GCP; freshest India batch; est. ₹20–35 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R67 | Anikson Solutions | Senior Agentic AI Engineer | Hyderabad, India (hybrid) | ~Jul 8–10, 2026 | Freshest India posting (LinkedIn ID 4435368181); senior-level agentic AI; est. ₹35–60 LPA ⚠ staffing firm — ask for end-client name on first contact. **Survives move: YES** | 7 | Specific posting | |
+| R68 | YASH Technologies | Agentic AI Engineer | Pune, India | ~Jul 1–7, 2026 | Large IT firm with dedicated AI practice (YASHTechAI); LangChain + Azure stack match; posted alongside firm-wide AI strategy push; est. ₹25–40 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R69 | Anlage Infotech | Senior GenAI Engineer (Python / RAG / LLM / Agentic AI) | Bengaluru / Mumbai, India | Jun 19, 2026 (active Jul 2026) | 6–10 yrs exp; production RAG focus; Bengaluru or Mumbai base — both target geographies; est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -670,3 +690,18 @@
 - [Swiggy — Careers](https://careers.swiggy.com/)
 - [Observe.AI — ML Engineer NLP, India (LinkedIn India)](https://in.linkedin.com/jobs/view/machine-learning-engineer-nlp-at-observe-ai-4187977491)
 - [Observe.AI — Careers](https://www.observe.ai/careers)
+
+### Daily scout sources — 2026-07-14 (rows 159–163, R65–R69)
+- [TransitLinX (RATP Dev Australia) — Senior Data Engineer, Melbourne (RATP Dev AU Careers)](https://careers.ratpdevaustralia.com.au/en/annonce/4375531-senior-data-engineer-3000-melbourne)
+- [TransitLinX — Senior Data Engineer (LinkedIn job 4412643594)](https://au.linkedin.com/jobs/view/senior-data-engineer-at-ratp-dev-4412643594)
+- [Intelligen Group — Data Engineer Consultant (Built In)](https://builtin.com/job/data-engineer-consultant/9680883)
+- [Intelligen Group — Data Engineer Consultant (Workable)](https://apply.workable.com/intelligen-group/j/30F5B6B68B)
+- [Synogize — Data Engineer Snowflake Technology, Melbourne (Employment Hero)](https://employmenthero.com/jobs/position/synogize-data-engineer-snowflake-technology-melbourne-l8kl6/)
+- [Synogize — Senior Consultant Data Analytics, Melbourne (Employment Hero)](https://employmenthero.com/jobs/job/synogize-senior-consultant-data-analytics-melbourne-r4qc8/)
+- [Housing Choices Australia — Senior Data Engineer, Melbourne (SEEK)](https://au.seek.com/Housing-Choices-Australia-jobs/in-All-Melbourne-VIC)
+- [Precision Sourcing — Senior ML Engineer, Melbourne (Precision Sourcing)](https://precisionsourcing.com.au/)
+- [Steps AI — Senior SWE Full-Stack & Agentic AI, Hyderabad (Wellfound)](https://wellfound.com/jobs/4171925-senior-software-engineer-full-stack-agentic-ai)
+- [Optimum Solutions — AI Engineer (LLM/RAG/Agentic AI), India (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-python-generative-ai-llm-rag-agentic-ai-langchain-aws-azure-gcp-chennai-bangalore-at-optimum-solutions-pte-ltd-4431478648)
+- [Anikson Solutions — Senior Agentic AI Engineer, Hyderabad (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-agentic-ai-engineer-at-anikson-solutions-4435368181)
+- [YASH Technologies — Agentic AI Engineer, Pune (LinkedIn India)](https://in.linkedin.com/jobs/view/agentic-ai-engineer-at-yash-technologies-4431914852)
+- [Anlage Infotech — Senior GenAI Engineer (RAG/LLM/Agentic AI), Bengaluru/Mumbai (Naukri)](https://www.naukri.com/job-listings-senior-genai-engineer-python-rag-llm-agentic-ai-anlage-infotech-bengaluru-mumbai-all-areas-6-to-10-years-190626021342)
