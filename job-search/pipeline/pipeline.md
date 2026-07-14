@@ -24,7 +24,7 @@
 | GitHub | Data Analyst (Trust & Safety — Copilot abuse) | github--data-analyst-trust-safety-copilot | Applying | **Owner: confirm work-authorization (Remote-Ontario-Canada, outside geo scope) BEFORE submitting**; review PDF + cover letter; `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-06-25 |
 | UniSuper (confirm) | Data Analyst (Enterprise Data Platform / BI) | unisuper--data-analyst | Applying | Owner: confirm company = UniSuper; review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-29 | 2026-06-26 |
 | AGL | Data Scientist (Data Science Chapter — Pricing & Acquisition) | agl--data-scientist | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-30 | 2026-06-26 |
-| Confidential (recruiter) | Data Scientist — Advanced Analytics & Pricing (Richmond VIC) | confidential-richmond--data-scientist-pricing | Applying | Owner: reply to recruiter with resume PDF + call times (draft in recruiter-reply.md) | reply ASAP | 2026-07-07 |
+| 7-Eleven | Data Scientist — Advanced Analytics & Pricing (Richmond VIC) | 7-eleven--data-scientist-pricing | Interviewing | Owner: send revised resume per interviewer feedback (engagement-grouped, tools named, complete stories) | send revised resume | 2026-07-11 |
 | Electronic Arts | Data Scientist (Publishing Insights & Markets — Asia) | electronic-arts--data-scientist-publishing-insights | Applying | **Owner: confirm location/eligibility (EA Asia Publishing)**; review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | confirm location first | 2026-07-07 |
 
 ## Closed / archived
