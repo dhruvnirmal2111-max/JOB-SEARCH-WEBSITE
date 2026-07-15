@@ -41,6 +41,15 @@ Role-agnostic. Future roles will differ in their specifics (title, domain, arche
 - Be selective: a tight set of strong, relevant bullets beats an exhaustive list.
 - **Order bullets by relevance to the archetype.** Lead the current role with the bullets that match the target role (analyst / data-science / stakeholder work first); push engineering-sounding bullets lower. The first two bullets set the reader's impression of *what you are*, so don't let them read "data engineer" for an analyst/DS role.
 - **Detune verbs that mis-signal the archetype.** E.g. "own the end-to-end data pipeline" reads data-engineer; use "manage the end-to-end data". Same facts, right signal.
+- **Name the actual libraries/tools in the bullets, specifically** — not just "Python". e.g. scikit-learn (TfidfVectorizer, LogisticRegression, GridSearchCV), pandas, numpy, Prophet, PySpark. Interviewers probe these, and specifics read as real hands-on work.
+
+## Engagement-grouped resumes (consulting / multi-client roles)
+Learned from real interview feedback ("the points are good but they don't connect / it's not a complete story"):
+- For a consulting or multi-client role, **group the current role by engagement** rather than a flat bullet list, and tell each as a **complete, self-contained story**.
+- One bold engagement header per client, **labelled by industry when the client can't be named** (e.g. "Pricing analytics — multi-venue restaurant group (AU/NZ)").
+- Under it, use **sub-bullets, not one dense paragraph**: **Problem → Approach → (Validation) → Result**. Scannable, and each engagement stands on its own.
+- **Label internal vs client work explicitly.** An interviewer was confused ("which company?") by an "internal report automation" line — always make context clear: which industry/client, or "internal, my own firm".
+- **Show maintenance and evolution** where true (e.g. "originally TF-IDF, now moving to embeddings") — signals a model that's maintained and improved, not a one-off; matters for "build and maintain models" JDs.
 
 ## Resume length (1 vs 2 pages)
 - With under ~5 years of experience, **default to a 1-page resume for straightforward, BAU, junior or analyst roles**. Keep a **2-page** version for senior, consulting, or data-science-depth roles where the extra depth is the selling point. It's fine to maintain both variants in the folder.
@@ -68,6 +77,11 @@ Role-agnostic. Future roles will differ in their specifics (title, domain, arche
 
 ## Short application writeups (e.g. "why is this a top choice", < N characters)
 - Human and specific, in the owner's voice; lead with the genuine differentiators (independent client ownership, building with AI in production, real outcomes). Count characters against the limit. No disclaimers, no JD-echoing.
+
+## Profiles & reusable resumes (not a specific JD)
+- **Profile bios** (Wellfound/LinkedIn "about", "what I'm looking for"): go **broad, not niche.** A profile is browsed for many roles, so leading with a narrow specialism (e.g. "pricing and forecasting") filters the owner out. Present a versatile data scientist / analyst and mention specialisms only as *examples of range*; let the experience carry the specifics. Respect the character limit.
+- **"Why do you like this company" answers:** name something **specific about the company** (product, mission, market), not just love-of-the-work — a generic answer reads as copy-paste. One concrete company line beats three generic ones.
+- **Maintain general, company-agnostic resumes per discipline** in `pipeline/general--<discipline>/` (a Data Analyst version and a Data Scientist version) for generic listings. Analyst version leads with analysis / BI / reporting / data-quality and keeps modelling as a "supporting" line; DS version leads with ML / modelling. Tailor from these for a specific JD.
 
 ## Always
 - **Flag judgment calls to the owner** (e.g. displayed-title alignment vs. the real title, an inferred metric) rather than deciding silently.
