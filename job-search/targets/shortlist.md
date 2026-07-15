@@ -260,6 +260,18 @@
 | 162 | Synogize | Data Engineer (Snowflake Technology) | Melbourne (hybrid) | Jul 2026 | Specialist Snowflake consultancy; data platform delivery + mentoring scope; est. $100–138k ⚠ confirm salary ≥ AUD 95k floor before applying | 7 | Specific posting | |
 | 163 | Housing Choices Australia | Senior Data Engineer | Melbourne (hybrid) | Jul 7–8, 2026 | Greenfield Azure + Microsoft Fabric enterprise data platform at community housing org; ⚠ contract role — est. $120–145k perm equiv; verify contract duration and conversion pathway | 6 | Specific posting | |
 
+### Daily scout — 2026-07-15
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 164 | Pepperstone | Principal Engineer, Data & Platforms | Melbourne (West Melbourne, hybrid) | May 28, 2026 | Global fintech CFD/Forex broker (ASIC-regulated, 700+ team, 12 countries); enterprise data platform architecture + AI capability embedding + governance; direct match to data engineering + agentic-AI/LLM edge; est. $175–200k ⚠ Principal level — verify experience threshold | 8 | Specific posting | |
+| 165 | Vanguard Investments Australia | Data Engineer (PI Analytics) | Melbourne (hybrid, Tue–Wed–Thu in office) | ~Mar–Jul 2026 | World's 2nd largest asset manager AU operations; Python/PySpark/AWS Glue/Databricks/Step Functions marketing-data pipelines + AEP (Adobe Experience Platform) integration; investments/fintech domain; est. $120–140k | 7 | Specific posting | |
+| 166 | Vanguard Investments Australia | Data Engineering Tech Lead | Melbourne (hybrid) | ~2026 (active Jul 2026) | Same employer as row 165; design + build metadata-driven incremental-load AWS warehouses + Spark (PySpark/SparkSQL) environments; technical DE leadership scope; est. $150–175k | 7 | Specific posting | |
+| 167 | ACER (Australian Council for Educational Research) | Senior Data Scientist / Data Science Lead | Camberwell, Melbourne (hybrid) | ~Jul 2026 | Premier AU educational research org; leading AI & data science innovation into scalable products; end-to-end DS ownership at a research-driven, globally respected institution; est. $159,597–$176,398 p.a. — well above salary floor | 8 | Specific posting | |
+| 168 | Eastern Health | Data Engineer | Box Hill, Melbourne (hybrid, up to 3 days WFH) | ~Jul 2026 | Permanent DE role building data engineering capability from ground up at major Melbourne health network (Box Hill, Maroondah, Angliss hospitals); enterprise clinical + operational data warehouse + analytics + ML applications; data modelling, ETL, data warehouse design | 7 | Specific posting | |
+| 169 | Blinq | Staff Data Engineer | Melbourne (hybrid) | May 2026 (active Jul 2026) | Fast-growing SaaS startup (50M+ relationships/year, world's #1 digital business card); strategic ownership of data & analytics platform + ETL pipeline leadership + scaling infra; competitive salary + equity + growth path | 7 | Specific posting (EOI) | |
+| 170 | Nanosonics | Lead Data, AI & Machine Learning | Melbourne (hybrid) | ~Jul 2026 | ASX-listed MedTech company (global infection-prevention devices, 500M+ market cap); AI/ML leadership scope in a niche healthcare-device domain; unique intersection of data engineering + applied ML + product impact | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -375,6 +387,16 @@
 | R67 | Anikson Solutions | Senior Agentic AI Engineer | Hyderabad, India (hybrid) | ~Jul 8–10, 2026 | Freshest India posting (LinkedIn ID 4435368181); senior-level agentic AI; est. ₹35–60 LPA ⚠ staffing firm — ask for end-client name on first contact. **Survives move: YES** | 7 | Specific posting | |
 | R68 | YASH Technologies | Agentic AI Engineer | Pune, India | ~Jul 1–7, 2026 | Large IT firm with dedicated AI practice (YASHTechAI); LangChain + Azure stack match; posted alongside firm-wide AI strategy push; est. ₹25–40 LPA. **Survives move: YES** | 7 | Specific posting | |
 | R69 | Anlage Infotech | Senior GenAI Engineer (Python / RAG / LLM / Agentic AI) | Bengaluru / Mumbai, India | Jun 19, 2026 (active Jul 2026) | 6–10 yrs exp; production RAG focus; Bengaluru or Mumbai base — both target geographies; est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-15
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R70 | Resilinc | Senior Data Scientist | Fully remote (global, India-eligible) | ~Jul 1, 2026 | Supply-chain AI/risk-intelligence SaaS (enterprise customers, 5–10yr co); production-ready AI solutions at intersection of DS + engineering + product + customer success; AWS/Azure/Databricks/Spark stack — direct tech match; customer-facing solutioning adds consulting dimension. **Survives move: YES** | 8 | Specific posting | |
+| R71 | Resilinc | Senior Data Engineer | Fully remote (global, India-eligible) | ~Jul 1, 2026 | Same supply-chain AI platform; Databricks + ClickHouse + Python + distributed processing; batch + real-time pipelines + data products; customer-engagement scope alongside technical build. **Survives move: YES** | 8 | Specific posting | |
+| R72 | Practo | Staff AI Engineer | Bengaluru, India (hybrid) | Jul 2026 (active) | India's largest health-tech platform; agentic AI stack incl. **Claude + CrewAI + LangGraph + gRPC + Kafka + K8s + vLLM** — rare direct match to agentic-AI/Claude edge; 8–12yr scope; health-tech domain crossover; est. ₹40–70 LPA. **Survives move: YES** | 9 | Specific posting | |
+| R73 | G-P (Globalization Partners) | Senior Data Scientist / Data Engineer | India (fully remote) | Apr 20, 2026 (active Jul 2026) | Global EOR/payroll company that literally manages international hiring & compliance — aligned to your relocation context; remote-first, hires in India; data science scope; est. ₹30–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R74 | Zensar Technologies | Senior Generative AI Engineer | Pune / Bengaluru, India (hybrid) | ~2026 (active Jul 2026) | 6–9yr GenAI engineer scope; explicitly evaluates **MCP + A2A** emerging agent communication protocols; LLM applications using Claude + OpenAI + Mistral on AWS/Databricks/Azure; multi-agent + RAG + MLOps; est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -705,3 +727,23 @@
 - [Anikson Solutions — Senior Agentic AI Engineer, Hyderabad (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-agentic-ai-engineer-at-anikson-solutions-4435368181)
 - [YASH Technologies — Agentic AI Engineer, Pune (LinkedIn India)](https://in.linkedin.com/jobs/view/agentic-ai-engineer-at-yash-technologies-4431914852)
 - [Anlage Infotech — Senior GenAI Engineer (RAG/LLM/Agentic AI), Bengaluru/Mumbai (Naukri)](https://www.naukri.com/job-listings-senior-genai-engineer-python-rag-llm-agentic-ai-anlage-infotech-bengaluru-mumbai-all-areas-6-to-10-years-190626021342)
+
+### Daily scout sources — 2026-07-15 (rows 164–170, R70–R74)
+- [Pepperstone — Principal Engineer, Data & Platforms, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/principal-engineer-data-platforms/9530747)
+- [Pepperstone — Principal Engineer, Data & Platforms (Workable)](https://apply.workable.com/pepperstone/j/21D75DEB06/)
+- [Vanguard — Data Engineer (PI Analytics), Melbourne (Vanguard Jobs)](https://www.vanguardjobs.com/job/22409736/data-engineer-melbourne-au/)
+- [Vanguard — Data Engineering Tech Lead, Melbourne (Vanguard Jobs)](https://www.vanguardjobs.com/job/22419537/data-engineering-tech-lead-melbourne-au/)
+- [ACER — Jobs Melbourne (SEEK)](https://au.seek.com/Australian-Council-for-Educational-Research-(ACER)-jobs/in-All-Melbourne-VIC)
+- [ACER — Careers Portal](https://careers.acer.org/)
+- [Eastern Health — Data Engineer, Box Hill (talent.com)](https://au.talent.com/view?id=6db0f3ddf0c4)
+- [Eastern Health — Jobs Melbourne (SEEK)](https://au.seek.com/eastern-health-jobs/in-All-Melbourne-VIC)
+- [Blinq — Staff Data Engineer (EOI), Melbourne (Lever)](https://jobs.lever.co/blinq/218fa32d-5abf-476a-8529-dfab922ad8c0)
+- [Blinq — All Jobs (Lever)](https://jobs.lever.co/blinq)
+- [Nanosonics — Jobs (SEEK)](https://au.seek.com/Nanosonics-jobs)
+- [Nanosonics — Careers](https://www.nanosonics.com.au/about-us/our-story/careers)
+- [Resilinc — Senior Data Scientist (Lever)](https://jobs.lever.co/resilinc/b22b6c5a-420e-41a4-b40f-2ee6f5686e05)
+- [Resilinc — Senior Data Engineer (Lever)](https://jobs.lever.co/resilinc/db05e6d3-6024-420d-a8da-da6edfe3e821)
+- [Practo — Staff AI Engineer, Bengaluru (Instahyre)](https://www.instahyre.com/job-425765-staff-ai-engineer-at-practo-bangalore/)
+- [G-P (Globalization Partners) — Senior Data Scientist/Engineer, India (Greenhouse)](https://job-boards.greenhouse.io/globalizationpartners/jobs/7704107003)
+- [Zensar Technologies — Senior Generative AI Engineer, India (Built In)](https://builtin.com/job/generative-ai-engineer/9275365)
+- [Zensar Technologies — Careers](https://www.zensar.com/careers)
