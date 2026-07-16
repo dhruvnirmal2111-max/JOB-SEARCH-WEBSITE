@@ -7,14 +7,14 @@ description: Create approved job-hunt events in Google Calendar from the staged 
 
 Turns entries in `job-search/calendar/pending-events.json` into real Google Calendar events.
 
-**Policy (owner-authorized):** events with `kind:"outreach"` are created **automatically, without approval** — the owner moves them if needed. Any other kind (rare; the system normally only makes outreach events) still requires `/review-calendar` approval.
+**Policy (owner-authorized):** events with `kind:"outreach"` (Track A application reminders) and `kind:"networking"` (Track B relationship reminders — "reach out", "touch due") are created **automatically, without approval** — they only remind the owner to act; nothing is ever sent on their behalf, and the owner moves them if needed. The recurring weekly "networking hour" block is also owner-authorized. Any other kind (rare) still requires `/review-calendar` approval.
 
 ## Preconditions
 - A Google Calendar connector is available (attached to the cloud routines). If not, use the `.ics` fallback below.
 
 ## Procedure
 
-1. **Load** `job-search/calendar/pending-events.json`. Auto-select all `kind:"outreach"` events with `status:"pending"` (no approval needed). For any other kind, only include events the owner explicitly approved.
+1. **Load** `job-search/calendar/pending-events.json`. Auto-select all `kind:"outreach"` and `kind:"networking"` events with `status:"pending"` (no approval needed). For any other kind, only include events the owner explicitly approved.
 2. For each approved event, **create it via the Google Calendar MCP** (the connector exposes a create-event tool). Map fields:
    - summary ← `title`
    - start / end ← `start` / `end` (the owner's local timezone unless they say otherwise)

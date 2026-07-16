@@ -6,7 +6,7 @@ allowed-tools: Read, Write, Edit, Bash, Glob, Grep, WebSearch, WebFetch, Task
 
 # /apply — build one application (drafts only)
 
-Goal: produce everything needed to apply to one target, as reviewable drafts. Nothing is sent; calendar events are staged, not created.
+Goal: produce everything needed to apply to one target, as reviewable drafts. Nothing is sent. The one calendar event this creates — an outreach reminder — is owner-authorized and written straight to Google Calendar.
 
 ## Steps
 
@@ -19,11 +19,16 @@ Goal: produce everything needed to apply to one target, as reviewable drafts. No
    - `outreach` → `outreach.md` (5 contacts: 2 peer/1 manager/1 recruiter/1 senior + 3 messages each).
    - **career-coach is NOT run by default** (gap analysis/interview prep) — run `/career-coach <company>` on demand when you want it.
 
-4. **Stage calendar events — outreach reminders only** into `job-search/calendar/pending-events.json` (`kind:"outreach"`, `status:"pending"`): one "Send outreach: <Company> <Role>" reminder. Do NOT stage prep/submit/setup events. Use the event format from the commander agent.
+4. **Create the outreach reminder directly in Google Calendar** (owner-authorized — no approval needed for outreach reminders). Add one entry to `job-search/calendar/pending-events.json` (`kind:"outreach"`), then push it straight to Google Calendar via the `calendar-sync` skill:
+   - Title: "Send outreach: <Company> <Role>"; a ~20-min block a few days out; notes = the path to this target's `outreach.md` + "verify each person is current; you send manually".
+   - If the Google Calendar connector is connected, create the event immediately and record `status:"created"` + `gcal_event_id` + `gcal_link` back into the JSON.
+   - If the connector is NOT reachable, leave it `status:"pending"` and tell the owner to run `/review-calendar` (or connect the calendar) — never fail the whole `/apply` over calendar.
+   - Do NOT create prep/submit/setup events — only the single outreach reminder.
 
 5. **Update `pipeline.md`**: add a row for this target (Status = Applying, Next action = "owner: submit application + review outreach").
 
 6. **Summarize**: list the drafts created — including the **PDF path** — and tell the owner to review the resume PDF + cover letter, run `/review-outreach`, and `/review-calendar`. Invite feedback: they can reply with changes (or run `/revise-resume <company> "<feedback>"`) and the resume + PDF get regenerated. Do NOT mark it "Applied" — only the owner confirms that.
 
 ## Rules
-- Truthful resume only; never auto-send outreach; never create calendar events directly.
+- Truthful resume only; never auto-send outreach messages.
+- The only calendar event created is the single outreach reminder (owner-authorized). Never create prep/submit/setup events.

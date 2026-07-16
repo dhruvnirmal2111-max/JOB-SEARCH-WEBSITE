@@ -12,7 +12,7 @@ It is for **one person (the owner)**. There is no UI for anyone else.
 
 1. **No paid API keys.** All reasoning runs on the Claude Code subscription via agents and skills. Never reintroduce `lib/claude.ts`, Anthropic/Gemini/Tavily SDK calls, or any `*_API_KEY`. Web research uses the built-in `WebSearch` / `WebFetch`.
 2. **Review gate — generate → stage → human review → act.** CVs, cover letters, and outreach messages are produced as **drafts** and never sent on the owner's behalf — the owner sends manually after `/review-outreach`.
-   - **Exception (owner-authorized): outreach calendar reminders auto-create.** The only calendar events the system makes are outreach reminders ("Send outreach: <Company>"), and these are written **directly to Google Calendar without approval** (the owner moves them if needed). No prep/submit/setup events are ever created. The cloud routines do this via the attached Google Calendar connector.
+   - **Exception (owner-authorized): reminder events auto-create.** Two families of calendar events are written **directly to Google Calendar without approval** (the owner moves them if needed): **outreach reminders** (`kind:"outreach"` — "Send outreach: <Company>", from `/apply`) and **networking reminders** (`kind:"networking"` — the weekly "Networking hour" block + per-person "reach out / touch due" reminders, from `/networking-hour` and `/connect`). These only *remind the owner to act*; nothing is ever sent on their behalf. No prep/submit/setup events are ever created; any other kind still needs `/review-calendar` approval. This runs via the attached Google Calendar connector.
 3. **Never fabricate experience.** Resumes and bullets are tailored from real history only; add JD keywords only where they truthfully fit.
 4. **Truth in reporting.** Pipeline status reflects reality. Don't mark things "applied"/"sent" unless they were.
 5. **Keep the owner's goals in mind.** Read `job-search/profile/goals.md` on every run and let it steer scouting (which roles), tailoring (which angle), and the weekly review (alignment check).
@@ -41,9 +41,10 @@ Four layers, all Claude-Code-native:
 |---------|------|------|
 | `/intake` | One-time: parse master resume → `base-resume.json`, build `preferences.md` | Owner confirms preferences |
 | `/find-targets` | **Track A** — research + rank roles/companies with live postings → `targets/shortlist.md` | Owner picks which to pursue |
-| `/scout-accounts` | **Track B** — research + rank dream companies (posting or not) → `network/target-accounts.md` | Owner picks which to pursue |
-| `/connect <company>` | **Track B** — confirmed account: find 5 people + draft nurture cadence → `network/people/` + CRM | Drafts only |
-| `/apply <company>` | One target: tailored resume + **2-page PDF** → cover letter → outreach → **stage outreach reminder**. (No gap analysis by default.) | Drafts only |
+| `/scout-accounts` | **Track B** — research + rank dream companies (posting or not), biased to **remote + India/Dubai/Singapore data & AI** → `network/target-accounts.md` | Owner picks which to pursue |
+| `/connect <company>` | **Track B** — confirmed account: find 5 people + draft nurture cadence → `network/people/` + CRM + **networking calendar reminders** | Drafts only |
+| `/networking-hour` | **Track B rhythm** — one-time sets up the weekly recurring "Networking hour" calendar block; each run surfaces this hour's to-dos (accounts to confirm, touches due, drafts to send) | Drafts only |
+| `/apply <company>` | One target: tailored resume + **2-page PDF** → cover letter → outreach → **creates outreach reminder on Google Calendar**. (No gap analysis by default.) | Drafts only |
 | `/quick-apply <JD>` | Paste a JD → tailored 2-page resume **PDF** + cover letter only | Drafts only |
 | `/batch-apply [N]` | **Autonomous engine** — builds resume + cover letter + outreach for the next N targets (also runs on a schedule). Commits after each | Drafts only |
 | `/career-coach <company>` | On-demand gap analysis + interview prep for one target (kept out of the volume path) | — |
@@ -121,10 +122,12 @@ Outreach runs on **two tracks** that feed each other:
 - **Track B — proactive (relationship).** Dream companies *regardless of an open role* → build genuine relationships before a role exists, tracked in `job-search/network/`. Goal: be a warm name (or get a referral/intro) by the time a role drops. Time horizon: weeks→months. **Track B feeds Track A:** when a target account posts, you apply warm, not cold.
 
 ### Track B mechanics (`job-search/network/`)
+- **Focus (per `goals.md`):** remote-first data & AI/tech companies hiring in **India / Dubai / Singapore** (survives the move out of Australia), plus strong AU-remote employers. `/scout-accounts` leads with these.
 - `target-accounts.md` — ranked dream companies + warmth + `Pursue?` (confirm-first, same as the scout).
 - `relationships.md` — the relationship CRM: every person + stage (`identified → request-sent → connected → conversing → referral-ready → referred/intro'd`) + **next-touch date**.
 - `people/<slug>.md` — per-contact dossier with drafted messages and a message log.
-- **Nurture cadence (all drafts):** Day 0 connection request (no ask) → Day 3–5 value touch → Day 10–14 soft ask → warm referral ask when a role posts. `/standup` surfaces contacts whose next-touch is due.
+- **Nurture cadence (all drafts):** Day 0 connection request (no ask) → Day 3–5 value touch → Day 10–14 soft ask → warm referral ask when a role posts.
+- **Weekly rhythm — `/networking-hour`:** a standing weekly Google Calendar block (owner-authorized recurring event) is the drumbeat. `/connect` also drops per-person "reach out / touch due" reminders (`kind:"networking"`) straight onto the calendar. Both `/networking-hour` and `/standup` surface contacts whose next-touch is due. The loop: `/scout-accounts` (fill funnel) → owner sets `Pursue? = yes` → `/connect <company>` (people + drafts + reminders) → send Day-0 requests manually → nurture on the weekly cadence → warm referral ask when a role posts (Track B → Track A).
 
 ### Constraints (both tracks)
 - Track A outreach: exactly 5 targets per role — 2 peers, 1 manager, 1 recruiter, 1 senior.

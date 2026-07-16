@@ -18,12 +18,18 @@ Goal: for one confirmed dream company, find 5 people and draft the Day-0→soft-
    - write one `people/<slug>.md` dossier each and append rows to `relationships.md` with stage + next-touch dates,
    - bump the company's `Warmth` to `warm` in `target-accounts.md`.
 
-3. **Commit + push.**
+3. **Create networking calendar reminders directly in Google Calendar** (owner-authorized — same policy as outreach reminders; the owner still sends every message manually). Via the `calendar-sync` skill, using `kind:"networking"` entries in `job-search/calendar/pending-events.json`:
+   - One "Reach out: <Company> — send Day-0 requests (5 people)" reminder ~2 days out (a ~20-min block; notes = path to the company's `people/` dossiers + `relationships.md`).
+   - One "Networking touch due: <Company>" reminder per person at their **next-touch date** (value touch, then soft ask), so the cadence lands on the calendar instead of only in `relationships.md`.
+   - If the connector is connected, create them immediately and record `status:"created"` + `gcal_event_id` + `gcal_link` back into the JSON. If not reachable, leave them `status:"pending"` for `/review-calendar` — never fail `/connect` over calendar.
 
-4. **Summarize**: the 5 people, that Day-0 requests are drafted and ready, and when the next touches fall due. Tell the owner to review via `/review-outreach` and that `/standup` will surface follow-ups when next-touch dates arrive.
+4. **Commit + push.**
+
+5. **Summarize**: the 5 people, that Day-0 requests are drafted and ready, the calendar reminders created, and when the next touches fall due. Tell the owner to review via `/review-outreach`, and that both the weekly `/networking-hour` block and `/standup` will surface follow-ups when next-touch dates arrive.
 
 ## Rules
 - Drafts only — never contact anyone, never auto-send. The owner sends manually.
+- Calendar reminders (`kind:"networking"`) are owner-authorized and created directly, just like outreach reminders. They only remind the owner to act — they never send a message.
 - No job ask in the Day-0 / value-touch messages — this is relationship-building, not an application.
 - Verify every named person currently works at the company.
 - If the company already has a relevant open role the owner wants, point them to `/apply` (Track A) — `/connect` is for building relationships ahead of a role.

@@ -202,5 +202,17 @@
     "notes": "Row 132 in shortlist.md. Melbourne / multi-site AU (flexible). Healthcare nonprofit; lead + build ML/AI team to productionise models in regulated health environment. Est. $140–180k. Closes Jul 17 — set Pursue? = yes in shortlist.md tonight so the application engine can build it. Permanent full-time.",
     "source": "campaign",
     "status": "pending"
+  },
+  {
+    "id": "networking-hour-weekly",
+    "title": "Networking hour (Track B)",
+    "kind": "networking",
+    "start": "2026-07-17T15:00:00",
+    "end": "2026-07-17T16:00:00",
+    "timeZone": "Australia/Melbourne",
+    "recurrence": ["RRULE:FREQ=WEEKLY"],
+    "notes": "Run /networking-hour. Remote + India/Dubai/Singapore data & AI focus: confirm scouted dream companies (Pursue? = yes in network/target-accounts.md), run /connect <company> on confirmed ones, send today's due connection requests + touches (all drafts, you send manually). Weekly recurring block; move it if the time doesn't suit.",
+    "source": "networking",
+    "status": "pending"
   }
 ]
