@@ -5,7 +5,7 @@
 > Legend for `progress.md`: `not-started → learning → tested → mastered`. Weak areas get resurfaced (spaced repetition).
 
 ## How to use
-- **Daily:** a bite-sized lesson on the next `not-started`/weak topic (concept + worked example + interview angle + 2-3 Q&A). Written to `lessons/YYYY-MM-DD.md`, or done interactively.
+- **Daily:** a bite-sized lesson on the next `not-started`/weak topic (concept + worked example + interview angle + 2-3 Q&A). **Always written to `lessons/YYYY-MM-DD.md`** (owner keeps a downloadable record), **with diagrams (ASCII/text or mermaid) wherever they aid understanding**. Live quiz is optional on top of the file.
 - **Weekly:** a full **DS mock interview** (stats, ML, SQL, Python, product/experimentation, case + behavioural) → `tests/week-N.md`.
 - **Trends:** an occasional "trend of the day" keeps you current (GenAI/LLMs, tooling).
 
