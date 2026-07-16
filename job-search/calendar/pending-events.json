@@ -216,5 +216,18 @@
     "status": "created",
     "gcal_event_id": "uh0kkk37tdgodjqvpl216kcvj0",
     "gcal_link": "https://www.google.com/calendar/event?eid=dWgwa2trMzd0ZGdvZGpxdnBsMjE2a2N2ajBfMjAyNjA3MTdUMDUwMDAwWiBkaHJ1dm5pcm1hbDIxMTFAbQ"
+  },
+  {
+    "id": "puffy-outreach-week1-20260720",
+    "title": "Send outreach: Puffy Experimentation Analyst",
+    "kind": "outreach",
+    "start": "2026-07-20T09:00:00",
+    "end": "2026-07-20T09:20:00",
+    "timeZone": "Australia/Melbourne",
+    "notes": "Send the drafted Day-0 messages in job-search/pipeline/puffy--experimentation-analyst/outreach.md. Verified: Rohit Singwal (Analytics Manager) + Arun Zacharia (Head of Global TA, recruiter) - do a final LinkedIn 'Current' check. The 2 peer slots need you to find + confirm the person (filters in outreach.md) and fill the [Name] placeholders. You send manually.",
+    "source": "puffy--experimentation-analyst",
+    "status": "created",
+    "gcal_event_id": "ac2kse8p4qje0e1s9va5j1oh2c",
+    "gcal_link": "https://www.google.com/calendar/event?eid=YWMya3NlOHA0cWplMGUxczl2YTVqMW9oMmMgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
