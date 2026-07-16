@@ -229,5 +229,18 @@
     "status": "created",
     "gcal_event_id": "ac2kse8p4qje0e1s9va5j1oh2c",
     "gcal_link": "https://www.google.com/calendar/event?eid=YWMya3NlOHA0cWplMGUxczl2YTVqMW9oMmMgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "keypath-outreach-week1-20260721",
+    "title": "Send outreach: Keypath Associate Data Scientist",
+    "kind": "outreach",
+    "start": "2026-07-21T09:00:00",
+    "end": "2026-07-21T09:20:00",
+    "timeZone": "Australia/Melbourne",
+    "notes": "Send the drafted Day-0 messages in job-search/pipeline/keypath-education--associate-data-scientist/outreach.md. Verified: McKayla Robinson (recruiter), Anwen Pattinson (manager proxy - confirm team fit), Ryan O'Hare (CEO APAC, senior). 2 peer slots need LinkedIn confirmation (filters in file). You send manually.",
+    "source": "keypath-education--associate-data-scientist",
+    "status": "created",
+    "gcal_event_id": "c9rgtgvfu5n15trrqvt5rnt5us",
+    "gcal_link": "https://www.google.com/calendar/event?eid=YzlyZ3RndmZ1NW4xNXRycnF2dDVybnQ1dXMgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
