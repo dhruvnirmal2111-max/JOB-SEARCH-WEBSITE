@@ -53,6 +53,10 @@ Four layers, all Claude-Code-native:
 | `/weekly-review` | Weekly metrics + plan adjustment → `reports/weekly/` | Report only |
 | `/review-calendar` | Show `calendar/pending-events.json`; push approved events to Google Calendar | **Calendar approval** |
 | `/review-outreach` | Show drafted messages (both tracks); mark approved ones ready (owner still sends) | **Send approval** |
+| `/learning-roadmap` | Build/refresh the DS curriculum (`learning/roadmap.md` + `progress.md`) by diffing a strong-DS target against the resume/projects; fill goals.md growth goals | — |
+| `/learn` | Daily bite-sized DS lesson (theory + worked example + interview angle + self-check Q&A); interactive quiz in-session, or writes `learning/lessons/<date>.md` when scheduled | Learning |
+| `/ds-interview` | Weekly full DS mock interview (stats, ML, SQL, Python, experimentation/product, case + behavioural) → `learning/tests/week-N.md`; tracks weak areas | Learning |
+| `/activate-learning` | One-time: turn on the daily-lesson + weekly-mock cloud routines (mirrors `/activate-schedules`) | — |
 
 ### Workspace (`job-search/` — the data model)
 
@@ -79,6 +83,11 @@ job-search/
   reports/
     daily/YYYY-MM-DD.md
     weekly/week-N.md
+  learning/                    — DS skill-gap-closer (proactive learning, not tied to any one job)
+    roadmap.md                 — sequenced DS curriculum (modules → topics)
+    progress.md                — topic tracker: status + confidence + weak areas (spaced repetition)
+    lessons/YYYY-MM-DD.md      — daily lesson logs (/learn)
+    tests/week-N.md            — weekly DS mock-interview logs (/ds-interview)
   network/                     — Track B (proactive networking), decoupled from any one job
     target-accounts.md         — dream companies, posting or not (ranked + warmth + Pursue?)
     relationships.md           — the relationship CRM board: every person + stage + next-touch date
@@ -97,14 +106,12 @@ Reused job-search skills: `parse-resume`, `parse-jd`, `extract-skills`, `extract
 
 ## Scheduled cloud routines
 
-Run automatically (created via the `schedule` skill); each invokes `job-hunt-commander` and ends with a push notification. Output still respects the review gate.
+The owner now uses this repo mainly **manually** — to store projects and generate CVs / resumes / cover letters — so the old autonomous job-hunt routines are **retired**. The scheduled routines are now a **learning loop** (created via the `schedule` skill / `/activate-learning`); each writes its dated log, commits + pushes, and ends with a push notification.
 
-- **Daily Scout** — ~06:30 AEST: researches fresh, currently-advertised roles fitting `preferences.md` (incl. **salary floor ≥95k**), appends them to `targets/shortlist.md` with a **Posted** date and `Pursue?` blank. **Also scans Track B `target-accounts.md`:** if a dream company now has a relevant open role, flags it as a **warm lead** (apply warm — Track B→A bridge). Notifies the owner the candidate list to confirm. **Builds nothing.**
-- **Application Engine** — ~19:00 AEST: builds resume + cover letter + outreach for **confirmed targets only** (`Pursue? = yes`, up to ~3), auto-creates an outreach calendar reminder per target, commits after each, notifies "N ready to review". If nothing is confirmed, it does nothing. (Gap analysis is on-demand via `/career-coach`.)
-- **Daily standup** — 07:00 AEST: writes `reports/daily/`, surfaces **Track B relationship touches due today** (next-touch dates), auto-creates any pending outreach reminders, notifies today's actions.
-- **Weekly review** — Sun 18:00 AEST: writes `reports/weekly/`, notifies.
+- **Daily DS lesson** — ~07:30 Australia/Melbourne (adjustable; shifts to India TZ after relocation): runs `/learn` (the `ds-learning-coach` agent), teaches the next topic from `learning/roadmap.md`, writes `learning/lessons/<date>.md`, updates `learning/progress.md`, and notifies with the topic + one-line takeaway.
+- **Weekly DS mock interview** — Sun ~10:00 Melbourne: runs `/ds-interview`, writes `learning/tests/week-N.md`, records the score + weak areas in `progress.md`, and notifies.
 
-**Confirm-first rule:** the scout proposes; the owner sets `Pursue? = yes`; only then does the engine build. Nothing is researched-and-applied without the owner picking the company.
+**Retired routines** (turned off): Daily Scout, Application Engine, Daily standup, Weekly review. They auto-scouted roles → `targets/shortlist.md` and auto-built `pipeline/<company>/` packages + calendar events, which the owner no longer wants running unattended. Applications are now built **on demand** via `/apply`, `/quick-apply`, `/batch-apply`; projects logged via `/add-project`. The job-hunt agents/commands all still exist and work when invoked manually.
 
 ## Networking — two tracks
 

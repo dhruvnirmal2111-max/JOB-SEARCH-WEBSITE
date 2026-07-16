@@ -32,7 +32,10 @@
 - [TELL ME] — anything else you won't compromise on (e.g. no on-call, ethical lines, must use modern stack)?
 
 ## Skills / growth goals (what you want to get better at)
-- [TELL ME] — skills you want this next role to build (e.g. production ML, LLM systems, leadership, cloud architecture, R).
+- **Primary gap to close: Data Science.** Confident as a Data Analyst and solid on data-engineering principles; DS is the deliberate growth target. Cloud is a slower, secondary burn.
+- **Learning system (see `job-search/learning/`):** a daily bite-sized DS lesson (`/learn`) + a weekly full DS mock interview (`/ds-interview`), driven by `learning/roadmap.md` and tracked in `learning/progress.md`.
+- **Focus areas:** statistics & probability, ML fundamentals + the maths, model evaluation/validation, feature engineering, experimentation & causal inference + product analytics/metrics, SQL for analytics/DS, Python-for-DS internals, time-series/forecasting, NLP/modern ML (embeddings, transformers, LLMs), current trends (GenAI/LLMs, RAG, agentic, MLOps), and interview + global-readiness (case frameworks, communication, portfolio).
+- **Why:** genuine theoretical understanding (not just interview cramming) that makes interviews easy and de-risks landing a remote/international DS-leaning role after the move.
 
 ## How this file is used
 - **Scout** weights candidates toward your direction + north star.
