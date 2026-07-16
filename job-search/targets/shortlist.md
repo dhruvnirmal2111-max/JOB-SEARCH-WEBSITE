@@ -272,6 +272,16 @@
 | 169 | Blinq | Staff Data Engineer | Melbourne (hybrid) | May 2026 (active Jul 2026) | Fast-growing SaaS startup (50M+ relationships/year, world's #1 digital business card); strategic ownership of data & analytics platform + ETL pipeline leadership + scaling infra; competitive salary + equity + growth path | 7 | Specific posting (EOI) | |
 | 170 | Nanosonics | Lead Data, AI & Machine Learning | Melbourne (hybrid) | ~Jul 2026 | ASX-listed MedTech company (global infection-prevention devices, 500M+ market cap); AI/ML leadership scope in a niche healthcare-device domain; unique intersection of data engineering + applied ML + product impact | 7 | Specific posting | |
 
+### Daily scout — 2026-07-16
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 171 | REA Group | Staff Machine Learning Engineer | Richmond, Melbourne (hybrid) | ~Jul 9, 2026 | Staff/ML leadership in AI Enrichment squad; Python + AWS + production ML/LLM/GenAI systems; leads strategically important AI initiatives — directly matches agentic-AI/LLM edge; est. $184–$198k TC. Distinct from row 12 (Senior DE). | 9 | Specific posting | |
+| 172 | EY Australia | Data Engineer, AI and Data, Technology Consulting | Melbourne (hybrid) | ~Jul 2026 | Big 4 analytics consulting; Databricks + Snowflake + Spark + ADF + dbt + PySpark — exact stack match; translating business requirements into pipeline design; est. $110–$155k. Distinct from row 49 (EY Data Scientist). | 8 | Specific posting | |
+| 173 | Karbon | Lead Data Engineer | Melbourne / Remote WFH | Apr 24, 2026 (confirmed live) | AI-powered SaaS for accounting firms; Databricks preferred + dbt + Fivetran ELT; Lead level with higher comp ceiling ($155k–$186k); remote-eligible. Distinct from row 3 (DE "verify"). | 8 | Specific posting | |
+| 174 | Forever New | Senior Data Engineer | Richmond, Melbourne (on-site/hybrid) | ~Jul 2026 | Azure data platform + BI engineering at AU's ASX-listed fashion retailer; permanent full-time; Azure ADF/Fabric stack match; est. $115–$140k ⚠ verify salary ≥ AUD 95k before applying. | 7 | Specific posting | |
+| 175 | NTT DATA Australia | Lead Gen AI Engineer | Melbourne (hybrid) | ~Jul 2026 | Global IT firm; leads AI transformation + GenAI/LLM projects for enterprise clients; est. $130–$150k incl. super; agentic/LLM engineering at consulting scale; analytics consulting domain match. | 7 | Specific posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -397,6 +407,12 @@
 | R72 | Practo | Staff AI Engineer | Bengaluru, India (hybrid) | Jul 2026 (active) | India's largest health-tech platform; agentic AI stack incl. **Claude + CrewAI + LangGraph + gRPC + Kafka + K8s + vLLM** — rare direct match to agentic-AI/Claude edge; 8–12yr scope; health-tech domain crossover; est. ₹40–70 LPA. **Survives move: YES** | 9 | Specific posting | |
 | R73 | G-P (Globalization Partners) | Senior Data Scientist / Data Engineer | India (fully remote) | Apr 20, 2026 (active Jul 2026) | Global EOR/payroll company that literally manages international hiring & compliance — aligned to your relocation context; remote-first, hires in India; data science scope; est. ₹30–50 LPA. **Survives move: YES** | 7 | Specific posting | |
 | R74 | Zensar Technologies | Senior Generative AI Engineer | Pune / Bengaluru, India (hybrid) | ~2026 (active Jul 2026) | 6–9yr GenAI engineer scope; explicitly evaluates **MCP + A2A** emerging agent communication protocols; LLM applications using Claude + OpenAI + Mistral on AWS/Databricks/Azure; multi-agent + RAG + MLOps; est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-16
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R75 | Fractal Analytics | Lead Gen AI Data Scientist – GenAI | Bengaluru, India | Active Jul 2026 | Global Fortune 500 AI/analytics consultancy (Unilever, Spotify, Microsoft clients); GenAI + LLM + RAG + LangChain + agentic systems at enterprise scale; Lead level; Bengaluru HQ = India relocation target; est. 35–55 LPA. **Survives move: YES** | 8 | Specific posting | |
 
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
@@ -747,3 +763,12 @@
 - [G-P (Globalization Partners) — Senior Data Scientist/Engineer, India (Greenhouse)](https://job-boards.greenhouse.io/globalizationpartners/jobs/7704107003)
 - [Zensar Technologies — Senior Generative AI Engineer, India (Built In)](https://builtin.com/job/generative-ai-engineer/9275365)
 - [Zensar Technologies — Careers](https://www.zensar.com/careers)
+
+### Daily scout sources — 2026-07-16 (rows 171–175, R75)
+- [REA Group — Staff Machine Learning Engineer, Richmond Melbourne (AI Jobs Australia)](https://www.aijobsaustralia.com.au/jobs/0d8eadd0-69f6-490c-ad8a-014b4bd62ec9)
+- [EY Australia — Data Engineer AI and Data Technology Consulting (EY Careers job 1412571233)](https://careers.ey.com/ey/job/Melbourne-Data-Engineer-VIC-3000/1412571233/)
+- [Karbon — Lead Data Engineer, Melbourne/Remote (Wellfound job 4135643)](https://wellfound.com/jobs/4135643-lead-data-engineer)
+- [Karbon — Lead Data Engineer (Greenhouse)](https://job-boards.greenhouse.io/karbon/jobs/6097802004)
+- [Forever New — Senior Data Engineer, Richmond Melbourne (SEEK)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+- [NTT DATA Australia — Lead Gen AI Engineer, Melbourne (SEEK)](https://au.seek.com/NTT-DATA-jobs/in-All-Melbourne-VIC)
+- [Fractal Analytics — Lead Gen AI Data Scientist GenAI, Bengaluru (Fractal Workday SR-27602)](https://fractal.wd1.myworkdayjobs.com/en-US/Careers/job/Bengaluru/Lead-Gen-AI-Data-Scientist---GenAI_SR-27602)
