@@ -5,15 +5,16 @@
 
 ## Snapshot
 - Current module: **M1 — Statistics & Probability**
-- Streak: 0 days · Lessons completed: 0 · Mock interviews: 0
+- Streak: 1 day · Lessons completed: 1 · Mock interviews: 0
 - Weak areas to revisit: _(none yet)_
-- Next up: M1.1 Descriptive stats & distributions
+- Next up: **M1.2 — Sampling & confidence intervals**
+- Last lesson: 2026-07-16 — Distributions & the CLT (`lessons/2026-07-16.md`)
 
 ## Topic status
 
 | Module | Topic | Status | Confidence | Last touched | Notes |
 |--------|-------|--------|-----------|--------------|-------|
-| M1 | Stats & probability | not-started | 🔴 | — | |
+| M1 | Stats & probability | learning | 🔴 | 2026-07-16 | started: distributions + CLT |
 | M2 | ML fundamentals | not-started | 🔴 | — | |
 | M3 | Model evaluation & validation | not-started | 🟡 | — | strong from real work (P6), formalise |
 | M4 | Feature engineering | not-started | 🟡 | — | done in practice; theory pass |
