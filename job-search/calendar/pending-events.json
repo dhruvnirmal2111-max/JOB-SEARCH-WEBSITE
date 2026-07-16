@@ -213,6 +213,8 @@
     "recurrence": ["RRULE:FREQ=WEEKLY"],
     "notes": "Run /networking-hour. Remote + India/Dubai/Singapore data & AI focus: confirm scouted dream companies (Pursue? = yes in network/target-accounts.md), run /connect <company> on confirmed ones, send today's due connection requests + touches (all drafts, you send manually). Weekly recurring block; move it if the time doesn't suit.",
     "source": "networking",
-    "status": "pending"
+    "status": "created",
+    "gcal_event_id": "uh0kkk37tdgodjqvpl216kcvj0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=dWgwa2trMzd0ZGdvZGpxdnBsMjE2a2N2ajBfMjAyNjA3MTdUMDUwMDAwWiBkaHJ1dm5pcm1hbDIxMTFAbQ"
   }
 ]
