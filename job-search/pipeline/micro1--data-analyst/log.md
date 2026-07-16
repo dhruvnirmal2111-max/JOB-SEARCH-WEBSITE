@@ -11,4 +11,7 @@
 - _(set once outreach Day-0 messages are sent)_
 
 ## Timeline
-- 2026-07-16 — pipeline folder created; JD saved; resume + cover letter + outreach drafting.
+- 2026-07-16 — pipeline folder created; JD saved; resume + cover letter + outreach drafted.
+- 2026-07-16 — resume 1 page; PL/SQL flagged honest gap. Outreach: platform-application is the primary path (talent.micro1.ai); 3 optional verified contacts.
+- 2026-07-16 — **DUE DILIGENCE FLAG:** outreach.md notes reputational concerns (Glassdoor/BBB scam-tracker, AI-interview ID + likeness/data-use terms). Read before submitting documents.
+- 2026-07-16 — reminder created on Google Calendar (Wed 22 Jul 9am).

@@ -242,5 +242,18 @@
     "status": "created",
     "gcal_event_id": "c9rgtgvfu5n15trrqvt5rnt5us",
     "gcal_link": "https://www.google.com/calendar/event?eid=YzlyZ3RndmZ1NW4xNXRycnF2dDVybnQ1dXMgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "micro1-apply-outreach-20260722",
+    "title": "Apply + outreach: micro1 Data Analyst",
+    "kind": "outreach",
+    "start": "2026-07-22T09:00:00",
+    "end": "2026-07-22T09:20:00",
+    "timeZone": "Australia/Melbourne",
+    "notes": "Platform application is the primary path (talent.micro1.ai). Optional drafted outreach in job-search/pipeline/micro1--data-analyst/outreach.md (Kaushik Vaghela recruiter; Chirag Patel; Ali Ansari CEO). Read the reputational concerns flagged in outreach.md (Glassdoor/BBB, ID + likeness terms) before submitting documents. You send manually.",
+    "source": "micro1--data-analyst",
+    "status": "created",
+    "gcal_event_id": "1njtcru2osb79iipm8li065o7k",
+    "gcal_link": "https://www.google.com/calendar/event?eid=MW5qdGNydTJvc2I3OWlpcG04bGkwNjVvN2sgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
