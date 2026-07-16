@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 12
+- Active applications: 13
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -28,6 +28,7 @@
 | Electronic Arts | Data Scientist (Publishing Insights & Markets — Asia) | electronic-arts--data-scientist-publishing-insights | Applying | **Owner: confirm location/eligibility (EA Asia Publishing)**; review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | confirm location first | 2026-07-07 |
 | Puffy | Experimentation Analyst (Data Analyst — Experimentation & CRO, D2C e-commerce) | puffy--experimentation-analyst | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | — | 2026-07-16 |
 | Keypath Education | Associate Data Scientist (Strategy & Insights — predictive models + GenAI) | keypath-education--associate-data-scientist | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | — | 2026-07-16 |
+| micro1 | Data Analyst (Contractor, remote — AI data lab; Python + PL/SQL) | micro1--data-analyst | Applying | Owner: review PDF + cover letter → apply via micro1 platform; `/review-outreach` | — | 2026-07-16 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
