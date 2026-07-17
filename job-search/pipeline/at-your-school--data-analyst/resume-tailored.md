@@ -43,7 +43,7 @@ Aug 2023 to Nov 2023 | Melbourne, Australia
 
 ## Keyword Alignment
 
-**Match rate: ~85%** (11 of 13 core JD keywords/requirements matched or truthfully added).
+**Match rate: ~83%** (10 of 12 core JD requirements matched or truthfully added).
 
 **Matched (in both JD and resume):**
 - SQL, Excel, Tableau, Power BI (data-visualization tools)
@@ -56,12 +56,12 @@ Aug 2023 to Nov 2023 | Melbourne, Australia
 - Communicate complex information clearly to non-technical audiences
 
 **Missing but applicable (added truthfully):**
-- "Monitor data accuracy and maintain database integrity" - added via the automated-validation bullet on the multi-region account.
-- "Maintain confidentiality and security of sensitive information" - added; consulting work handles sensitive client financial/vendor data under confidentiality, so this is a genuine, truthful fit.
+- "Monitor data accuracy and maintain database integrity": added via the automated-validation bullet on the multi-region account.
+- "Maintain confidentiality and security of sensitive information": added; consulting work handles sensitive client financial/vendor data under confidentiality, so this is a genuine, truthful fit.
 
 **Not applicable (skipped, not fabricated):**
-- Specific analytical software beyond Excel/SQL/Tableau/Power BI (e.g. sector-specific school SIS/LMS platforms) - no listed requirement of a named tool Dhruv hasn't used, so nothing was skipped here beyond generic "analytical tools and software," which is covered by SQL/Python/BI stack.
-- "Bachelor's degree preferred" - exceeded (Master of Data Science), not a keyword to insert as a skill.
+- Specific analytical software beyond Excel/SQL/Tableau/Power BI (e.g. sector-specific school SIS/LMS platforms): no listed requirement of a named tool Dhruv hasn't used, so nothing was skipped here beyond generic "analytical tools and software," which is covered by SQL/Python/BI stack.
+- "Bachelor's degree preferred": exceeded (Master of Data Science), not a keyword to insert as a skill.
 
 ## Top 3 Recommendations
 
