@@ -21,7 +21,7 @@ Jun 2024 to Present | Melbourne, Australia
 A data and analytics consultancy. I own analysis and reporting for enterprise clients end to end and present findings to non-technical stakeholders. Selected engagements:
 
 **Pricing and cost analysis, multi-venue restaurant group (AU/NZ)**
-- Built a product catalogue of roughly 3,000 to 3,500 items, cleaned and organised the underlying data, then built a dashboard tracking price movement and cost leakage by product, venue and supplier using SQL and Python (pandas, numpy).
+- Built a product catalogue of roughly 3,000 items, cleaned and organised the underlying data, then built a dashboard tracking price movement and cost leakage by product, venue and supplier using SQL and Python (pandas, numpy).
 - Presented findings to the CFO and category managers; helped them identify close to 30% savings, roughly **A$2M** over a year, in their largest spend category.
 
 **Data quality and reporting, largest client account (multi-region)**

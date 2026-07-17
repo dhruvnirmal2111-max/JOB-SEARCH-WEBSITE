@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 14
+- Active applications: 15
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -30,6 +30,7 @@
 | Keypath Education | Associate Data Scientist (Strategy & Insights — predictive models + GenAI) | keypath-education--associate-data-scientist | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | — | 2026-07-16 |
 | micro1 | Data Analyst (Contractor, remote — AI data lab; Python + PL/SQL) | micro1--data-analyst | Applying | Owner: review PDF + cover letter → apply via micro1 platform; `/review-outreach` | — | 2026-07-16 |
 | At Your School (AYS) | Data Analyst (remote/Indianapolis, US$70–85k, education org) | at-your-school--data-analyst | Applying | **Owner: confirm ET-timezone + no-visa-sponsorship fit BEFORE investing**; review PDF + cover letter; `/review-outreach` | — | 2026-07-16 |
+| Global Power Components | Inventory Control Analyst (remote-only, manufacturing; data-integrity + inventory) | global-power-components--inventory-control-analyst | Applying | **Owner: confirm US-CT-timezone + no-visa fit**; review PDF + cover letter; `/review-outreach` | — | 2026-07-16 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
