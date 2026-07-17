@@ -2,11 +2,11 @@
 Melbourne, Australia | dhruvnirmal2111@gmail.com | +61406259619 | [LinkedIn](https://www.linkedin.com/in/dhruv-nirmal-data) | [GitHub](https://github.com/dhruvnirmal2111-max)
 
 ## Professional Summary
-I work where transactional data meets the systems meant to record it correctly, building the validation and reconciliation checks that catch discrepancies before they compound. At Purchasing Index Data Analytics I own automated data-integrity checks across a global spend platform spanning 13 regions and roughly 6 million invoice rows, standardising intake and liaising directly with client IT teams to close gaps at the source. I've also built inventory-level forecasting for a manufacturing-adjacent client, and my Master of Data Science included coursework in Supply Chain Management and Applied Forecasting. I keep clear written documentation so distributed teams stay aligned, and want to bring this discipline to Global Power Components as an Inventory Control Analyst.
+I work where transactional data meets the systems meant to record it correctly, building the validation and reconciliation checks that catch discrepancies before they compound. At Purchasing Index Data Analytics I manage automated data-integrity checks across a global spend platform spanning 13 regions and roughly 6 million invoice rows, standardising intake and liaising directly with client IT teams to close gaps at the source. I've also built inventory-level forecasting for a manufacturing-adjacent client, and my Master of Data Science included coursework in Supply Chain Management and Applied Forecasting. I keep clear written documentation so distributed teams stay aligned, and want to bring this discipline to Global Power Components as an Inventory Control Analyst.
 
 ## Key Skills
 **Inventory & Data Analysis:** Discrepancy and variance investigation, reconciliation analysis, root-cause analysis, KPI and dashboard reporting, data standardisation across systems
-**Programming & Analysis Tools:** Python, SQL, SQL Server, KNIME, batch scripting, advanced Excel (pivot tables, lookups, VLOOKUP/XLOOKUP)
+**Programming & Analysis Tools:** Python, SQL, SQL Server, KNIME, batch scripting, advanced Excel (pivot tables, lookups)
 **Forecasting & ML:** Prophet time-series forecasting, anomaly detection, classification models (scikit-learn)
 **Visualisation & Reporting:** Power BI, Tableau, data storytelling
 
@@ -14,11 +14,11 @@ I work where transactional data meets the systems meant to record it correctly, 
 ### Data Analyst, Purchasing Index Data Analytics (Comprara Group)
 Jun 2024 to Present | Melbourne, Australia (remote-capable, client-facing)
 Client-facing analytics role covering supplier and transactional data for enterprise clients across Australia and New Zealand, monitoring data for accuracy, resolving discrepancies, and standardising intake across systems, with proactive written updates so distributed clients stay aligned.
-- Own automated validation across a global spend platform spanning 13 regions and roughly 6 million invoice rows a week, flagging discrepancies, dropping stray columns, and standardising intake; liaise directly with the client's IT and system teams to resolve data gaps at the source.
+- Manage automated validation across a global spend platform spanning 13 regions and roughly 6 million invoice rows (about 500 to 600k refreshed weekly), flagging discrepancies, dropping stray columns, and standardising intake; liaise directly with the client's IT and cybersecurity teams to resolve data gaps at the source.
 - Built a Prophet time-series forecasting model that projects raw-material and chemical inventory levels around three months ahead within a 12.5 to 14% error margin, giving the client a reliable window to plan ordering.
 - Reconcile pricing and spend data to the product, venue and supplier level for a multi-venue restaurant client, tracing cost variance to root cause and helping surface roughly 30% savings (about A$2M) in one spend category over a year.
 - Led classification and reconciliation of a roughly A$12B, five-year spend dataset with unreliable categorisation, building a rules and machine-learning pipeline with manual review of high-value exceptions, cutting a month-long categorisation cycle to about a day.
-- Maintain 16+ Tableau and Power BI dashboards and KPI reports for procurement and finance stakeholders, and run anomaly detection on spend data to catch cost-leakage patterns before they compound.
+- Maintain 16+ Tableau dashboards and KPI reports for procurement and finance stakeholders, and run anomaly detection on procurement data to catch cost-leakage patterns, contributing to roughly 15% client savings.
 
 ### Data Engineer Intern, Victorian Centre for Data Insights (VCDI)
 Aug 2023 to Nov 2023 | Melbourne, Australia
