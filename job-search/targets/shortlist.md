@@ -772,3 +772,41 @@
 - [Forever New — Senior Data Engineer, Richmond Melbourne (SEEK)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
 - [NTT DATA Australia — Lead Gen AI Engineer, Melbourne (SEEK)](https://au.seek.com/NTT-DATA-jobs/in-All-Melbourne-VIC)
 - [Fractal Analytics — Lead Gen AI Data Scientist GenAI, Bengaluru (Fractal Workday SR-27602)](https://fractal.wd1.myworkdayjobs.com/en-US/Careers/job/Bengaluru/Lead-Gen-AI-Data-Scientist---GenAI_SR-27602)
+
+### Daily scout — 2026-07-17
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 176 | More Telecom | Senior Data Engineer (Microsoft Fabric) | Melbourne (hybrid) | ~Jul 12, 2026 | Mid-migration to Microsoft Fabric (OneLake/Delta Lake); Azure and Databricks background transfers directly to Fabric lakehouse architecture; telecom domain; est. $140–179k | 7 | Specific posting | |
+| 177 | Versent | Senior Data Engineer | Melbourne (hybrid, 2d/wk) | ~Jun–Jul 2026 | AWS-gold / Azure consulting firm — Azure Data Services + Snowflake + dbt + cloud-native pipeline design: near-perfect stack match; Versent Data & AI Practice also delivers agentic LLM integrations for enterprise clients; est. $130–160k | 8 | Specific posting | |
+| 178 | Buildkite | Senior ML Engineer (Test Engine) | Remote ANZ | Active Jul 2026 | Remote-first AU-founded CI/CD platform; first dedicated ML hire on Test Engine team — predictive test selection with Python + Spark/Flink; end-to-end ML lifecycle (feature eng, serving, monitoring); est. $131–180k + equity | 7 | Specific posting | |
+| 179 | Rokt | Senior ML Engineer | Sydney (4d onsite; relocation support) | Active Jul 2026 | Global AdTech unicorn ($3.5B); productionise smart-bidding/lookalike/forecasting ML models at scale; $250k–315k base + equity (~$375k–515k TC) ⚠ Sydney primary, 4d onsite — confirm relocation or remote option before applying | 8 | Specific posting | |
+| 180 | Zendesk | Senior ML Engineer | Melbourne (hybrid) | Active Jul 2026 | GCP + BigQuery + Kubernetes + PyTorch + Dagster ML platform for Zendesk AI Agent product; Python stack match; Melbourne office; est. $105–130k ⚠ salary starts near floor — confirm band before applying | 7 | Specific posting | |
+| 181 | Catapult Sports | Data Scientist | Melbourne (hybrid) | Active Jul 2026 | ASX-listed wearable performance analytics (5,000+ elite sports teams); Python + ML for biometric/positional streams; DE pipeline + ML engineering background fits their push into predictive athlete-risk models; est. $106–146k | 6 | Specific posting | |
+
+### Remote-first scout — 2026-07-17
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R76 | Intuit | AI Scientist 2 | Bengaluru (hybrid; Intuit India R&D) | Active Jul 2026 | Builds GenAI/LLM systems on QuickBooks/TurboTax financial datasets using RL + RAG + experimentation frameworks; 5-yr financial data pipeline background is a direct bridge; strong brand + compensation; est. ₹30–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R77 | ZS Associates | Data Engineer (Snowflake / Databricks / Airflow) | Bengaluru (ZS India GCC) | Jun 10, 2026 (active Jul 2026) | Pharma/life-sciences analytics giant; Snowflake + Databricks + Airflow stack is the core DE wheelhouse; ZS increasingly layering GenAI/LLM tooling onto pipelines — natural bridge role; est. ₹20–40 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R78 | Hired (Hired.com) | Software Engineer — LLM | Fully remote, India-eligible | Jul 2026 | SF-based talent marketplace building LLM-powered job-matching and recruiter tooling; posted simultaneously on LinkedIn India + APAC — genuine global-remote intent; RAG/LLM production experience maps directly; est. USD $110–150k. **Survives move: YES** | 7 | Specific posting | |
+| R79 | Neointelli Technologies | AI Agent Developer (LangChain / LangGraph) | India (remote-friendly) | ~Jul 2026 | Designs AI-first Global Capability Centers; LangGraph + LangChain + multi-agent orchestration + RAG by default — direct 1-to-1 with agentic-AI/Claude toolkit and DE as the data-layer anchor; est. ₹25–45 LPA. **Survives move: YES** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-07-17 (rows 176–181, R76–R79)
+- [More Telecom — Senior Data Engineer MS Fabric, Melbourne (Employment Hero)](https://employmenthero.com/jobs/position/more-telecom-pty-ltd-senior-data-engineer-ms-fabric-bygtg/)
+- [Versent — Senior Data Engineer, Melbourne (SEEK company page)](https://au.seek.com/companies/versent-984076/jobs)
+- [Versent — Data & AI Practice careers (versent.com.au)](https://versent.com.au/careers/)
+- [Buildkite — Senior ML Engineer (Test Engine), Remote ANZ (Greenhouse)](https://job-boards.greenhouse.io/buildkite/jobs/5152770008)
+- [Buildkite — Staff ML Engineer (Test Engine), Remote ANZ (Greenhouse)](https://job-boards.greenhouse.io/buildkite/jobs/5205766008)
+- [Rokt — Senior ML Engineer (Relocate), Sydney (Workable)](https://apply.workable.com/rokt/j/21F6F2BC5B/)
+- [Rokt — Senior ML Engineer (Standard), Sydney (Workable)](https://apply.workable.com/rokt/j/0CAF496920)
+- [Zendesk — Senior ML Engineer, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/senior-ml-engineer/6956036)
+- [Catapult Sports — Open Roles, Melbourne (Greenhouse)](https://job-boards.greenhouse.io/catapultsports)
+- [Intuit — AI Scientist 2, Bengaluru (Intuit Careers)](https://jobs.intuit.com/job/bengaluru/ai-scientist-2/27595/94955279552)
+- [Intuit — Staff AI Scientist GTM Tech, Bengaluru (Intuit Careers)](https://jobs.intuit.com/job/bengaluru/staff-ai-scientist-gtm-tech/27595/94278319296)
+- [ZS Associates — Data Engineer Snowflake/Databricks, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/business-technology-solutions-associate-data-engineer-snowflake-databricks-at-zs-4425849171)
+- [ZS Associates — Data Engineer (Built In)](https://builtin.com/job/business-technology-solutions-associate-data-engineer-snowflake-databricks-airflow/8574843)
+- [Hired — Software Engineer LLM Remote India (LinkedIn)](https://in.linkedin.com/jobs/view/software-engineer-llm-remote-at-hired-4435510158)
+- [Hired — Software Engineer LLM Remote APAC (LinkedIn)](https://www.linkedin.com/jobs/view/software-engineer-llm-remote-at-hired-4437728991)
+- [Neointelli Technologies — AI Agent Developer LangGraph, India (LinkedIn)](https://in.linkedin.com/jobs/view/ai-agent-developer-langchain-langgraph-at-neointelli-technologies-4431005043)
