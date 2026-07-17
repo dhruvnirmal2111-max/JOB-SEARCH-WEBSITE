@@ -12,4 +12,6 @@
 - _(set once outreach Day-0 messages are sent)_
 
 ## Timeline
-- 2026-07-16 — pipeline folder created; JD saved; resume + cover letter + outreach drafting.
+- 2026-07-16 — pipeline folder created; JD saved; resume + cover letter + outreach drafted (all 1 page).
+- 2026-07-16 — outreach: entity confirmed (AYS Inc, Indianapolis, ayskids.org). Newly-created role, no data peers exist; verified contacts are HR/finance/CEO (Angela McGinley, Lynn Auffart, Justin Armstrong + finance/comms peers). Amanda Lee (JD contact) unverified — confirm on LinkedIn first.
+- 2026-07-16 — outreach reminder created on Google Calendar (Thu 23 Jul 9am), gated on confirming ET/visa fit first.

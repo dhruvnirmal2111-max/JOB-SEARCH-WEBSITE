@@ -255,5 +255,18 @@
     "status": "created",
     "gcal_event_id": "1njtcru2osb79iipm8li065o7k",
     "gcal_link": "https://www.google.com/calendar/event?eid=MW5qdGNydTJvc2I3OWlpcG04bGkwNjVvN2sgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "at-your-school-outreach-20260723",
+    "title": "Send outreach: At Your School Data Analyst",
+    "kind": "outreach",
+    "start": "2026-07-23T09:00:00",
+    "end": "2026-07-23T09:20:00",
+    "timeZone": "Australia/Melbourne",
+    "notes": "FIRST confirm ET-timezone + no-visa-sponsorship fit before investing. Then send drafts in job-search/pipeline/at-your-school--data-analyst/outreach.md. Verified: Angela McGinley (HR), Lynn Auffart (Controller), Justin Armstrong (CEO) + finance/comms peers. Amanda Lee (JD contact) unverified. Newly-created role, no data peers. You send manually.",
+    "source": "at-your-school--data-analyst",
+    "status": "created",
+    "gcal_event_id": "e4hh6phhvslv056avko81bac2k",
+    "gcal_link": "https://www.google.com/calendar/event?eid=ZTRoaDZwaGh2c2x2MDU2YXZrbzgxYmFjMmsgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
