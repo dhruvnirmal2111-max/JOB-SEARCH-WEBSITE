@@ -77,6 +77,21 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Own the end-to-end data pipeline for the company's largest client — spend data across 5 global regions / 13 sub-regions (~6M invoice rows plus PO, lookup and open-PO datasets; ~500–600k rows refreshed weekly). Replaced a manual KNIME upload process with fully automated email-based ingestion (Microsoft Graph API → remote SQL Server batch script). Coordinate stakeholders across all 13 regions and standardised file-submission + naming conventions so every region feeds one consistent intake. Built automated validation (row/hour counts, data-type and column-consistency checks) that drops stray columns, logs discrepancies, and emails client + internal teams for review. Downstream: vendor/spend lookups, multi-language data cleaning, ~11–12k-rule categorisation, and advanced spend analysis (rolling / 4-week spend windows, PO splitting) into dashboards. Now working with the client's IT + cybersecurity teams to consolidate into a single unified pipeline.
 - **Delivery/impact:** Cut weekly processing from ~4–5 hours of manual upload-and-check to a ~75-min automated run (30-min ingestion + 45-min downstream) — **~3–3.5 hours saved weekly** — while removing manual number-checking and standardising delivery for the company's highest-billing client account.
 
+### P19. Bill of Materials (BOM) for a fresh-produce client `#inventory #bom #sql #python #supplychain #reporting`
+- **Skills/tech:** SQL, Python, data modelling, bill-of-materials / inventory logic, reporting.
+- **What I did:** Built a **bill of materials** for a fresh-produce client — mapping each finished product to the raw materials and inputs required to produce it — to support inventory planning and ordering. (Same client family as the P7 raw-material/chemical forecasting work.)
+- **Delivery/impact:** Gives the client a structured view of what inputs their outputs consume, underpinning inventory and purchasing decisions. _(No hard metrics captured.)_
+
+### P20. Automated daily inventory report with par-level alerts (medical client) `#inventory #reporting #automation #alerts #sql #python #stakeholders`
+- **Skills/tech:** SQL, Python, scheduled/automated refresh, inventory reporting, threshold-based alerting.
+- **What I did:** Built an inventory report for a **medical client** that **auto-refreshes every morning**, so the team starts each day with current stock positions. Added **par-level alerts**: the report flags any item that has dropped **below a par level the client sets themselves**, prompting reorder before a stockout.
+- **Delivery/impact:** **Used daily by the client to manage their inventory** — one of their core operational tools. Refresh is automatic each morning; the user-defined par-level alerts surface what needs action without manual checking. _(Only metric available: daily refresh + daily client use.)_
+
+### P21. Automated weekly inventory report (medical client) `#inventory #reporting #automation #sql #python`
+- **Skills/tech:** SQL, Python, scheduled/automated refresh, inventory reporting.
+- **What I did:** Built a similar automated inventory report for **another medical client**, on a **weekly refresh** cadence, supporting their inventory management rhythm.
+- **Delivery/impact:** Keeps the client's inventory view current on a weekly cycle without manual rebuilds. _(Only metric available: weekly refresh cadence.)_
+
 ## Victorian Centre for Data Insights (VCDI), Data Engineer Intern (Aug 2023 – Nov 2023)
 Government procurement monitoring; distributed data + ML.
 
