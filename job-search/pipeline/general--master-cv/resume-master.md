@@ -24,7 +24,7 @@ Client-facing data and analytics consultancy serving enterprise clients across A
 - Pricing and cost analytics (restaurant chain, AU/NZ): owned the account end to end; built a product catalogue (~3,000 items) and pricing-decision and supplier dashboards tracking price movement and cost leakage by product, venue and supplier, using Python (pandas, numpy) and SQL; presented to the Chief Procurement Officer and category managers, helping the client identify close to 30% savings (roughly A$2M over a year) in their largest category.
 - ML spend classification (~A$12B client spend): led the company's first ML classifier to automate categorisation, a one-vs-all model in scikit-learn (TF-IDF, and now embeddings, with LogisticRegression, class weights for imbalance, GridSearchCV and cross-validation; pandas/numpy for feature engineering), using a Pareto manual/ML split. Cut a cycle that took an account manager 1 to 1.5 months down to a single day's model run; documented pipeline now rolled out across clients.
 - Demand forecasting (fresh-produce client): built a Prophet time-series model with external drivers (sea-freight trends, input prices) to forecast raw-material and chemical inventory three months ahead, within a 12.5 to 14% error margin, delivered via dashboard.
-- Global multi-region spend platform (largest client): own the end-to-end pipeline across 5 regions and 13 sub-regions (~6M invoice rows weekly); replaced manual uploads with automated email ingestion (Microsoft Graph API to a SQL Server batch script), standardised conventions, and built automated validation with discrepancy logging; cut weekly processing from ~4-5 hours to ~75 minutes.
+- Global multi-region spend platform (largest client): own the end-to-end pipeline across 5 regions and 13 sub-regions (~6M invoice rows, ~500-600k refreshed weekly); replaced manual uploads with automated email ingestion (Microsoft Graph API to a SQL Server batch script), standardised conventions, and built automated validation with discrepancy logging; cut weekly processing from ~4-5 hours to ~75 minutes.
 - Agentic report automation: built a company-wide LLM workflow that auto-generates client progress reports from analytics outputs, adopted across the analyst team (~25-30 accounts), saving ~12-15 hours a week, with a multi-agent QA step validating outputs before delivery.
 - Built and maintained 20+ automated ETL pipelines (Python, SQL, Azure) processing millions of transactions monthly; reduced manual reporting effort ~40% and improved turnaround ~50%.
 - Built and maintained 16+ Tableau dashboards for procurement and finance teams for supplier spend, KPI tracking and cost-optimisation decisions.
@@ -36,11 +36,6 @@ Aug 2023 to Nov 2023 | Melbourne, Australia
 
 - Built a distributed anomaly-detection pipeline in Databricks with PySpark on large-scale government procurement data, engineering scalable transformation layers; improved detection accuracy by about 20%.
 - Built and presented a Power BI analytics solution adopted by senior Department of Transport stakeholders.
-
-### Research Data Analyst, Terminal Ballistics Research Laboratory (TBRL, DRDO)
-Jan 2021 to Jul 2021 | India
-
-- Acquired, analysed and filtered blast-wave signal data (Butterworth filtering, statistical modelling, MATLAB), predicted noise levels and compiled a 70-page report; reduced noise ~20% and improved prediction accuracy ~20%.
 
 ## Projects
 
