@@ -282,6 +282,16 @@
 | 174 | Forever New | Senior Data Engineer | Richmond, Melbourne (on-site/hybrid) | ~Jul 2026 | Azure data platform + BI engineering at AU's ASX-listed fashion retailer; permanent full-time; Azure ADF/Fabric stack match; est. $115–$140k ⚠ verify salary ≥ AUD 95k before applying. | 7 | Specific posting | |
 | 175 | NTT DATA Australia | Lead Gen AI Engineer | Melbourne (hybrid) | ~Jul 2026 | Global IT firm; leads AI transformation + GenAI/LLM projects for enterprise clients; est. $130–$150k incl. super; agentic/LLM engineering at consulting scale; analytics consulting domain match. | 7 | Specific posting | |
 
+### Daily scout — 2026-07-18
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 176 | Zendesk | Staff ML Engineer (Agentic AI) | Melbourne / Sydney (hybrid) | Jul 2026 | Production AI agents autonomously resolving tickets across 100k+ Zendesk accounts; agent architecture (planning, tool dispatch, memory, error recovery) + Python + PyTorch + agent frameworks; 5+ yrs exp; agentic-AI/LLM edge IS the core skill req (rare); est. $155–$210k | 9 | Specific posting | |
+| 177 | Zendesk | Senior ML Engineer – Agentic AI Platform | Melbourne (hybrid) | Jul 2026 | Builds GenAI infrastructure (LLM proxies, A/B + offline eval frameworks, multi-step orchestration, tool-using agentic workflows) powering all Zendesk AI products; distinct from row 176 (Staff); est. $140–$175k | 8 | Specific posting | |
+| 178 | Specsavers | Senior Data Engineer | Port Melbourne (hybrid) | ~Jul 2026 | Global optical chain (AU Best Places to Work 3× running; Fortune World's 25 Best Workplaces #12 2025); Azure/Python/BI data platform at ANZ scale; engineering dept avg $141k per Comparably; est. $115–$140k ⚠ verify salary ≥ $95k floor before applying | 7 | Specific posting | |
+| 179 | More Telecom | Senior Data Engineer (MS Fabric) | Melbourne (hybrid) | ~Jul 12–13, 2026 | MS Fabric greenfield data platform at an independent AU telecom ISP; permanent full-time; fresh posting (6 days ago); new company on shortlist distinct from Centorrino (row 73) / Vocus (row 129) / NBN Co (row 115); est. $115–$140k | 7 | Specific posting | |
+| 180 | Method Recruitment (client: critical infrastructure) | Senior Data Engineer (MS Fabric / Databricks) | Melbourne (hybrid) | Jul 2026 | Greenfield Microsoft Fabric + Databricks build for electricity, gas & water utilities; large-scale migration to cloud-native data platform from scratch; direct stack match; est. $130–$160k ⚠ recruiter listing — confirm end-client + permanent vs contract on first contact | 7 | Recruiter posting | |
+
 ---
 
 ## Remote-first scout — 2026-06-24 (AU / India / Dubai / Saudi / Singapore)
@@ -414,6 +424,12 @@
 |------|---------|------|----------|--------|------------------------------|-----|------|---------|
 | R75 | Fractal Analytics | Lead Gen AI Data Scientist – GenAI | Bengaluru, India | Active Jul 2026 | Global Fortune 500 AI/analytics consultancy (Unilever, Spotify, Microsoft clients); GenAI + LLM + RAG + LangChain + agentic systems at enterprise scale; Lead level; Bengaluru HQ = India relocation target; est. 35–55 LPA. **Survives move: YES** | 8 | Specific posting | |
 
+### Remote-first scout — 2026-07-18
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R76 | Databricks India | AI Engineer – FDE (Forward Deployed Engineer) | Remote India / Bengaluru | Jul 12, 2026 | Customer-facing AI delivery team building + productionising first-of-kind AI apps on Databricks; exact India counterpart to AU row 25 (Melbourne FDE); freshest Databricks India posting; est. ₹40–80 LPA (Databricks India avg total comp ₹78 LPA). **Survives move: YES** | 8 | Specific posting | |
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
@@ -500,6 +516,14 @@
 - [Remote data scientist jobs Singapore — Glassdoor (Shift Technology, Feedzai, Palantir, Binance)](https://www.glassdoor.sg/Job/singapore-remote-data-scientist-jobs-SRCH_IL.0,9_IC3235921_KO10,31.htm)
 - [Remote Data Scientist jobs Saudi Arabia — Jobgether (Mozn, Riyadh)](https://jobgether.com/remote-jobs/saudi-arabia/data-scientist)
 - [AI & ML jobs in Saudi Arabia 2026, visa sponsorship & salaries — ZeroTaxJobs](https://zerotaxjobs.com/ai-jobs-in-saudi-arabia)
+
+### Daily scout sources — 2026-07-18 (rows 176–180, R76)
+- [Zendesk — Staff ML Engineer (Agentic AI), Melbourne/Sydney (Built In Melbourne)](https://builtinmelbourne.com/job/senior-ml-engineer/6956036)
+- [Zendesk — Senior ML Engineer – Agentic AI Platform (Zendesk Workday)](https://zendesk.wd1.myworkdayjobs.com/en-US/zendesk/job/Senior-ML-Engineer_R32450)
+- [Specsavers — Senior Data Engineer, Port Melbourne (Join Specsavers)](https://join.specsavers.com/au/position/senior-data-engineer-2/)
+- [More Telecom — Senior Data Engineer (MS Fabric), Melbourne (Employment Hero)](https://employmenthero.com/jobs/position/more-telecom-pty-ltd-senior-data-engineer-ms-fabric-bygtg/)
+- [Method Recruitment — Senior Data Engineer (MS Fabric/Databricks), Melbourne (Method Recruitment)](https://www.methodrecruitment.com.au/job-details/senior-data-engineer-ms-fabricdatabricks-in-1-jobs-1442187)
+- [Databricks India — AI Engineer FDE, Remote India (Databricks Careers)](https://www.databricks.com/company/careers/professional-services-operations/ai-engineer---fde-forward-deployed-engineer-8099751002)
 
 ### Daily scout sources — 2026-06-27 (rows 52–57)
 - [Hostplus — Data Engineer, Melbourne (LiveHire / Humanforce Talent)](https://www.livehire.com/careers/hostplus/job/AQ438/ERSFYB2YHH/data-engineer)
