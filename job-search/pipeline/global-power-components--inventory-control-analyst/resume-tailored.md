@@ -2,44 +2,35 @@
 Melbourne, Australia | dhruvnirmal2111@gmail.com | +61406259619 | [LinkedIn](https://www.linkedin.com/in/dhruv-nirmal-data) | [GitHub](https://github.com/dhruvnirmal2111-max)
 
 ## Professional Summary
-I work where transactional data meets the systems meant to record it correctly, building the validation and reconciliation checks that catch discrepancies before they compound. At Purchasing Index Data Analytics I manage automated data-integrity checks across a global spend platform spanning 13 regions and roughly 6 million invoice rows, standardising intake and liaising directly with client IT teams to close gaps at the source. I've also built inventory-level forecasting for a manufacturing-adjacent client, and my Master of Data Science included coursework in Supply Chain Management and Applied Forecasting. I keep clear written documentation so distributed teams stay aligned, and want to bring this discipline to Global Power Components as an Inventory Control Analyst.
+I build the reporting and data-integrity checks that keep inventory and transactional records accurate and catch discrepancies before they compound. For enterprise clients I have built automated inventory reports that teams rely on daily to manage stock, including par-level alerts that flag any item below a set threshold, and I run the validation and reconciliation across a global platform spanning 13 regions and roughly 6 million invoice rows, standardising intake and logging discrepancies at the source. My Master of Data Science included Supply Chain Management and Applied Forecasting, and I want to bring this discipline to Global Power Components as an Inventory Control Analyst.
 
 ## Key Skills
-**Inventory & Data Analysis:** Discrepancy and variance investigation, reconciliation analysis, root-cause analysis, KPI and dashboard reporting, data standardisation across systems
-**Programming & Analysis Tools:** Python, SQL, SQL Server, KNIME, batch scripting, advanced Excel (pivot tables, lookups)
-**Forecasting & ML:** Prophet time-series forecasting, anomaly detection, classification models (scikit-learn)
-**Visualisation & Reporting:** Power BI, Tableau, data storytelling
+**Inventory & Data Integrity:** Discrepancy and variance investigation, reconciliation analysis, root-cause analysis, par-level alerting, data standardisation across systems, transactional-data validation
+**Reporting & BI:** Power BI, Tableau, KPI and inventory dashboards, advanced Excel (pivot tables, lookups, data analysis), stakeholder reporting
+**Data & Systems:** SQL, Python (pandas, numpy), SQL Server, enterprise ERP/MRP-adjacent transactional data (invoice, PO, spend), KNIME, batch automation, Prophet forecasting
 
 ## Experience
-### Data Analyst, Purchasing Index Data Analytics (Comprara Group)
-Jun 2024 to Present | Melbourne, Australia (remote-capable, client-facing)
-Client-facing analytics role covering supplier and transactional data for enterprise clients across Australia and New Zealand, monitoring data for accuracy, resolving discrepancies, and standardising intake across systems, with proactive written updates so distributed clients stay aligned.
-- Manage automated validation across a global spend platform spanning 13 regions and roughly 6 million invoice rows (about 500 to 600k refreshed weekly), flagging discrepancies, dropping stray columns, and standardising intake; liaise directly with the client's IT and cybersecurity teams to resolve data gaps at the source.
-- Built a Prophet time-series forecasting model that projects raw-material and chemical inventory levels around three months ahead within a 12.5 to 14% error margin, giving the client a reliable window to plan ordering.
-- Reconcile pricing and spend data to the product, venue and supplier level for a multi-venue restaurant client, tracing cost variance to root cause and helping surface roughly 30% savings (about A$2M) in one spend category over a year.
-- Led classification and reconciliation of a roughly A$12B, five-year spend dataset with unreliable categorisation, building a rules and machine-learning pipeline with manual review of high-value exceptions, cutting a month-long categorisation cycle to about a day.
-- Maintain 16+ Tableau dashboards and KPI reports for procurement and finance stakeholders, and run anomaly detection on procurement data to catch cost-leakage patterns, contributing to roughly 15% client savings.
+### Data Analyst, PI Data Analytics (Comprara Group) | Jun 2024 to Present | Melbourne
+Client-facing analytics for enterprise clients across Australia and New Zealand: monitoring data for accuracy, resolving discrepancies, and standardising intake across systems, with proactive written updates so distributed clients stay aligned.
+- Built automated inventory reports for clients (a daily morning refresh and a weekly one) that teams use day to day to manage stock, with par-level alerts that flag any item below a client-set threshold so they reorder before a stockout.
+- Built a bill of materials for a fresh-produce client, mapping finished products to the raw materials and inputs they require, to support inventory planning and purchasing.
+- Manage automated validation across a global spend platform (13 regions, roughly 6 million invoice rows, about 500 to 600k refreshed weekly) that flags discrepancies, drops stray columns, and standardises intake; liaise directly with the client's IT and system teams to resolve data gaps at the source.
+- Reconcile pricing and spend to the product, venue and supplier level for a multi-venue client, tracing cost variance to root cause and helping surface roughly 30% savings (about A$2M) in one category; separately led classification and reconciliation of a roughly A$12B, five-year spend dataset, cutting a month-long categorisation cycle to about a day.
+- Built a Prophet time-series model forecasting raw-material and chemical inventory around three months ahead within a 12.5 to 14% error margin, and maintain 16+ Tableau dashboards and KPI reports for procurement and finance stakeholders.
 
-### Data Engineer Intern, Victorian Centre for Data Insights (VCDI)
-Aug 2023 to Nov 2023 | Melbourne, Australia
+### Data Engineer Intern, Victorian Centre for Data Insights (VCDI) | Aug 2023 to Nov 2023 | Melbourne
 - Built a distributed anomaly-detection pipeline (Databricks, PySpark) on government procurement data, improving detection accuracy about 20%, and delivered a Power BI solution adopted by Department of Transport stakeholders.
 
 ## Education
-### Master of Data Science, Monash University | Feb 2022 to Dec 2023
-Coursework: Supply Chain Management, Applied Forecasting, Machine Learning, Statistics I/II.
-### Bachelor of Engineering, Thapar University | May 2017 to May 2021
+**Master of Data Science, Monash University** | Feb 2022 to Dec 2023 — coursework in Supply Chain Management and Applied Forecasting
+**Bachelor of Engineering, Thapar University** | May 2017 to May 2021
 
 ## Keyword Alignment
 
-**Match rate: roughly 73% of JD keywords/requirements matched or genuinely applicable.**
+**Match rate: roughly 78% of JD requirements matched or genuinely applicable (up from the prior version, now that inventory-reporting projects are surfaced).**
 
-**Matched (in both JD and resume):** discrepancy identification, root-cause/variance analysis, reconciliation analysis, dashboards and KPI reporting, standardisation of data/transaction processes, liaison with IT/system teams, inventory analysis (forecasting), 2+ years of data analysis experience, advanced Excel (pivot tables, lookups), Power BI, Tableau, Supply Chain coursework (degree preference), understanding of costing/reconciliation (spend classification, pricing variance work).
+**Matched:** monitor/analyse inventory data for discrepancies (automated inventory reports + validation); reports/dashboards/KPIs to track inventory performance; reconciliation analysis + root-cause of variances; standardisation of data/transaction processes; liaison with IT/system teams; corrective actions (par-level reorder alerts); advanced Excel (pivot tables, lookups); Power BI, Tableau; 2+ years data analysis; Supply Chain coursework (degree preference); costing/reconciliation understanding.
 
-**Missing but applicable (has it, added it):** SQL Server and batch scripting (transactional-system experience, added as ERP-adjacent), KNIME (added as a transactional/legacy-system tool), anomaly detection (added, transfers directly to discrepancy detection).
+**Bridged honestly (has adjacent, added):** manufacturing-stock integration via the bill-of-materials work (finished goods to input mapping); anomaly detection transfers directly to discrepancy detection.
 
-**Not applicable (genuine gaps, not claimed):** Hands-on Epicor, SAP or Oracle (no direct ERP/MRP system experience; bridged honestly via enterprise transactional data, validation and reconciliation work, and liaising with client IT/system teams, not claimed as ERP expertise). Manufacturing-floor inventory or physical cycle-count programs (no delivered manufacturing-floor work; the analytical discipline, variance, reconciliation, data integrity, forecasting, transfers, but is not presented as manufacturing experience). Formal internal-audit/compliance experience.
-
-## Top 3 Recommendations
-1. In screening or interview, be upfront that the ERP/MRP hands-on experience is with Epicor/SAP/Oracle absent, but ready to show it as a fast ramp: daily work is already on enterprise invoice/PO/spend transactional data with validation, reconciliation and IT-team liaison built in.
-2. Have the P18 story (13 regions, ~6M invoice rows, automated discrepancy logging, standardised intake) ready as the opening proof point, it is the single closest match to the JD's core ask.
-3. Use the P7 forecasting result (raw materials and chemicals, 12.5 to 14% error) as the concrete answer if asked about manufacturing-adjacent inventory experience, since there is no physical cycle-count or shop-floor background to draw on otherwise.
+**Genuine gaps (named, not claimed):** hands-on Epicor/SAP/Oracle ERP-MRP (bridged via enterprise invoice/PO/spend transactional data, validation, reconciliation, and IT-team liaison, not claimed as ERP expertise); manufacturing-floor / physical cycle-count experience (the analytical discipline transfers; not presented as shop-floor work); formal internal-audit/compliance experience.
