@@ -854,7 +854,24 @@
 | R84 | Cisco | Senior Data Engineer (Spark / Kafka / Flink / Iceberg / Lakehouse) | Bengaluru | Active Jul 2026 | Big Data + streaming lakehouse platform — PySpark / Kafka / Flink / Trino / Iceberg; Fortune 100 GCC; ₹28–45 LPA ⚠ 8–12 yr experience required — flag gap if < 8 yrs. **Survives move: YES** | 7 | Specific posting | |
 | R85 | Careem (Uber MENA super-app) | Data Engineer II | Dubai, UAE | Active 2026 | Big Data Platform team — scalable Cassandra cluster architecture, multi-source ingestion pipelines, data quality frameworks; AED 276k–480k/yr (zero personal income tax); international talent routinely hired; 4–7 yrs exp; Uber-acquired ($3.1B). **Survives move: YES** | 7 | Specific posting | |
 
-### Daily scout sources — 2026-07-19 (rows 182–184, R80–R85)
+### Supplementary AU finds — 2026-07-19 (rows 185–189)
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 185 | The Onset | Product Data Scientist | Hawthorn, Melbourne (hybrid) | Active Jul 2026 | Enterprise AI + data science strategy ownership across multiple teams; LLM-agent engineering in fintech (SME funding/APAC/Europe); **highest advertised DS comp in this shortlist** at $250k–$270k + super + RSU; single-role accountability; fintech domain | 8 | Specific posting | |
+| 186 | Treasury Wine Estates | Senior Data Engineer | Melbourne CBD Collins St (hybrid) | Active Jul 2026 | Major ASX-listed global wine company in "Ascent" data/digital/AI transformation; ETL pipeline + data modelling + BI platform; permanent; direct DE stack match; est. $140k–$175k; **new company** on shortlist | 7 | Specific posting | |
+| 187 | Ippon Technologies Australia | Principal Data Engineer | Melbourne (hybrid) | ~May 2026 (verify open) | AU boutique data + cloud consultancy (~40-person team); client-embedded data architecture delivery; 4-day work week offered; Lead Data Engineering Consultant variant also open; est. $130k–$165k ⚠ May 2026 post date — verify listing still active before applying | 7 | Specific posting | |
+| 188 | Pluralis Research | ML Engineer (Distributed ML Systems) | Melbourne (hybrid) | Feb 2026 (verify open) | Decentralised AI / Protocol Learning startup; distributed LLM training + model-parallel systems + PyTorch; Union Square Ventures (USV) backed; meaningful equity; Melbourne + NY dual hub ⚠ Feb 2026 post date — verify still open before applying; est. $100k+ base + equity | 7 | Specific posting | |
+| 189 | Confidential energy startup (via Shield Recruitment) | Senior ML/AI Engineer (first ML hire) | Melbourne (hybrid) | Late Jun / early Jul 2026 | First ML hire; energy market forecasting + optimisation ML; greenfield architecture ownership + ESOP + growth path to Lead/Head of ML; $110k–$150k + super ⚠ recruiter listing via Shield Recruitment — distinct recruiter from row 161 (Precision Sourcing); confirm employer identity pre-application | 7 | Recruiter posting | |
+
+### Daily scout sources — 2026-07-19 (rows 182–184, 185–189, R80–R85)
+- [The Onset — Product Data Scientist, Hawthorn Melbourne (SEEK)](https://au.seek.com/The-Onset-jobs)
+- [Treasury Wine Estates — Senior Data Engineer, Melbourne (LinkedIn)](https://www.linkedin.com/jobs/view/senior-data-engineer-at-treasury-wine-estates-4262860770)
+- [Ippon Technologies — Principal Data Engineer, Melbourne (Lever)](https://jobs.lever.co/ippon/40fe37f9-fec0-4f67-b36e-faea74512003)
+- [Ippon Technologies — Lead Data Engineering Consultant, Melbourne (Lever)](https://jobs.lever.co/ippon/210e394c-4e2b-481f-b4f8-826eb0e880fc)
+- [Pluralis Research — ML Engineer Distributed ML Systems, Melbourne (Ashby)](https://jobs.ashbyhq.com/pluralis-research/b87f0cf0-a42f-441a-b3f8-766ea3e7521c)
+- [Pluralis Research — All open roles, Melbourne (Ashby)](https://jobs.ashbyhq.com/pluralis-research)
+- [Energy startup via Shield Recruitment — Senior ML/AI Engineer Melbourne (SEEK ML page)](https://au.seek.com/machine-learning-engineer-jobs/in-All-Melbourne-VIC)
 - [Global360 — Senior Data Engineer Azure, Doncaster Melbourne (SEEK)](https://au.seek.com/Global-360-jobs/in-Doncaster-VIC-3108)
 - [Nearmap — Senior ML Engineer (AI Output Systems), Barangaroo AU (SmartRecruiters)](https://jobs.smartrecruiters.com/Nearmap/744000125044089-senior-machine-learning-engineer-ai-computer-vision-)
 - [Nearmap — Senior ML Engineer (AI & Computer Vision), Australia (LinkedIn)](https://au.linkedin.com/jobs/view/senior-machine-learning-engineer-at-nearmap-4261327418)
