@@ -834,3 +834,36 @@
 - [Hired — Software Engineer LLM Remote India (LinkedIn)](https://in.linkedin.com/jobs/view/software-engineer-llm-remote-at-hired-4435510158)
 - [Hired — Software Engineer LLM Remote APAC (LinkedIn)](https://www.linkedin.com/jobs/view/software-engineer-llm-remote-at-hired-4437728991)
 - [Neointelli Technologies — AI Agent Developer LangGraph, India (LinkedIn)](https://in.linkedin.com/jobs/view/ai-agent-developer-langchain-langgraph-at-neointelli-technologies-4431005043)
+
+### Daily scout — 2026-07-19
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 182 | Global360 (via recruiter) | Senior Data Engineer (Azure Data Platform) | Doncaster, Melbourne (contract) | Jul 19, 2026 | Azure data platform projects at a Doncaster technology firm; multiple positions, immediate start, freshest SEEK posting today (14hr ago); direct Azure stack match ⚠ contract to Dec 31 2026 via recruiter — confirm end-client + permanency pathway before applying; est. $140–165k annualised | 6 | Recruiter posting | |
+| 183 | Nearmap | Senior ML Engineer (AI Output Systems / AI & Computer Vision) | Barangaroo, Sydney (remote AU possible) | Active Jul 2026 | Translates R&D into algorithmic Map Data systems using ML/computer vision; Python + ML pipeline + LiDAR/imagery data; **distinct from US Insurance AI ML Eng in row 76** — AU-based role; Principal ML Eng also open; est. $145–180k ⚠ verify Melbourne/remote option + confirm listing still live before applying | 7 | Specific posting | |
+| 184 | Cotality (formerly CoreLogic Australia) | AI Engineer | Melbourne | Active Jul 2026 | Property data + AI innovation; ML Ops + NLP/LLM fine-tuning + GCP cloud solutions for Australia's premier property intelligence platform; **new brand name** (CoreLogic rebranded to Cotality); agentic-AI/LLM edge is directly relevant; est. $120–155k ⚠ verify specific opening on cotality.com/careers | 7 | Company target | |
+
+### Remote-first scout — 2026-07-19
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R80 | Twilio | Data Engineer (L3) | Remote — India (100%) | Active Jul 2026 | Fraud & abuse detection data pipelines + scalable self-serve analytics platform; Python + Spark + data warehousing; 5+ yrs; NYSE-listed cloud comms ($10B+ market cap); ₹47–76 LPA (~AUD 70–115k). **Survives move: YES** | 8 | Specific posting | |
+| R81 | Agoda (Booking Holdings) | Staff / Lead LLM Data Scientist | Singapore | Active Jul 2026 | Production RAG / tool-using / multi-agent LLM systems for search + booking; agentic-AI/LLM edge IS the core skill req (rare) — agent architecture, tool dispatch, memory management, eval; $100B+ parent (Booking Holdings); SGD 100k–180k+; relocation support. **Survives move: YES** | 9 | Specific posting | |
+| R82 | Revolut | Analytics Engineer | Remote — India | May–Jul 2026 | dbt-centric data modelling + Snowflake + fintech data products (payments, fraud, finance); India data team confirmed active; ₹28–44 LPA; global fintech unicorn (~$45B valuation); remote-India confirmed. **Survives move: YES** | 8 | Specific posting | |
+| R83 | ThoughtSpot | Data Engineer | Bengaluru (hybrid) | Active Jul 2026 | Data pipelines powering AI-driven NLP/search BI engine — Airflow + Kafka + Snowflake + Spark + Iceberg stack; 5–8 yrs; ₹25–45 LPA; product directly uses agentic-AI tooling atop data pipelines. **Survives move: YES** | 7 | Specific posting | |
+| R84 | Cisco | Senior Data Engineer (Spark / Kafka / Flink / Iceberg / Lakehouse) | Bengaluru | Active Jul 2026 | Big Data + streaming lakehouse platform — PySpark / Kafka / Flink / Trino / Iceberg; Fortune 100 GCC; ₹28–45 LPA ⚠ 8–12 yr experience required — flag gap if < 8 yrs. **Survives move: YES** | 7 | Specific posting | |
+| R85 | Careem (Uber MENA super-app) | Data Engineer II | Dubai, UAE | Active 2026 | Big Data Platform team — scalable Cassandra cluster architecture, multi-source ingestion pipelines, data quality frameworks; AED 276k–480k/yr (zero personal income tax); international talent routinely hired; 4–7 yrs exp; Uber-acquired ($3.1B). **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-07-19 (rows 182–184, R80–R85)
+- [Global360 — Senior Data Engineer Azure, Doncaster Melbourne (SEEK)](https://au.seek.com/Global-360-jobs/in-Doncaster-VIC-3108)
+- [Nearmap — Senior ML Engineer (AI Output Systems), Barangaroo AU (SmartRecruiters)](https://jobs.smartrecruiters.com/Nearmap/744000125044089-senior-machine-learning-engineer-ai-computer-vision-)
+- [Nearmap — Senior ML Engineer (AI & Computer Vision), Australia (LinkedIn)](https://au.linkedin.com/jobs/view/senior-machine-learning-engineer-at-nearmap-4261327418)
+- [Nearmap — Principal ML Engineer, Australia (LinkedIn)](https://au.linkedin.com/jobs/view/principal-machine-learning-engineer-at-nearmap-4049986163)
+- [Cotality (CoreLogic AU) — Careers page](https://www.cotality.com/careers)
+- [Twilio — Data Engineer (L3), Remote India](https://jobs.twilio.com/careers/job/1099550260719-data-engineer-l3--remote-india)
+- [Agoda — Staff/Lead LLM Data Scientist, Singapore](https://careersatagoda.com/job/5393397-staff-lead-llm-data-scientist-singapore-based/)
+- [Revolut — India Data Team Careers](https://www.revolut.com/en-IN/careers/team/data/)
+- [ThoughtSpot — Data Engineer, Bengaluru (Workday)](https://thoughtspot.wd5.myworkdayjobs.com/careers/job/India---Bangalore/Data-Engineer_2465)
+- [Cisco — Senior Data Engineer (Spark/Kafka/Flink/Iceberg), Bengaluru](https://careers.cisco.com/global/en/job/CISCISGLOBAL2016350EXTERNALENGLOBAL/Senior-Data-Engineer-Big-Data-Streaming-Platforms-Java-Scala-or-Python-Spark-Kafka-Flink-Iceberg-Lakehouse-Trino-8-to-12-Years)
+- [Cisco — Data Engineer (Snowflake, 4-8 yrs), Bengaluru](https://careers.cisco.com/global/en/job/CISCISGLOBAL2015060EXTERNALENGLOBAL/Data-Engineer-Snowflake-Data-Modeling-Pipelines-Orchestration-Exp-4-8-Yrs)
+- [Careem — Careers / Data Engineer II, Dubai](https://jobs.careem.com/)
