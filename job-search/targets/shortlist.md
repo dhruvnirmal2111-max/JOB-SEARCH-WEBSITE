@@ -884,3 +884,41 @@
 - [Cisco — Senior Data Engineer (Spark/Kafka/Flink/Iceberg), Bengaluru](https://careers.cisco.com/global/en/job/CISCISGLOBAL2016350EXTERNALENGLOBAL/Senior-Data-Engineer-Big-Data-Streaming-Platforms-Java-Scala-or-Python-Spark-Kafka-Flink-Iceberg-Lakehouse-Trino-8-to-12-Years)
 - [Cisco — Data Engineer (Snowflake, 4-8 yrs), Bengaluru](https://careers.cisco.com/global/en/job/CISCISGLOBAL2015060EXTERNALENGLOBAL/Data-Engineer-Snowflake-Data-Modeling-Pipelines-Orchestration-Exp-4-8-Yrs)
 - [Careem — Careers / Data Engineer II, Dubai](https://jobs.careem.com/)
+
+### Daily scout — 2026-07-20
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 190 | Marsh McLennan (Mercer) | AI Engineer | Docklands, Melbourne (hybrid, 3d/wk) | May 2026 (active Jul 2026) | Enterprise AI engineering in risk/insurance consulting at Collins Street hub; data warehousing + LLM production deployment; directly applies DE + LLM edge in high-compliance environment; est. $130–175k | 8 | Specific posting | |
+| 191 | 4DMedical | ML Engineer | Melbourne (hybrid, 3d/wk) | Jul 2026 | ASX-listed medtech (lung imaging AI); $140K–$150K salary confirmed; CNN/deep-learning + Python + ML model traceability; production ML scope is a direct fit | 8 | Specific posting | |
+| 192 | APA Group | Lead Data Engineer | Melbourne CBD / Brisbane (flexible) | Active 2026 ⚠ verify | AU's largest gas infrastructure company; Snowflake data platform leadership + architecture; energy domain (aligned to goals); lead-level architecture + mentoring ownership; est. $155–175k | 8 | Specific posting | |
+| 193 | Healius | Senior Data Engineer | Sydney (verify Remote-AU) | Jun–Jul 2026 | National pathology network (2,185+ centres); Snowflake DWH + Python ETL + data lineage in regulated healthcare; est. $130–155k ⚠ Sydney-primary — confirm remote-AU arrangement before applying | 7 | Specific posting | |
+| 194 | Confidential (via Morgan Consulting) | Senior Data Engineer — Agentic AI / GenAI | Melbourne CBD (hybrid) | Jul 2026 | $180,000 + super perm — highest advertised perm DE salary in Melbourne Jul 2026; production-grade Agentic AI + GenAI systems on AWS; rare profile requirement exactly matches LLM/agentic-AI edge | 9 | Recruiter posting | |
+
+### Remote-first scout — 2026-07-20
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R86 | NstarX India | AI Engineer (LangGraph / RAG / FastAPI) | Hyderabad, India (on-site) | Jul 9, 2026 | Freshest India posting (closes Sep 9); genuine agentic-AI product company (NVIDIA SVAR partner, SHI International-backed); builds enterprise agent orchestration, model routing, cost telemetry + RAG pipelines; LangGraph + FastAPI + PostgreSQL + Redis + K8s stack; 4–8 yrs exp. **Survives move: YES** | 8 | Specific posting | |
+| R87 | BlackLine India | Senior Software Engineer (Python + Agentic AI) | Bengaluru, India (GCC) | Active Jul 2026 | US-listed financial-close SaaS (NYSE: BL); designs/deploys intelligent agents + LLM/NLP systems natively in a fintech product; 8–10 yrs exp; two roles open simultaneously — also apply to "Senior Engineer AI" (careers.blackline.com/jobs/7508). **Survives move: YES** | 8 | Specific posting | |
+| R88 | MLabs | AI Data Engineer | Fully remote (global — confirm India eligibility) | Active 2026 | MCP server builds + LangGraph agentic workflows + LLM eval pipelines + RAG + vector DBs + multi-agent systems; $130–150K USD (highest salary in this batch); precision-quality consultancy operating in 32 countries; verify India eligibility in first contact. **Survives move: LIKELY YES** | 8 | Specific posting | |
+| R89 | Fusemachines | Data Engineer | Remote contractor / Pune, India (hybrid option) | Active 2026 | AI-first company (founder: Columbia AI professor; 400+ staff, 4 countries); AWS + Python/PySpark/SQL/Airflow for global media analytics client; India timezone confirmed. **Survives move: YES** | 7 | Specific posting | |
+| R90 | Xe (Euronet Worldwide) | Senior ML & Data Engineer | Fully remote (verify India timezone) | Active 2026 | Global currency-services fintech (Euronet Worldwide subsidiary); builds Entity Resolution solutions + production ML integration for financial data; Python + ML; ⚠ confirm India timezone eligibility before applying (geo-tag may be Americas). **Survives move: CONDITIONAL** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-07-20 (rows 190–194, R86–R90)
+- [Marsh McLennan — AI Engineer Melbourne (R_356742)](https://careers.marsh.com/global/en/job/R_356742/AI-Engineer-Melbourne)
+- [4DMedical — ML Engineer Melbourne (Rippling ATS)](https://ats.rippling.com/es-ES/4dmedical/jobs/23f7957c-8a0a-4e94-b151-5dc5cac5ec57)
+- [4DMedical Careers](https://4dmedical.com/about/careers/)
+- [APA Group — Data Engineer Jobs Melbourne (SEEK)](https://au.seek.com/APA-Group-jobs/in-Melbourne-VIC-3004)
+- [APA Group — Lead Data Engineer (Women in Tech job board)](https://jobs.wit.org.au/jobs/lead-data-engineer-475598)
+- [Healius — Senior Data Engineer (LinkedIn)](https://au.linkedin.com/jobs/view/senior-data-engineer-at-healius-limited-3809608203)
+- [Morgan Consulting — Senior Data Engineer Agentic AI $180K Melbourne (SEEK)](https://au.seek.com/data-engineering-lead-jobs)
+- [NstarX India — AI Engineer Python/FastAPI/LangGraph/LLM/RAG (Naukri)](https://www.naukri.com/job-listings-ai-engineer-python-fastapi-langgraph-llm-rag-nstarx-india-hyderabad-4-to-8-years-090726026566)
+- [NstarX Company Overview](https://nstarxinc.com/)
+- [BlackLine India — Sr SWE Python + Agentic AI (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-software-engineer-python-%2B-agentic-ai-at-blackline-india-4433853023)
+- [BlackLine India — Careers Portal (job 6686)](https://careers.blackline.com/jobs/6686?lang=en-us)
+- [BlackLine India — Senior Engineer AI (job 7508)](https://careers.blackline.com/product-technology/jobs/7508?lang=en-us)
+- [MLabs — AI Data Engineer (Himalayas)](https://himalayas.app/companies/mlabs/jobs/ai-data-engineer)
+- [MLabs — AI Data Engineer (Remotive)](https://remotive.com/remote-jobs/software-development/ai-data-engineer-4272114)
+- [Fusemachines — Data Engineer (Himalayas)](https://himalayas.app/companies/fusemachines/jobs/data-engineer)
+- [Xe — Senior ML & Data Engineer (Himalayas)](https://himalayas.app/companies/xe/jobs/senior-ml-data-engineer-8834449150)
