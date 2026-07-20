@@ -5,16 +5,16 @@
 
 ## Snapshot
 - Current module: **M1 — Statistics & Probability**
-- Streak: 1 day · Lessons completed: 2 · Mock interviews: 0
+- Streak: 2 days · Lessons completed: 3 · Mock interviews: 0
 - Weak areas to revisit: _(none yet)_
-- Next up: **M1.3 — Hypothesis testing (null/alt, p-value, type I/II, power)**
-- Last lesson: 2026-07-16 — Sampling, standard error & confidence intervals (`lessons/2026-07-16-m1.2-sampling-confidence-intervals.md`)
+- Next up: **M1.4 — Common tests (t-test, chi-square, ANOVA) and when to use each**
+- Last lesson: 2026-07-20 — Hypothesis testing: p-values, Type I/II errors & power (`lessons/2026-07-20-m1.3-hypothesis-testing.md`)
 
 ## Topic status
 
 | Module | Topic | Status | Confidence | Last touched | Notes |
 |--------|-------|--------|-----------|--------------|-------|
-| M1 | Stats & probability | learning | 🟡 | 2026-07-16 | done: distributions+CLT, sampling/SE/CI; next: hypothesis testing |
+| M1 | Stats & probability | learning | 🟡 | 2026-07-20 | done: distributions+CLT, sampling/SE/CI, hypothesis testing (p/α/Type I-II/power); next: common tests (t/chi-sq/ANOVA) |
 | M2 | ML fundamentals | not-started | 🔴 | — | |
 | M3 | Model evaluation & validation | not-started | 🟡 | — | strong from real work (P6), formalise |
 | M4 | Feature engineering | not-started | 🟡 | — | done in practice; theory pass |
