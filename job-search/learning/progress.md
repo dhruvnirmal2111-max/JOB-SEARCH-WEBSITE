@@ -7,17 +7,17 @@
 ## Snapshot
 - Current module: **M1 — Statistics & Probability** (finishing Part 1 foundation before weaving in the AI-engineering core)
 - Direction note: roadmap re-sequenced 2026-07-21 toward **AI Engineering**. Modules renumbered — see mapping notes below.
-- Streak: 2 days · Lessons completed: 3 · Mock interviews: 0
+- Streak: 3 days · Lessons completed: 4 · Mock interviews: 0
 - Weak areas to revisit: _(none yet)_
-- Next up: **M1.4 — Common tests (t-test, chi-square, ANOVA) and when to use each**, then start weaving in **M9 — Modern NLP & LLM Foundations** (Part 2, the AI-engineering core) per the new sequencing.
-- Last lesson: 2026-07-20 — Hypothesis testing: p-values, Type I/II errors & power (`lessons/2026-07-20-m1.3-hypothesis-testing.md`)
+- Next up: **M1.5 — Bayes' theorem & Bayesian vs frequentist thinking** (last stats pillar), then start weaving in **M9 — Modern NLP & LLM Foundations** (Part 2, the AI-engineering core).
+- Last lesson: 2026-07-21 — Common tests: t-test, chi-square & ANOVA (`lessons/2026-07-21-m1.4-common-tests.md`)
 
 ## Topic status
 
 | Module | Topic | Status | Confidence | Last touched | Notes |
 |--------|-------|--------|-----------|--------------|-------|
 | **Part 1 — Foundations** | | | | | |
-| M1 | Stats & probability | learning | 🟡 | 2026-07-20 | done: distributions+CLT, sampling/SE/CI, hypothesis testing (p/α/Type I-II/power); next: common tests (t/chi-sq/ANOVA) |
+| M1 | Stats & probability | learning | 🟡 | 2026-07-21 | done: distributions+CLT, sampling/SE/CI, hypothesis testing, common tests (t/chi-sq/ANOVA + when to use); next: Bayes, then correlation/causation |
 | M2 | ML fundamentals | not-started | 🔴 | — | real gap; classical ML used at work is narrow (logistic regression, P6) — needs the fuller toolkit |
 | M3 | Model evaluation & validation | not-started | 🟡 | — | strong from real work (P6: CV, class imbalance, hyperparameter tuning) — formalise the theory |
 | M4 | Feature engineering | not-started | 🟡 | — | done in practice (P6, P7); theory pass, esp. TF-IDF→embeddings bridge into Part 2 |
