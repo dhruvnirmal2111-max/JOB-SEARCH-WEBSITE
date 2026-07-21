@@ -922,3 +922,37 @@
 - [MLabs — AI Data Engineer (Remotive)](https://remotive.com/remote-jobs/software-development/ai-data-engineer-4272114)
 - [Fusemachines — Data Engineer (Himalayas)](https://himalayas.app/companies/fusemachines/jobs/data-engineer)
 - [Xe — Senior ML & Data Engineer (Himalayas)](https://himalayas.app/companies/xe/jobs/senior-ml-data-engineer-8834449150)
+
+### Daily scout — 2026-07-21
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 195 | Melbourne Archdiocese Catholic Schools (MACS) | Data & Analytics Engineer | East Melbourne (hybrid) | Jul 2026 | Analytics engineering powering 300+ Catholic schools across Victoria; Azure/modern data stack; permanent full-time; **$140k–$160k + super confirmed** — comfortably above floor; public-sector stability | 7 | Specific posting | |
+| 196 | Ramsay Health Care | Senior Data Engineer | East Melbourne (contract) | Jul 2026 | Australia's largest private hospital operator (100k+ staff, 500+ hospitals globally); MS Fabric + Azure Data Factory migration of finance/HR/payroll/asset data systems; healthcare enterprise domain; est. $130–$165k contract | 7 | Specific posting | |
+| 197 | Entelect Australia | Senior Data Engineer | Melbourne (hybrid) | Jul 2026 | South African tech consultancy with AU presence; greenfield Databricks + Apache Spark + Kafka + Azure batch+streaming platform build for a major AU enterprise client; consulting domain match; est. $130–$165k | 8 | Specific posting | |
+| 198 | Tennis Australia | Senior Data Engineer | Melbourne | ~Jul 15, 2026 | Australian Open organiser; two permanent senior DE roles confirmed on SEEK (listed 6 days ago as of Jul 21); data platform + pipeline engineering for sports analytics; new domain (sports/events tech); est. $120–$145k + super | 7 | Specific posting | |
+| 199 | Fortescue | Manager, Data Platforms | Burnley, Melbourne (inner-east) | Jul 2026 | Fortescue Future Industries (green energy/tech arm) Melbourne office; Azure data pipelines + analytics + governance at resource-sector scale; ⚠ Manager-level — confirm IC vs people-manager scope before applying; est. $160–$220k | 7 | Specific posting | |
+| 200 | HCA (HealthCare Australia) | Senior Data Engineer | Melbourne (hybrid, contract) | ~Jul 14, 2026 | Australia's largest healthcare staffing + services group; Azure + Microsoft Fabric data platform build + integrations across business units; contract/temp role with enterprise 5-weeks-leave terms; est. $110–$140k annualised | 7 | Specific posting | |
+| 201 | City Facilities Management | AI/ML & Copilot Engineer | Mulgrave, Melbourne (hybrid, contract) | Jul 2026 | Build AI, ML and Microsoft Copilot solutions at scale on modern Azure cloud for AU's largest integrated facilities management company; rare Copilot + ML integration scope directly matches agentic-AI/LLM edge; est. $120–$155k ⚠ contract — confirm pathway to perm | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-21
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R91 | American Express India | AI Engineer – Agentic AI (Level I / II / III) | Bengaluru (hybrid) | Active Jul 2026 | Global financial services giant; builds agentic AI systems at enterprise scale across the Amex platform; all three seniority levels open simultaneously (Eightfold ATS confirmed); agentic-AI/LLM edge IS the core skill req (rare); est. ₹25–50 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R92 | FourKites | Senior AI Engineer | India (fully remote) | Active Jul 2026 | Supply-chain AI/visibility SaaS; three production AI agents running in prod (support-ticket resolver, carrier voice agent, end-to-end onboarding agent); LangGraph + Python + Redis + Java stack — direct agentic-AI profile match; est. ₹30–50 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R93 | Walmart Global Tech India | Principal Data Engineer | Bengaluru (hybrid) | ~Jul 15, 2026 | Fortune #1 company's Bengaluru tech GCC (world's largest retailer); enterprise-scale data platform leadership + Python/big-data stack; Principal level = strong IC leadership scope; Naukri listing posted ~Jul 15 (confirmed "6 days ago"); est. ₹45–80 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-07-21 (rows 195–201, R91–R93)
+- [Melbourne Archdiocese Catholic Schools (MACS) — Data & Analytics Engineer, East Melbourne (SEEK)](https://au.seek.com/Melbourne-Archdiocese-Catholic-Schools-jobs/in-East-Melbourne-VIC-3002)
+- [Ramsay Health Care — Senior Data Engineer, East Melbourne (SEEK)](https://au.seek.com/ramsay-health-care-senior-data-engineer-jobs/in-East-Melbourne-VIC-3002)
+- [Entelect Australia — Senior Data Engineer, Melbourne (SEEK)](https://au.seek.com/senior-data-engineer-jobs/in-All-Melbourne-VIC)
+- [Tennis Australia — Senior Data Engineer, Melbourne (SEEK)](https://au.seek.com/Tennis-Australia-jobs/in-All-Melbourne-VIC)
+- [Fortescue — Manager, Data Platforms, Burnley VIC (SEEK)](https://au.seek.com/engineering-fortescue-manager-data-platforms-jobs/in-Burnley-VIC-3121)
+- [HCA HealthCare Australia — Senior Data Engineer, Melbourne (SEEK contract/temp)](https://au.seek.com/Data-Engineering-jobs/contract-temp)
+- [City Facilities Management — AI/ML & Copilot Engineer, Mulgrave (SEEK AI Engineer)](https://au.seek.com/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [American Express India — AI Engineer Agentic AI I, Bengaluru (Eightfold ATS)](https://aexp.eightfold.ai/careers/job/40325188-ai-engineer-i-agentic-ai-bengaluru-urban-karnataka-india?domain=aexp.com)
+- [American Express India — Senior AI Engineer II Agentic AI, Bengaluru (Eightfold ATS)](https://aexp.eightfold.ai/careers/job/40320784-senior-ai-engineer-ii-agentic-ai-bengaluru-urban-karnataka-india?domain=aexp.com)
+- [FourKites — Senior AI Engineer, India Remote (Greenhouse)](https://job-boards.greenhouse.io/fourkites/jobs/7981512)
+- [FourKites — Senior AI Engineer, India Remote (RemoteRocketship)](https://www.remoterocketship.com/company/fourkites-inc/jobs/senior-ai-engineer-india-remote/)
+- [Walmart Global Tech India — Principal Data Engineer, Bengaluru (Naukri)](https://www.naukri.com/job-listings-principal-data-engineer-walmart-labs-bengaluru-12-to-17-years-160726502477)
