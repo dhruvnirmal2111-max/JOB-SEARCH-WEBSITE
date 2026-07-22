@@ -956,3 +956,32 @@
 - [FourKites — Senior AI Engineer, India Remote (Greenhouse)](https://job-boards.greenhouse.io/fourkites/jobs/7981512)
 - [FourKites — Senior AI Engineer, India Remote (RemoteRocketship)](https://www.remoterocketship.com/company/fourkites-inc/jobs/senior-ai-engineer-india-remote/)
 - [Walmart Global Tech India — Principal Data Engineer, Bengaluru (Naukri)](https://www.naukri.com/job-listings-principal-data-engineer-walmart-labs-bengaluru-12-to-17-years-160726502477)
+
+### Daily scout — 2026-07-22
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 202 | MachShip | Data Engineer | Cremorne, Melbourne (hybrid) | Jul 22, 2026 | Logistics/freight SaaS; own performance, scale + integrity of the data layer — tenancy sharding + SQL Server + PostgreSQL at enterprise scale; real architecture mandate (not just query tuning); opportunity for real-world impact; **$135k–$150k — freshest SEEK posting today** | 7 | Specific posting | |
+| 203 | JANA Investment Advisers | Senior Data Engineer (Investment Data) | Melbourne (1d/wk onsite, rest remote) | Active Jul 2026 | Leading investment consulting firm (85+ institutional clients — super funds, charities, insurers, endowments); Microsoft Fabric medallion architecture + analytics engineering + investment data vendors; **up to $170,000 + super + profit share** — top-of-market; near-fully remote (1d onsite only); fintech/investment domain crossover | 8 | Specific posting | |
+| 204 | Scope Australia | Data Engineer | Hawthorn, Melbourne (hybrid) | Jul 2026 | Large NDIS disability services NFP (2,800+ staff) migrating to Microsoft Fabric data platform; data pipelines + analytics + AI enablement; Circle Back Initiative employer; Fabric stack match ⚠ verify salary ≥ AUD 95k before applying (NFP — may include salary packaging benefits of up to $15,900 tax-free) | 6 | Specific posting | |
+| 205 | Live Nation (Ticketmaster AU) | Data Engineer | Melbourne | Feb 2026 (verify live) | World's #1 live entertainment company AU arm (Ticketmaster + Live Nation Concerts); AWS + Databricks data pipelines for analytics + AI supporting AU/NZ live events; distinct entertainment domain not yet on shortlist; est. $120–$150k ⚠ Feb 2026 post date — verify still active on livenation.wd503.myworkdayjobs.com before applying | 7 | Specific posting | |
+
+### Remote-first scout — 2026-07-22
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R94 | AuxoAI Engineering | Data Engineer (Snowflake/DBT) | Bengaluru, India (on-site) | Active 2026 | AI-first consultancy deploying Agentic AI + data engineering solutions for Fortune 500 enterprises (NVIDIA SVAR partner); Snowflake + dbt mandatory + Databricks stack is a direct match; bridges DE + agentic-AI edge by layering AI agents on data pipelines; est. ₹15–30 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R95 | Flexday AI | AI Engineer (Agentic AI) | India (flexible/remote) | Active Jul 2026 | Enterprise AI product company; designs + builds AI agents using LangGraph, LangChain, OpenAI Agents SDK for enterprise deployments; evaluates + productionises agent behaviour at scale; agentic-AI/LLM edge IS the core skill req; est. ₹20–40 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R96 | Foodics | Senior Data Engineer | Dubai, UAE (in-office) | Active Jul 2026 | Restaurant management + POS payments SaaS (Riyadh-HQ, offices in 5 countries incl. UAE); builds scalable data pipelines for payments analytics at regional scale; UAE zero income tax; est. AED 200k–320k/yr ⚠ In-office Dubai role — not remote-India eligible; employer visa sponsorship required; consider only if UAE relocation is in scope | 6 | Specific posting | |
+
+### Daily scout sources — 2026-07-22 (rows 202–205, R94–R96)
+- [MachShip — Data Engineer, Cremorne Melbourne (SEEK)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+- [JANA Investment Advisers — Senior Data Engineer Investment Data, Melbourne (BeBee/TheirStack)](https://bebee.com/au/jobs/senior-data-engineer-investment-data-jana-investment-advisers-pty-ltd-melbourne-victoria--theirstack-637800894)
+- [JANA Investment Advisers — Jobs on SEEK](https://au.seek.com/JANA-Investment-Advisers-jobs)
+- [Scope Australia — Data Engineer, Hawthorn VIC (Scope Careers)](https://careers.scopeaust.org.au/jobs/data-engineer-hawthorn-vic-vic-australia)
+- [Scope Disability — Jobs Melbourne (SEEK)](https://au.seek.com/scope-disability-jobs/in-All-Melbourne-VIC)
+- [Live Nation AU — Data Engineer Melbourne (ShowbizJobs)](https://www.showbizjobs.com/jobs/live-nation-data-engineer-in-melbourne/jid-9z1bwk)
+- [Live Nation — ATS Careers Portal](https://livenation.wd503.myworkdayjobs.com/LNExternalSite)
+- [AuxoAI Engineering — Data Engineer Snowflake/DBT, Bengaluru (Zoho Recruit ATS)](https://auxoai.zohorecruit.com/jobs/Careers/785637000005823230/Data-Engineer---Snowflake-DBT)
+- [Flexday AI — AI Engineer Agentic AI, India (Flexday Careers)](https://flexday.ai/jobs/ai-engineer-agentic-ai-india/)
+- [Foodics — Jobs / Careers (NaukriGulf)](https://www.naukrigulf.com/foodics-jobs)
