@@ -92,6 +92,13 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Built a similar automated inventory report for **another medical client**, on a **weekly refresh** cadence, supporting their inventory management rhythm.
 - **Delivery/impact:** Keeps the client's inventory view current on a weekly cycle without manual rebuilds. _(Only metric available: weekly refresh cadence.)_
 
+### P22. Supplier tender evaluations (restaurant chain + fresh-produce client) `#procurement #tender #supplier-evaluation #sourcing #pricing #fooddrink #packaging #stakeholders`
+- **Skills/tech:** Tender / RFP evaluation, supplier bid comparison, commercial and price analysis, category sourcing support.
+- **What I did:** As part of the procurement analytics consultancy (my current role — this kind of procurement work is the firm's core business), evaluated supplier tenders to help clients decide which supplier to award:
+  - **AU/NZ restaurant chain** (same client as P3): evaluated tenders for **chicken** supply and for **spirits** supply, comparing supplier bids on a like-for-like basis to support the client's sourcing decision.
+  - **Fresh-produce client** (same client family as P7 / P19): evaluated tenders for **fruit** supply and for **packaging**.
+- **Delivery/impact:** Gave clients a structured, comparable read of competing supplier tenders to inform the award decision across food, drink and packaging categories. _(Owner to confirm any savings/award outcomes; no hard figures captured yet.)_
+
 ## Victorian Centre for Data Insights (VCDI), Data Engineer Intern (Aug 2023 – Nov 2023)
 Government procurement monitoring; distributed data + ML.
 
