@@ -281,5 +281,18 @@
     "status": "created",
     "gcal_event_id": "p6a2cmufdtosj7patmbe9n8ik0",
     "gcal_link": "https://www.google.com/calendar/event?eid=cDZhMmNtdWZkdG9zajdwYXRtYmU5bjhpazAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "bounce-outreach-week1-20260727",
+    "title": "Send outreach: BOUNCE Commercial & Procurement Analyst",
+    "kind": "outreach",
+    "start": "2026-07-27T09:00:00",
+    "end": "2026-07-27T09:20:00",
+    "timeZone": "Australia/Melbourne",
+    "notes": "Send the drafted messages in job-search/pipeline/bounce--commercial-procurement-analyst/outreach.md. Company = BOUNCEinc (indoor trampoline / active-entertainment, HQ Glen Iris VIC) - do NOT confuse with other 'Bounce' brands. VERIFIED: Melinda Cunliffe (CFO, senior slot) - double-check her actual LinkedIn matches the CFO before sending. The other 4 seats (recruiter, Commercial Manager, 2 peers) are title-slots with [Name] placeholders + LinkedIn search strings - find + confirm real current employees and fill the names before sending, or check the live SEEK/LinkedIn ad which may name the recruiter/hiring team. You send manually.",
+    "source": "bounce--commercial-procurement-analyst",
+    "status": "created",
+    "gcal_event_id": "57li2qppqv97o4bl2e9cgeoh74",
+    "gcal_link": "https://www.google.com/calendar/event?eid=NTdsaTJxcHBxdjk3bzRibDJlOWNnZW9oNzQgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

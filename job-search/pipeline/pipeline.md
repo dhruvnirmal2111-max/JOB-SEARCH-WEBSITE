@@ -31,6 +31,7 @@
 | micro1 | Data Analyst (Contractor, remote — AI data lab; Python + PL/SQL) | micro1--data-analyst | Applying | Owner: review PDF + cover letter → apply via micro1 platform; `/review-outreach` | — | 2026-07-16 |
 | At Your School (AYS) | Data Analyst (remote/Indianapolis, US$70–85k, education org) | at-your-school--data-analyst | Applying | **Owner: confirm ET-timezone + no-visa-sponsorship fit BEFORE investing**; review PDF + cover letter; `/review-outreach` | — | 2026-07-16 |
 | Global Power Components | Inventory Control Analyst (remote-only, manufacturing; data-integrity + inventory) | global-power-components--inventory-control-analyst | Applying | **Owner: confirm US-CT-timezone + no-visa fit**; review PDF + cover letter; `/review-outreach` | — | 2026-07-16 |
+| BOUNCE | Commercial & Procurement Analyst (Finance — F&B procurement/pricing/inventory) | bounce--commercial-procurement-analyst | Applying | Owner: submit application + review outreach; confirm displayed current-role title; `/review-outreach`; `/review-calendar` | — | 2026-07-22 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
