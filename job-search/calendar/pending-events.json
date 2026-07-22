@@ -294,5 +294,15 @@
     "status": "created",
     "gcal_event_id": "57li2qppqv97o4bl2e9cgeoh74",
     "gcal_link": "https://www.google.com/calendar/event?eid=NTdsaTJxcHBxdjk3bzRibDJlOWNnZW9oNzQgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "linktree-outreach-week1-20260716",
+    "title": "Send outreach: Linktree Data Analyst (recruiter + senior)",
+    "kind": "outreach",
+    "start": "2026-07-16T09:00:00",
+    "end": "2026-07-16T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/linktree--data-analyst/outreach.md. Confirmed leads: Nathalie Grandy (recruiter, verify still Linktree + APAC vs US) + Martin Gould (Senior Director, senior). The 2 peers + 1 manager slots hold LinkedIn search filters, not names — find + verify the real current Linktree analyst/manager before sending those. You send manually.",
+    "source": "linktree--data-analyst",
+    "status": "pending"
   }
 ]
