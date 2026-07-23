@@ -985,3 +985,25 @@
 - [AuxoAI Engineering — Data Engineer Snowflake/DBT, Bengaluru (Zoho Recruit ATS)](https://auxoai.zohorecruit.com/jobs/Careers/785637000005823230/Data-Engineer---Snowflake-DBT)
 - [Flexday AI — AI Engineer Agentic AI, India (Flexday Careers)](https://flexday.ai/jobs/ai-engineer-agentic-ai-india/)
 - [Foodics — Jobs / Careers (NaukriGulf)](https://www.naukrigulf.com/foodics-jobs)
+
+### Daily scout — 2026-07-23
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 206 | Montu | Lead Analytics Engineer | Remote AU (Melbourne co-working) | Active Jul 2026 | Deloitte Tech Fast 50 #1 healthtech (medical cannabis); Snowflake + dbt + BigQuery + Python direct stack match; fully remote-AU with Melbourne co-working; fast-growing data team supporting patient-outcome analytics; est. $130–$170k | 8 | Specific posting | |
+| 207 | Brighte | Data Engineer | Remote AU (100% WFH) | Active Jul 2026 | Cleantech fintech (consumer solar / batteries / EV financing); Snowflake + Airflow + dbt confirmed live Lever posting; fully remote-AU; energy-transition domain crossover; est. $120–$160k | 8 | Specific posting | |
+| 208 | Google Australia | ML Engineer – Personal AI (Pixel) | Melbourne + Sydney (remote eligible) | Active Jul 2026 | Big Tech; ML for Google Pixel Personal AI team at AU-based remote-eligible role; Python + ML pipelines at Google scale; elite brand + elite comp; est. $146K–$328K TC (L4–L5 Levels.fyi Melbourne benchmark) | 8 | Specific posting | |
+| 209 | Atlassian | Senior Data Scientist | Sydney (TEAM Anywhere — remote from Melbourne) | Active Jul 2026 | AU's #1 tech export; TEAM Anywhere distributed-first means remote-AU accessible from Melbourne; Python + ML/DS scope; **may survive India-move under TEAM Anywhere policy — verify at offer stage**; exceptional comp ceiling; est. $192K–$314K TC | 8 | Specific posting | |
+| 210 | CrowdStrike | Software Engineer, Data Services | Remote-AUS | May 2026 (active Jul 2026) | Cybersecurity SaaS; petabyte-scale data-plane services (Kafka + Cassandra + Elasticsearch + PostgreSQL + Redis); remote-AU confirmed; anomaly-detection background maps to security data domain; est. $140K–$190K | 7 | Specific posting | |
+| 211 | BOQ Group / ME Bank | Data Engineer | Melbourne or Brisbane | Jun–Jul 2026 | ME Bank HQ is Melbourne CBD; data modernisation across the BOQ + ME Bank post-merger group; fintech domain crossover; est. $95K–$130K ⚠ salary starts at floor — confirm band ≥ AUD 95k before applying | 6 | Specific posting | |
+| 212 | Montu | Senior Software Engineer, Data Platform | Remote AU (Melbourne co-working) | Active Jul 2026 | Same healthtech employer as row 206; distinct senior engineering role on data platform infra + pipeline architecture; Snowflake + dbt + BigQuery + Python; fully remote-AU; est. $130–$170k | 7 | Specific posting | |
+
+### Daily scout sources — 2026-07-23 (rows 206–212)
+- [Montu — Lead Analytics Engineer, Remote AU (SmartRecruiters)](https://jobs.smartrecruiters.com/Montu/743999989830623-lead-analytics-engineer)
+- [Montu — Senior SWE, Data Platform, Remote AU (EchoJobs)](https://echojobs.io/job/montu-senior-software-engineer-data-platform-data-and-analytics-mmd29)
+- [Montu — Engineering Manager, Data Platform (Built In Melbourne)](https://builtinmelbourne.com/job/engineering-manager-data-platform/3726323)
+- [Brighte — Data Engineer, Remote AU (Lever)](https://jobs.lever.co/brighte/808e8761-1ad9-41ba-8892-0405a5405b1a)
+- [Google Australia — ML Engineer Personal AI, Melbourne/Sydney (Google Careers)](https://careers.google.com/jobs/results/124205202617049798-machine-learning-engineer/)
+- [Atlassian — Senior Data Scientist, TEAM Anywhere AU (Atlassian Talent Community)](https://join.atlassian.com/atlassian-talent-community/jobs/22236?lang=en-us)
+- [CrowdStrike — Software Engineer Data Services, Remote-AUS (LinkedIn Melbourne)](https://au.linkedin.com/jobs/crowdstrike-jobs-melbourne-vic)
+- [BOQ Group / ME Bank — Data Engineer, Melbourne/Brisbane (SEEK)](https://au.seek.com/Bank-of-Queensland-jobs/in-All-Melbourne-VIC)
