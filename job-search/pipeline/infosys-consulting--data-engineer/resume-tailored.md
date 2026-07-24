@@ -23,7 +23,7 @@ A data and analytics consultancy serving enterprise clients across Australia and
 
 **Self-service refresh app: one-click pipelines across 26 client accounts (current)**
 - Problem: refreshing each of the company's 26 client datasets was a manual, specialist task that tied up the 6-person analytics team and left room for inconsistency.
-- Approach: I own the pipeline automation behind a company-wide app that turns each refresh into a button press, with separate controls for ingestion, validation, downstream processing, and full pipeline runs (both full refresh and incremental), plus automatic archiving. I maintain the pipeline documentation, keep the underlying databases clean so runs stay reliable, and version-control the work in Git. Python, SQL, Git.
+- Approach: I own the pipeline automation behind a company-wide app that turns each refresh into a button press, with separate controls for ingestion, validation, downstream processing, and full pipeline runs (both full refresh and incremental), plus automatic archiving. The entire project is maintained in Git (version control, branching, change history), and I keep the documentation current and the underlying databases clean so runs stay reliable. Python, SQL, Git.
 - Result: turns a technical, manual job into a one-click refresh anyone on the team can run, standardised across all 26 accounts; on track to save around 10 hours per person across the 6-person team, roughly 60 hours a month.
 
 **Automated ingestion and validation pipeline: largest enterprise client (multi-region)**
