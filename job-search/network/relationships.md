@@ -8,7 +8,7 @@
 
 | Person | Company | Persona | Stage | Last touch | Next touch | Next action | Dossier |
 |--------|---------|---------|-------|-----------|-----------|-------------|---------|
-| Paul Ayyash | Hospo Dojo / IYK Consulting | senior / partner (MyFacit) | identified | — | 2026-07-24 | Send pre-call heads-up + book his free 15-min call; pitch MyFacit partnership | people/paul-ayyash.md |
+| Paul Ayyash | Hospo Dojo / IYK Consulting | senior / partner (MyFacit) | conversing | 2026-07-24 | 2026-07-25 | Send benefit-led agenda; he cancelled call + asked for agenda (vetting for substance) | people/paul-ayyash.md |
 | | | peer | identified | | | | people/<slug>.md |
 
 ## Stage definitions
