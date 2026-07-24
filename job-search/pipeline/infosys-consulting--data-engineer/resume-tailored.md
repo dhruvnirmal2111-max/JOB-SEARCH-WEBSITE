@@ -4,7 +4,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](
 
 ## Professional Summary
 
-I'm a data engineer who builds and automates the pipelines that keep analytics running. I own the end-to-end data pipeline for my firm's largest client, around **6 million** invoice rows refreshed weekly, and I've built and maintained **20+ automated ETL pipelines** across five enterprise clients. I work mainly in Python and advanced SQL, with Databricks and PySpark for distributed processing, cloud on Azure and AWS, and Power BI and Tableau for reporting.
+I'm a data engineer who builds and automates the data pipelines that keep client analytics running. I own the end-to-end pipeline for my firm's largest client, around **6 million** invoice rows refreshed weekly, and I've built and maintained **20+ automated ETL pipelines** across five enterprise clients. My core strengths are Python, advanced SQL, and the automated validation and reporting (Power BI, Tableau) that ships with every pipeline.
 
 ## Key Skills
 
