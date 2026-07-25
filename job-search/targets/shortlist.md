@@ -1007,3 +1007,36 @@
 - [Atlassian — Senior Data Scientist, TEAM Anywhere AU (Atlassian Talent Community)](https://join.atlassian.com/atlassian-talent-community/jobs/22236?lang=en-us)
 - [CrowdStrike — Software Engineer Data Services, Remote-AUS (LinkedIn Melbourne)](https://au.linkedin.com/jobs/crowdstrike-jobs-melbourne-vic)
 - [BOQ Group / ME Bank — Data Engineer, Melbourne/Brisbane (SEEK)](https://au.seek.com/Bank-of-Queensland-jobs/in-All-Melbourne-VIC)
+
+### Daily scout — 2026-07-25
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 213 | McMillan Shakespeare | Data Engineer | Richmond, Melbourne (hybrid — 3d WFH) | ~Jul 23–24, 2026 | ASX-listed salary packaging & fleet management leader; ADF + dbt + Snowflake stack direct match; meaningful data-platform scope at enterprise scale; est. $120–$145k | 7 | Specific posting | |
+| 214 | StrongRoom AI | ML Engineer | Melbourne (hybrid) | Jul 2026 | Melbourne healthtech startup (medication management / aged care); Databricks + Python + ML stack; startup velocity; **$180k + super** — strong comp; small team = broad scope | 8 | Specific posting | |
+| 215 | TRS (Public Sector recruiter) | Data Engineer (contract) | Melbourne (hybrid) | ~Jul 23–24, 2026 | Govt/public-sector client; Databricks + AWS + Python + Medallion architecture; **up to $1,000/day** (~$240k annualised); contract flexibility suits near-term transition plan | 8 | Specific posting | |
+| 216 | Davidson (recruiter) | Data Engineer (contract) | Melbourne (hybrid, 3d/wk) | Jul 24, 2026 | Unnamed leading financial services client; geospatial analytics + data pipelines; **$800–$900/day** (~$190–215k annualised); ⚠ client identity unknown — confirm at screen | 7 | Specific posting | |
+| 217 | Lorikeet | Forward Deployed AI Engineer | Sydney (⚠ verify remote-from-Melbourne) | Active Jul 2026 | Customer-support AI SaaS (fintechs, healthtechs); Forward Deployed = agentic AI deployments at enterprise customers; Python + LLM orchestration; agentic-AI/MCP edge directly relevant; est. ~$188–$202k; ⚠ Sydney-based listing — confirm remote-from-Melbourne before applying | 8 | Specific posting | |
+
+### Remote-first scout — 2026-07-25
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R97 | PwC India SDC (Acceleration Centre) | Gen AI / Agentic AI Engineer | Hyderabad / Bengaluru / Gurugram (on-site) | Jul 13, 2026 | Title literally "Agentic AI Engineer"; LangGraph + CrewAI + AutoGen + AWS Bedrock + FastAPI + RAG in production for global clients; 5–10 yrs band; est. ₹28–45 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R98 | Persistent Systems | GenAI & Agentic AI Engineer | Bengaluru / Hyderabad (also Pune variant 2–3 yrs) | Active Jul 23, 2026 | LangChain + LangGraph + OpenAI/Claude/Gemini/Llama + FAISS/Pinecone/Weaviate + RAG — one of the most technically specific agentic AI listings in India; enterprise banking/healthcare/ISV delivery; est. ₹25–40 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R99 | Deloitte India (FY27) | GEN AI Engineer — Specialist / Asst Manager | Hyderabad / Bengaluru | Jul 2026 (FY27 cycle) | Multi-agent frameworks (LangGraph, AutoGen), **MCP explicitly listed** — bleeding-edge signal; RAG pipelines + cloud deployment for global tax/legal practice; est. ₹22–40 LPA; AU big-4 experience = premium negotiating position. **Survives move: YES** | 9 | Specific posting | |
+| R100 | Amgen India GCC | Associate — AI/ML Innovation Engineer | Hyderabad (on-site, GCC) | Jul 3, 2026 | Production GenAI + LLM agents + RAG for global biopharma (not outsourced work); pharma-grade stability + global exposure; est. ₹18–28 LPA; ideal for NRI returnees. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-07-25 (rows 213–217, R97–R100)
+- [McMillan Shakespeare — Data Engineer, Richmond Melbourne (SEEK / LinkedIn)](https://au.linkedin.com/jobs/mcmillan-shakespeare-jobs-melbourne)
+- [StrongRoom AI — ML Engineer, Melbourne (SEEK / Startup AU boards)](https://au.seek.com/strongroom-ai-jobs)
+- [TRS — Public Sector Data Engineer contract, Melbourne (SEEK)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+- [Davidson — Data Engineer contract, Melbourne financial services (SEEK)](https://au.seek.com/davidson-jobs/in-All-Melbourne-VIC)
+- [Lorikeet — Forward Deployed AI Engineer, Sydney (Built In Sydney / LinkedIn)](https://www.linkedin.com/company/lorikeet-cx/)
+- [PwC India SDC — Gen AI / Agentic AI Engineer, Hyderabad/Bengaluru/Gurugram (Naukri)](https://www.naukri.com/job-listings-gen-ai-agentic-ai-engineer-pwc-service-delivery-center-hyderabad-gurugram-bengaluru-5-to-10-years-130726035598)
+- [PwC India — Agentic AI Engineer (BeBee mirror)](https://bebee.com/in/jobs/agentic-ai-engineer-pwc-acceleration-center-india-hyderabad--fj-2069032033)
+- [Persistent Systems — GenAI & Agentic AI Engineer, Bengaluru/Hyderabad (LinkedIn)](https://www.linkedin.com/jobs/view/genai-agentic-ai-engineer-at-persistent-systems-4419283222)
+- [Persistent Systems — Agentic AI Engineer (Naukri)](https://www.naukri.com/job-listings-agentic-ai-engineer-persistent-hyderabad-bengaluru-8-to-12-years-220526017151)
+- [Deloitte India FY27 — GEN AI Engineer Specialist, Hyd/Blr (USI Careers)](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-MFBEL-GEN-AI-ENGINEER-L40-HYD-BLR/353050)
+- [Deloitte India FY27 — Gen AI Full Stack Consultant (MCP listed) (USI Careers)](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-FY27-Audit-Services-EH-L35-Consultant1-Risk-Technology-and-Analytics-Gen-AI-Full-Stack/353490)
+- [Amgen India GCC — Associate AI/ML Innovation Engineer, Hyderabad (Amgen Careers)](https://careers.amgen.com/en/job/hyderabad/associate-ai-ml-innovation-engineer/87/97264002672)
