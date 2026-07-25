@@ -213,3 +213,53 @@ ELI5: a 2×2 tally of right/wrong for a yes/no model:
 ## Final priority (don't try to memorise all of it)
 You **already know from real work:** logistic regression, TF-IDF/embeddings, one-vs-all, class weights, CV/GridSearch, precision/recall/F1, Prophet + regressors, MAPE, anomaly detection, elasticity/margin/COGS.
 **Drill these because they're gaps or high-probability:** the **experimentation block (§4)** end to end, **RMSE vs MAE vs WMAPE**, **gradient boosting/LightGBM** (name + why for retail tabular), **k-means** (segmentation), **geo/switchback/diff-in-diff** pricing tests, and **SQL window functions** (separate drill). Everything else, be able to give the ELI5 + one line.
+
+---
+
+# PART 7 — DATA ENGINEERING, DEVOPS & MLOPS (for the Infosys technical round)
+
+> These are the terms the Infosys `interview-prep.md` points to (§CI/CD, §MLOps, §LLMOps, §PySpark, §BI). Same ELI5 / Say / Deeper format.
+
+## Pipelines & data movement
+**ETL vs ELT** — ELI5: two orders for the same three steps. **ETL** = Extract, Transform, then Load (clean before it lands). **ELT** = Extract, Load raw, then Transform inside the warehouse. *Say:* "Cloud warehouses made ELT common because compute is cheap in-warehouse." *Link:* your pipelines are largely ETL (transform before dashboards).
+
+**Idempotency** — ELI5: running the pipeline twice gives the same result, no duplicates. *Say:* "I make writes idempotent so a re-run doesn't double-load." *Deeper:* achieved with upserts/merge on a key, or delete-then-insert for a partition.
+
+**Full vs incremental refresh** — ELI5: **full** = reload everything (simple, safe, slow). **Incremental** = only the new/changed rows since last run (fast). *Say:* "The refresh app does both." *Deeper:* incremental uses a **watermark / high-water mark** (a last-loaded timestamp or ID); you handle late-arriving data and dedupe. **CDC (change data capture)** = capturing row-level changes from a source to feed incremental loads.
+
+**Orchestration** — ELI5: scheduling the steps and their dependencies (run B only after A succeeds). *Say:* "I use batch + Windows Task Scheduler; the standard tools are Airflow and Databricks Jobs/Workflows." *Deeper:* a **DAG** (directed acyclic graph) defines step order; orchestrators handle retries, backfills, alerting.
+
+**Data quality / validation** — ELI5: automatic checks that the data is right before it's used. *Say:* "Row/column counts, type + schema checks, null/range checks, uniqueness, and reconciliation against source totals, with alerting on failure." *Link:* your validation layer on the 6M-row pipeline.
+
+**Data warehouse / data lake / lakehouse** — ELI5: **warehouse** = structured, query-ready tables (Snowflake, BigQuery). **Lake** = raw files, any format, cheap (S3). **Lakehouse** = lake + warehouse features (Databricks + Delta). *Say:* "Delta Lake gives a data lake ACID transactions and versioning."
+
+## Databricks / PySpark (point #2)
+**Spark** — ELI5: an engine that splits a big job across many machines (a **cluster**) so you can process data too big for one computer. **PySpark** = driving Spark with Python. **Databricks** = the managed platform (notebooks + clusters + jobs).
+
+**DataFrame API** — ELI5: tables you manipulate in code, like pandas but distributed. **Lazy evaluation** — ELI5: Spark records your steps (transformations) and only actually runs them when you ask for a result (an **action** like `count()`/`write`), so it can optimise the whole plan. *Deeper:* **transformations** (`select`, `filter`, `join`, `groupBy`) are lazy; **actions** (`collect`, `count`, `write`) trigger execution. **Partitions** = the chunks data is split into; a **shuffle** (moving data across the cluster, e.g. a wide join/groupBy) is the expensive operation. **`cache()`/`persist()`** keeps a reused DataFrame in memory. **Delta Lake** = ACID tables with time-travel on the lake.
+
+**pandas vs PySpark — when?** — pandas: fits on one machine, fast to write, most tabular work. PySpark: data exceeds one machine, need distributed parallelism. *Your honest line:* recent work is pandas/SQL scale; the Spark/Databricks work was VCDI.
+
+## DevOps / CI/CD (point #3)
+**Git / GitHub** — ELI5: tracks every code change, lets you branch and roll back; GitHub hosts it + adds pull requests and reviews. **Branching strategy** — feature branch → **pull request (PR)** → review → merge to **main**; main stays deployable.
+
+**CI (Continuous Integration)** — ELI5: every push automatically **builds and tests** your code so bugs are caught early. **CD (Continuous Delivery/Deployment)** — ELI5: if tests pass, the change is automatically shipped toward/into production. *Say:* "CI = automated build + test on every change; CD = automated release."
+
+**Pipeline stages** — ELI5: the assembly line a change goes through: **lint → test → build → deploy** (often dev → staging → prod, with an approval gate before prod). **GitHub Actions** — ELI5: YAML **workflows** triggered on push/PR that run **jobs** on **runners**; **secrets** live in the CI secret store, never in code.
+
+**Containers / Docker** — ELI5: package the app + its dependencies into a box that runs the same anywhere. **IaC / Terraform** — ELI5: define your cloud infrastructure as code so it's reproducible and version-controlled. *Link:* your Cloud Data Platform (Docker + Terraform + dev/staging/prod) — your best DevOps proof.
+
+**CI/CD for data (say this if asked to add it to your refresh app):** "On push/PR: lint + unit-test the transform functions and run data-quality checks; on merge to main: build and deploy the pipeline to the scheduled runner; gate prod behind manual approval; secrets in the CI store."
+
+## MLOps (point #4)
+**MLOps** — ELI5: DevOps for models — not just building a model but versioning, deploying, monitoring, and retraining it in production. **Model registry / versioning** — ELI5: track model versions like code (tool: **MLflow**, built into Databricks). **Training vs serving** — training = fitting the model offline; **serving** = making it answer on new data. **Batch vs real-time inference** — batch = score a chunk on a schedule (your classifier); real-time = answer per request via an API/endpoint. **Feature store** — ELI5: a central, reusable, consistent place for model input features (so training and serving use the same ones).
+
+**Drift & monitoring** — ELI5: watching whether the model is still accurate in the wild. **Data drift** = the inputs changed; **concept drift** = the relationship between inputs and target changed. *Say:* "You monitor live accuracy/inputs and set a **retraining trigger** when performance drops." *Your honest boundary:* "I've productionised and retrained models as pipelines; I haven't run a formal registry/feature-store/serving/monitoring stack."
+
+## LLMOps (point #4)
+**LLMOps** — ELI5: MLOps for LLM/GenAI features — managing prompts, evaluating outputs, adding guardrails, keeping a human in the loop. **Prompt versioning** — track prompts like code. **RAG (retrieval-augmented generation)** — ELI5: fetch relevant documents and give them to the LLM so it answers from real data, not memory (reduces hallucination). **Structured / function (tool) calling** — ELI5: make the LLM return typed, structured outputs (or call defined tools) instead of free text — reliable and testable. *Link: your 4 tool calls in the job-hunt OS + MyFacit's normalisation.*
+
+**Evaluating LLM outputs** — ELI5: you can't eyeball thousands, so build a **gold/eval set** (inputs with known-correct answers) and measure. Closed tasks (categorisation, normalisation) → exact-match / precision-recall. Open-ended (letters, summaries) → a **rubric** or **LLM-as-a-judge** (a second LLM grades against criteria). **Hallucination** = confident wrong output; **guardrails** = checks/filters that catch bad outputs. **Human-in-the-loop (HITL)** — model suggests, human approves high-stakes fields → safety + a live accuracy metric + new labels. *Link: your MyFacit gold set + HITL confirmation — your LLMOps ace.*
+
+## BI / Power BI (point #5)
+**Star schema** — ELI5: a central **fact** table (the events/measures, e.g. sales) linked to **dimension** tables (the descriptors: store, product, date). The standard model behind a dashboard. **Power Query** — Power BI's ETL step (clean/shape data on load). **DAX** — Power BI's formula language for **measures** (e.g. `Total Sales = SUM(Sales[Amount])`, or `CALCULATE` for filtered measures). **Import vs DirectQuery** — import = data loaded into the model (fast); DirectQuery = queries the source live (fresh, heavier). **Refresh scheduling** — how often the dataset updates. *Link:* your DoT Power BI solution + 16+ Tableau dashboards.

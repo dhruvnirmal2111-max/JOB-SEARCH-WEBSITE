@@ -123,5 +123,12 @@ Frame: "A data & analytics consultancy for enterprise clients across AU/NZ. I ow
 - Re-read §1 (the 5-point table) and §2 (resume mastery) — say each mapping aloud.
 - Have the two gap lines (§3) word-perfect. They're your composure under pressure.
 - One SQL warm-up: write a `LAG` MoM query and a `ROW_NUMBER` top-N query from scratch.
-- Logistics: confirm link/location + time (4:00 PM Mon), resume copy open, water, quiet space. No written confirmation yet — **chase the recruiter Sat/Sun for the confirmation + joining details.**
+- Logistics: confirm the **video link** + time (4:00 PM Mon). No written confirmation yet — **chase the recruiter Sat/Sun for the confirmation + joining details.**
+
+### Video-interview setup (this round is VIDEO — same as 7-Eleven)
+- **Test 15 min early:** camera, mic, the meeting link, and **screen-share** (they may ask you to talk through code, the resume, or your GitHub).
+- **Environment:** quiet room, light in front of you (not a window behind), laptop at eye level, stable internet — have your **phone hotspot as backup**.
+- **On screen for you (not shared):** resume, this doc, and `concepts-glossary.md` open in tabs. A notepad + pen to write down the question.
+- **Ready to screen-share if asked:** your GitHub (github.com/dhruvnirmal2111-max) and be able to talk through the refresh-app repo structure and the MyFacit pipeline.
+- **Delivery on camera:** look at the **camera** (not your own thumbnail) on key points; pause before answering ("good question, let me structure that"); think out loud — for a technical round, showing your reasoning matters as much as the answer.
 - Mindset: it's a technical round, so **think out loud, start simple, name your tools, and be honest about the two gaps** — a clear "here's what I've done, here's what I'd learn" beats a bluff every time.
