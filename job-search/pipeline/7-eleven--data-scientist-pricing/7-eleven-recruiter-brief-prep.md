@@ -1,6 +1,6 @@
 # 7-Eleven — Recruiter Brief: exact checklist → your examples
 
-> The recruiter sent a prep note (2026-07-24). It confirms most of `jd-breakdown.md` but shifts emphasis toward **ML models + model deployment + AI/LLMs**, and asks you to prepare specific examples and a "challenge you overcame" story. This doc maps every point they raised to a concrete example of yours, and fills the two areas we under-weighted.
+> The recruiter sent a prep note (2026-07-24). It confirms most of `7-eleven-jd-breakdown.md` but shifts emphasis toward **ML models + model deployment + AI/LLMs**, and asks you to prepare specific examples and a "challenge you overcame" story. This doc maps every point they raised to a concrete example of yours, and fills the two areas we under-weighted.
 
 ## The emphasis shift (read this first)
 Their framing: *"developing, maintaining and improving pricing and machine learning models, analysing sales and market data, and helping deploy and optimise models."* So it leans a bit more **ML-model + deployment + AI** than pure pricing. Your strongest overall pitch here is the combination: **a real ML model at scale + genuine AI/LLM production work + commercial impact + stakeholder ownership.** Lead with that blend, not just pricing.
@@ -15,7 +15,7 @@ Their framing: *"developing, maintaining and improving pricing and machine learn
 
 **Databricks + PySpark** → VCDI distributed anomaly-detection pipeline (+20% accuracy). Honest: from the internship, real, not daily now.
 
-**ML & statistical modelling** → the one-vs-all classifier (TF-IDF → embeddings, LogisticRegression with class weights, GridSearchCV cross-validation) and the Prophet forecast (external regressors, 12.5–14% error). Details in `concepts-glossary.md`.
+**ML & statistical modelling** → the one-vs-all classifier (TF-IDF → embeddings, LogisticRegression with class weights, GridSearchCV cross-validation) and the Prophet forecast (external regressors, 12.5–14% error). Details in `7-eleven-concepts-glossary.md`.
 
 **Power BI / Tableau** → 16+ Tableau dashboards used weekly; Power BI solution adopted by senior Dept of Transport stakeholders.
 
@@ -23,7 +23,7 @@ Their framing: *"developing, maintaining and improving pricing and machine learn
 
 **Collaborating with stakeholders** → bi-weekly reviews with the Chief Procurement Officer and category managers; presenting architecture and findings to senior DoT stakeholders.
 
-**Industry (retail / energy / utilities / loyalty / pricing / commercial analytics)** → lead with **commercial analytics** (you are this: a procurement analytics consultancy). Pricing is real but cost/supplier-side. Then show the 7-Eleven domain knowledge (fuel cycles, Fuel Price Lock, hyperlocal pricing, loyalty) from `interview-prep.md` §2.
+**Industry (retail / energy / utilities / loyalty / pricing / commercial analytics)** → lead with **commercial analytics** (you are this: a procurement analytics consultancy). Pricing is real but cost/supplier-side. Then show the 7-Eleven domain knowledge (fuel cycles, Fuel Price Lock, hyperlocal pricing, loyalty) from `7-eleven-interview-prep.md` §2.
 
 ---
 

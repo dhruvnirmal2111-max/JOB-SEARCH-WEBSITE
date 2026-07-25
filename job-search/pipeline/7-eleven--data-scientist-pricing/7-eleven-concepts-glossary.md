@@ -218,7 +218,7 @@ You **already know from real work:** logistic regression, TF-IDF/embeddings, one
 
 # PART 7 — DATA ENGINEERING, DEVOPS & MLOPS (for the Infosys technical round)
 
-> These are the terms the Infosys `interview-prep.md` points to (§CI/CD, §MLOps, §LLMOps, §PySpark, §BI). Same ELI5 / Say / Deeper format.
+> These are the terms the Infosys `infosys-interview-prep.md` points to (§CI/CD, §MLOps, §LLMOps, §PySpark, §BI). Same ELI5 / Say / Deeper format.
 
 ## Pipelines & data movement
 **ETL vs ELT** — ELI5: two orders for the same three steps. **ETL** = Extract, Transform, then Load (clean before it lands). **ELT** = Extract, Load raw, then Transform inside the warehouse. *Say:* "Cloud warehouses made ELT common because compute is cheap in-warehouse." *Link:* your pipelines are largely ETL (transform before dashboards).

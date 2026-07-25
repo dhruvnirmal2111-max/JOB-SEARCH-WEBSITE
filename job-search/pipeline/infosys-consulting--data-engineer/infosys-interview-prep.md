@@ -1,6 +1,6 @@
 # Infosys Consulting — Interview Prep (Data Engineer)
 
-> **Technical-first interview. Mon 4:00 PM.** No formal JD — so the whole game is: (1) **master your resume** (explain every line, name the tool, know the number), and (2) **connect every one of the recruiter's 5 points to a real example**. Nothing invented. This doc + `concepts-glossary.md` are all you need.
+> **Technical-first interview. Mon 4:00 PM.** No formal JD — so the whole game is: (1) **master your resume** (explain every line, name the tool, know the number), and (2) **connect every one of the recruiter's 5 points to a real example**. Nothing invented. This doc + `infosys-concepts-glossary.md` are all you need.
 
 ---
 
@@ -50,7 +50,7 @@ Frame: "A data & analytics consultancy for enterprise clients across AU/NZ. I ow
 - Was: manual categorisation, 1–1.5 months per cycle.
 - Built: documented, repeatable **Python** pipeline — **scikit-learn, TF-IDF, one-vs-all classifier**, feature engineering on spend value + line count; productionised for reuse.
 - Number: cycle → **a single day's run**, rolled out across other accounts.
-- This is your bridge into **#4 MLOps** — a real model, productionised and reused. (Deeper ML details live in the 7-Eleven `concepts-glossary.md`; skim if they go deep on the model.)
+- This is your bridge into **#4 MLOps** — a real model, productionised and reused. (Deeper ML details live in the 7-Eleven `7-eleven-concepts-glossary.md`; skim if they go deep on the model.)
 
 **(d) Reporting & BI** → 16+ **Tableau** dashboards + a **Power BI** solution for procurement/finance stakeholders. (Point #5.)
 
@@ -128,7 +128,7 @@ Frame: "A data & analytics consultancy for enterprise clients across AU/NZ. I ow
 ### Video-interview setup (this round is VIDEO — same as 7-Eleven)
 - **Test 15 min early:** camera, mic, the meeting link, and **screen-share** (they may ask you to talk through code, the resume, or your GitHub).
 - **Environment:** quiet room, light in front of you (not a window behind), laptop at eye level, stable internet — have your **phone hotspot as backup**.
-- **On screen for you (not shared):** resume, this doc, and `concepts-glossary.md` open in tabs. A notepad + pen to write down the question.
+- **On screen for you (not shared):** resume, this doc, and `infosys-concepts-glossary.md` open in tabs. A notepad + pen to write down the question.
 - **Ready to screen-share if asked:** your GitHub (github.com/dhruvnirmal2111-max) and be able to talk through the refresh-app repo structure and the MyFacit pipeline.
 - **Delivery on camera:** look at the **camera** (not your own thumbnail) on key points; pause before answering ("good question, let me structure that"); think out loud — for a technical round, showing your reasoning matters as much as the answer.
 - Mindset: it's a technical round, so **think out loud, start simple, name your tools, and be honest about the two gaps** — a clear "here's what I've done, here's what I'd learn" beats a bluff every time.

@@ -17,4 +17,4 @@
 ## Notes
 - Consulting delivery role. Dhruv's real title IS Data Engineer, so no title alignment needed.
 - Honest positioning: Databricks/PySpark experience is genuine but from the VCDI internship (2023); Snowflake/Terraform/AWS/Docker from a personal cloud-platform build; current role is pipeline-heavy Python + advanced SQL (SQL Server) + Azure. All truthful, nothing invented.
-- Because it's a **technical-first** round with no JD, the plan is: **master the resume** (explain every line, name the tools, know the numbers) and **map every one of the 5 points to a concrete example** — see `interview-prep.md` and `concepts-glossary.md`.
+- Because it's a **technical-first** round with no JD, the plan is: **master the resume** (explain every line, name the tools, know the numbers) and **map every one of the 5 points to a concrete example** — see `infosys-interview-prep.md` and `infosys-concepts-glossary.md`.

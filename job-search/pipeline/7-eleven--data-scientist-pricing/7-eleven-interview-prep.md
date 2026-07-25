@@ -167,7 +167,7 @@ If they give a case ("How would you help us optimise pricing for coffee / fuel /
 ### Video-interview setup (this round is VIDEO)
 - **Test 15 min early:** camera, mic, meeting link, and screen-share (they may ask you to walk through your resume or reasoning).
 - **Environment:** quiet room, light in front (not a window behind), laptop at eye level, stable internet, **phone hotspot as backup**.
-- **On screen for you (not shared):** this doc, `jd-breakdown.md`, `concepts-glossary.md`, `recruiter-brief-prep.md`, resume. Notepad + pen.
+- **On screen for you (not shared):** this doc, `7-eleven-jd-breakdown.md`, `7-eleven-concepts-glossary.md`, `7-eleven-recruiter-brief-prep.md`, resume. Notepad + pen.
 - **Delivery:** look at the **camera** on key points; pause before answering; think out loud (case + technical rounds reward visible reasoning). It's fine to say "let me take a second to structure that."
 
 ---
