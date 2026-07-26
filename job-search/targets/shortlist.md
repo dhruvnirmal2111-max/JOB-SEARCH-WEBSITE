@@ -1040,3 +1040,39 @@
 - [Deloitte India FY27 — GEN AI Engineer Specialist, Hyd/Blr (USI Careers)](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-MFBEL-GEN-AI-ENGINEER-L40-HYD-BLR/353050)
 - [Deloitte India FY27 — Gen AI Full Stack Consultant (MCP listed) (USI Careers)](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-FY27-Audit-Services-EH-L35-Consultant1-Risk-Technology-and-Analytics-Gen-AI-Full-Stack/353490)
 - [Amgen India GCC — Associate AI/ML Innovation Engineer, Hyderabad (Amgen Careers)](https://careers.amgen.com/en/job/hyderabad/associate-ai-ml-innovation-engineer/87/97264002672)
+
+### Daily scout — 2026-07-26
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 218 | Tomoro AI | Senior Applied AI Solution Engineer | Sydney AU (hybrid; ⚠ confirm remote-from-Melbourne) | Active Jul 2026 | OpenAI + NVIDIA strategic partner; client-embedded agentic AI delivery using LLMs for enterprise clients; agentic-AI/LLM edge IS the core skill req (rare); regular + Senior variants both open simultaneously; small high-trust team with growing client-leadership scope; est. $155–$200k | 8 | Specific posting | |
+| 219 | iterate | Analytics Engineer (+ Data Engineer also open) | Melbourne (hybrid, 3d/wk) | ~Jul 2026 | Snowflake + dbt + Power BI analytics ownership of a high-profile programme; concurrent Data Engineer variant adds Airflow; freshly posted on SEEK; new data consultancy on shortlist ⚠ No public salary — verify ≥ AUD 95k before applying; est. $120–$140k market | 7 | Specific posting | |
+| 220 | Versent | Data Engineer | Melbourne (AWS consulting, client-site delivery) | ~Jul 2026 | AWS Premier Partner consultancy; data pipeline dev + automated data solutions + data lake architecture on AWS; client-facing delivery mirrors current consulting background; avg ~$131k base (Indeed-confirmed, above national avg); new AWS consultancy on shortlist | 7 | Company target | |
+| 221 | AIM Defence | AI / ML Engineer (Computer Vision) | Melbourne East (hybrid) | Jul 2026 | Defence-tech firm building high-performance Computer Vision + ML systems; Python + PyTorch + deep learning + cloud production-grade; government/defence domain in scope; permanent full-time; est. ~$155–$170k ⚠ Verify AU security clearance requirements before applying | 7 | Specific posting | |
+| 222 | V/Line | Lead Machine Learning Engineer | Melbourne (public sector) | Jul 2026 | Victoria's regional rail authority; Lead MLE for operational ML (asset maintenance, demand forecasting, service optimisation); government/public-sector domain in scope; public-sector super + benefits; est. $130–$165k ⚠ Verify listing is still open on vline.com.au/careers before applying | 6 | Specific posting | |
+
+### Remote-first scout — 2026-07-26
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R101 | Visa Inc. | Sr. Software Engineer – Agentic AI / GenAI / LLM / RAG (Python) | Bengaluru | Jul 3, 2026 | Multi-agent orchestration + RAG pipelines at 100K+ TPS payments scale; Claude / GPT-4 / Mistral / Gemini explicitly named models; LangChain / LangGraph / AutoGen + vector DBs (Pinecone / Weaviate / FAISS); 3–6 yr variant (REF083442W on Workday) AND 7–11 yr variant (Naukri) both open simultaneously; est. ₹40–70 LPA. **Survives move: YES** | 9 | Specific posting | |
+| R102 | UnitedHealth Group (Optum India) | Senior AI/ML Engineer – LLM, RAG, Agentic AI | Bengaluru | Jun 28, 2026 | End-to-end AI/ML + LLM-powered agents + RAG pipelines for healthcare data at Fortune 5 scale; Azure + Python + cloud-native; **Claude explicitly named as model platform**; Senior + Manager-level variants both posted same day (Req 2369765 / 2369766); est. ₹30–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R103 | G42 (Group 42) | AI Engineer | Abu Dhabi / Dubai, UAE | Active Jul 2026 | UAE's sovereign AI company (backed by UAE govt + Microsoft + OpenAI); production LLM / RAG + Arabic NLP + agentic AI on Azure at sovereign enterprise scale; **zero-tax AED 450–600K+/yr (~USD 122–163K)**; visa sponsorship + relocation provided; high-impact AI-first culture with global partnerships. **Survives move: YES** | 8 | Company target | |
+| R104 | Grab | Senior Data Engineer | Singapore | Active Jul 2026 | SEA's largest super-app real-time data platform (Databricks + Spark + dbt + Airflow); feature pipelines feeding GrabAI ML/LLM inference services; agentic-AI background a strong differentiator for ML feature work; confirmed SGD 9K–11K/month base (NodeFlair); strong equity + career trajectory. **Survives move: YES** | 7 | Specific posting | |
+| R105 | Sea Limited (Shopee) | Data Engineer / Senior Engineer | Singapore | Active Jul 2026 | Asia's largest tech platform (Shopee + Garena + SeaMoney) on AWS at e-commerce scale; ETL pipelines for products worldwide; Senior DE confirmed SGD 10K–13K/month (NodeFlair); multiple product-line divisions = multiple concurrent openings. **Survives move: YES** | 7 | Company target | |
+
+### Daily scout sources — 2026-07-26 (rows 218–222, R101–R105)
+- [Tomoro AI — Senior Applied AI Solution Engineer, Australia (Workable ATS)](https://apply.workable.com/tomoro-ai/j/9CE8B9740F/)
+- [Tomoro AI — Applied AI Solution Engineer, Australia (LinkedIn)](https://au.linkedin.com/jobs/view/australia-applied-ai-solution-engineer-at-tomoro-4373925684)
+- [Tomoro AI — Careers page](https://tomoro.ai/careers/australia-applied-ai-solution-engineer)
+- [iterate — Analytics + Data Engineer, Melbourne (SEEK Snowflake Melbourne search)](https://au.seek.com/Snowflake-jobs/in-All-Melbourne-VIC)
+- [Versent — Data Engineer, Melbourne (Indeed / Versent Careers)](https://au.seek.com/Versent-jobs/in-All-Melbourne-VIC)
+- [AIM Defence — AI/ML Engineer (CV), Melbourne East (SEEK AI Engineer Melbourne)](https://au.seek.com/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [V/Line — Lead ML Engineer, Melbourne (SEEK ML Engineer Melbourne)](https://au.seek.com/machine-learning-engineer-jobs/in-All-Melbourne-VIC)
+- [Visa Inc. — Sr. SWE Agentic AI/LLM/RAG, Bengaluru — 3–6 yr (Visa Workday)](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/Sr-Software-Engineer--3-6-years-of-experience-in-Agentic-AI---GenAI---LLM---RAG--Python-_REF083442W)
+- [Visa Inc. — Sr. SWE Agentic AI/LLM/RAG, Bengaluru — 7–11 yr (Naukri)](https://www.naukri.com/job-listings-sr-software-engineer-agentic-ai-genai-llm-rag-python-visa-consolidated-support-services-india-pvt-ltd-bengaluru-7-to-11-years-030726927894)
+- [UnitedHealth Group (Optum) — Senior AI/ML Engineer LLM/RAG/Agentic, Bengaluru (UHG Careers)](https://careers.unitedhealthgroup.com/job/bengaluru/senior-ai-ml-engineer-llm-rag-agentic-ai/34088/97067676544)
+- [UnitedHealth Group (Optum) — Manager AI/ML Engineering, Bengaluru (UHG Careers)](https://careers.unitedhealthgroup.com/job/bengaluru/manager-ai-ml-engineering-llm-rag-agentic-ai/34088/97070819840)
+- [G42 Group — AI Engineer, Abu Dhabi/Dubai UAE (G42 Careers)](https://www.g42.ai/careers)
+- [Grab — Senior Data Engineer salary, Singapore (NodeFlair)](https://nodeflair.com/companies/grab/salaries/data_engineer-senior/Singapore)
+- [Sea Limited / Shopee — Data Engineer, Singapore (Sea Careers)](https://career.sea.com/)
