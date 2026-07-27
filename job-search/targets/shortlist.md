@@ -1076,3 +1076,32 @@
 - [G42 Group — AI Engineer, Abu Dhabi/Dubai UAE (G42 Careers)](https://www.g42.ai/careers)
 - [Grab — Senior Data Engineer salary, Singapore (NodeFlair)](https://nodeflair.com/companies/grab/salaries/data_engineer-senior/Singapore)
 - [Sea Limited / Shopee — Data Engineer, Singapore (Sea Careers)](https://career.sea.com/)
+
+### Daily scout — 2026-07-27
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 223 | Zendesk | Senior ML Engineer (Agentic AI) | Melbourne (hybrid) | Active Jul 2026 | LLM + multi-agent coordination + memory structures + LLM Proxy infrastructure at global CX SaaS scale; agentic-AI/LLM edge is the core skill req; A$158k avg salary (Glassdoor); Python + vector DBs + model orchestration directly matches rare profile strength | 9 | Specific posting | |
+| 224 | The Onset | ML Engineer / Product Data Scientist | Hawthorn, Melbourne / Sydney (hybrid) | Jul 2026 | Melbourne AI company building enterprise Agentic AI + Conversational Commerce products; end-to-end LLM pipeline + intelligent agent design; $185k–$220k + 10% RSU/bonus — highest comp new pick; agentic-AI/LLM edge IS the role | 9 | Specific posting | |
+| 225 | Ramsay Health Care | Senior Data Engineer | East Melbourne (hybrid) | Jul 2026 | ASX Top-10 health company (500+ hospitals globally) migrating enterprise data platform to Microsoft Fabric; Azure ADF + MS Fabric + data quality at healthcare enterprise scale; est. $130–$155k; new domain (private health) not yet on shortlist | 8 | Specific posting | |
+| 226 | I-MED Radiology Network | Data Engineer | Mount Waverley, Melbourne (hybrid) | ~Jul 26, 2026 | Australia's largest private diagnostic imaging network (~700 sites); AWS + Python + clinical/operational data pipelines; 2 openings confirmed simultaneously; healthcare data domain adds differentiation; est. $110–$130k | 7 | Specific posting | |
+| 227 | Simonds Homes | Data Engineer | Docklands, Melbourne (hybrid) | ~Jul 25, 2026 | Australia's largest private home builder mid-data-transformation; Azure/cloud ETL pipelines + business-unit integrations; construction/property domain not yet on shortlist; est. $115–$135k; fresh posting (~2 days old on SEEK) | 7 | Specific posting | |
+| 228 | Funlab | Analytics Engineer | Abbotsford, Melbourne (hybrid) | Jul 2026 | Australasia's #1 competitive socialising operator (Strike Bowling, Holey Moley, Archie Brothers; TPG Capital-backed ~$250M); dbt/SQL/BI analytics engineering across entertainment brands; $120k–$140k salary confirmed on SEEK listing | 7 | Specific posting | |
+| 229 | SEC Victoria | Data Engineer | Melbourne (hybrid) | Jul 2026 | State Electricity Commission Victoria; AWS cloud data pipelines for Victoria's renewable energy transition; 12-month contract with extension potential; energy/government domain; est. $110–$135k | 7 | Specific posting | |
+| 230 | Collingwood Football Club | Data Engineer (Performance Platform) | Melbourne CBD (hybrid) | Jul 2026 | Building the club's end-to-end Performance Platform — automated real-time pipelines + ML-driven insights for coaching staff; Python + ML applicable; unique sports-analytics domain differentiator on a resume; est. $120–$145k (contract) | 7 | Specific posting | |
+| 231 | cohealth | Data Engineer | Footscray, Melbourne (hybrid) | ~Jul 24–25, 2026 | Victoria's largest community health org; data pipelines + platform reliability; NFP salary packaging ($15,900/yr tax-free) lifts effective package to ~$135k+; $58.72/hr base annualises to ~$122k; 12-month contract | 6 | Specific posting | |
+| 232 | IBAC (Vic) | Data Engineer | Melbourne CBD (hybrid) | Jul 2026 | Independent Broad-based Anti-corruption Commission; enterprise data platform buildout for a regulator; government/public-sector domain; $58.72/hr + super + NFP packaging (~$122k base); ⚠ verify listing is still active before applying | 6 | Specific posting | |
+
+### Daily scout sources — 2026-07-27 (rows 223–232)
+- [Zendesk — Senior ML Engineer Melbourne (Glassdoor)](https://www.glassdoor.com/job-listing/senior-machine-learning-engineer-zendesk-JV_IC2264754_KO0,32_KE33,40.htm?jl=1010206759927)
+- [Zendesk — Senior ML Engineer Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/senior-ml-engineer/6956036)
+- [The Onset — ML Engineer / Product Data Scientist (SEEK Melbourne)](https://au.seek.com/The-Onset-jobs/in-All-Melbourne-VIC)
+- [Ramsay Health Care — Senior Data Engineer East Melbourne (SEEK)](https://au.seek.com/ramsay-health-care-senior-data-engineer-jobs/in-East-Melbourne-VIC-3002)
+- [I-MED Radiology Network — Data Engineer (ZipRecruiter AU)](https://www.ziprecruiter.com.au/jobs/522346997-data-engineer-at-i-med-radiology-network)
+- [I-MED Radiology Network — Data Engineer (SEEK Melbourne)](https://au.seek.com/I+MED-Radiology-Network-jobs/in-All-Melbourne-VIC)
+- [Simonds Homes — Data Engineer Docklands (SEEK Melbourne)](https://au.seek.com/Simonds-Homes-jobs/in-All-Melbourne-VIC)
+- [Funlab — Analytics Engineer Abbotsford (SEEK Melbourne)](https://au.seek.com/Funlab-jobs/in-Melbourne-VIC-3000)
+- [SEC Victoria — Data Engineer (SEEK Melbourne)](https://au.seek.com/sec-jobs/in-All-Melbourne-VIC)
+- [Collingwood FC — Performance Platform Data Engineer (SEEK)](https://au.seek.com/Collingwood-Football-Club-jobs)
+- [cohealth — Data Engineer Footscray (SEEK)](https://au.seek.com/cohealth-jobs/in-All-Melbourne-VIC)
+- [IBAC — Data Engineer Melbourne CBD (SEEK)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
