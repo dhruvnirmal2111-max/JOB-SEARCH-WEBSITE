@@ -1105,3 +1105,29 @@
 - [Collingwood FC — Performance Platform Data Engineer (SEEK)](https://au.seek.com/Collingwood-Football-Club-jobs)
 - [cohealth — Data Engineer Footscray (SEEK)](https://au.seek.com/cohealth-jobs/in-All-Melbourne-VIC)
 - [IBAC — Data Engineer Melbourne CBD (SEEK)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+
+### Daily scout — 2026-07-28
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 233 | Milestone Information Technology | Senior Data & BI Engineer | Melbourne (hybrid) | Active Jul 2026 | Melbourne IT services firm; Power BI + Python + ETL + cloud pipeline engineering with AI/ML integration scope; senior-level target; stack directly matches DE + BI strengths + AI growth direction; new company not yet on shortlist; est. $140–$165k | 7 | Specific posting | |
+| 234 | Macquarie Group | AI Engineer | Melbourne (hybrid) | May 22, 2026 (active Jul 2026) | 4th distinct Macquarie posting (cf. rows 5 / 134 / 158 — company target / ML Platform / DE); AI-assisted software delivery and automation at investment-bank scale; production AI integration scope directly matches agentic-AI/LLM edge; est. $130–$175k + super ⚠ ref 22353 on Macquarie ATS — verify still active before applying | 8 | Specific posting | |
+
+### Daily scout sources — 2026-07-28 (rows 233–234)
+- [Milestone Information Technology — Senior Data & BI Engineer, Melbourne (SEEK)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+- [Macquarie Group — AI Engineer ref 22353, Melbourne (Macquarie Careers)](https://careers.macquarie.com/)
+
+### Remote-first scout — 2026-07-28
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| R106 | Kyndryl | Forward Deployed Engineer – Agentic AI | India (Mumbai / Bengaluru, hybrid — on-site at clients) | Jul 2026 | World's largest IT infrastructure services company (IBM spinoff); designs + deploys multi-agent LLM systems using LangGraph + RAG + tool integration into enterprise client environments; 3–6 yrs; Claude/multi-agent OS background is a near-perfect differentiator for the "forward-deployed" model; est. ₹28–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R107 | TCS (Tata Consultancy Services) | Gen AI / Agentic AI Engineer | Bengaluru, India | Active Jul 2026 | India's #1 IT employer; actively hiring agentic AI engineers using LangGraph + RAG + CrewAI + AutoGen — exact production tech stack from work experience; strong multi-agent + structured-output match; large internal AI-engineer career track; est. ₹20–45 LPA. **Survives move: YES** | 7 | Company target | |
+| R108 | Customertimes | Senior AI/LLM Engineer | India (remote) | ~Jun–Jul 2026 | Global CX/tech solutions company; fully remote India-based LLM engineering role; builds production AI solutions on LLMs; remote-first model means no relocation cost when moving from AU; est. ₹18–35 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R109 | Wipro | Forward Deployed Engineer – Gen AI | Bengaluru, India | Active Jul 2026 | India's 4th-largest IT services firm running a forward-deployed GenAI practice; LangChain + LangGraph + multi-agent + **MCP servers** explicitly listed + Azure OpenAI + vector DBs — unusually complete tech-stack match; cross-vertical enterprise client exposure; est. ₹25–50 LPA. **Survives move: YES** | 8 | Specific posting | |
+
+### Remote-first scout sources — 2026-07-28 (R106–R109)
+- [Kyndryl — Forward Deployed Engineer Agentic AI, India (LinkedIn job 4310024485)](https://www.linkedin.com/jobs/view/4310024485/)
+- [TCS — Gen AI / Agentic AI Engineer, Bengaluru India (TCS Careers)](https://www.tcs.com/careers)
+- [Customertimes — Senior AI/LLM Engineer, India Remote (LinkedIn / Customertimes)](https://www.linkedin.com/company/customertimes/)
+- [Wipro — Forward Deployed Engineer Gen AI, Bengaluru (Wipro Careers)](https://careers.wipro.com/job/Bengaluru-FORWARD-DEPLOYED-ENGINEER-Gen-AI-IND-560035/187521-en_US/)
