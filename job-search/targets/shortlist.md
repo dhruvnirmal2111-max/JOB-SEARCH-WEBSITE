@@ -1131,3 +1131,41 @@
 - [TCS — Gen AI / Agentic AI Engineer, Bengaluru India (TCS Careers)](https://www.tcs.com/careers)
 - [Customertimes — Senior AI/LLM Engineer, India Remote (LinkedIn / Customertimes)](https://www.linkedin.com/company/customertimes/)
 - [Wipro — Forward Deployed Engineer Gen AI, Bengaluru (Wipro Careers)](https://careers.wipro.com/job/Bengaluru-FORWARD-DEPLOYED-ENGINEER-Gen-AI-IND-560035/187521-en_US/)
+
+### Daily scout — 2026-07-29
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 235 | CitiPower and Powercor | Senior Data Engineer | Melbourne CBD (hybrid) | verify (active Jul 2026) | Victoria's twin electricity distributors (Cheung Kong Infrastructure); cloud data platform build at regulated energy-grid scale; government-adjacent public infrastructure domain; Python + cloud stack match; est. $125–$155k ⚠ verify listing is live on careers.powercor.com.au before applying | 7 | Specific posting | |
+| 236 | Global 360 | Data Engineer (Azure) | Doncaster, Melbourne VIC (hybrid, eastern suburbs) | Jul 2026 | Multiple Azure data engineering positions available; immediate start; stable established company; forward-thinking data solutions on Azure; new employer not yet on shortlist; est. $110–$140k ⚠ eastern-suburbs location — confirm WFH days before committing | 6 | Specific posting | |
+
+### Remote-first scout — 2026-07-29
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R110 | Boeing India | Senior Agentic AI Engineer | Bengaluru, India (on-site) | Jul 6, 2026 | Major aerospace & defence brand India GCC; explicit focus on production RAG architectures (chunking, embeddings, hybrid retrieval, reranking, query rewriting) + agentic AI workflows; 4–8 yrs; est. ₹30–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R111 | Trianz | Agentic AI Engineer | Bengaluru, India (on-site) | Jul 27, 2026 | **Freshest India agentic-AI posting in this scout window**; global digital transformation consultancy (Silicon Valley HQ, Bengaluru CoE); LangGraph + multi-agent orchestration explicitly required — rare differentiator; 3–8 yrs; est. ₹20–35 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R112 | Codvo.ai | RAG + Agentic AI Engineer | India (fully remote) | Active Jul 2026 | AI-driven financial reconciliation SaaS; production LangChain + LangGraph + CrewAI + AutoGen + vector DBs + document pipelines — near-perfect agentic-AI/LLM stack match; fintech + LLM intersection = domain + skill crossover; fully remote. **Survives move: YES** | 8 | Specific posting | |
+| R113 | JPMorgan Chase India GCC | Data Engineer | Bengaluru / Hyderabad (hybrid) | Active Jul 2026 | Fortune-500 GCC expanding by ~1,000 India hires; 15+ concurrent DE openings; AI data pipelines + cloud architecture; Python + big-data stack; HackerRank-based selection (DSA + system design); est. ₹30–55 LPA. **Survives move: YES** | 7 | Company target | |
+| R114 | HSBC India GCC | Data Engineer (Global Markets – MSS AI Team) | Bengaluru (hybrid) | Active Jul 2026 | Global bank's Bengaluru AI engineering team focused on Python + cloud (GCP/Azure) + AI/ML data pipelines + GenAI for global markets; GCC stability + banking domain crossover; est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R115 | Swiggy | Senior Data Engineer | Bengaluru, India (hybrid) | Active Jul 2026 | India's #2 food-delivery + quick-commerce unicorn; Snowflake + Python + Big Data ETL/ELT at consumer-tech scale; 3–8 yrs; large mature data org; est. ₹20–40 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R116 | Slalom Consulting Singapore | Senior Consultant, Data Engineer (AI-Enabled Data Engineering) | Singapore (hybrid) | Active Jul 2026 | US consulting firm with strong SG practice; cloud-native data pipelines (AWS/Azure/GCP) + governed data foundations for AI/ML workloads; "AI-enabled" label bridges DE + agentic-AI edge; S$8,000–S$15,000/month (~AUD 9K–17K/month); **no AUD floor concern**. **Survives move: YES** | 7 | Specific posting | |
+| R117 | DeepLight AI | AI Engineer | Dubai, UAE (in-office; visa + relocation provided) | Active Jul 2026 | AI product company serving banking-sector digital transformation; full production agentic-AI stack: LangGraph + RAG + vector DBs (Pinecone/Weaviate/Milvus) + conversational AI (voice + chat) + MLOps + knowledge graphs; 5+ yrs; UAE zero income tax; est. AED 18,000–30,000/month (~AUD 7K–12K/month); visa sponsorship + relocation confirmed. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-07-29 (rows 235–236, R110–R117)
+- [CitiPower and Powercor — Careers (verify Senior DE live)](https://careers.powercor.com.au/job/Melbourne-Senior-Data-Engineer-VIC-3000/1213758066/)
+- [CitiPower and Powercor — Jobs Melbourne CBD (SEEK)](https://au.seek.com/CitiPower-and-Powercor-jobs/in-Melbourne-CBD-&-Inner-Suburbs-Melbourne-VIC)
+- [Global 360 — Data Engineer Azure, Doncaster (SEEK)](https://au.seek.com/Global-360-jobs/in-Doncaster-VIC-3108)
+- [Boeing India — Senior Agentic AI Engineer, Bengaluru (Naukri)](https://www.naukri.com/job-listings-senior-agentic-ai-engineer-boeing-india-private-limited-limited-bengaluru-4-to-8-years-060726920221)
+- [Boeing India — Senior Agentic AI Engineer (LinkedIn)](https://in.linkedin.com/jobs/view/senior-agentic-ai-engineer-at-boeing-4433729568)
+- [Trianz — Agentic AI Engineer, Bengaluru (Naukri)](https://www.naukri.com/job-listings-agentic-ai-engineer-trianz-bengaluru-3-to-8-years-270726001491)
+- [Codvo.ai — RAG + Agentic AI Engineer, India Remote (LinkedIn)](https://in.linkedin.com/jobs/view/rag-+-agentic-ai-engineer-india-remote-at-codvo-ai-4324072259)
+- [Codvo.ai — RAG + Agentic AI Engineer (Freshteam JD)](https://codvo-team.freshteam.com/jobs/oX2fH9z166qF/rag-agentic-ai-engineer-india-remote)
+- [JPMorgan Chase India GCC — Data Engineer roles (Glassdoor India)](https://www.glassdoor.com/Job/data-engineer-jp-morgan-jobs-SRCH_IN115_KO0,23.htm)
+- [HSBC India — Data Engineer, Bengaluru Global Markets (DevNaukri)](https://devnaukri.in/2026/02/01/hsbc-hiring-data-engineer-in-bangalore-hybrid-global-markets/)
+- [Swiggy — Data Engineer, Bengaluru (Instahyre)](https://www.instahyre.com/job-48890-data-engineer-at-swiggy-bangalore/)
+- [Swiggy — Careers/Jobs (Naukri)](https://www.naukri.com/swiggy-jobs-careers-1609908)
+- [Slalom Consulting Singapore — Consultant Data Engineer AI-Enabled (MyCareersFuture)](https://www.mycareersfuture.gov.sg/job/consulting/consultant-data-engineer-slalom-consulting-singapore-6f6ba1a5aa5b178aec69f313ce3723ca)
+- [DeepLight AI — AI Engineer, Dubai UAE (Bayt)](https://www.bayt.com/en/uae/jobs/ai-engineer-74156642/)
+- [DeepLight AI — AI Engineer UAE with visa sponsorship (Jaabz)](https://jaabz.com/jobs/166558-ai-engineer)
+- [DeepLight AI — AI Engineer UAE (Built In)](https://builtin.com/job/ai-engineer/8523713)
