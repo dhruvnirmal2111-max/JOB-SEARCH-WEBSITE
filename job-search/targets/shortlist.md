@@ -1169,3 +1169,40 @@
 - [DeepLight AI — AI Engineer, Dubai UAE (Bayt)](https://www.bayt.com/en/uae/jobs/ai-engineer-74156642/)
 - [DeepLight AI — AI Engineer UAE with visa sponsorship (Jaabz)](https://jaabz.com/jobs/166558-ai-engineer)
 - [DeepLight AI — AI Engineer UAE (Built In)](https://builtin.com/job/ai-engineer/8523713)
+
+### Daily scout — 2026-07-30
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 237 | Anduril Industries | Senior ML/MLOps Engineer | Sydney NSW (⚠ confirm remote / Melbourne option) | Jul 2026 | Defence-tech scale-up; ML model dev + deployment + validation for autonomous maritime systems (XL-AUV Program); Python + ML pipelines; agentic-AI edge differentiator in defence AI; est. $150–$190k AUD | 8 | Specific posting | |
+| 238 | Greenroom Robotics | Senior ML & Robotics Engineer | Australia (remote-capable) | Jul 2026 | Maritime autonomous systems start-up; Lookout+ perception system (detect/classify/track hazards at sea); ML + robotics; AU-distributed team suggests remote feasible; est. $130–$165k AUD | 7 | Specific posting | |
+| 239 | Compare Club | AI-First Engineering Lead | Melbourne VIC (hybrid) | Jul 27–28, 2026 | AU's largest insurance/finance comparison platform going AI-first; hands-on LLM/agentic engineering leadership; fintech + AI intersection; est. $150–$180k AUD | 8 | Specific posting | |
+| 240 | Scope (Aust) Ltd | Data Engineer (12-mo FTC) | Hawthorn VIC (hybrid) | Jul 2026 | Major NDIS/disability-services org on MS Fabric + dbt data transformation; newly created role building trusted analytics from scratch; est. $110–$130k AUD ⚠ Fixed-term contract | 6 | Specific posting | |
+| 241 | NAB | Data Engineer (AI Centre of Excellence) | Melbourne CBD (hybrid) | Active Jul 2026 | Big-4 bank building production agentic AI + LLM pipelines at enterprise scale; agent reasoning loops + tool-use + orchestration + Databricks — agentic-AI/LLM experience is a direct differentiator here; est. $125–$160k AUD | 9 | Specific posting | |
+| 242 | EY (Ernst & Young) | Data Engineer — AI & Data Consulting | Melbourne CBD (hybrid) | Jul 8, 2026 | Big-4 consulting AI & Data practice; Databricks + Snowflake + ADF + dbt + PySpark + SQL in JD — near-perfect stack match; FS + government client base aligns to domain strengths; est. $120–$145k AUD | 8 | Specific posting | |
+| 243 | Victorian Government (Careers Vic) | Analytics Engineer | Melbourne (hybrid) | Active Jul 2026 | VPS Grade 5: **$113,022–$136,747 + super confirmed**; Azure + Databricks + Power BI + SQL explicitly required; public-sector domain strength (cf. Dept of Transport Power BI work); solid government stability | 8 | Specific posting | |
+
+### Daily scout sources — 2026-07-30 (rows 237–243)
+- [Anduril Industries — Senior ML/MLOps Engineer (Greenhouse)](https://job-boards.greenhouse.io/andurilindustries/jobs/4995797007)
+- [Anduril Industries — Senior ML/MLOps Engineer (Built In Sydney)](https://builtinsydney.au/job/senior-machine-learningmlops-engineer/3085541)
+- [Greenroom Robotics — Senior ML & Robotics Engineer (Careers page)](https://greenroomrobotics.com/careers/senior-ml-robotics-engineer)
+- [Compare Club — AI-First Engineering Lead (SEEK)](https://au.seek.com/Compare-Club-jobs)
+- [Scope (Aust) Ltd — Data Engineer Hawthorn (SEEK)](https://au.seek.com/Scope-Aust-jobs/in-All-Melbourne-VIC)
+- [NAB — Data Engineer, AI Centre of Excellence, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-nab-1449520794)
+- [EY — Data Engineer AI & Data Consulting, Melbourne (EY Careers, Req 1724435)](https://careers.ey.com/ey/job/Melbourne-Data-Engineer-VIC-3000/1412571233/)
+- [Victorian Government — Analytics Engineer (Careers Vic)](https://www.careers.vic.gov.au/job/analytics-engineer-data-analytics-73425)
+
+### Remote-first scout — 2026-07-30
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R118 | Peakflo (YC W22) | Technical Operations & AI Automation Engineer | India / Remote (in role title) | Jul 2026 | YC-backed Series A fintech; builds multi-agent LLM workflows + RAG over financial data; **explicitly names Claude, GPT, Gemini** in JD — Claude agentic experience is a direct hiring signal; India is primary intended location. **Survives move: YES** | 9 | Specific posting | |
+| R119 | AGT Software Partners | Analytics Engineer (dbt + Snowflake) | India remote (explicit) | Jul 2026 | Sustainability-focused product team; dbt + Snowflake production pipelines; India-based remote is the stated expectation, not a concession; ESG/carbon-tracking domain adds portfolio differentiation. **Survives move: YES** | 8 | Specific posting | |
+| R120 | Toptal (client role) | Senior Data Engineer (Azure / Databricks / ML Pipelines) | Worldwide contract — remote, India in scope | Jul 2026 | Toptal worldwide contractor network; Azure + Databricks + ETL + ML pipeline lifecycle — near-exact stack match; contractor arrangement follows the engineer, not a fixed office. **Survives move: YES** | 8 | Specific posting | |
+| R121 | V7 Labs | AI Engineer (Synthetic Data Pipelines) | Fully remote — all countries | Jul 2026 | Computer-vision + LLM AI product company (V7 Darwin, V7 Go); synthetic-data pipelines for ML training + LLM feedback loops + hallucination detection; "open to all countries" removes geo risk entirely. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout sources — 2026-07-30 (R118–R121)
+- [Peakflo — Technical Operations & AI Automation Engineer, India/Remote (YCombinator)](https://www.ycombinator.com/companies/peakflo/jobs/VN3oW2n-technical-operations-ai-automation-engineer-india-remote)
+- [AGT Software Partners — Analytics Engineer dbt+Snowflake, India Remote (BuiltIn)](https://builtin.com/job/data-engineer-analytics-engineer-dbt-snowflake-mid-senior-level/8236607)
+- [Toptal — Senior Data Engineer Azure/Databricks/ML, Remote (WeWorkRemotely)](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-azure-databricks-ml-pipelines-remote)
+- [V7 Labs — AI Engineer Synthetic Data Pipelines, Remote (Himalayas)](https://himalayas.app/companies/v7/jobs/ai-engineer-synthetic-data-pipelines)
