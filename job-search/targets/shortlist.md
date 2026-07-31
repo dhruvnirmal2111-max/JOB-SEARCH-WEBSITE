@@ -1206,3 +1206,33 @@
 - [AGT Software Partners — Analytics Engineer dbt+Snowflake, India Remote (BuiltIn)](https://builtin.com/job/data-engineer-analytics-engineer-dbt-snowflake-mid-senior-level/8236607)
 - [Toptal — Senior Data Engineer Azure/Databricks/ML, Remote (WeWorkRemotely)](https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-azure-databricks-ml-pipelines-remote)
 - [V7 Labs — AI Engineer Synthetic Data Pipelines, Remote (Himalayas)](https://himalayas.app/companies/v7/jobs/ai-engineer-synthetic-data-pipelines)
+
+### Daily scout — 2026-07-31
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 244 | HTC Global Services | Data Analytics Engineer (dbt / Snowflake / Data Modelling) | Melbourne (hybrid) | Active Jul 2026 | Global IT services firm (not previously listed); dbt + Snowflake + data modelling core — near-exact analytics-engineering stack match; mid–senior level; est. AUD $110–135k | 7 | Specific posting | |
+| 245 | XO Sports | Azure Data Scientist / AI & ML Engineer | Melbourne (hybrid) | Jul 2026 | Sports-analytics start-up; Azure + Databricks + ADLS2 + ML modelling in a niche domain; est. $120–160k AUD; visa sponsorship offered — new sports-tech employer not previously in shortlist | 7 | Specific posting | |
+| 246 | Xero | Analytics Engineer | Melbourne (hybrid) | ~Jul 2026 | Already have Xero Senior DE – Platforms (row 13); **this is a separate Analytics Engineer opening** (dbt + Snowflake modelling focus); Xero runs 2+ active data/AI openings confirmed Jul 2026; est. AUD $130–155k | 7 | Specific posting | |
+
+### Daily scout sources — 2026-07-31 (rows 244–246)
+- [HTC Global Services — Data Analytics Engineer, Melbourne (LinkedIn 4405792611)](https://au.linkedin.com/jobs/view/data-analytics-engineer-at-htc-global-services-4405792611)
+- [XO Sports — Azure Data Scientist AI ML Engineer, Melbourne (Jaabz)](https://jaabz.com/jobs/xo-sports-azure-data-scientist)
+- [Xero — Analytics Engineer, Melbourne (Built In)](https://builtin.com/job/analytics-engineer-xero-melbourne/xero-analytics-engineer-2026)
+
+### Remote-first scout — 2026-07-31
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R122 | Novaedge | Applied AI Engineer (Agentic Workflows) | Remote India | ~Jul 28, 2026 | Freshest posting this run; LangChain + Semantic Kernel + LLM orchestration + agentic-workflow design; 4+ yrs; directly maps to Claude multi-agent edge. **Survives move: YES** | 8 | Specific posting | |
+| R123 | Synechron Technologies India | AI/ML Engineer (AWS Bedrock, GenAI, LangChain) | Pune, India (hybrid) | ~Jun 2026 | Distinct from AU row 142 (Synechron Melbourne DE); India GCC; AWS Bedrock + Lambda + API Gateway + GenAI + LangChain; consulting-to-product model; est. ₹20–45 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R124 | Apptware Solutions | AI Engineer (GenAI / LLM / RAG / LangChain) | Pune / Bengaluru (hybrid) | ~Apr–May 2026 (active Jul 2026) | Product-engineering firm; LangChain + LlamaIndex + AutoGen + CrewAI + RAG — broad agentic-framework stack; strong LLM/GenAI core; est. ₹18–30 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R125 | Lingaro Group | Lead Data Scientist Gen AI | Remote India (office-optional) | ~Apr 2026 (active Jul 2026) | Data & AI consulting; LangChain + LangGraph + LlamaIndex + GenAI chatbots/voicebots; lead-level scope; office-optional confirms remote-first reality; est. ₹20–35 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R126 | KIS Solutions | Tech Lead — AI Chatbot & Agent Systems | Remote India (WFH) | ~Apr 2026 (active Jul 2026) | Product company; LangGraph + LangChain agentic systems + chatbot infra; WFH-first stated explicitly; tech-lead scope with hands-on coding; est. ₹25–40 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout sources — 2026-07-31 (R122–R126)
+- [Novaedge — Applied AI Engineer Agentic Workflows, Remote India (Built In)](https://builtin.com/job/applied-ai-engineer-agentic-workflows-india/6248258)
+- [Synechron India — AI/ML Engineer Pune (LinkedIn, JR1038085)](https://in.linkedin.com/jobs/view/ai-ml-engineer-at-synechron-jr1038085)
+- [Apptware Solutions — AI Engineer GenAI LangChain, Pune/Bengaluru (LinkedIn 4390577396)](https://in.linkedin.com/jobs/view/ai-engineer-at-apptware-solutions-4390577396)
+- [Lingaro Group — Lead Data Scientist Gen AI, India Remote (Himalayas + Lever 3f50915c)](https://himalayas.app/companies/lingaro/jobs/lead-data-scientist-gen-ai)
+- [KIS Solutions — Tech Lead AI Chatbot Agent Systems, Remote India (Himalayas)](https://himalayas.app/companies/kis-solutions/jobs/tech-lead-ai-chatbot-agent-systems)
