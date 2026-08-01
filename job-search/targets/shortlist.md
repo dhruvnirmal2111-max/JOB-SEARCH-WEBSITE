@@ -1236,3 +1236,31 @@
 - [Apptware Solutions — AI Engineer GenAI LangChain, Pune/Bengaluru (LinkedIn 4390577396)](https://in.linkedin.com/jobs/view/ai-engineer-at-apptware-solutions-4390577396)
 - [Lingaro Group — Lead Data Scientist Gen AI, India Remote (Himalayas + Lever 3f50915c)](https://himalayas.app/companies/lingaro/jobs/lead-data-scientist-gen-ai)
 - [KIS Solutions — Tech Lead AI Chatbot Agent Systems, Remote India (Himalayas)](https://himalayas.app/companies/kis-solutions/jobs/tech-lead-ai-chatbot-agent-systems)
+
+### Daily scout — 2026-08-01
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 247 | Ramsay Health Care | Senior Data Engineer | Parkville, Melbourne (hybrid) | Jul–Aug 2026 | Australia's 2nd-largest private hospital group; Azure Synapse + Python + PySpark + Power BI enterprise data platform aligned to Ramsay 2030 Strategy; permanent full-time at Royal Melbourne Hospital; healthcare domain — new company on shortlist; est. $125–$155k | 7 | Specific posting | |
+| 248 | Keypath Education | Data Scientist | Camberwell, Melbourne (hybrid / remote-flexible) | Active Aug 2026 | Leading global EdTech company partnering with AU universities; builds AI-enabled data products + ML/GenAI analytics solutions for education outcomes; Great Place to Work 2026; work-anywhere flexible; salary confirmed $146,240–$161,631 per year. ⚠ Note: Associate DS pipeline folder already exists — this is a distinct senior-level role. | 7 | Specific posting | |
+| 249 | Azured Consulting | Senior Data Engineer | Melbourne (WFH 4 days/wk) | Active Aug 2026 | Boutique Azure/Microsoft Fabric consultancy; Microsoft Fabric + Delta Lake + data modelling focus; WFH 4 days/week — highest on-site flexibility of any new AU role this scout; consulting domain match; est. $120–$145k | 7 | Specific posting | |
+| 250 | Sportsbet | Data Science Lead — Pricing | Melbourne (hybrid) | Jul 2026 | Leads a high-impact DS team delivering ML pricing/odds-modelling products at AU's #1 sports wagering platform; distinct from Senior Data Scientist (row 16) — this is team-lead scope; best-in-class ML stack; est. $145–$180k ⚠ 12-month FTC — confirm renewal/conversion pathway before applying | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-01 (rows 247–250)
+- [Ramsay Health Care — Senior Data Engineer, Parkville Melbourne (SEEK)](https://au.seek.com/ramsay-health-care-senior-data-engineer-jobs/in-East-Melbourne-VIC-3002)
+- [Keypath Education — Data Scientist, Camberwell Melbourne (SEEK)](https://au.seek.com/Keypath-Education-jobs/in-Melbourne-VIC-3004)
+- [Azured Consulting — Senior Data Engineer, Melbourne WFH (SEEK)](https://au.seek.com/Azured-Consulting-Pty-Ltd-jobs)
+- [Sportsbet — Data Science Lead Pricing, Melbourne (Sportsbet Careers / WORK180)](https://careers.sportsbet.com.au/data-science)
+
+### Remote-first scout — 2026-08-01
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R127 | Grab | Senior Data Scientist (Analytics) — Search & Personalisation | Singapore (hybrid, one-north) | Active Aug 2026 | SE Asia's leading superapp (ride-hailing, food, digital payments, 4 countries); ML + experimentation frameworks powering search relevance, ranking + recommendations; Python + SQL + deep learning (TF/PyTorch); multiple confirmed active openings on grab.careers + SmartRecruiters; median SGD ~$162k/yr (~AUD $190k); employer sponsorship required. **Survives move: YES** | 7 | Specific posting | |
+| R128 | Deloitte India (USI) | Gen AI Engineer (Specialist / AM Level) | Bengaluru or Hyderabad (hybrid) | Active Aug 2026 | Big-4 India consulting practice; builds + scales GenAI solutions using Python + LangChain + LlamaIndex + RAG pipelines + vector DBs (Pinecone/Weaviate/Chroma) + LLM evaluation tooling (LangSmith/Arize Phoenix); multiple concurrent openings on southasiacareers.deloitte.com; est. ₹15–25 LPA. **Distinct from Deloitte AU (row 35). Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout sources — 2026-08-01 (R127–R128)
+- [Grab — Senior Data Scientist Analytics, Search & Personalisation, Singapore (Grab Careers)](https://www.grab.careers/en/jobs/744000054488195/senior-data-scientist-search-personalisation/)
+- [Grab — Senior Data Scientist Analytics, Search & Personalisation (SmartRecruiters)](https://jobs.smartrecruiters.com/Grab/744000029850171-senior-data-scientist-analytics-search-and-personalisation)
+- [Deloitte India (USI) — GEN AI Engineer Specialist AM, Bengaluru/Hyderabad (Deloitte USI Careers)](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-MFBEL-GEN-AI-ENGINEER-L40-HYD-BLR/353050)
+- [Deloitte India — Generative AI Engineer Cyber-D&R, Bengaluru (Deloitte South Asia Careers)](https://southasiacareers.deloitte.com/job/Bengaluru-T&T-I-Cyber-D&R-Generative-AI-Engineer-I-AM-I-Bengaluru/46409744/)
