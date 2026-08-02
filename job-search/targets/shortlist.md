@@ -1264,3 +1264,35 @@
 - [Grab — Senior Data Scientist Analytics, Search & Personalisation (SmartRecruiters)](https://jobs.smartrecruiters.com/Grab/744000029850171-senior-data-scientist-analytics-search-and-personalisation)
 - [Deloitte India (USI) — GEN AI Engineer Specialist AM, Bengaluru/Hyderabad (Deloitte USI Careers)](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-MFBEL-GEN-AI-ENGINEER-L40-HYD-BLR/353050)
 - [Deloitte India — Generative AI Engineer Cyber-D&R, Bengaluru (Deloitte South Asia Careers)](https://southasiacareers.deloitte.com/job/Bengaluru-T&T-I-Cyber-D&R-Generative-AI-Engineer-I-AM-I-Bengaluru/46409744/)
+
+### Daily scout — 2026-08-02
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 251 | MachShip Australia | Data Engineer | Cremorne, Melbourne (hybrid) | ~24 Jul 2026 | Supply-chain SaaS (25,000 customers, 200M+ items shipped, 500+ carrier integrations); owns the data layer at scale; SQL Server + PostgreSQL; direct domain match to supply-chain/procurement background; **AUD $135–$150k stated**. | 8 | Specific posting | |
+| 252 | Vicinity Centres | Data Engineer | Docklands, Melbourne | Active Aug 2026 | ASX-listed — Australia's largest retail REIT (Chadstone, etc.); large-scale data-ingestion pipelines, data-lake/warehouse, streaming JSON/Parquet; omnichannel retail crossover to supply-chain domain; est. AUD $120–$145k. | 7 | Specific posting | |
+| 253 | Austin Health | BI / Data Engineer (Data Warehouse Developer) | Heidelberg, Melbourne (hybrid) | Jun–Jul 2026 | Major VicGov hospital network rebuilding data warehouse on Microsoft Fabric + Azure ADF + PySpark + Azure DevOps CI/CD; ML model embedding in pipelines; salary est. AUD $100k–$128k + VicGov salary packaging (packaging uplift applies — verify effective rate ≥ AUD 95k). | 7 | Specific posting | |
+| 254 | Treasury Wine Estates | Senior Data Engineer | Collins St, Melbourne CBD | Active Aug 2026 | World's largest listed pure-play wine company (Penfolds, Wolf Blass); Azure data platform; builds and maintains enterprise data pipelines; BI developer collaboration; viticulture supply-chain domain synergy; est. AUD $120–$145k. | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-02 (rows 251–254)
+- [MachShip Australia — Data Engineer, Cremorne Melbourne (SEEK)](https://au.seek.com/Machship-jobs)
+- [Vicinity Centres — Data Engineer, Docklands Melbourne (Built In)](https://builtin.com/job/data-engineer/7374151)
+- [Austin Health — BI/Data Engineer Data Warehouse Developer, Heidelberg Melbourne (Haystack)](https://haystackapp.io/jobs/0a469184)
+- [Treasury Wine Estates — Senior Data Engineer, Melbourne CBD (LinkedIn)](https://linkedin.com/jobs/view/senior-data-engineer-at-treasury-wine-estates-4262860770)
+
+### Remote-first scout — 2026-08-02
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R129 | Sarvam AI | Forward Deployed Software Engineer / Applied AI Engineer — Agents | Bengaluru (on-site) | Jul 2026 | India's #1 homegrown LLM/AI startup (Series B, $1.5B valuation); deploys production agentic AI — VoiceAI, WhatsApp agents, multi-agent systems — at BFSI enterprise clients (Tata Capital, SBI Life, CRED, IDFC, LIC); LangGraph + LangChain + LlamaIndex + CrewAI + RAG; 2–5 yrs; ₹16–90 LPA + ESOP; on-site Bengaluru. **TOP PICK for India move. Survives move: YES** | 9 | Specific posting | |
+| R130 | RemoteStar | Agentic AI Engineer | Bengaluru (remote-first) | 28 Jul 2026 | Remote-first company; agentic AI systems using LangGraph; hands-on LLM orchestration aligned to Claude multi-agent work; 3–8 yrs; est. ₹25–47 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R131 | Tietoevry (Tieto Tech Consulting) | Data Engineer — Snowflake & dbt | Bangalore (on-site) | Active Aug 2026 | Nordic global tech major (utilities, finance, public-sector clients); modular ELT pipelines on Snowflake + dbt; automated dbt tests + documentation; direct Snowflake/dbt stack match; est. ₹12–22 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R132 | OCBC Bank | Data Engineer | Singapore (hybrid) | Active Aug 2026 | Singapore's 2nd-largest bank; major data-modernisation programme; Python + PostgreSQL + Databricks/PySpark + data governance; SGD $8,000–$12,000/month (~AUD $140–$210k); employer sponsorship required. **Survives move: YES** | 7 | Specific posting | |
+| R133 | Carousell Group | Data Engineer / Senior Data Engineer | Singapore (hybrid) | Active 2026 | SEA's leading classifieds/recommerce marketplace (8 markets, tens of millions MAU); Apache Spark + Airflow + BigQuery + Python ETL/ELT; DS collaboration for personalisation, pricing intelligence, fraud detection; SGD $7,250–$10,500/month; employer sponsorship required. **Survives move: YES** | 8 | Specific posting | |
+
+### Remote-first scout sources — 2026-08-02 (R129–R133)
+- [Sarvam AI — Forward Deployed Software Engineer / Applied AI Engineer Agents, Bengaluru (Sarvam Careers)](https://sarvam.ai/careers)
+- [RemoteStar — Agentic AI Engineer, Bengaluru remote-first (Naukri)](https://naukri.com/job-listings-agentic-ai-engineer-remotestar-bengaluru-3-to-8-years-270726503861)
+- [Tietoevry (Tieto Tech Consulting) — Data Engineer Snowflake and dbt, Bangalore (Tietoevry Careers)](https://careers.tieto.com/job/data-engineer-snowflake-and-dbt-tieto-tech-consulting-m-f-d-in-bangalore-india-jid-2506)
+- [OCBC Bank — Data Engineer, Singapore (Built In)](https://builtin.com/job/data-engineer/6806149)
+- [Carousell Group — Data Engineer / Senior Data Engineer, Singapore (Startup Jobs)](https://startup.jobs/data-engineer-sr-data-engineer-carousell-2003521)
