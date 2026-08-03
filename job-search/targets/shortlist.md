@@ -1296,3 +1296,27 @@
 - [Tietoevry (Tieto Tech Consulting) — Data Engineer Snowflake and dbt, Bangalore (Tietoevry Careers)](https://careers.tieto.com/job/data-engineer-snowflake-and-dbt-tieto-tech-consulting-m-f-d-in-bangalore-india-jid-2506)
 - [OCBC Bank — Data Engineer, Singapore (Built In)](https://builtin.com/job/data-engineer/6806149)
 - [Carousell Group — Data Engineer / Senior Data Engineer, Singapore (Startup Jobs)](https://startup.jobs/data-engineer-sr-data-engineer-carousell-2003521)
+
+### Daily scout — 2026-08-03
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 255 | SEEK Ltd | Senior Data Scientist | Cremorne, Melbourne (hybrid) | Aug 2026 | ML products team at AU's #1 job platform; builds data-driven ML products delivering real business value; Python + ML for digital-product DS team; AFR BOSS Top-10 tech employer; distinct from Staff Data Engineer row 17 (DE team); est. $130–$165k | 8 | Specific posting | |
+| 256 | NAB | AI Scientist | Melbourne CBD / Sydney CBD (hybrid) | Jul–Aug 2026 | Gen AI squad; AI platform strategy + engineering at AU's largest bank; AI model engineering, prompt engineering, testing + GenAI integration; distinct from Data Engineer row 20 (Databricks pipeline focus) and AI CoE DE row 241; est. $130–$165k | 7 | Specific posting | |
+| 257 | Optiver | Senior Data Scientist | Sydney, NSW | Active Aug 2026 | Elite AU prop-trading firm (HFT market making); quantitative ML for trading strategies on GPU-accelerated infrastructure; extraordinary comp est. $200–$300k+ TC; 4+ active openings confirmed on eFinancialCareers + optiver.com; new company on shortlist ⚠ Sydney-based — confirm remote/Melbourne option before applying | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-03
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R134 | Atlassian | Senior ML Engineer | Bengaluru, India (remote-flexible) | Active Jul–Aug 2026 | AI Experience team / Central AI group; builds LLM, GenAI, and multi-modal agents powering all Atlassian AI products; confirmed specific posting ID 18162 on join.atlassian.com; globally distributed (TEAM Anywhere policy); distinct from company-target R17 (Data Engineer, GTM team) and AU DS row 209; est. ₹40–72 LPA TC. **Survives move: YES** | 8 | Specific posting | |
+| R135 | Amdocs | AI / Generative AI (Agentic AI) Expert | Pune, India | Active 2026 | Global telecoms-tech firm (~30k employees, NYSE: DOX); 6+ yrs; multi-step reasoning, tool calling, memory, orchestration + production-grade agentic AI on AWS/Azure/GCP — directly matches rare LLM/agentic-AI edge; confirmed live on jobs.amdocs.com (job 563431011757956); India-based relocation-ready; est. ₹25–45 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R136 | Deloitte USI | Agentic AI Engineer – Senior Consultant | Bengaluru / Hyderabad / Pune / Chennai, India | Active 2026 | Deloitte US-India Offices enterprise AI practice; LangChain, LangGraph, CrewAI, MCP, AutoGen production agentic workflows for global enterprise clients; confirmed on usijobs.deloitte.com (job 317714); Senior Consultant level — distinct from FY27 Gen AI Engineer (R99/R128); India entity; est. ₹25–40 LPA. **Survives move: YES** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-08-03 (rows 255–257, R134–R136)
+- [SEEK Ltd — Senior Data Scientist, Cremorne Melbourne (SEEK)](https://au.seek.com/SEEK-jobs/in-All-Melbourne-VIC)
+- [NAB — AI Scientist, Melbourne/Sydney (NAB Careers)](https://jobs.nab.com.au/en/listing/)
+- [Optiver — Senior Data Scientist, Sydney (eFinancialCareers AU)](https://www.efinancialcareers.com.au/jobs-Australia-Data_Science.html)
+- [Atlassian — Senior ML Engineer, Bengaluru (join.atlassian.com job 18162)](https://join.atlassian.com/atlassian-talent-community/jobs/18162?lang=en-us)
+- [Amdocs — AI/GenAI (Agentic AI) Expert, Pune (jobs.amdocs.com job 563431011757956)](https://jobs.amdocs.com/)
+- [Deloitte USI — Agentic AI Engineer Senior Consultant, India (usijobs.deloitte.com job 317714)](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/317714)
