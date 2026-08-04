@@ -1320,3 +1320,34 @@
 - [Atlassian — Senior ML Engineer, Bengaluru (join.atlassian.com job 18162)](https://join.atlassian.com/atlassian-talent-community/jobs/18162?lang=en-us)
 - [Amdocs — AI/GenAI (Agentic AI) Expert, Pune (jobs.amdocs.com job 563431011757956)](https://jobs.amdocs.com/)
 - [Deloitte USI — Agentic AI Engineer Senior Consultant, India (usijobs.deloitte.com job 317714)](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/317714)
+
+### Daily scout — 2026-08-04
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 258 | Easygo Gaming | Senior Machine Learning Operations Engineer (MLOps) | Melbourne (hybrid, up to 2 WFH days) | Active Jul–Aug 2026 | iGaming tech company behind Stake.com, Kick.com, Twist Gaming; build MLOps infrastructure for petabyte-scale AI/ML workloads; Azure/AWS/GCP + Terraform (IaC) + Docker/Kubernetes + Python + CI/CD for ML — cloud + IaC stack is a direct match; 5+ yrs req; new company on shortlist; est. $150k–$190k | 8 | Specific posting | |
+| 259 | Atlassian | Senior ML Engineer (Anti-Abuse) | Sydney / Remote AU (TEAM Anywhere) | Active Aug 2026 | Build ML/AI systems to detect abusive content and behaviour across Atlassian products at cloud scale; Python + ML/AI algorithms; TEAM Anywhere policy = fully remote from Melbourne eligible; distinct from Atlassian India (R134); est. A$180k–$310k TC (Atlassian ML salary band from Glassdoor/levels.fyi) | 8 | Specific posting | |
+| 260 | H2O.ai | Machine Learning Engineer | Melbourne (LinkedIn listing) | Active Aug 2026 | Global open-source AI/ML platform company (H2O AutoML, Driverless AI, H2O Wave); build end-to-end ML/data-flow pipelines + AI-driven applications using H2O Wave SDK + Python; confirmed via LinkedIn; est. $120k–$145k ⚠ verify salary ≥ AUD 95k floor before applying | 7 | Specific posting | |
+| 261 | DuluxGroup | Data Scientist (Hybrid WFH) | Clayton, Melbourne (hybrid) | Active Aug 2026 | ASX-listed paints/coatings manufacturer (Dulux, Cabot's); Python ML + predictive analytics turning data into smarter manufacturing/commercial decisions; hybrid WFH; new company on shortlist; est. $100k–$130k ⚠ verify salary ≥ AUD 95k before applying; supply-chain/manufacturing domain crossover | 6 | Specific posting | |
+
+### Remote-first scout — 2026-08-04
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R137 | CrowdStrike | Sr. AI Engineer (Remote, IND) | India (fully remote) | Active Aug 2026 | NYSE: CRWD (~$100B cybersecurity company); builds full lifecycle of agentic AI solutions — LLM-powered workflows, autonomous agents, CI/CD, IaC, DevSecOps; Salesforce Einstein/Agentforce + Slack agentic workflows + LangChain/LlamaIndex; agentic-AI/LLM edge is the CORE skill req (rare); 100% remote India; est. ₹35–65 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R138 | Mastercard | Senior AI Engineer (R-272578) | Singapore (189352) | Active Aug 2026 | Global payments network (NYSE: MA); design/develop/deploy AI/ML and GenAI solutions on Databricks, Azure AI Foundry, AWS AI Stack; AI data pipelines + model operationalisation at payment-network scale; fintech domain match; employer sponsorship likely required; est. SGD $10k–$15k/month (~AUD $175k–$265k). **Survives move: YES** | 7 | Specific posting | |
+| R139 | American Express | AI Engineer – Agentic AI | India (Gurugram/Bengaluru, hybrid) | Active Aug 2026 | Elite global financial services company India GCC; hands-on builder for production agentic AI systems operating on real financial data; LangGraph / multi-agent orchestration; directly matches rare agentic-AI/LLM edge; est. ₹30–55 LPA ⚠ verify specific posting on hackajob.com / careers.americanexpress.com before applying. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-04 (rows 258–261, R137–R139)
+- [Easygo Gaming — Senior MLOps Engineer, Melbourne (Greenhouse job 5119804007)](https://job-boards.greenhouse.io/easygo/jobs/5119804007)
+- [Easygo Gaming — Senior MLOps Engineer alt listing (Greenhouse job 4723421007)](https://job-boards.greenhouse.io/easygo/jobs/4723421007)
+- [Easygo Gaming — Melbourne office careers (Built In Melbourne)](https://builtinmelbourne.com/company/easygo)
+- [Atlassian — Senior ML Engineer Anti-Abuse, AU Remote (startup.jobs)](https://startup.jobs/senior-machine-learning-engineer-atlassian-2839791)
+- [Atlassian — Jobs in All Sydney NSW (SEEK)](https://au.seek.com/Atlassian-jobs/in-All-Sydney-NSW)
+- [H2O.ai — Machine Learning Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/machine-learning-engineer-at-h2o-ai-2863857762)
+- [DuluxGroup — Data Scientist Hybrid WFH, Clayton (SEEK)](https://www.seek.com.au/data-scientist-duluxgroup-jobs)
+- [CrowdStrike — Sr. AI Engineer Remote IND (Himalayas)](https://himalayas.app/companies/crowdstrike/jobs/sr-ai-engineer-remote-ind)
+- [CrowdStrike — AI Engineer Remote IND (Jobgether)](https://jobgether.com/offer/6a2fd43b63c956434a782612-ai-engineer-remote-ind)
+- [CrowdStrike — Sr. AI Engineer Remote IND (WhyNotRemote)](https://www.whynotremote.com/jobs/sr-ai-engineer-remote-ind-5b30cfeb)
+- [Mastercard — Senior AI Engineer Singapore R-272578 (Mastercard Careers)](https://careers.mastercard.com/us/en/job/R-272578/Senior-AI-Engineer)
+- [American Express — Agentic AI Engineer India (Hackajob / Amex Careers)](https://hackajob.com)
