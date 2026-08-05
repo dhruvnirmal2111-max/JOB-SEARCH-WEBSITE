@@ -11,7 +11,7 @@ They want to know you can **run several things at once, prioritise well, move fa
 
 ## PART 1 - YOUR 7 CORE STORIES (memorise the shape, not a script)
 
-### Story A - "The Juggle" (multiple projects + competing deadlines) — YOUR #1 STORY HERE
+### Story A - "The Juggle" (multiple projects + competing deadlines)  - YOUR #1 STORY HERE
 - **S/T:** One week I had four things live at once: a big product-catalogue build, a smaller bill-of-materials analysis, an urgent supplier tender evaluation, and a deliverable a teammate needed from me.
 - **A:** I triaged by urgency, effort and impact. Did the **tender evaluation first** (urgent and short, unblocked the client), knocked out the BOM next for momentum, **delegated** the teammate piece with clear context so it didn't sit on me, and protected focused time for the big catalogue build at the end.
 - **R:** Everything landed on time, the client's negotiation went ahead on schedule, and the catalogue shipped clean. Rule I work by: small-and-urgent first for momentum, protect the big deliverable, delegate what doesn't need me.
