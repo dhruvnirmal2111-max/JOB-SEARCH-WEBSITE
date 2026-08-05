@@ -175,11 +175,11 @@
   },
   {
     "id": "7eleven-send-revised-resume-20260714",
-    "title": "Send revised resume to 7-Eleven recruiter — URGENT",
+    "title": "Send revised resume to 7-Eleven recruiter \u2014 URGENT",
     "kind": "follow-up",
     "start": "2026-07-14T09:00:00",
     "end": "2026-07-14T09:30:00",
-    "notes": "Revised 2-page PDF is at job-search/pipeline/7-eleven--data-scientist-pricing/Dhruv_Nirmal_7-Eleven_Data_Scientist.pdf (revised 2026-07-11 per interviewer feedback: engagement-grouped stories, tools named, LLM work labelled as internal). Send to the recruiter who contacted you about the Richmond role. This is the ONLY active interview — don't let it go cold.",
+    "notes": "Revised 2-page PDF is at job-search/pipeline/7-eleven--data-scientist-pricing/Dhruv_Nirmal_7-Eleven_Data_Scientist.pdf (revised 2026-07-11 per interviewer feedback: engagement-grouped stories, tools named, LLM work labelled as internal). Send to the recruiter who contacted you about the Richmond role. This is the ONLY active interview \u2014 don't let it go cold.",
     "source": "7-eleven--data-scientist-pricing",
     "status": "pending"
   },
@@ -189,7 +189,7 @@
     "kind": "deadline",
     "start": "2026-07-15T09:00:00",
     "end": "2026-07-15T09:30:00",
-    "notes": "Row R56 in shortlist.md. Fully remote (global, APAC-eligible). Design + deploy agentic LLM workflows for enterprise clients (RAG pipelines, orchestration, vector DBs). Closes Jul 16 — set Pursue? = yes in shortlist.md TODAY so tonight's engine builds the package, or run /quick-apply immediately. Fit 9. Survives move to India: YES.",
+    "notes": "Row R56 in shortlist.md. Fully remote (global, APAC-eligible). Design + deploy agentic LLM workflows for enterprise clients (RAG pipelines, orchestration, vector DBs). Closes Jul 16 \u2014 set Pursue? = yes in shortlist.md TODAY so tonight's engine builds the package, or run /quick-apply immediately. Fit 9. Survives move to India: YES.",
     "source": "campaign",
     "status": "pending"
   },
@@ -199,7 +199,7 @@
     "kind": "deadline",
     "start": "2026-07-16T09:00:00",
     "end": "2026-07-16T09:30:00",
-    "notes": "Row 132 in shortlist.md. Melbourne / multi-site AU (flexible). Healthcare nonprofit; lead + build ML/AI team to productionise models in regulated health environment. Est. $140–180k. Closes Jul 17 — set Pursue? = yes in shortlist.md tonight so the application engine can build it. Permanent full-time.",
+    "notes": "Row 132 in shortlist.md. Melbourne / multi-site AU (flexible). Healthcare nonprofit; lead + build ML/AI team to productionise models in regulated health environment. Est. $140\u2013180k. Closes Jul 17 \u2014 set Pursue? = yes in shortlist.md tonight so the application engine can build it. Permanent full-time.",
     "source": "campaign",
     "status": "pending"
   },
@@ -210,7 +210,9 @@
     "start": "2026-07-17T15:00:00",
     "end": "2026-07-17T16:00:00",
     "timeZone": "Australia/Melbourne",
-    "recurrence": ["RRULE:FREQ=WEEKLY"],
+    "recurrence": [
+      "RRULE:FREQ=WEEKLY"
+    ],
     "notes": "Run /networking-hour. Remote + India/Dubai/Singapore data & AI focus: confirm scouted dream companies (Pursue? = yes in network/target-accounts.md), run /connect <company> on confirmed ones, send today's due connection requests + touches (all drafts, you send manually). Weekly recurring block; move it if the time doesn't suit.",
     "source": "networking",
     "status": "created",
@@ -301,8 +303,20 @@
     "kind": "outreach",
     "start": "2026-07-16T09:00:00",
     "end": "2026-07-16T09:20:00",
-    "notes": "Send the drafted messages in job-search/pipeline/linktree--data-analyst/outreach.md. Confirmed leads: Nathalie Grandy (recruiter, verify still Linktree + APAC vs US) + Martin Gould (Senior Director, senior). The 2 peers + 1 manager slots hold LinkedIn search filters, not names — find + verify the real current Linktree analyst/manager before sending those. You send manually.",
+    "notes": "Send the drafted messages in job-search/pipeline/linktree--data-analyst/outreach.md. Confirmed leads: Nathalie Grandy (recruiter, verify still Linktree + APAC vs US) + Martin Gould (Senior Director, senior). The 2 peers + 1 manager slots hold LinkedIn search filters, not names \u2014 find + verify the real current Linktree analyst/manager before sending those. You send manually.",
     "source": "linktree--data-analyst",
     "status": "pending"
+  },
+  {
+    "id": "revenuecat-outreach-20260807",
+    "title": "Send outreach: RevenueCat Data Analyst",
+    "kind": "outreach",
+    "start": "2026-08-07T09:00:00",
+    "end": "2026-08-07T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/revenuecat--data-analyst/outreach.md. Verify each person is current at RevenueCat on LinkedIn before sending (remote-first, global; placeholders need real names). You send manually.",
+    "source": "revenuecat--data-analyst",
+    "status": "created",
+    "gcal_event_id": "2l36dsh205uu2uqgb3u6f31lc0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=MmwzNmRzaDIwNXV1MnVxZ2IzdTZmMzFsYzAgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 16
+- Active applications: 17
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -33,6 +33,7 @@
 | Global Power Components | Inventory Control Analyst (remote-only, manufacturing; data-integrity + inventory) | global-power-components--inventory-control-analyst | Applying | **Owner: confirm US-CT-timezone + no-visa fit**; review PDF + cover letter; `/review-outreach` | — | 2026-07-16 |
 | BOUNCE | Commercial & Procurement Analyst (Finance — F&B procurement/pricing/inventory) | bounce--commercial-procurement-analyst | Applying | Owner: submit application + review outreach; confirm displayed current-role title; `/review-outreach`; `/review-calendar` | — | 2026-07-22 |
 | Linktree | Data Analyst (Business Analytics, L3) | linktree--data-analyst | Applying | Owner: confirm displayed title ("Data Analyst"); review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-07-18 | 2026-07-15 |
+| RevenueCat | Data Analyst (analytics partner, remote-first) | revenuecat--data-analyst | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-08 | 2026-08-04 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
