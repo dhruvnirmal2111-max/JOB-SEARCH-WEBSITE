@@ -1351,3 +1351,37 @@
 - [CrowdStrike — Sr. AI Engineer Remote IND (WhyNotRemote)](https://www.whynotremote.com/jobs/sr-ai-engineer-remote-ind-5b30cfeb)
 - [Mastercard — Senior AI Engineer Singapore R-272578 (Mastercard Careers)](https://careers.mastercard.com/us/en/job/R-272578/Senior-AI-Engineer)
 - [American Express — Agentic AI Engineer India (Hackajob / Amex Careers)](https://hackajob.com)
+
+### Daily scout — 2026-08-05
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 262 | Tennis Australia | Senior Data Engineer | Melbourne (hybrid) | Aug 2026 | Sports-tech org running the Australian Open; Azure cloud platform + CI/CD data pipeline engineering; permanent full-time; 5 weeks AL (Take5 program); new sector on shortlist; est. $120–145k | 7 | Specific posting | |
+| 263 | GMHBA | Data Engineer | Epping, Melbourne (hybrid) | Aug 2026 | Not-for-profit private health insurer; data engineering in healthcare/insurance domain; new company on shortlist; ⚠ verify salary ≥ AUD 95k floor before applying; est. $100–130k | 6 | Specific posting | |
+| 264 | Australian Broadcasting Corporation (ABC) | Machine Learning Engineer | Melbourne (hybrid) | Jul–Aug 2026 | National public broadcaster; ML engineering at media/content-analytics scale; Python + ML scope; new company on shortlist; est. $110–150k ⚠ verify salary ≥ AUD 95k floor | 6 | Specific posting | |
+| 265 | SEEK Ltd | Lead AI Platform Engineer (multi-cloud GenAI / ML) | Cremorne, Melbourne (hybrid) | Aug 2026 | **3rd distinct SEEK role** (rows 17 = Staff DE, 255 = Senior DS); owns the multi-cloud GenAI/ML platform with enterprise reliability and scale; agentic-AI/LLM edge directly relevant; est. $180–200k base + performance bonus — top comp in the Aug batch | 9 | Specific posting | |
+
+### Daily scout sources — 2026-08-05 (rows 262–265)
+- [Tennis Australia — Senior Data Engineer, Melbourne (SEEK)](https://au.seek.com/Tennis-Australia-jobs/in-All-Melbourne-VIC)
+- [Tennis Australia — Careers (Workday)](https://tennis.wd3.myworkdayjobs.com/en-US/ta_careers)
+- [GMHBA — Data Engineer, Epping VIC (SEEK)](https://au.seek.com/data-engineer-gmhba-jobs/in-Epping-VIC-3076)
+- [GMHBA — Jobs (SEEK)](https://www.seek.com.au/GMHBA-jobs)
+- [Australian Broadcasting Corporation — Machine Learning Engineer, Melbourne (SEEK)](https://au.seek.com/Australian-Broadcasting-Corporation-jobs/in-All-Melbourne-VIC)
+- [SEEK Ltd — Lead AI Platform Engineer GenAI/ML, Cremorne (SEEK AI Jobs Melbourne)](https://au.seek.com/artificial-intelligence-jobs/in-All-Melbourne-VIC)
+
+### Remote-first scout — 2026-08-05
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R140 | Gartner | Sr Software Engineer (Python + LangGraph / LangChain / RAG) | Gurgaon, India (hybrid) | Aug 2026 | Global research & advisory firm (NASDAQ: IT); builds AI applications using LangGraph/LangChain + RAG with Vector DBs on AWS for Gartner's enterprise product suite; 4–6 yrs exp; confirmed active on jobs.gartner.com (job ID 107717); elite brand + elite India-move profile fit; est. ₹20–30 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R141 | Databricks | AI Engineer – FDE (Forward Deployed Engineer) | India (fully remote) | Aug 2026 | The #1 modern data platform company; India-remote FDE embeds with enterprise clients to build + productionise end-to-end AI/data solutions on the Databricks platform; data engineering + AI + app dev ownership end-to-end; direct stack match; **distinct from AU row 25 (Melbourne FDE)**; confirmed on databricks.com careers (IDs 8099751002 / 8134190002); est. ₹30–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R142 | Cognizant | Senior Engineer – Forward Deployed (Agentic AI) | Bangalore / Chennai (hybrid) | Aug 2026 | Cognizant launched EMEA AI Unit (Jul 28, 2026) signalling major agentic-AI scale-up; India FDE embeds with enterprise clients deploying LangGraph/CrewAI/AutoGen/AWS Bedrock agentic systems; **distinct from AU company-target row 8 (Melbourne DE)**; confirmed active on careers.cognizant.com (job 00069053831); est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R143 | Staffnix | Senior Python Backend Engineer (GenAI / LLM / LangChain / LangGraph / RAG / FastAPI / Agentic AI) | India (remote / hybrid) | Jun–Aug 2026 | Confirmed active LinkedIn listing (job 4433490913); full agentic AI + RAG stack aligns directly with rare LLM/agentic-AI edge; new company on shortlist; est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Remote-first scout sources — 2026-08-05 (R140–R143)
+- [Gartner — Sr Software Engineer LangGraph/LangChain, Gurgaon (jobs.gartner.com job 107717)](https://jobs.gartner.com/jobs/job/107717-sr-software-engineer-4-6-yrs-in-python-langgraph-langchain-required/)
+- [Gartner — Sr Software Engineer LangGraph (LinkedIn)](https://in.linkedin.com/jobs/view/sr-software-engineer-4-6-yrs-in-python-langgraph-langchain-required-at-gartner-4429316375)
+- [Databricks — AI Engineer FDE India Remote (databricks.com careers 8099751002)](https://www.databricks.com/company/careers/professional-services-operations/ai-engineer---fde-forward-deployed-engineer-8099751002)
+- [Databricks — AI Engineer FDE India Remote (databricks.com careers 8134190002)](https://www.databricks.com/company/careers/professional-services-operations/ai-engineer---fde-forward-deployed-engineer-8134190002)
+- [Cognizant — Senior Engineer Forward Deployed Agentic AI, Bangalore/Chennai (careers.cognizant.com job 00069053831)](https://careers.cognizant.com/india-en/jobs/00069053831/senior-engineer-forward-deployed-engineer/)
+- [Staffnix — Senior Python Backend Engineer GenAI/LLM/LangChain/LangGraph/RAG/FastAPI, India (LinkedIn job 4433490913)](https://in.linkedin.com/jobs/view/senior-python-backend-engineer-genai-llm-langchain-langgraph-rag-fastapi-postgresql-agentic-ai-at-staffnix-4433490913)
