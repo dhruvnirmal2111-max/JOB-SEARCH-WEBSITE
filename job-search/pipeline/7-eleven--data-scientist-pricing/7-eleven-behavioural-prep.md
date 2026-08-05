@@ -7,6 +7,13 @@
 ## PART 0 - The meta-signal to hit all interview
 They want to know you can **run several things at once, prioritise well, move fast, and still land quality**. Every answer should quietly reinforce: *I own it, I prioritise, I move, I deliver, I communicate.* Don't wait to be asked "can you handle pace", prove it in how you tell the stories (crisp, structured, outcome-first).
 
+**The three areas they will assess (confirmed by the recruiter):**
+1. **Fast-paced, high-pressure environment (biggest focus)** to tight deadlines, prioritising, competing priorities, delivering on time. Stories A, B, G.
+2. **Handling ambiguity** to unclear requirements, deciding with incomplete info, taking initiative. Stories C, A.
+3. **Communication and stakeholder management** to communicating clearly, managing expectations, keeping people informed. Stories D, H, and Part 3B.
+
+**The one phrase to internalise (they said it explicitly):** deliver quality *without getting caught up in perfection, and move on to the next priority when needed*. They want a **pragmatist who ships**, not a perfectionist. Work this in naturally: "I aim for the answer that's good enough to act on by the deadline, then iterate if it matters, rather than polishing something no one needed perfect." Say some version of this at least once. It is a core thing they're screening for.
+
 ---
 
 ## PART 1 - YOUR 7 CORE STORIES (memorise the shape, not a script)
@@ -53,6 +60,12 @@ They want to know you can **run several things at once, prioritise well, move fa
 - **R:** Turned a specialist job into a button any teammate can press, on track to save ~10 hours per person a month. I look for the thing that unblocks the whole team, not just me.
 - *Answers: ownership, leadership, initiative, teamwork, impact, going beyond the role.*
 
+### Story H - "Managing Expectations" (communication under pressure + ship-not-perfect)
+- **S/T:** A client wanted a full spend analysis faster than was realistically deliverable at full depth, and I could feel the deadline and the ambition pulling apart.
+- **A:** I didn't over-promise. I scoped what I could deliver reliably by the deadline, a first cut on the highest-value categories where the money was, told them clearly what would land now and what would follow, and agreed that up front. Then I kept them updated as I went rather than going quiet.
+- **R:** They got a trustworthy answer on time and knew exactly what was coming next, no surprises. I'd rather set a clear, honest expectation and beat it than promise everything and slip, and get the useful 80% out the door rather than polish the last 20% no one needed yet.
+- *Answers: managing expectations, communication, prioritisation, quality-without-perfectionism, delivering on time.*
+
 ---
 
 ## PART 2 - QUESTION to STORY MAP (know which story to reach for)
@@ -91,6 +104,21 @@ They want to know you can **run several things at once, prioritise well, move fa
 **"Where do you see yourself / what do you want to grow into?"** to "Deeper in pricing and product data science, and stronger on the production-engineering side. I want to keep being the person who turns an ambiguous commercial question into a number the business acts on, at bigger scale."
 
 **"A time you got tough feedback."** to Story E framing: took it on board, fixed the immediate thing, and changed the system so it wouldn't recur.
+
+---
+
+## PART 3B - COMMUNICATION & STAKEHOLDER MANAGEMENT (Area 3, expect several)
+
+**"How do you communicate with stakeholders?"**
+> "I match the message to the audience and lead with what they care about, the decision or the number, not the method. I keep it in their language, not mine, the way I walked a procurement client through one familiar item end to end so the analysis clicked. And I'm explicit about caveats: what the number does and doesn't say, so no one over-reads it."
+
+**"Tell me about a time you had to manage expectations."** to **Story H**. Land the line: "set a clear, honest expectation and beat it, rather than promise everything and slip."
+
+**"How do you keep your team or stakeholders informed during a project?"**
+> "A regular cadence and no surprises. On the restaurant engagement I ran bi-weekly progress meetings with the Chief Procurement Officer and category managers, and on my pipelines I built automated alerts so the client hears about a bad file or a failed step immediately, not at the deadline. My rule is that stakeholders always know where things stand and what's next, and blockers get surfaced the moment they appear, not when they've become a problem."
+
+**"A time you had to deliver bad news or push back on a stakeholder."**
+> "I keep it factual and early. When an analysis wasn't going to be as precise as a client hoped, I told them straight what the reliable version looked like and what I couldn't stand behind yet, and offered the path to get there. Being trusted matters more than being liked, and stakeholders respect a clear, early, honest read over a comfortable vague one."
 
 ---
 
