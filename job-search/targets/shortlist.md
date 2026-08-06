@@ -1385,3 +1385,28 @@
 - [Databricks — AI Engineer FDE India Remote (databricks.com careers 8134190002)](https://www.databricks.com/company/careers/professional-services-operations/ai-engineer---fde-forward-deployed-engineer-8134190002)
 - [Cognizant — Senior Engineer Forward Deployed Agentic AI, Bangalore/Chennai (careers.cognizant.com job 00069053831)](https://careers.cognizant.com/india-en/jobs/00069053831/senior-engineer-forward-deployed-engineer/)
 - [Staffnix — Senior Python Backend Engineer GenAI/LLM/LangChain/LangGraph/RAG/FastAPI, India (LinkedIn job 4433490913)](https://in.linkedin.com/jobs/view/senior-python-backend-engineer-genai-llm-langchain-langgraph-rag-fastapi-postgresql-agentic-ai-at-staffnix-4433490913)
+
+### Daily scout — 2026-08-06
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 266 | Slalom | Senior Engineer – Data and AI | Sydney / Canberra / Melbourne (hybrid, consulting) | Aug 3, 2026 | Global consulting firm; cloud data platform engineering across Snowflake, Databricks, Azure Synapse, Spark, AWS, MLflow + AI/ML tools; analytics-consulting domain match; 44+ AU open roles signal active hiring; new company on shortlist; est. $130–160k | 8 | Specific posting | |
+| 267 | NCS Group Australia | AI Transformation Lead – Financial Services | Melbourne (hybrid) | Active Aug 2026 | Singapore-headquartered tech services firm; **distinct from row 89** (Senior Data Engineer – engineering delivery) — this is a senior AI strategy/leadership role across banks, insurers, wealth, super clients; AI transformation scope at sector scale; est. $150–200k | 7 | Specific posting | |
+| 268 | Confidential ASX medtech (via Talent Insights Group) | Lead Applied Data Scientist | Melbourne (hybrid) | Jul–Aug 2026 | ASX-listed medtech; **first data hire** building the DS function from scratch; proprietary sEMG signal data → ML/signal-processing domain; high-ownership founding-team role; growth path to Head of Data Science; est. $120–160k ⚠ verify salary ≥ AUD 95k floor | 7 | Recruiter posting | |
+| 269 | Catch.com.au (Wesfarmers Digital) | Data Engineer | Melbourne (hybrid) | Aug 2026 | Australian e-commerce marketplace (Wesfarmers subsidiary); **distinct from row 40** (OneDigital Melbourne); data pipeline + ML/analytics scope; AWS/cloud tech stack; est. $115–140k ⚠ verify salary ≥ AUD 95k floor before applying | 7 | Specific posting | |
+| 270 | Confidential energy startup (via recruiter Sean Gray / SEEK) | Senior AI/ML Engineer | Melbourne | Aug 2026 | Early-stage energy-tech startup; **first ML hire** with ownership of the ML function; **$155,000–$160,000 + super + ESOP** confirmed (well above floor); growth path to Lead / Head of ML; high-autonomy founding-team role; new company on shortlist | 8 | Recruiter posting | |
+
+### Remote-first scout — 2026-08-06
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R144 | Deloitte South Asia | Senior Consultant – GEN AI (SAP) | Bengaluru, India (hybrid) | Active Aug 2026 | Big-4 consulting firm India; GenAI consulting on SAP enterprise platform — design + deliver GEN AI solutions for large-enterprise clients; AI/LLM scope aligns with north-star direction; consulting domain (analytics/AI practice); Deloitte brand strong for India market entry; est. ₹20–35 LPA. **Survives move: YES** | 6 | Specific posting | |
+
+### Daily scout sources — 2026-08-06 (rows 266–270, R144)
+- [Slalom — Senior Engineer Data and AI, Sydney/Canberra/Melbourne (Slalom Careers)](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Senior-Engineer-Data-and-AI-Sydney-Canberra-Melbourne/1797)
+- [Slalom — AU Jobs (Built In Melbourne)](https://builtinmelbourne.com/company/slalom)
+- [NCS Group — AI Transformation Lead Financial Services, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/ai-transformation-lead-financial-services/9577757)
+- [Talent Insights Group — Lead Applied Data Scientist, Melbourne ASX medtech (SEEK)](https://au.seek.com/data-science-jobs/in-All-Melbourne-VIC)
+- [Catch.com.au — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-catch-2830641380)
+- [Confidential energy startup — Senior AI/ML Engineer $155–160k Melbourne (SEEK via recruiter Sean Gray)](https://au.seek.com/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [Deloitte South Asia — Senior Consultant GEN AI Bengaluru (southasiacareers.deloitte.com)](https://southasiacareers.deloitte.com/job/Bengaluru-Senior-Consultant-GEN-AI-Bengaluru-SAP/54496844)
