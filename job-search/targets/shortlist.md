@@ -1410,3 +1410,31 @@
 - [Catch.com.au — Data Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/data-engineer-at-catch-2830641380)
 - [Confidential energy startup — Senior AI/ML Engineer $155–160k Melbourne (SEEK via recruiter Sean Gray)](https://au.seek.com/ai-engineer-jobs/in-All-Melbourne-VIC)
 - [Deloitte South Asia — Senior Consultant GEN AI Bengaluru (southasiacareers.deloitte.com)](https://southasiacareers.deloitte.com/job/Bengaluru-Senior-Consultant-GEN-AI-Bengaluru-SAP/54496844)
+
+### Daily scout — 2026-08-07
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 271 | LAB3 Pty Ltd | Senior Engineer – AI | Remote AU (fully remote) | Active Aug 2026 | Boutique Azure consultancy; **distinct from row 141** (Senior Data Engineer) — this is a dedicated AI/GenAI engineering role: design, build, operationalise Agentic AI + GenAI pipelines on Azure; RAG pipelines; production CI/CD + observability; AU citizen required (security clearance preferred); direct match to agentic-AI edge; est. $155–185k | 8 | Specific posting | |
+| 272 | Xero | Senior Data Scientist – Product | Hawthorn, Melbourne (hybrid) | Active Aug 2026 | Global fintech/SaaS; **distinct from row 13** (Senior DE – Platforms) and **row 246** (Analytics Engineer) — end-to-end DS: data exploration, feature engineering, model dev, training, validation, optimisation for product decisions; strong fintech/tech domain; estimated $146–187k (Glassdoor DS band for Xero AU); new role type on shortlist | 7 | Specific posting | |
+| 273 | Quantium | Data Engineer / Analytics Engineer | Melbourne (hybrid) | Active Aug 2026 | Premier AU data analytics consultancy (Woolworths partnership, wiq platform, Q.Refinery); **new company on shortlist** (row 41 is Woolworths, not Quantium); 44+ active AU roles; Python/SQL/cloud DE or dbt/Snowflake AE paths both open; high-prestige AU data brand; est. $115–145k ⚠ verify salary listing ≥ AUD 95k floor | 8 | Specific posting | |
+
+### Remote-first scout — 2026-08-07
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R145 | Synopsys | Gen AI Staff Engineer | Bengaluru, India (on-site) | Jan–Aug 2026 (confirmed active) | EDA/semiconductor company; **new sector + new company on shortlist**; Staff-level scope — GenAI + RAG + agentic AI + LangGraph + LangChain + LlamaIndex + MCP + A2A protocols; **explicitly names Claude as one of the LLM platforms**; rare alignment with agentic-AI edge; est. ₹35–55 LPA (Staff Eng band). **Survives move: YES** | 8 | Specific posting | |
+| R146 | Deqode | GenAI & Agentic AI Engineer | India (remote-only) | Active Aug 2026 | AI product consultancy; **new company on shortlist**; 5–8 yrs scope; Azure + GenAI + RAG + agentic automation; builds enterprise-grade AI solutions; fully remote survives AU→India move; est. ₹25–45 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R147 | Hucon Solutions | Senior AI Engineer – Agentic AI | Bengaluru / Hyderabad / Pune, India | Active Aug 2026 | IT staffing firm placing into product/enterprise environments; **new company on shortlist**; multi-agent LangGraph/LangChain agentic AI solutions; aligns with rare agentic-AI edge; est. ₹25–45 LPA. **Survives move: YES** | 7 | Staffing placement | |
+
+### Daily scout sources — 2026-08-07 (rows 271–273, R145–R147)
+- [LAB3 — Senior Engineer AI, Remote AU (Himalayas)](https://himalayas.app/companies/lab3/jobs/senior-engineer-ai)
+- [LAB3 — Careers (lab3.com.au)](https://www.lab3.com.au/careers/)
+- [Xero — Senior Data Scientist Product, Melbourne (Xero Careers)](https://careers.xero.com/jobs/)
+- [Xero — Data Scientist roles AU (Glassdoor)](https://www.glassdoor.com.au/Jobs/Xero-Data-Scientist-Jobs)
+- [Quantium — Data Engineer / Analytics Engineer, Melbourne (LinkedIn)](https://au.linkedin.com/company/quantium/jobs)
+- [Quantium — Careers (quantium.com)](https://www.quantium.com/careers/)
+- [Synopsys — Gen AI Staff Engineer, Bengaluru (Synopsys Careers job 90941185520)](https://careers.synopsys.com/job/bengaluru/gen-ai-staff-engineer/44408/90941185520)
+- [Deqode — GenAI & Agentic AI Engineer, India remote (CutShort)](https://cutshort.io/job/AI-ML-Gen-AI-Engineer-Deqode-rBeFu9Y4)
+- [Deqode — GenAI & Agentic AI Engineer (LinkedIn job 4443604226)](https://in.linkedin.com/jobs/view/genai-agentic-ai-engineer-at-deqode-4443604226)
+- [Hucon Solutions — Senior AI Engineer Agentic AI, India (BeBee)](https://bebee.com/in/jobs/senior-ai-engineer-agentic-ai-langchain-langgraph-hucon-solutions)
