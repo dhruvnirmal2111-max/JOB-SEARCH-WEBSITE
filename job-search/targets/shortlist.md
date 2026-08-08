@@ -430,6 +430,36 @@
 |------|---------|------|----------|--------|------------------------------|-----|------|---------|
 | R76 | Databricks India | AI Engineer – FDE (Forward Deployed Engineer) | Remote India / Bengaluru | Jul 12, 2026 | Customer-facing AI delivery team building + productionising first-of-kind AI apps on Databricks; exact India counterpart to AU row 25 (Melbourne FDE); freshest Databricks India posting; est. ₹40–80 LPA (Databricks India avg total comp ₹78 LPA). **Survives move: YES** | 8 | Specific posting | |
 
+### Daily scout — 2026-08-08
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 181 | Slalom | Senior Engineer – Data and AI | Sydney / Canberra / Melbourne (hybrid) | ~Aug 2026 | Global tech consultancy (AU presence); cloud data warehouse (Snowflake, Databricks, Azure Synapse) + AI engineering on enterprise client projects; analytics consulting domain match; Melbourne Glassdoor avg $122k–$180k; confirmed on slalom.com/careers | 8 | Specific posting | |
+| 182 | Tennis Australia | Senior Data Engineer (×2 permanent) | Melbourne (Park, hybrid) | ~Aug 2, 2026 | Technology team powering the Australian Open; data pipeline + warehouse infrastructure at a major sports org; fresh posting (6 days ago per SEEK); Azure/Python stack likely; est. $105–$135k ⚠️ verify salary ≥ $95k floor before applying | 7 | Specific posting | |
+| 183 | Austin Health (State Government of Victoria) | Data Engineer – Azure DW & ML Pipelines | Melbourne (Heidelberg, hybrid) | ~late Jul 2026 | Major Melbourne public health network (Box Hill Hosp + SVHM network); lead Fabric data warehouse rebuild + embed ML models into production pipelines; CI/CD + PySpark + Azure DevOps + Azure Fabric stack match; new company on shortlist; est. $100–$130k + 11.5% super | 7 | Specific posting | |
+| 184 | Global 360 | Senior & Mid-Level Data Engineer (Azure) | Doncaster, Melbourne (hybrid) | ~Jul 28, 2026 | Digital transformation/IT services firm; multiple openings in a concurrent enterprise data project; Azure Synapse + Databricks + Python data pipelines; contract to Dec 2026 with strong extension potential; est. $90–$140/hr ⚠️ contract role — confirm perm preference + rate floor before applying | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-08
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R77 | Cognition AI | Applied AI Engineer | Remote Australia | Aug 6, 2026 | Cognition ($25B valuation, creator of Devin — world's first autonomous AI software engineer); deploy Devin at enterprise engineering teams + integrate agentic workflows into real software pipelines + shape the Applied AI function from the ground up; USD $180k–$225k; 3+ yrs software/FDE/solutions-eng exp; agentic-AI edge is the CORE req. ⚠️ AU remote confirmed on Remotive — verify India eligibility after relocating. **Survives move: PARTIAL** | 9 | Specific posting | |
+| R78 | American Express | AI Engineer I / II — Agentic AI | Bengaluru, India | ~Aug 2026 | Fortune 50 global payments network; builds and scales production agentic AI systems (plan, reason, act across complex workflows) inside Amex Technology; Python + LangChain/LangGraph + LLM orchestration; confirmed active listings on Eightfold (job 40325188) + careers.americanexpress.com; est. ₹20–45 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R79 | Stripe | Staff Engineer, Data & AI | Bengaluru, India (on-site) | ~late Jul 2026 | Global payments infrastructure; builds data + AI products at Stripe's Bengaluru tech hub; very high comp (Staff level est. ₹80–120 LPA); premium brand + deep engineering culture; 100% in-office Bengaluru ⚠️ on-site only (no remote); **distinct from R38 (Backend / Data Lake, US tz).** **Survives move: YES** | 7 | Specific posting | |
+| R80 | Canva | Staff ML Engineer – Visual Suite Platform | Remote AU | ~Aug 2026 | 5th distinct Canva ML role (cf. rows 18, 21, 124, 153); builds ML systems powering Sheets, Docs, Whiteboards, Presentations + AI content intelligence at Canva scale; Python + PyTorch/TF; AU remote; Staff-level est. $200–$280k TC; confirmed on lifeatcanva.com (job 6000000001268114). **Survives move: AU-only** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-08-08 (rows 181–184, R77–R80)
+- [Slalom — Senior Engineer Data and AI, Sydney/Canberra/Melbourne (Slalom Careers)](https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Senior-Engineer-Data-and-AI-Sydney-Canberra-Melbourne/1797)
+- [Tennis Australia — Senior Data Engineer (×2), Melbourne (SEEK)](https://au.seek.com/Tennis-Australia-jobs/in-All-Melbourne-VIC)
+- [Austin Health — Data Engineer Azure DW & ML Pipelines, Melbourne (Haystack)](https://haystackapp.io/jobs/0a469184-224f-4ed0-a66f-c3d968edacaa)
+- [Global 360 — Senior Data Engineer, Doncaster Melbourne (SEEK)](https://www.seek.com.au/Global-360-jobs/in-All-Melbourne-VIC)
+- [Cognition AI — Applied AI Engineer, Remote Australia (Ashby / Remotive)](https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d)
+- [Cognition AI — Remotive listing (AU remote confirmed)](https://remotive.com/remote/jobs/artificial-intelligence/applied-ai-engineer-5447559)
+- [American Express — AI Engineer I Agentic AI, Bengaluru (Eightfold ATS)](https://aexp.eightfold.ai/careers/job/40325188-ai-engineer-i-agentic-ai-bengaluru-urban-karnataka-india?domain=aexp.com)
+- [American Express — AI Engineer roles Bengaluru (careers portal)](https://careers.americanexpress.com/en/sites/CX_1/job/26006900/)
+- [Stripe — Staff Engineer Data & AI, Bengaluru (Stripe Careers)](https://stripe.com/jobs/listing/staff-engineer-data-engineering-solutions/7548037)
+- [Canva — Staff ML Engineer Visual Suite Platform, AU remote (Canva Careers)](https://www.lifeatcanva.com/en/jobs/6000000001268114/staff-machine-learning-engineer-visual-suite-platform-au-remote/)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
