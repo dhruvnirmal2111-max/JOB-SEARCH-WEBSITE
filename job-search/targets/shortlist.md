@@ -1468,3 +1468,30 @@
 - [Deqode — GenAI & Agentic AI Engineer, India remote (CutShort)](https://cutshort.io/job/AI-ML-Gen-AI-Engineer-Deqode-rBeFu9Y4)
 - [Deqode — GenAI & Agentic AI Engineer (LinkedIn job 4443604226)](https://in.linkedin.com/jobs/view/genai-agentic-ai-engineer-at-deqode-4443604226)
 - [Hucon Solutions — Senior AI Engineer Agentic AI, India (BeBee)](https://bebee.com/in/jobs/senior-ai-engineer-agentic-ai-langchain-langgraph-hucon-solutions)
+
+### Daily scout — 2026-08-09
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 274 | Acenda (formerly MLC Life Insurance) | Agentic AI Engineer | Melbourne (hybrid) | ~Aug 2025 (⚠ verify still open — newly created role may still be filling) | Life insurer rebranded as Acenda; newly created role reporting to Senior Manager AI; builds LLM-powered products, agents, and RAG workflows in a regulated insurance environment; agentic-AI/LLM edge is the CORE skill req (rare); **new company on shortlist**; est. $130–165k | 9 | Specific posting | |
+| 275 | JANA Investment Advisers | Senior Data Engineer (Investment Data) | Melbourne (hybrid) | Active Aug 2026 | Leading AU investment consulting firm (~85 institutional super-fund/insurer clients); own and evolve enterprise data warehouse built on **Microsoft Fabric** (medallion bronze→gold architecture); investment data vendors + analytics engineering scope; reports to GM Technology & Data; est. $120–145k | 7 | Specific posting | |
+| 276 | Austin Health | Data Engineer (Azure DW & ML Pipelines) | Heidelberg, Melbourne (hybrid) | Active Aug 2026 | Large public health network (Box Hill, Heidelberg hospitals); major **Microsoft Fabric** warehouse rebuild — CI/CD pipelines, PySpark, Azure DevOps; embed ML models into pipelines + mentor junior engineers; supply-chain-adjacent operations data domain; public-sector stability; est. $108–130k ⚠ verify salary ≥ AUD 95k (VPS health bands typically exceed floor for 5+ yrs exp) | 7 | Specific posting | |
+| 277 | Keypath Education | Senior Data Scientist / ML Engineer | Camberwell, Melbourne (hybrid / WFH AU) | Active Aug 2026 | Leading EdTech partner with high-profile AU universities; ML + GenAI projects driving student outcomes and platform decisions; flexible work-anywhere options (hybrid or fully remote AU eligible); salary **confirmed $146,240–$161,631 p.a.**; new sector + new company on shortlist | 7 | Specific posting | |
+| 278 | Confidential ASX company (via Method Recruitment) | Senior Data Engineer (MS Fabric / Databricks) | Melbourne (hybrid) | May 13, 2026 (⚠ ~3 months old — verify still open) | Confidential client via Method Recruitment; shape and deliver a new **Microsoft Fabric**-first data platform; high-frequency telemetry + geospatial + operational datasets + data scientists collaboration; Databricks exposure valued but Fabric is primary; est. $140–175k (or ~$1,060/day contract) | 7 | Recruiter posting | |
+
+### Remote-first scout — 2026-08-09
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R148 | Sarvam AI | Applied AI Engineer (Sarvam Agents) | Bengaluru, India (on-site) | Active Aug 2026 | India's leading applied LLM company (foundational models for Indian languages, ₹2,000Cr+ funding); **Sarvam Agents** team builds production agents that plug into org tools/workflows (email, docs, calendars, SaaS, internal systems), take multi-step actions on schedule — **Dhruv's Job Hunt OS (MCP + Google Calendar multi-agent) is near-direct portfolio proof**; 2+ yrs Python backend + LLM API fluency + LangGraph/ADK + MCP servers at scale; 3–5 yrs total exp; est. ₹30–60 LPA (Applied AI / FDSE track). **Survives move: YES (on-site Bengaluru, planned relocation)** | 9 | Specific posting | |
+
+### Daily scout sources — 2026-08-09 (rows 274–278, R148)
+- [Acenda — Agentic AI Engineer, Melbourne (LinkedIn job 4281439363)](https://au.linkedin.com/jobs/view/agentic-ai-engineer-at-acenda-4281439363)
+- [Acenda — Agentic AI Engineer (Weekday.works)](https://jobs.weekday.works/acenda-agentic-ai-engineer)
+- [JANA Investment Advisers — Senior Data Engineer Investment Data, Melbourne (BeBee)](https://bebee.com/au/jobs/senior-data-engineer-investment-data-jana-investment-advisers-pty-ltd-melbourne-victoria--theirstack-637800894)
+- [JANA Investment Advisers — Jobs on SEEK](https://au.seek.com/JANA-Investment-Advisers-jobs)
+- [Austin Health — Data Engineer Azure DW & ML Pipelines, Melbourne (Haystack)](https://haystackapp.io/jobs/0a469184-224f-4ed0-a66f-c3d968edacaa)
+- [Keypath Education — Data Scientist Melbourne, Aug 2026 (SEEK data scientist jobs Melbourne)](https://au.seek.com/data-scientist-jobs/in-All-Melbourne-VIC)
+- [Method Recruitment — Senior Data Engineer MS Fabric/Databricks, Melbourne](https://www.methodrecruitment.com.au/job-details/senior-data-engineer-ms-fabricdatabricks-in-1-jobs-1442187)
+- [Sarvam AI — Applied AI Engineer Sarvam Agents, Bengaluru (sarvam.ai/careers)](https://www.sarvam.ai/careers/jobs/30259734-50c3-4f1c-81cd-8bff07e585e7)
+- [Sarvam AI — Applied AI Engineer Sarvam Agents (Agentic Engineering Jobs)](https://agentic-engineering-jobs.com/jobs/sarvam-applied-ai-engineer-sarvam-agents-kOdnk7)
