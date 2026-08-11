@@ -1495,3 +1495,34 @@
 - [Method Recruitment — Senior Data Engineer MS Fabric/Databricks, Melbourne](https://www.methodrecruitment.com.au/job-details/senior-data-engineer-ms-fabricdatabricks-in-1-jobs-1442187)
 - [Sarvam AI — Applied AI Engineer Sarvam Agents, Bengaluru (sarvam.ai/careers)](https://www.sarvam.ai/careers/jobs/30259734-50c3-4f1c-81cd-8bff07e585e7)
 - [Sarvam AI — Applied AI Engineer Sarvam Agents (Agentic Engineering Jobs)](https://agentic-engineering-jobs.com/jobs/sarvam-applied-ai-engineer-sarvam-agents-kOdnk7)
+
+### Daily scout — 2026-08-11
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 279 | LK Property Group Holdings | AI Engineer (Agentic AI / LLM) | Cremorne, Melbourne (hybrid) | Aug 2026 | Build-first role using **Anthropic Claude as the explicit base platform** across NBL, Brand Collective, Snooze, property + PE brands; ship real agents + AI systems from day one across a multi-billion-dollar diversified group; agentic-AI/LLM edge is the CORE skill req; $130,000–$150,000 p.a. | 9 | Specific posting | |
+| 280 | Confidential client via Opus Recruitment Solutions | Senior Agentic AI Engineer (AWS Bedrock / AgentCore / ADK) | Melbourne or Sydney (hybrid, 2 days/wk) | ~May–Aug 2026 | 4 roles available; design + build + operate production multi-agent systems on AWS Bedrock + AgentCore + ADK; LLM integration at scale; agentic-AI/LLM edge is the core skill req; 12-month contract; est. $180k–$200k/yr ⚠ fixed-term contract — confirm preference before applying | 9 | Recruiter posting | |
+| 281 | Confidential client via Morgan Consulting | Senior Data Engineer (Agentic AI / GenAI) | Melbourne | Active Aug 2026 | SEEK listing via Morgan Consulting; **$180,000 p.a.** confirmed; role specifically offers hands-on experience productionising Agentic AI + GenAI systems — directly matches rare LLM/agentic-AI edge on top of strong DE stack | 8 | Recruiter posting | |
+| 282 | Atlassian | Senior ML Engineer – GenAI Modeling & Innovation Forge | Remote ANZ (Sydney entity; distributed-first) | Active Aug 2026 | Atlassian Central AI org; designs + builds GenAI modelling + LLM experimentation infrastructure at global SaaS scale; Python + ML pipelines + model evaluation; fully distributed-first (AU remote confirmed); elite brand + career-defining scope; est. AUD $150k–$220k (Levels.fyi median TC $245k); **new company on shortlist** | 8 | Specific posting | |
+
+### Remote-first scout — 2026-08-11
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R149 | Pulsora Inc | Applied AI Engineer | India (fully remote) | Active Aug 2026 | Silicon Valley ESG/sustainability SaaS startup (founded 2021, well-funded); designs + deploys LLM-powered apps + agent-based systems in production; owns full product lifecycle; directly matches rare agentic-AI/LLM edge; fully remote India; est. ₹25–40 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R150 | GitLab | Senior AI Engineer | Remote global (AU / India-eligible) | Active Aug 2026 | 100% remote company with India + AU legal entities; builds GitLab Duo AI features — code intelligence + GenAI + tool integration; Python + REST/GraphQL + LLM integration at product scale; globally competitive comp; est. ₹30–55 LPA (India) / AUD $170–220k (AU); **new company on shortlist**. **Survives move: YES** | 8 | Specific posting | |
+| R151 | Atlassian | Senior ML System Engineer (Trust & Safety) | Bengaluru, India (Atlassian India entity) | Active Aug 2026 | Atlassian Threat Detection Engineering team; build + deploy ML models for anti-abuse + trust + safety at Atlassian product scale; Python + ML deployment at global SaaS scale; **distinct from row 282** (GenAI Modeling, ANZ remote); India entity confirmed; est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-11 (rows 279–282, R149–R151)
+- [LK Property Group Holdings — AI Engineer, Cremorne Melbourne (yarracityjobs.com.au)](https://yarracityjobs.com.au/industry/it/job/28583264/artificial-intelligence-engineer)
+- [LK Group — Full Time Jobs Melbourne (SEEK)](https://au.seek.com/LK-Group-jobs/in-All-Melbourne-VIC/full-time)
+- [Opus Recruitment Solutions — Senior AI Engineer AWS Bedrock Multiple Roles (opusrecruitmentsolutions.com)](https://opusrecruitmentsolutions.com/job-search/senior-ai-engineer-aws-bedrock-multiple-roles-jobs)
+- [Opus Recruitment Solutions — AI Engineer Melbourne posting (Opus careers)](https://www.opusrecruitmentsolutions.com/jobs/apply/35081693-ai-engineer-job-australia-melbourne)
+- [Morgan Consulting — Senior Data Engineer Agentic AI $180k Melbourne (SEEK agentic-ai-jobs)](https://au.seek.com/agentic-ai-jobs)
+- [Atlassian — Senior ML Engineer GenAI Modeling & Innovation Forge (Atlassian ICIMS job 22626)](https://globalcareers-atlassian.icims.com/jobs/22626/senior-machine-learning-engineer---genai-modeling-&-innovation-forge/job)
+- [Atlassian — Senior ML Engineer GenAI Modeling (LinkedIn job 4307897310)](https://sg.linkedin.com/jobs/view/senior-machine-learning-engineer-genai-modeling-innovation-forge-at-atlassian-4307897310)
+- [Pulsora — Applied AI Engineer, India remote (Ashby job 9ca9c174)](https://jobs.ashbyhq.com/pulsora%20inc/9ca9c174-6b07-4373-b255-ee526d27a986)
+- [Pulsora — AI Engineer India (Wellfound job 4121674)](https://wellfound.com/jobs/4121674-ai-engineer-india)
+- [GitLab — Senior AI Engineer, Remote (Welcome to the Jungle)](https://www.welcometothejungle.com/en/companies/gitlab/jobs/senior-ai-engineer_us_6turjwf4)
+- [GitLab — Careers (gitlab.com)](https://about.gitlab.com/jobs/)
+- [Atlassian — Senior ML System Engineer Trust & Safety Bengaluru (Jobright job 6a55af023caa2642da4194ac)](https://jobright.ai/jobs/info/6a55af023caa2642da4194ac)
