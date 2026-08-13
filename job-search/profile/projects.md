@@ -92,6 +92,18 @@ Client-facing analytics consulting; supplier/transaction datasets for enterprise
 - **What I did:** Built a similar automated inventory report for **another medical client**, on a **weekly refresh** cadence, supporting their inventory management rhythm.
 - **Delivery/impact:** Keeps the client's inventory view current on a weekly cycle without manual rebuilds. _(Only metric available: weekly refresh cadence.)_
 
+### P22. Supplier tender evaluations (restaurant chain + fresh-produce client) `#procurement #tender #supplier-evaluation #sourcing #pricing #fooddrink #packaging #stakeholders`
+- **Skills/tech:** Tender / RFP evaluation, supplier bid comparison, commercial and price analysis, category sourcing support.
+- **What I did:** As part of the procurement analytics consultancy (my current role — this kind of procurement work is the firm's core business), evaluated supplier tenders to help clients decide which supplier to award:
+  - **AU/NZ restaurant chain** (same client as P3): evaluated tenders for **chicken** supply and for **spirits** supply, comparing supplier bids on a like-for-like basis to support the client's sourcing decision.
+  - **Fresh-produce client** (same client family as P7 / P19): evaluated tenders for **fruit** supply and for **packaging**.
+- **Delivery/impact:** Gave clients a structured, comparable read of competing supplier tenders to inform the award decision across food, drink and packaging categories. _(Owner to confirm any savings/award outcomes; no hard figures captured yet.)_
+
+### P23. Self-service pipeline-refresh app (company-wide, 26 client accounts) `#dataengineering #pipelines #automation #etl #python #sql #git #orchestration #documentation`
+- **Skills/tech:** Python, SQL, Git / version control, ETL orchestration, full & incremental refresh, data validation, automated archiving, documentation, database cleaning.
+- **What I did:** In charge of automating the data-refresh pipelines behind a **company-wide app** across all **26 client accounts**. Turned a manual, specialist refresh into a **one-click** operation, with separate buttons for **ingestion, validation, downstream processing, and full pipeline runs (both full refresh and incremental)**, plus **automatic archiving**. The **entire project is maintained in Git** (version control, branching, change history). Maintain the pipeline **documentation** and keep the underlying **databases clean** so refreshes run reliably. (In progress.)
+- **Delivery/impact:** Makes a refresh a button press anyone on the team can run, standardised across all 26 accounts. **On track to save ~10 hours per person across the 6-person team, ~60 hours a month.** _(Projected design target while in progress; not yet a measured historical figure.)_
+
 ## Victorian Centre for Data Insights (VCDI), Data Engineer Intern (Aug 2023 – Nov 2023)
 Government procurement monitoring; distributed data + ML.
 
