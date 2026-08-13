@@ -460,6 +460,36 @@
 - [Stripe — Staff Engineer Data & AI, Bengaluru (Stripe Careers)](https://stripe.com/jobs/listing/staff-engineer-data-engineering-solutions/7548037)
 - [Canva — Staff ML Engineer Visual Suite Platform, AU remote (Canva Careers)](https://www.lifeatcanva.com/en/jobs/6000000001268114/staff-machine-learning-engineer-visual-suite-platform-au-remote/)
 
+### Daily scout — 2026-08-13
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 185 | Canva | Senior Analytics Engineer – User Voice | Melbourne (hybrid) | ~Aug 2026 | 6th distinct Canva role; owns dbt/Snowflake/Fivetran/Looker data models for the AI Help Experience + User Voice product suite; analytics engineering at Canva scale; directly matches modern analytics stack; distinct from ML rows 18/21/124/153/R80; confirmed on lifeatcanva.com (job 6000000001231787); est. $130–160k | 8 | Specific posting | |
+| 186 | University of Melbourne (AURIN) | Data Scientist | Melbourne (hybrid / on-campus) | Active Aug 2026 (12m FTC) | Applied urban data science at national scale via AURIN Engineering; Python ML scripts + data processing/validation + reproducible analytics workflows; confirmed salary **$111,275–$120,453 + 17% super (~$130–141k total package)** — well above AUD 95k floor; distinct from Senior Data Engineer row 130; confirmed on Glassdoor | 7 | Specific posting | |
+| 187 | AIA Australia | Data / Analytics Engineer | Melbourne (hybrid) | Active Aug 2026 | World's largest life insurer's AU arm; data & AI scope confirmed hiring Aug 2026 on SEEK; insurance domain not yet in shortlist (distinct from Allianz/QBE/RACV/IAG rows); est. $110–140k ⚠️ company target — verify live data engineering or analytics posting on aia.com.au/careers before applying | 6 | Company target | |
+| 188 | GitLab | Forward Deployed Engineer | Remote, Oceania only | Jul 26, 2026 | Confirmed Oceania-specific posting (posted Jul 26 2026 on Remote Army); client-embedded DE/platform role at the all-remote pioneer; AU-remote confirmed; $90k–$140k ⚠️ confirm offer ≥ AUD 95k floor at offer stage; distinct from company-target R1; India eligibility post-move TBC — verify with recruiter | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-13
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R81 | EY GDS India | Agentic AI Engineer (Senior) | Bengaluru / Pan-India (hybrid) | Active Aug 2026 | EY Global Delivery Services AI practice; LangChain + LangGraph + RAG + Python + banking/FS domain for enterprise clients; multiple confirmed openings on careers.ey.com (Bengaluru, Kolkata, Mumbai); distinct from AU EY rows 49 and 172; est. ₹30–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R82 | Krutrim AI (Ola) | Lead Generative AI Research Engineer | Bengaluru, India | Active Aug 2026 | India's first AI unicorn (Ola Electric–backed, ~$1B+ valuation); leads LLM + agentic AI research for India's sovereign AI push; 5–10 yrs exp; Python + LLMs + multi-agent systems; confirmed on jobaaj.com; est. ₹35–60 LPA + ESOP upside. **Survives move: YES** | 8 | Specific posting | |
+| R83 | Netomi | Senior Data Scientist – Agentic Solutions | Remote India | Active Aug 2026 | Enterprise conversational AI SaaS (US-HQ, India remote); Python + SQL + RAG + LLMs + agentic AI for client-facing delivery; 12 open Netomi remote roles confirmed Aug 2026 (Glassdoor); confirmed on remotech.ai; est. ₹25–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R84 | JLL Technologies | AI Engineer (GenAI / RAG) | Bengaluru, India | Active 2026 | Jones Lang LaSalle's AI Centre of Excellence; Azure OpenAI + LangChain/LlamaIndex + RAG for real-estate enterprise data on cloud; confirmed on multiple sources; est. ₹12–25 LPA ⚠️ entry-to-mid level (0–2 yrs listed) — candidate likely overqualified; verify if senior track available before applying. **Survives move: YES** | 6 | Specific posting | |
+
+### Daily scout sources — 2026-08-13 (rows 185–188, R81–R84)
+- [Canva — Senior Analytics Engineer User Voice, Melbourne (Canva Careers)](https://www.lifeatcanva.com/en/jobs/6000000001231787/senior-analytics-engineer-user-voice/)
+- [University of Melbourne AURIN — Data Scientist (Glassdoor listing)](https://www.glassdoor.com.au/job-listing/aurin-data-scientist-university-of-melbourne-JV_KO0,20_KE21,44.htm?jl=1010202538203)
+- [AIA Australia — Jobs in Melbourne Aug 2026 (SEEK)](https://au.seek.com/AIA-jobs/in-All-Melbourne-VIC)
+- [GitLab — Forward Deployed Engineer, Oceania Only (Remote Army)](https://remotearmy.io/location/remote-jobs-in-australia)
+- [EY GDS India — Agentic AI Engineer Senior, Bengaluru (EY Careers)](https://careers.ey.com/ey/job/Bengaluru-EY-GDS-Consulting-AIA%C2%A0-Agentic-AI-Senior-KA-560048/1416693133/)
+- [EY GDS India — Agentic AI Engineer Senior, Kolkata (EY Careers)](https://careers.ey.com/ey/job/Kolkata-EY-GDS-Consulting-AIA-Agentic-AI-Engineer-Senior-WB-700091/1404948533/)
+- [EY GDS India — Agentic AI Engineer, Pan-India (EY Careers)](https://careers.ey.com/ey/job/Mumbai-Senior-Consultant-Business-Consulting-Risk-Agentic-AI-Engineer-FSRM-Pan-India-MH-400028/1403525633/)
+- [Krutrim AI — Lead GenAI Research Engineer, Bengaluru (Jobaaj)](https://www.jobaaj.com/job/krutrim-lead-generative-ai-research-engineer-ai-labs-bengaluru-bangalore-karnataka-5-to-10-years-674982)
+- [Netomi — Senior Data Scientist Agentic Solutions, Remote India (Remotech)](https://www.remotech.ai/jobs/senior-data-scientist-agentic-solutions)
+- [JLL Technologies — AI Engineer GenAI RAG, Bengaluru 2026](https://cloudsoftsol.com/blog/ai-engineer-genai-rag-jll-bangalore-2026/)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
