@@ -490,6 +490,34 @@
 - [Netomi — Senior Data Scientist Agentic Solutions, Remote India (Remotech)](https://www.remotech.ai/jobs/senior-data-scientist-agentic-solutions)
 - [JLL Technologies — AI Engineer GenAI RAG, Bengaluru 2026](https://cloudsoftsol.com/blog/ai-engineer-genai-rag-jll-bangalore-2026/)
 
+### Daily scout — 2026-08-14
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 189 | Simonds Group | Data Engineer | Melbourne (hybrid) | Jul 23, 2026 | AU's largest private residential homebuilder; building modern data platform — ETL pipeline design using Boomi AtomSphere + SSIS, migrating to Snowflake / Microsoft Fabric / Databricks; mid-senior level; new company on shortlist; est. $105–$135k + 12% super | 7 | Specific posting | |
+| 190 | Red Energy | Data Engineer | Richmond, Melbourne (hybrid) | ~Aug 2026 | Snowy Hydro–owned energy retailer (1.6M+ AU customers, 1,200 staff); established data/analytics team in Richmond; new sector entry distinct from AGL (row 37) / Origin (row 156) / Jemena (row 31); est. $100–$130k ⚠️ confirm salary ≥ $95k floor; verify live posting on careers.redenergy.com.au | 6 | Specific posting | |
+| 191 | Versent | Senior Data Engineer | Melbourne (hybrid, remote-friendly) | ~Aug 2026 | AWS Premier Partner cloud-transformation consultancy; data engineering + cloud data platform delivery for enterprise clients; consulting domain crossover + AWS stack match; $131k avg DE salary confirmed by Indeed; new company on shortlist ⚠️ verify live August 2026 posting on versent.com.au/careers | 7 | Company target | |
+
+### Remote-first scout — 2026-08-14
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R85 | DataRobot | Senior Data Engineer | Remote India | Active Aug 2026 | Enterprise AI/ML platform company (25+ open roles Naukri Aug 2026); builds internal data products — Python + AWS + Airflow + dbt + Snowflake + Redshift ETL pipelines; analytics AI product co; remote India confirmed; est. ₹40–60 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R86 | SRM Technologies | Senior AI Engineer / Data Scientist (Agentic AI) | Chennai, India | Active Aug 2026 | Enterprise AI solutions provider; full Agentic AI stack — LangChain / LangGraph / AutoGen / CrewAI + RAG pipelines + vector DBs + AI copilots + production MLOps + CI/CD; 8+ yrs exp; leadership + mentoring scope; directly matches rare LLM/agentic-AI edge; est. ₹35–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R87 | Deloitte India GDS | Senior Consultant – GenAI / Agentic AI | Bengaluru / Pan-India (hybrid) | Active Aug 2026 | Big 4 AI advisory practice (Deloitte USI / Global Delivery Services); LLM-based applications + intelligent automation + RAG + agentic AI workflows for enterprise clients; 3–7 yrs exp; multiple confirmed openings on southasiacareers.deloitte.com; **distinct from AU Deloitte rows 35 and 172**; est. ₹20–35 LPA ⚠️ confirm band fits experience level. **Survives move: YES** | 7 | Specific posting | |
+| R88 | Gorec.ai | AI Engineer | Bengaluru, India (remote-eligible) | ~Jun–Aug 2026 | AI-native startup; RAG architecture + LangChain / LlamaIndex + GenAI / LLMs + agentic workflows for enterprise clients; 2 open roles confirmed on Wellfound + Glassdoor (jl 1010201590235); early-stage → high ownership; est. ₹18–35 LPA ⚠️ startup — verify funding stability + remote policy before applying. **Survives move: YES** | 6 | Specific posting | |
+
+### Daily scout sources — 2026-08-14 (rows 189–191, R85–R88)
+- [Simonds Group — Data Engineer, Melbourne (SEEK / LinkedIn, Jul 23, 2026)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+- [Red Energy — Data Engineering Melbourne (Red Energy Careers)](https://careers.redenergy.com.au/)
+- [Versent — Data Engineer Roles, AU (Indeed / Versent Careers)](https://au.indeed.com/cmp/Versent/salaries/Data-Engineer)
+- [DataRobot — Senior Data Engineer, Remote India (Naukri Aug 2026)](https://www.naukri.com/datarobot-jobs)
+- [DataRobot — Senior Data Engineer (Techstars job listing 64812061)](https://jobs.techstars.com/companies/datarobot/jobs/64812061-senior-data-engineer-product-analytics)
+- [SRM Technologies — Senior AI Engineer / Data Scientist (Agentic AI), Chennai (Built In)](https://builtin.com/job/senior-ai-engineer-data-scientist-agentic-ai/10521315)
+- [Deloitte India GDS — Senior Consultant GenAI, Bengaluru (Deloitte USI Careers)](https://southasiacareers.deloitte.com/job/Bengaluru-Senoior-Consultant-GEN-AI-Bengaluru-SAP/53824544)
+- [Gorec.ai — AI Engineer, Bengaluru (Glassdoor)](https://www.glassdoor.com/job-listing/ai-engineer-gorec-ai-JV_IC2940587_KO0,11_KE12,20.htm?jl=1010201590235)
+- [Gorec.ai — Jobs & Careers (Wellfound)](https://wellfound.com/company/gorec-ai/jobs)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
