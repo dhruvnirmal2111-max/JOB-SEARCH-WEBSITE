@@ -518,6 +518,30 @@
 - [Gorec.ai — AI Engineer, Bengaluru (Glassdoor)](https://www.glassdoor.com/job-listing/ai-engineer-gorec-ai-JV_IC2940587_KO0,11_KE12,20.htm?jl=1010201590235)
 - [Gorec.ai — Jobs & Careers (Wellfound)](https://wellfound.com/company/gorec-ai/jobs)
 
+### Daily scout — 2026-08-15
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 192 | Worldline Services Australia | Data Engineer | Melbourne (hybrid) | ~Aug 14–15, 2026 | Global fintech/payments giant (formerly Atos Worldline, 18,000+ staff); builds high-volume payment-processing data pipelines; Azure cloud + Python stack; fresh SEEK posting (Aug 14–15 2026); estimated $110–$140k AUD ⚠️ FTC 6-month contract — confirm extension/conversion likelihood | 7 | Specific posting | |
+| 193 | Easygo | Senior Data Scientist | Melbourne (hybrid) | Active Aug 2026 | Consumer tech/gaming scale-up behind Stake.com (online casino) + Kick.com (streaming); high-scale real-time ML — fraud, recommendations, player modelling; Python + SQL + ML at consumer-scale; AI/ML scope confirmed; est. $130–$165k AUD ⚠️ iGaming domain — confirm ethical alignment before applying | 7 | Specific posting | |
+| 194 | InterWorks | Data Engineer (Snowflake & Databricks) | Melbourne (in-office) | Active 2026 | Boutique data consultancy (Snowflake Premier Partner + Databricks); client-facing data platform delivery — dbt + Snowflake + Databricks stack that matches exactly; est. $130–$150k AUD + super ⚠️ in-office only (misaligns remote-first goal — confirm flexibility before applying) | 6 | Specific posting | |
+
+### Remote-first scout — 2026-08-15
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R89 | PwC India (AppTech Advisory) | Sr. Associate – GenAI Developer (Agentic AI & LLM Platforms) | Kolkata / Bengaluru / Mumbai (hybrid) | Active Aug 2026 | Big 4 AI advisory; full agentic AI stack confirmed — RAG pipelines + LangGraph + vector DBs + FastAPI + multi-agent systems for enterprise clients; 3–5 yrs exp bracket; directly matches LLM/agentic-AI edge; **distinct from AU PwC (row 48)**; est. ₹20–35 LPA ⚠️ confirm exact comp band + whether Kolkata/hybrid suits location plan. **Survives move: YES** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-08-15 (rows 192–194, R89)
+- [Worldline AU — Data Engineer, Melbourne (SEEK, ~Aug 14–15 2026)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+- [Worldline — Careers Australia](https://worldline.com/en/home/careers.html)
+- [Easygo — Careers (Melbourne tech)](https://easygo.tech/careers)
+- [Easygo — Jobs (LinkedIn)](https://au.linkedin.com/company/easygo/jobs/)
+- [InterWorks — Data Engineering Careers](https://interworks.com/company/careers/)
+- [InterWorks — Data Engineer Snowflake & Databricks, Melbourne (LinkedIn)](https://au.linkedin.com/company/interworks/jobs/)
+- [PwC India AppTech Advisory — Sr. Associate GenAI Agentic AI (PwC Careers)](https://jobs.pwc.com/search/jobs/India)
+- [PwC India — GenAI / Agentic AI openings, Aug 2026 (LinkedIn India)](https://in.linkedin.com/company/pwc/jobs/)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
