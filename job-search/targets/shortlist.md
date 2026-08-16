@@ -547,6 +547,10 @@
 | Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
 |------|---------|------|----------|--------|-------------|-----|------|---------|
 | 195 | Keypath Education | Machine Learning Engineer | Melbourne (remote / work-anywhere AU) | ~Aug 2026 | EdTech SaaS (AU university partnerships); GenAI + MLOps + ML model development + product AI leadership; Great Place to Work 2026 certified; remote/work-anywhere AU policy; est. $130–180k ⚠️ distinct from pipeline's *Associate Data Scientist* (an earlier separate role) — verify this specific ML Engineer listing is still open | 7 | Specific posting | |
+| 196 | Akuru Pty Ltd | Machine Learning Engineer | Research VIC (Melbourne outer-east, hybrid) | Active Aug 2026 | Fast-growing Melbourne startup building production LLM + agentic AI systems (fintech/healthcare-AI crossover); end-to-end ownership of AI systems in a lean team — directly matches rare agentic-AI/LLM edge; new company on shortlist; est. $120–160k ⚠️ Research VIC 3095 is outer suburbs (Eltham corridor) — confirm WFH flexibility | 7 | Specific posting | |
+| 197 | Scope (Aust) Ltd | Data Engineer | Hawthorn, Melbourne (hybrid) | Active Aug 2026 | Australia's largest disability services NFP (~$800M revenue); greenfield Microsoft Fabric medallion-lakehouse build — direct stack match; metadata-driven pipelines + Python; permanent role seeded by 12-month FTC (strong extension potential); new sector (NFP / social services); est. $115–140k | 7 | Specific posting | |
+| 198 | Confidential ASX Medtech (via JIVARO / Konnexus) | Lead Applied Data Scientist | Melbourne CBD (hybrid) | Active Aug 2026 | Proprietary sEMG biosignal data → commercial AI/ML products (neurorehabilitation / prosthetics / sports performance); Lead DS role up to $150k + super; 12-month FTC; dual-agency listing signals urgency; new domain on shortlist ⚠️ recruiter role — ask for end-client name on first contact | 7 | Recruiter posting | |
+| 199 | Vinarchy | Data Science Lead / Senior Data Scientist | Melbourne (hybrid) | Active Aug 2026 | Global wine company (fmr Treasury Wine Estates spinoff); ML/AI for supply-chain optimisation + forecasting + commercial automation; permanent full-time with global exposure; est. $100–135k ⚠️ FMCG/wine domain — lower on priority list; verify salary ≥ AUD 95k floor | 6 | Specific posting | |
 
 ### Remote-first scout — 2026-08-16
 
@@ -560,8 +564,12 @@
 | R95 | NorthBay Solutions | GenAI (Agentic) Engineer | Remote India | Active Aug 2026 | US AWS Premier Consulting Partner; design + build multi-agent systems + API/SaaS integrations + reusable GenAI pipelines; LangGraph/CrewAI/Semantic Kernel + Claude/Gemini/Llama2 + Pinecone/FAISS; India remote confirmed; cross-timezone leadership scope. **Survives move: YES** | 7 | Specific posting | |
 | R96 | CoffeeBeans Consulting | Senior Data Scientist (GenAI / LLM) | Bengaluru, India (hybrid) | Active Aug 2026 | Fast-growing Indian software consultancy; end-to-end ML + LLM fine-tuning + RAG pipelines for fintech/retail/healthcare clients; 7–9 yrs exp bracket; strong DS + GenAI ownership across multiple verticals. **Survives move: YES** | 7 | Specific posting | |
 
-### Daily scout sources — 2026-08-16 (row 195, R90–R96)
+### Daily scout sources — 2026-08-16 (rows 195–199, R90–R96)
 - [Keypath Education — Machine Learning Engineer, Melbourne / remote (SEEK)](https://au.seek.com/Keypath-Education-jobs/in-Melbourne-VIC-3004)
+- [Akuru Pty Ltd — Machine Learning Engineer, Research VIC (SEEK)](https://www.seek.com.au/akuru-pty-ltd-machine-learning-engineer-jobs/in-Research-VIC-3095/full-time)
+- [Scope (Aust) Ltd — Data Engineer, Hawthorn Melbourne (Scope Careers)](https://careers.scopeaust.org.au/jobs/data-engineer-hawthorn-vic-vic-australia)
+- [Confidential ASX Medtech — Lead Applied Data Scientist, Melbourne (SEEK via JIVARO)](https://au.seek.com/lead-data-scientist-jobs/in-All-Melbourne-VIC)
+- [Vinarchy — Data Science Lead / Senior Data Scientist, Melbourne (SEEK)](https://au.seek.com/Vinarchy-jobs)
 - [Yminds AI — Agentic AI Engineer, Remote India, Aug 13 2026 (LinkedIn India)](https://in.linkedin.com/jobs/view/agentic-ai-engineer-3-5-years-experience-immediate-joiner-remote-at-yminds-ai-4454026087)
 - [FourKites — Senior AI Engineer, Remote India (Greenhouse)](https://job-boards.greenhouse.io/fourkites/jobs/7981512)
 - [FourKites — Senior AI Engineer listing (RemoteRocketship)](https://www.remoterocketship.com/company/fourkites-inc/jobs/senior-ai-engineer-india-remote/)
