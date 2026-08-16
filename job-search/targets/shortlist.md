@@ -542,6 +542,38 @@
 - [PwC India AppTech Advisory — Sr. Associate GenAI Agentic AI (PwC Careers)](https://jobs.pwc.com/search/jobs/India)
 - [PwC India — GenAI / Agentic AI openings, Aug 2026 (LinkedIn India)](https://in.linkedin.com/company/pwc/jobs/)
 
+### Daily scout — 2026-08-16
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 195 | Keypath Education | Machine Learning Engineer | Melbourne (remote / work-anywhere AU) | ~Aug 2026 | EdTech SaaS (AU university partnerships); GenAI + MLOps + ML model development + product AI leadership; Great Place to Work 2026 certified; remote/work-anywhere AU policy; est. $130–180k ⚠️ distinct from pipeline's *Associate Data Scientist* (an earlier separate role) — verify this specific ML Engineer listing is still open | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-16
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R90 | Yminds AI | Agentic AI Engineer | Remote India | Aug 13, 2026 | AI talent-platform product co (India); production agentic systems for real data environments; freshest Aug 2026 posting (3 days old at scout time); immediate joiner preferred — fast-moving. **Survives move: YES** | 7 | Specific posting | |
+| R91 | FourKites | Senior AI Engineer | Remote India | Active Aug 2026 | US supply-chain visibility SaaS (~$220M funded); 3 live agentic products already in production (support agent, voice agent, carrier onboarding agent); LangGraph + LangChain + GPT-4/Claude/Gemini/Llama; 36 PTO days + Day-1 medical; supply-chain domain crossover to Comprara background. **Survives move: YES** | 8 | Specific posting | |
+| R92 | ChargePoint | Senior / Staff AI Engineer | Bengaluru, India | Active Aug 2026 | NASDAQ-listed EV charging network; LangChain + LangGraph + Amazon Bedrock + RAG for Copilot-style AI agents; Staff level (8–13 yrs, tech lead + mentoring scope) directly matches seniority; est. 35–65 LPA ⚠️ verify exact comp band. **Survives move: YES** | 8 | Specific posting | |
+| R93 | Convatec | Applied AI Engineer (Forward Deployed) | Remote India | Active Aug 2026 | FTSE 100 medical-tech (UK HQ, 13,000+ staff); Azure AI Foundry + Copilot Studio + Azure OpenAI + Microsoft Fabric for live enterprise workflows; forward-deployed = engineering + business stakeholder hybrid; UK MNC with structured India-remote role. **Survives move: YES** | 7 | Specific posting | |
+| R94 | Deep Sync | Sr. Software AI Engineer – Agentic Platform | Remote India | Active Aug 2026 | US data-intelligence startup (identity resolution AI); founding India Agentic Platform team slot — zero-to-one build; LangGraph + CrewAI + multi-step autonomous BI agents; high ownership + equity upside. **Survives move: YES** | 8 | Specific posting | |
+| R95 | NorthBay Solutions | GenAI (Agentic) Engineer | Remote India | Active Aug 2026 | US AWS Premier Consulting Partner; design + build multi-agent systems + API/SaaS integrations + reusable GenAI pipelines; LangGraph/CrewAI/Semantic Kernel + Claude/Gemini/Llama2 + Pinecone/FAISS; India remote confirmed; cross-timezone leadership scope. **Survives move: YES** | 7 | Specific posting | |
+| R96 | CoffeeBeans Consulting | Senior Data Scientist (GenAI / LLM) | Bengaluru, India (hybrid) | Active Aug 2026 | Fast-growing Indian software consultancy; end-to-end ML + LLM fine-tuning + RAG pipelines for fintech/retail/healthcare clients; 7–9 yrs exp bracket; strong DS + GenAI ownership across multiple verticals. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-16 (row 195, R90–R96)
+- [Keypath Education — Machine Learning Engineer, Melbourne / remote (SEEK)](https://au.seek.com/Keypath-Education-jobs/in-Melbourne-VIC-3004)
+- [Yminds AI — Agentic AI Engineer, Remote India, Aug 13 2026 (LinkedIn India)](https://in.linkedin.com/jobs/view/agentic-ai-engineer-3-5-years-experience-immediate-joiner-remote-at-yminds-ai-4454026087)
+- [FourKites — Senior AI Engineer, Remote India (Greenhouse)](https://job-boards.greenhouse.io/fourkites/jobs/7981512)
+- [FourKites — Senior AI Engineer listing (RemoteRocketship)](https://www.remoterocketship.com/company/fourkites-inc/jobs/senior-ai-engineer-india-remote/)
+- [ChargePoint — Senior AI Engineer, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/senior-ai-engineer-at-chargepoint-4384487475)
+- [ChargePoint — Staff AI Engineer, Bengaluru (Naukri)](https://www.naukri.com/job-listings-staff-ai-engineer-chargepoint-pvt-ltd-bengaluru-8-to-13-years-170226502998)
+- [Convatec — Applied AI Engineer, Remote India (RemoteRocketship)](https://www.remoterocketship.com/company/convatec-co-uk/jobs/applied-ai-engineer-india-remote/)
+- [Deep Sync — Sr. Software AI Engineer Agentic, Remote India (RemoteRocketship)](https://www.remoterocketship.com/company/deepsync/)
+- [NorthBay Solutions — GenAI Agentic Engineer, Remote India (Foundit)](https://www.foundit.in/job/genai-agentic-engineer-remote-northbay-solutions-india-41415167)
+- [NorthBay Solutions — GenAI Agentic Engineer (LinkedIn India)](https://in.linkedin.com/jobs/view/genai-agentic-engineer-remote-at-northbay-solutions-4351022002)
+- [CoffeeBeans Consulting — Senior Data Scientist GenAI, Bengaluru (Jobaaj)](https://www.jobaaj.com/job/coffeebeans-consulting-senior-data-scientist-bengaluru-bangalore-karnataka-7-to-9-years-1361429)
+- [CoffeeBeans Consulting — Data Scientist L3 (Glassdoor)](https://www.glassdoor.com/job-listing/data-scientist-l3-blr-coffeebeans-consulting-JV_KO0,21_KE22,44.htm?jl=1009994797279)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
