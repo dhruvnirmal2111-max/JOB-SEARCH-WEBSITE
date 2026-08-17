@@ -1696,3 +1696,36 @@
 - [Ollion — Lead AI/ML Engineer (Himalayas)](https://himalayas.app/companies/ollion/jobs/lead-ai-ml-engineer-generative-ai-agent-systems)
 - [DataOrbit AI — Data Engineer India Remote (Jobfound, Aug 11 2026)](https://jobfound.org/job/dataorbit-ai-is-hiring-for-data-engineer-remote-india-11-august-2026)
 - [Wadhwani Foundation — Agentic AI Implementation Engineer, Bengaluru (aijobs.net job 1207424)](https://aijobs.net/job/1207424-agentic-ai-implementation-engineer/)
+
+### Daily scout — 2026-08-17
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 286 | Ramsay Health Care | Senior Data Engineer | East Melbourne (hybrid) | Jul 2026 | AU's largest private hospital network; Google Cloud (BigQuery + GCP AI/Agent tools) powering Ramsay 2030 digital strategy; new healthcare sector for resume; est. $120–145k AUD | 7 | Specific posting | |
+| 287 | Angle Auto Finance | Data Engineer | South Melbourne / CBD (hybrid) | ~Aug 9, 2026 | Auto/vehicle finance fintech; permanent role; data pipelines + analytics; fresh posting; est. $105–130k AUD ⚠ verify salary ≥ AUD 95k before applying | 7 | Specific posting | |
+| 288 | Montu | Lead Analytics Engineer | Remote Australia (fully WFH) | Aug 2026 | AU's #1 digital health / medical cannabis platform (Deloitte Tech Fast 50 #1 2024); leads analytics engineering team; **fully remote-AU** — survives near-term; est. $130–165k AUD | 8 | Specific posting | |
+| 289 | The Onset | Data Scientist / ML Engineer | Melbourne (hybrid) | Aug 2026 | New AI consultancy; enterprise + government AI/ML projects; team with PhD-level researchers; est. $140–160k AUD ⚠ confirm company stability / size before applying | 7 | Specific posting | |
+| 290 | Equifax Australia | Senior Data Scientist | Melbourne (hybrid) | Jun 4, 2026 (still active Aug 2026) | Global credit-data analytics firm, Melbourne HQ; hybrid scientist + statistician + programmer profile; new credit-bureau sector; est. $120–160k AUD | 7 | Specific posting | |
+| 291 | Andi-Co Australia (via Morgan Consulting) | AI Lead Engineer | Oakleigh, Melbourne (on-site) | ~Aug 14, 2026 | Premium appliance distributor (Falcon, Liebherr brands); enterprise AI adoption + ERP integration; **$220,000 AUD confirmed**; ⚠ on-site only — flag if remote required | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-17
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R161 | phData | Senior Data Engineer | Remote India / Bengaluru | Jun 5, 2026 | 6× Snowflake Partner of the Year (2020–2025) data & AI consultancy; Snowflake + Databricks + dbt + AWS/Azure + Fivetran + Python — exact skills match; 4–9 yrs exp; est. ₹25–45 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R162 | Persistent Systems | GenAI / Agentic AI Engineer | Pune / Bengaluru, India | ~Jul 11, 2026 | India's top IT services firm; LangGraph + LangChain + agentic AI + Python + Databricks + Azure scope; est. ₹18–35 LPA ⚠ confirm seniority band + remote policy before applying. **Survives move: YES** | 7 | Specific posting | |
+| R163 | Glacis | Founding Software Engineer – Agentic AI | Global remote (India TBC) | Active Aug 2026 | YC-backed supply chain AI startup (Tesla/Coca-Cola as customers); founding engineer building agentic AI architecture; $40k–$120k USD + equity ⚠ lower base end — confirm India eligibility and comp band. **Survives move: PARTIAL** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-17 (rows 286–291, R161–R163)
+- [Ramsay Health Care — Senior Data Engineer, East Melbourne (SEEK)](https://au.seek.com/ramsay-health-care-senior-data-engineer-jobs/in-East-Melbourne-VIC-3002)
+- [Ramsay Health Care — Google Cloud partnership / 2030 Digital Strategy (ramsayhealth.com.au)](https://www.ramsayhealth.com.au/News/General-News/Ramsay-Health-Care-Joins-Forces-with-Google-Cloud-to-Help-Support-Its-2030-Digital-Strategy)
+- [Angle Auto Finance — Jobs, All Melbourne (SEEK)](https://au.seek.com/Angle-Auto-Finance-jobs/in-All-Melbourne-VIC)
+- [Montu — Lead Analytics Engineer (SmartRecruiters job 743999989830623)](https://jobs.smartrecruiters.com/Montu/743999989830623-lead-analytics-engineer)
+- [The Onset — Data Scientist / ML Engineer, Melbourne (SEEK data-scientist-jobs)](https://au.seek.com/data-scientist-jobs/in-All-Melbourne-VIC)
+- [Equifax — Senior Data Scientist, Melbourne (careers.equifax.com job j00176170)](https://careers.equifax.com/en/jobs/j00176170/senior-data-scientist)
+- [Andi-Co Australia — AI Lead Engineer via Morgan Consulting (SEEK machine-learning-jobs)](https://au.seek.com/machine-learning-jobs/in-All-Melbourne-VIC)
+- [phData — Senior Data Engineer, Bengaluru (Naukri job 050626004891)](https://www.naukri.com/job-listings-senior-data-engineer-phdata-bengaluru-4-to-8-years-050626004891)
+- [phData — Senior Data Engineer, Remote India (Naukri job 270326502383)](https://www.naukri.com/job-listings-senior-data-engineer-phdata-remote-4-to-9-years-270326502383)
+- [Persistent Systems — GenAI / Agentic AI Engineer (Glassdoor job 1010172632605)](https://www.glassdoor.com/job-listing/genai-agentic-ai-engineer-persistent-systems-JV_KO0,25_KE26,44.htm?jl=1010172632605)
+- [Glacis — Founding Software Engineer Agentic AI (Ashby)](https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5)
+- [Glacis — Founding Software Engineer Agentic AI (Wellfound)](https://wellfound.com/jobs/4053494-founding-software-engineer-agentic-ai-remote)
