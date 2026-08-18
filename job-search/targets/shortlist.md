@@ -582,6 +582,39 @@
 - [CoffeeBeans Consulting — Senior Data Scientist GenAI, Bengaluru (Jobaaj)](https://www.jobaaj.com/job/coffeebeans-consulting-senior-data-scientist-bengaluru-bangalore-karnataka-7-to-9-years-1361429)
 - [CoffeeBeans Consulting — Data Scientist L3 (Glassdoor)](https://www.glassdoor.com/job-listing/data-scientist-l3-blr-coffeebeans-consulting-JV_KO0,21_KE22,44.htm?jl=1009994797279)
 
+### Daily scout — 2026-08-18
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 200 | I-MED Radiology Network | Data Engineer (×2) | Mount Waverley, Melbourne (hybrid) | ~Aug 2026 | AU's largest private radiology network (130+ centres); AWS data stack + Python + SQL + healthcare data standards (HL7/DICOM); build scalable data pipelines + governance; new company on shortlist; distinct healthcare-data domain; est. $105–$130k ⚠️ confirm salary ≥ AUD 95k floor before applying | 7 | Specific posting | |
+| 201 | Toyota Finance Australia | Senior Data Engineer | Melbourne (hybrid) | ~Aug 2026 | Auto-finance captive (Toyota's AU financial services arm); build data pipelines from source systems as part of MS Fabric migration; Azure + MS Fabric + Python stack match; fintech-adjacent domain; permanent role; est. $120–$145k | 7 | Specific posting | |
+| 202 | Salesforce | Software Engineer – Agentforce Platform (SMTS) | Melbourne (hybrid) | ~Aug 2026 | Senior SWE (SMTS) building process mining + optimisation capabilities on Agentforce AI-agent platform; Java + Python + Kubernetes + data pipelines; DISTINCT from row 118 (Agentic Data Specialist Sydney); elite brand + very strong comp est. AUD $200–$250k TC | 8 | Specific posting | |
+| 203 | Salesforce | Forward Deployed Engineer (Agentforce) | Sydney / Melbourne (hybrid) | ~Aug 2026 | Client-embedded Agentforce AI solution delivery; design + build bespoke Agentforce agentic solutions in production; hands-on FDE scope; DISTINCT from row 118 (Agentic Data Specialist) and row 202 (SWE); agentic-AI/LLM edge is the core skill req (rare); est. AUD $150–$210k | 9 | Specific posting | |
+| 204 | Cognizant Australia | Data & AI Architect | Melbourne (hybrid) | ~Aug 2026 | Specific confirmed listing (careers.cognizant.com job 00068436661); GenAI + LLM + RAG + agentic AI systems architecture for enterprise consulting clients; DISTINCT from company-target Data Engineer (row 8 — now upgrades to a specific posting); est. $150–$185k | 8 | Specific posting | |
+| 205 | Xero | Staff Data Scientist – Product | Hawthorn, Melbourne (hybrid) | Active Aug 2026 | Confirmed specific posting (careers.xero.com job 9191803a); own end-to-end DS roadmaps; drive AI/ML + agentic-AI use cases + experimentation at Xero product scale; DISTINCT from Senior Data Engineer (row 13) and Team Lead DE (row 206); Staff-level comp est. $170–$220k TC | 8 | Specific posting | |
+| 206 | Xero | Team Lead – Data Engineering (DevOps) | Hawthorn, Melbourne (hybrid) | ~Aug 2026 | Lead the shared Data Engineering function within the Marketing Data Science, Analytics & Insights team; deliver AI-first self-service data platforms + governance-by-design + domain enablement; DISTINCT from rows 13 and 205; est. $165–$195k | 8 | Specific posting | |
+| 207 | Scope (Aust) Ltd | AI & Automation Engineer (×2) | Melbourne (hybrid) | ~Aug 2026 | Two newly created roles deploying AI & Automation (LLMs + agentic AI + RAG + AI assistants) across AU's largest disability NFP ($800M revenue); reports to Senior Manager AI & Automation in Transformation office; DISTINCT from Data Engineer (row 197); agentic-AI/LLM edge directly applies; est. $120–$155k | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-18
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R97 | Velotio Technologies | Senior Engineer (Python + LangGraph) | Pune, India (remote-friendly) | ~Aug 2026 | Product-engineering firm (Pune HQ, remote-first culture); design APIs + multi-agent systems using LangChain + LangGraph + LLMs; 4+ yrs Python; builds agentic AI-native applications; remote-from-India confirmed; est. ₹20–35 LPA (confirm band before applying). **Survives move: YES** | 7 | Specific posting | |
+| R98 | Salesforce | Lead Data & AI Architect (Pre-Sales) | Sydney / Melbourne (hybrid) | ~Aug 2026 | Technical authority on Agentforce + Data 360; RAG pipelines + reasoning engines + multi-agent orchestration for enterprise clients; dual Sydney/Melbourne option; DISTINCT from rows 118, 202, 203; est. AUD $180–$250k TC. **Survives move: AU-only** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-08-18 (rows 200–207, R97–R98)
+- [I-MED Radiology — Data Engineer, Mount Waverley Melbourne (ZipRecruiter AU)](https://www.ziprecruiter.com.au/jobs/522346997-data-engineer-at-i-med-radiology-network)
+- [Toyota Finance Australia — Senior Data Engineer (TFA Careers, job 1551746)](https://tfacareers.com.au/jobs/1551746/)
+- [Salesforce — Software Engineer Agentforce Platform, Melbourne (Salesforce Careers jr336188)](https://careers.salesforce.com/en/jobs/jr336188/software-engineer-agentforce-platform/)
+- [Salesforce — Forward Deployed Engineer Agentforce, Sydney/Melbourne (Salesforce Careers jr343861)](https://careers.salesforce.com/en/jobs/jr343861/forward-deployed-engineer/)
+- [Cognizant Australia — Data & AI Architect, Melbourne (Cognizant Careers 00068436661)](https://careers.cognizant.com/us-en/jobs/00068436661/data-ai-architect/)
+- [Xero — Staff Data Scientist Product, Hawthorn Melbourne (Xero Careers job 9191803a)](https://careers.xero.com/jobs/9191803a-ac22-431a-9195-4484fd8b9277/staff-data-scientist-product/)
+- [Xero — Team Lead Data Engineering DevOps, Melbourne (aijobs.net listing)](https://aijobs.net/job/706761-team-lead-data-engineering-devops/)
+- [Scope Aust — AI & Automation Engineers ×2, Melbourne (Indeed AU / Glassdoor Aug 2026)](https://au.indeed.com/q-data-scientist-l-melbourne-vic-jobs.html)
+- [Velotio Technologies — Senior Engineer Python + LangGraph, Pune India (Glassdoor India)](https://www.glassdoor.co.in/job-listing/senior-engineer-python-langchain-velotio-JV_IC2856202_KO0,32_KE33,40.htm?jl=1009749378226)
+- [Velotio Technologies — Senior Engineer Python + LangGraph (Weekday Works)](https://jobs.weekday.works/velotio-technologies-senior-engineer-(python-+-langgraph))
+- [Salesforce — Lead Data & AI Architect Pre-Sales, Sydney/Melbourne (Salesforce Careers jr335031)](https://careers.salesforce.com/en/jobs/jr335031/lead-data-ai-architect-pre-sales/)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
