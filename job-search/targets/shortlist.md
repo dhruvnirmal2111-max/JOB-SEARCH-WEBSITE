@@ -1762,3 +1762,35 @@
 - [Persistent Systems — GenAI / Agentic AI Engineer (Glassdoor job 1010172632605)](https://www.glassdoor.com/job-listing/genai-agentic-ai-engineer-persistent-systems-JV_KO0,25_KE26,44.htm?jl=1010172632605)
 - [Glacis — Founding Software Engineer Agentic AI (Ashby)](https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5)
 - [Glacis — Founding Software Engineer Agentic AI (Wellfound)](https://wellfound.com/jobs/4053494-founding-software-engineer-agentic-ai-remote)
+
+### Daily scout — 2026-08-19
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 292 | IAG | Agentic Systems Engineer | Melbourne / Sydney (hybrid) | Active Aug 2026 | **Distinct from row 15 (IAG Lead AI Engineer)**; joins IAG's AI & Engineering Expert Unit to build production-grade ethical agentic decision systems; LLM orchestration + RAG + agent frameworks + prompt/context engineering; cross-functional squad delivery; AU's largest general insurer actively scaling GenAI; est. $130–165k | 9 | Specific posting | |
+| 293 | Anthropic | Applied AI Engineer, Enterprise Tech | Sydney, AU (hybrid) | Active Aug 2026 | Frontier AI lab (creator of Claude); AU-confirmed posting (Built In Sydney + AI Jobs Australia); technical advisor for enterprise Claude deployments — 40% prototyping with Claude API, 30% architecture design, 30% product/research signal; owner has built a production multi-agent OS on Claude — the exact profile sought; est. AUD $180–250k+ ⚠ verify remote-from-Melbourne + AU residency eligibility before applying | 9 | Specific posting | |
+| 294 | Canva | Senior AI Automation Engineer | Remote ANZ | Active 2026 | **Distinct from rows 18 (MLE AI Enablement) + 21 (DS People Analytics)**; embeds with Content & Discovery supergroup to turn manual workflows into LLM-powered always-on automation; agentic AI + automation engineering at 240M MAU scale; fully remote ANZ; est. $160–220k (Canva median $206k TC) | 8 | Specific posting | |
+| 295 | Canva | Senior ML Engineer – Canva AI | Remote ANZ | Active 2026 | **Distinct from rows 18 + 21 + 294**; core Canva AI team — applied LLM + multimodal + GenAI research-to-production; hands-on ML systems at massive product scale; remote ANZ; est. $160–220k | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-19
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R164 | Optum (UnitedHealth Group) | AI or ML Engineer – LLMs, RAG, LangChain, LangGraph | Bengaluru, India | Aug 11, 2026 | Global healthcare-IT leader (UHG); **freshest posting in this scout (1 week ago)**; enterprise-grade LLM systems using LangChain, LangGraph, Spring AI, AWS/Azure in production; directly matches the agentic-AI + LLM-framework stack; India entity confirmed; est. ₹20–35 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R165 | Optum (UnitedHealth Group) | Senior AI/ML Engineer – LLM, RAG, Agentic AI | Bengaluru, India | Jun 28, 2026 | **Distinct from R164 (senior track)**; drives experimentation, rapid prototyping + solution innovation across AI/GenAI/Agentic AI; senior-level scope matches mid→senior target; LangChain/LlamaIndex/CrewAI/LangGraph frameworks; est. ₹25–42 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R166 | Codvo.ai | RAG + Agentic AI Engineer | India (fully remote) | Active 2026 | AI-native product engineering firm; production-grade RAG retrieval systems + multi-agent workflow orchestration + document pipelines + governed enterprise AI applications; fully remote India; foundational agentic-AI engineering scope maps directly to the rare edge; **new company on shortlist**; est. ₹25–50 LPA. **Survives move: YES** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-08-19 (rows 292–295, R164–R166)
+- [IAG — Agentic Systems Engineer, Melbourne/Sydney (careers.iag.com.au)](https://careers.iag.com.au/global/en/job/IAUIAGGLOBAL49575EXTERNALENGLOBAL/Agentic-Systems-Engineer)
+- [IAG — Agentic Systems Engineer (AI Jobs Australia)](https://www.aijobsaustralia.com.au/jobs/d02db392-6c6c-4e9b-9dad-e7dc04983d6f)
+- [Anthropic — Applied AI Engineer Enterprise Tech, Sydney (Built In Sydney)](https://builtinsydney.au/job/applied-ai-engineer/9623489)
+- [Anthropic — Applied AI Engineer Enterprise Tech (AI Jobs Australia)](https://www.aijobsaustralia.com.au/jobs/dc986a4c-8830-4c51-8e8b-f3e6bc37ff53)
+- [Anthropic — Applied AI Engineer Enterprise Tech (Greenhouse job 5057647008)](https://job-boards.greenhouse.io/anthropic/jobs/5057647008)
+- [Canva — Senior AI Automation Engineer Remote ANZ (lifeatcanva.com job 6000000000591255)](https://www.lifeatcanva.com/en/jobs/6000000000591255/senior-ai-automation-engineer-remote-across-anz/)
+- [Canva — Senior AI Automation Engineer (SmartRecruiters)](https://jobs.smartrecruiters.com/Canva/6000000000591255)
+- [Canva — Senior ML Engineer Canva AI ANZ remote (lifeatcanva.com job 6000000000795677)](https://www.lifeatcanva.com/en/jobs/6000000000795677/senior-machine-learning-engineer-canva-ai-anz-remote/)
+- [Optum India — AI or ML Engineer LLMs RAG LangChain LangGraph, Bengaluru (LinkedIn job 4453381347)](https://in.linkedin.com/jobs/view/ai-or-ml-engineer-llms-rag-langchain-langgraph-at-optum-india-4453381347)
+- [Optum — AI or ML Engineer LLMs RAG LangChain LangGraph (UHG careers)](https://careers.unitedhealthgroup.com/job/bengaluru/ai-or-ml-engineer-llms-rag-langchain-langgraph/34088/99093468144)
+- [Optum — Senior AI/ML Engineer LLM RAG Agentic AI (UHG careers)](https://careers.unitedhealthgroup.com/job/bengaluru/senior-ai-ml-engineer-llm-rag-agentic-ai/34088/97067676544)
+- [Codvo.ai — RAG + Agentic AI Engineer India remote (Freshteam)](https://codvo-team.freshteam.com/jobs/oX2fH9z166qF/rag-agentic-ai-engineer-india-remote)
+- [Codvo.ai — RAG + Agentic AI Engineer (GetHired365)](https://www.gethired365.com/jobs/rag-agentic-ai-engineer-india-remote-dda78d66)
