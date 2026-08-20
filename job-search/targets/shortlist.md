@@ -615,6 +615,23 @@
 - [Velotio Technologies — Senior Engineer Python + LangGraph (Weekday Works)](https://jobs.weekday.works/velotio-technologies-senior-engineer-(python-+-langgraph))
 - [Salesforce — Lead Data & AI Architect Pre-Sales, Sydney/Melbourne (Salesforce Careers jr335031)](https://careers.salesforce.com/en/jobs/jr335031/lead-data-ai-architect-pre-sales/)
 
+### Daily scout — 2026-08-20
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 208 | Medibank | AI Engineer (LLMs, RAG & Cloud Solutions) | Docklands, Melbourne (hybrid) | ~Aug 2026 | Python + LLMs + RAG + agentic AI frameworks + cloud; builds AI-native solutions for AU's largest private health insurer; DISTINCT from row 79 (company target — Senior Data Engineer AWS/Databricks); agentic-AI/LLM edge directly applies; $92K–$151K AUD ✅ above floor | 8 | Specific posting | |
+| 209 | Bellroy | Data Engineer | Collingwood, Melbourne (WFH flexibility) | ~Aug 2026 | ETL pipelines + API data integration at AU's top sustainable accessories brand; 5+ yrs Python/SQL + modern data stack; new company on shortlist; strong culture + flexibility; est. $100–$150k ⚠️ confirm salary ≥ AUD 95k floor | 7 | Specific posting | |
+| 210 | Bellroy | Head of Data and Analytics | Collingwood, Melbourne (in-office/hybrid) | ~Aug 2026 | Strategic leadership of data science, analytics + BI, predictive models + customer segmentation; same company as row 209, senior leadership scope; DISTINCT role; est. $150–$200k | 7 | Specific posting | |
+| 211 | Insignia Financial | AI and Automation Specialist – Risk | Docklands, Melbourne (hybrid) | Aug 7, 2026 | Python + AI/ML/GenAI + Power BI + risk analytics modernisation at AU's largest wealthtech/super platform (~$325B FUM); permanent; DISTINCT from row 148 (GCP Data Engineer / Modeller); agentic-AI + analytics + financial-services domain match; est. $110–$145k | 7 | Specific posting | |
+| 212 | Arup | Data Scientist | Melbourne | ~Aug 2026 | Global engineering consultancy (energy, rail, aviation, data centres, water infrastructure); analytics + ML driving engineering decisions at global scale; new company on shortlist; cross-sector domain breadth; est. $110–$155k ⚠️ confirm salary ≥ AUD 95k floor | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-20 (rows 208–212)
+- [Medibank — AI Engineer (LLMs RAG & Cloud Solutions), Docklands Melbourne (Glassdoor)](https://www.glassdoor.com.au/job-listing/ai-engineer-medibank-JV_IC4076945_KO0,11_KE12,20.htm?jl=1010214383593)
+- [Bellroy — Data Engineer, Collingwood Melbourne (Bellroy Careers)](https://bellroy.com/careers/data-engineer)
+- [Bellroy — Head of Data and Analytics, Collingwood Melbourne (Bellroy Careers)](https://bellroy.com/careers/head-data-analytics)
+- [Insignia Financial — AI and Automation Specialist Risk, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/ai-and-automation-specialist-risk-at-insignia-financial-4450031361)
+- [Arup — Data Scientist, Melbourne (Arup Careers)](https://jobs.arup.com/jobs/data-scientist-8585)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
