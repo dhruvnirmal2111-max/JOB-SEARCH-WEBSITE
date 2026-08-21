@@ -1811,3 +1811,27 @@
 - [Optum — Senior AI/ML Engineer LLM RAG Agentic AI (UHG careers)](https://careers.unitedhealthgroup.com/job/bengaluru/senior-ai-ml-engineer-llm-rag-agentic-ai/34088/97067676544)
 - [Codvo.ai — RAG + Agentic AI Engineer India remote (Freshteam)](https://codvo-team.freshteam.com/jobs/oX2fH9z166qF/rag-agentic-ai-engineer-india-remote)
 - [Codvo.ai — RAG + Agentic AI Engineer (GetHired365)](https://www.gethired365.com/jobs/rag-agentic-ai-engineer-india-remote-dda78d66)
+
+### Daily scout — 2026-08-21
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 296 | Agile Insights | Senior Data Engineer (Microsoft Fabric / Azure) | Sydney preferred / remote AU considered | Active Aug 2026 | Top 1% Microsoft Data & AI partner globally; AU-owned consulting firm building Microsoft Fabric + Azure data platforms for government, energy, financial services, healthcare; direct Azure/PySpark stack match; strong consulting crossover; est. $120–155k AUD | 8 | Specific posting | |
+| 297 | Intelligen Group | Senior Data Engineer | Fully remote AU (Melbourne / Adelaide) | Active Aug 2026 | **Distinct from row 160** (Data Engineer Consultant, $120–150k); this is the senior-track posting ($150–165k) focused on utility/infrastructure sector data capability uplift and large-scale platform modernisation; Databricks + Snowflake + dbt + Azure stack exact match | 8 | Specific posting | |
+| 298 | Canva | Senior Analytics Engineer – Security Insights | Sydney (open to remote ANZ) | Jun 24, 2026 | **Distinct from row 185** (User Voice, Melbourne hybrid); builds AI-ready data infrastructure on the semantic layer — clean, well-modelled, governed Snowflake datasets powering security intelligence; dbt + Snowflake + analytics engineering at 240M MAU scale; est. $130–165k | 8 | Specific posting | |
+| 299 | Canva | Senior Analytics Engineer (Open to remote ANZ) | Remote across Australia/NZ | Active 2026 | **Distinct from rows 185, 298**; remote-first ANZ analytics engineering — fully survives near-term until India move; Snowflake + dbt + Fivetran + Looker stack; design scalable data ingestion, access and modelling frameworks; est. $130–165k | 8 | Specific posting | |
+
+### Remote-first scout — 2026-08-21
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R167 | CRED | Data Engineer | Bengaluru, India (hybrid) | Active Aug 2026 | India's premium rewards + fintech platform (20M+ elite credit-card users); data engineering at one of India's highest-paying engineering employers (avg ₹50.7L Bengaluru per Glassdoor); 4–6 open positions confirmed; fintech domain crossover with payments/analytics; est. ₹40–65 LPA (L4–L5 bands). **Survives move: YES** | 8 | Specific posting | |
+| R168 | Groww | ML Engineer | Bengaluru, India | Active Aug 2026 | India's #1 retail investment platform (100M+ users — stocks + MF + F&O); Python + TensorFlow + BigQuery + Trino stack; 2–4 yrs exp; confirmed on Peerlist + Naukri; strong fintech/investment analytics domain; est. ₹20–40 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-21 (rows 296–299, R167–R168)
+- [Agile Insights — Senior Data Engineer Microsoft Fabric Azure, Sydney/remote (Employment Hero)](https://employmenthero.com/jobs/position/agile-insights-senior-data-engineer-microsoft-fabric-azure-hybrid-sydney-preferred-bfilq/)
+- [Intelligen Group — Senior Data Engineer, Remote AU (RemoteFront / Haystack)](https://remotefront.com/remote-jobs/intelligen-group-senior-data-engineer-melbourne-adelaide-jo4i9)
+- [Canva — Senior Analytics Engineer Security Insights, Sydney (SmartRecruiters job 6000000001182870)](https://jobs.smartrecruiters.com/Canva/6000000001182870-senior-analytics-engineer-security-insights)
+- [Canva — Senior Analytics Engineer Open to remote ANZ (Canva Careers)](https://www.lifeatcanva.com/en/jobs/90b77e7b-a863-49f5-bba4-eb4516fa5217/senior-analytics-engineer-open-to-remote-across-australia-nz/)
+- [CRED — Data Engineer Bengaluru (careers.cred.club / Glassdoor)](https://careers.cred.club)
+- [Groww — ML Engineer Bengaluru (Peerlist)](https://peerlist.io/company/groww/careers/machine-learning-engineer)
