@@ -632,6 +632,32 @@
 - [Insignia Financial — AI and Automation Specialist Risk, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/view/ai-and-automation-specialist-risk-at-insignia-financial-4450031361)
 - [Arup — Data Scientist, Melbourne (Arup Careers)](https://jobs.arup.com/jobs/data-scientist-8585)
 
+### Daily scout — 2026-08-22
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 213 | MachShip | Data Engineer | Cremorne, Melbourne (hybrid) | ~Aug 2026 | Australia's #1 cloud-based freight management SaaS; own data layer performance + scale — tenancy sharding + SQL Server + PostgreSQL at scale on AWS + Kubernetes; supply-chain/logistics domain crossover to Comprara background; new company on shortlist; est. $135k–$150k | 7 | Specific posting | |
+| 214 | 4DMedical | Machine Learning Engineer | Cremorne, Melbourne (hybrid, 3d/wk) | ~Aug 2026 | ASX-listed medtech company (lung imaging AI, deployed in AU/US clinical networks); train + productionise ML models with traceability/rigour for lung function analysis; Python + ML; 3 days in office; confirmed salary $140k–$150k; new sector on shortlist | 7 | Specific posting | |
+| 215 | Johns Lyng Group | AI Engineer | Richmond, Melbourne (hybrid) | ~Aug 2026 | ASX-listed insurance building + restoration services group (~$2.4B market cap); build intelligent agents + automate complex enterprise AI workflows in a dedicated engineering + architects team; Python + AI engineering; confirmed SEEK ICT posting Aug 2026; new company on shortlist; est. $120k–$160k ⚠️ confirm salary ≥ $95k floor | 7 | Specific posting | |
+| 216 | Atlassian | Senior/Principal ML System Engineer | Sydney / distributed AU (remote-flexible) | ~Aug 2026 | Global team-collaboration SaaS (Jira/Confluence, Team Anywhere remote policy); ML platform engineering at scale — MLOps infra + AI features + Intelligent Product; confirmed Glassdoor active Aug 2026 listing; est. AUD $175k–$280k TC ⚠️ Sydney-primary — confirm Melbourne-remote option; DISTINCT from company-target R17 (Data Engineer) | 8 | Specific posting | |
+| 217 | Teradata | Data Scientist | Melbourne (hybrid) | ~Aug 2026 | Modern cloud data analytics platform company; confirmed active Indeed Aug 2026 listing (among 8 new Melbourne DS openings); Python + ML for customer analytics at enterprise scale; new company on shortlist; est. $110k–$145k ⚠️ verify specific posting + salary ≥ $95k floor | 6 | Specific posting | |
+
+### Remote-first scout — 2026-08-22
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R99 | MyRemoteTeam Inc | Generative AI Engineer | India (fully remote) | ~Aug 15–16, 2026 | US-based tech consultancy/product company; dual confirmed LinkedIn listings (job IDs 4454869179 + 4455241245) posted 6–7 days ago; LangGraph + LangChain + RAG + agentic AI engineering for production systems; fresh Aug India posting; est. ₹25–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-22 (rows 213–217, R99)
+- [MachShip — Data Engineer, Cremorne Melbourne (SEEK / Glassdoor Aug 2026)](https://au.seek.com/machship-jobs)
+- [4DMedical — Machine Learning Engineer, Cremorne Melbourne (SEEK Aug 2026)](https://au.seek.com/machine-learning-engineer-jobs/in-All-Melbourne-VIC)
+- [4DMedical company overview (Wikipedia)](https://en.wikipedia.org/wiki/4DMedical)
+- [Johns Lyng Group — AI Engineer, Richmond Melbourne (SEEK Aug 2026)](https://au.seek.com/Johns-Lyng-Group-jobs)
+- [Atlassian — ML System Engineer positions, Sydney/AU (Glassdoor Aug 2026)](https://www.glassdoor.com.au/Jobs/Atlassian-Jobs-E115699.htm)
+- [Teradata — Data Scientist, Melbourne (Indeed Aug 17, 2026)](https://au.indeed.com/q-data-scientist-l-melbourne-vic-jobs.html)
+- [MyRemoteTeam Inc — Generative AI Engineer, India remote (LinkedIn India, Aug 2026)](https://in.linkedin.com/jobs/view/generative-ai-engineer-at-myremoteteam-inc-4454869179)
+- [MyRemoteTeam Inc — Generative AI Engineer, India remote #2 (LinkedIn India)](https://in.linkedin.com/jobs/view/generative-ai-engineer-at-myremoteteam-inc-4455241245)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
