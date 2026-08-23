@@ -658,6 +658,34 @@
 - [MyRemoteTeam Inc — Generative AI Engineer, India remote (LinkedIn India, Aug 2026)](https://in.linkedin.com/jobs/view/generative-ai-engineer-at-myremoteteam-inc-4454869179)
 - [MyRemoteTeam Inc — Generative AI Engineer, India remote #2 (LinkedIn India)](https://in.linkedin.com/jobs/view/generative-ai-engineer-at-myremoteteam-inc-4455241245)
 
+### Daily scout — 2026-08-23
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 218 | Perfection Fresh Australia | Data Engineer: Lakehouse & AI Data Pipelines | Remote / AU (distributed) | ~Aug 2026 | Australia's largest privately owned fresh produce company; Microsoft Fabric + OneLake + Lakehouse + AI data prep and feature engineering for analytics/AI use cases; supply-chain adjacent domain; agri-tech sector new to shortlist; confirmed on Haystack; est. $100–$130k ⚠️ confirm salary ≥ AUD 95k floor and remote eligibility before applying | 6 | Specific posting | |
+| 219 | Vericent | Data Engineer | Melbourne (hybrid) | Aug 14, 2026 | IT & digital transformation consultancy (50+ staff, cybersecurity / data / AI); Snowflake + Databricks + dbt + Python stack direct match; enterprise-scale data pipeline delivery for a leading global technology consulting client; confirmed on Haystack Aug 14, 2026; est. $110–$145k | 7 | Specific posting | |
+| 220 | Morgan Consulting (client undisclosed) | Lead Data Engineer (Agentic AI & GenAI) | Melbourne | ~Aug 2026 | $180,000 listed salary — top of Melbourne DE market; Lead level with "productionised" Agentic AI and GenAI experience required; rare combination of seniority + agentic focus directly matches career direction; confirmed on SEEK Aug 2026 ⚠️ recruiter posting — confirm client identity and perm vs contract before applying | 8 | Recruiter posting | |
+| 221 | eflr Group | Lead AI Engineer (Agentic Systems) | Remote AU (Brisbane-HQ) | ~Aug 2026 | Explicitly requires Claude Agent SDK + MCP + LangGraph + CrewAI + Microsoft Agent Framework — candidate's Job Hunt OS (built on Claude Code + MCP) is a rare production reference almost no other applicant will have; work directly with Founder daily; full AU working rights required; early-stage co backed by 4 operating businesses ⚠️ no public salary listed — verify ≥ AUD 95k floor and India portability at offer stage | 9 | Specific posting | |
+| 222 | City Facilities Management | AI/ML & Copilot Solutions Engineer | Mulgrave, Melbourne (hybrid) | ~Aug 2026 | Enterprise AI/ML + Microsoft Copilot + GenAI solutions at scale for AU's major facilities management operator; building enterprise-grade AI solutions from scratch; 12% super; facilities-management sector entirely new to shortlist; confirmed Indeed/SEEK Aug 2026; est. $130–$165k ⚠️ contract/temp initially — confirm permanent pathway and salary ≥ AUD 95k | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-23
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R100 | TCS (Tata Consultancy Services) | Forward Deployed Engineer LLM/Gen AI | Bengaluru, India (hybrid) | Active Aug 2026 | India's #1 IT company; client-embedded GenAI delivery (same FDE model as Palantir/Databricks/Salesforce AU rows); 4–8 yrs exp; agentic pipeline architecture (LangGraph/CrewAI/AutoGen) + LLM + NLP scope; Bengaluru HQ = primary relocation target; confirmed on Instahyre (job 433201); est. ₹28–55 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R101 | Cox Purtell (client: global professional services & consulting firm) | Senior Data Engineer (Snowflake or Databricks) | Sydney, NSW (confirm remote/hybrid) | Aug 10, 2026 | AUD $168,000–$200,000 confirmed salary — top AU band well above floor; full-stack DE for a leading global consulting firm with fast-growing Data and AI practice; AWS + Snowflake OR Databricks; large enterprise + government delivery; ⚠️ Sydney primary — confirm Melbourne-remote/hybrid option before applying; recruiter posting — ask for client name. **Survives move: AU-only** | 7 | Recruiter posting | |
+| R102 | Tvara | AI Engineer (LangChain & Agentic Systems) | India (remote-eligible) | ~2026 (active Aug 2026) | AI-native product startup (AWS/NVIDIA/LangChain partner); builds multi-agent workflows automating real business functions across sales, HR, finance + ops; LangChain + agentic systems + Python; high ownership in small product team; est. ₹15–35 LPA ⚠️ small startup — verify funding stability, salary, and full remote-India policy before applying. **Survives move: YES** | 6 | Specific posting | |
+
+### Daily scout sources — 2026-08-23 (rows 218–222, R100–R102)
+- [Perfection Fresh Australia — Data Engineer Lakehouse & AI Data Pipelines (Haystack)](https://haystackapp.io/jobs/2ec1ecc6-7355-4bbb-acaf-18cbab44285f)
+- [Vericent — Data Engineer, Melbourne (Haystack, Aug 14 2026)](https://haystackapp.io/jobs/6b57087f-6523-47f5-a565-ee57822aa925)
+- [Morgan Consulting — Lead Data Engineer Agentic AI, Melbourne (SEEK Aug 2026)](https://www.seek.com.au/Data-Engineering-jobs/in-All-Melbourne-VIC)
+- [eflr Group — Lead AI Engineer Agentic Systems, Remote AU (australiajobs.app)](https://www.australiajobs.app/job/eflr-group-lead-ai-engineer-agentic-systems)
+- [City Facilities Management — AI/ML Copilot Solutions Engineer, Mulgrave Melbourne (Indeed AU Aug 2026)](https://au.indeed.com/q-artificial-intelligence-engineer-jobs.html)
+- [TCS — Forward Deployed Engineer LLM/Gen AI, Bengaluru (Instahyre job 433201)](https://www.instahyre.com/job-433201-forward-deployed-engineer-llm-gen-ai-at-tata-consultancy-services-bangalore/)
+- [Cox Purtell — Data Engineer Snowflake or Databricks, Sydney (Cox Purtell Careers, Aug 10 2026)](https://www.coxpurtell.com.au/job-details/data-engineer-snowflake-or-databricks-in-jobs-1674138)
+- [Tvara — AI Engineer LangChain & Agentic Systems (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-langchain-agentic-systems-python-at-tvara-4321717133)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
