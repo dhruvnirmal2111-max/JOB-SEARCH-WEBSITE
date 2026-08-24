@@ -330,5 +330,17 @@
     "status": "created",
     "gcal_event_id": "rqj8not0ao0fehb2k5pt6b53l0",
     "gcal_link": "https://www.google.com/calendar/event?eid=cnFqOG5vdDBhbzBmZWhiMms1cHQ2YjUzbDAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "quantium-wiq-outreach-20260827",
+    "title": "Send outreach: Quantium wiq Data Scientist",
+    "kind": "outreach",
+    "start": "2026-08-27T09:00:00",
+    "end": "2026-08-27T09:20:00",
+    "notes": "Send drafted messages in job-search/pipeline/quantium-wiq--data-scientist/outreach.md. Verify each person is current at Quantium/wiq (Woolworths account) on LinkedIn before sending. You send manually.",
+    "source": "quantium-wiq--data-scientist",
+    "status": "created",
+    "gcal_event_id": "e74rk8j0r0a4306ggac3e179v0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=ZTc0cms4ajByMGE0MzA2Z2dhYzNlMTc5djAgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

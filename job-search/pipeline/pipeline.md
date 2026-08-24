@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 17
+- Active applications: 18
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -34,6 +34,7 @@
 | Linktree | Data Analyst (Business Analytics, L3) | linktree--data-analyst | Applying | Owner: confirm displayed title ("Data Analyst"); review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-07-18 | 2026-07-15 |
 | RevenueCat | Data Analyst (analytics partner, remote-first) | revenuecat--data-analyst | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-08 | 2026-08-04 |
 | Quantium | Data Scientist (Transformation AI, Telstra — predictive + GenAI/agentic) | quantium--data-scientist-transformation-ai | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-13 | 2026-08-08 |
+| Quantium (wiq) | Data Scientist (wiq — Quantium × Woolworths retail: pricing/ranging/supply chain) | quantium-wiq--data-scientist | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-29 | 2026-08-24 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
