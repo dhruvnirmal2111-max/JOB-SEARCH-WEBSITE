@@ -318,5 +318,17 @@
     "status": "created",
     "gcal_event_id": "2l36dsh205uu2uqgb3u6f31lc0",
     "gcal_link": "https://www.google.com/calendar/event?eid=MmwzNmRzaDIwNXV1MnVxZ2IzdTZmMzFsYzAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "quantium-ds-outreach-20260811",
+    "title": "Send outreach: Quantium Data Scientist (Transformation AI)",
+    "kind": "outreach",
+    "start": "2026-08-11T09:00:00",
+    "end": "2026-08-11T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/quantium--data-scientist-transformation-ai/outreach.md. Verify each person is current at Quantium (ideally Quantium Telstra / Transformation AI) on LinkedIn before sending. You send manually.",
+    "source": "quantium--data-scientist-transformation-ai",
+    "status": "created",
+    "gcal_event_id": "rqj8not0ao0fehb2k5pt6b53l0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=cnFqOG5vdDBhbzBmZWhiMms1cHQ2YjUzbDAgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

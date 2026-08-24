@@ -24,7 +24,6 @@
 | GitHub | Data Analyst (Trust & Safety — Copilot abuse) | github--data-analyst-trust-safety-copilot | Applying | **Owner: confirm work-authorization (Remote-Ontario-Canada, outside geo scope) BEFORE submitting**; review PDF + cover letter; `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-06-25 |
 | UniSuper (confirm) | Data Analyst (Enterprise Data Platform / BI) | unisuper--data-analyst | Applying | Owner: confirm company = UniSuper; review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-29 | 2026-06-26 |
 | AGL | Data Scientist (Data Science Chapter — Pricing & Acquisition) | agl--data-scientist | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-06-30 | 2026-06-26 |
-| 7-Eleven | Data Scientist — Advanced Analytics & Pricing (Richmond VIC) | 7-eleven--data-scientist-pricing | Interviewing | Owner: send revised resume per interviewer feedback (engagement-grouped, tools named, complete stories) | send revised resume | 2026-07-11 |
 | Electronic Arts | Data Scientist (Publishing Insights & Markets — Asia) | electronic-arts--data-scientist-publishing-insights | Applying | **Owner: confirm location/eligibility (EA Asia Publishing)**; review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | confirm location first | 2026-07-07 |
 | Puffy | Experimentation Analyst (Data Analyst — Experimentation & CRO, D2C e-commerce) | puffy--experimentation-analyst | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | — | 2026-07-16 |
 | Keypath Education | Associate Data Scientist (Strategy & Insights — predictive models + GenAI) | keypath-education--associate-data-scientist | Applying | Owner: review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | — | 2026-07-16 |
@@ -34,8 +33,9 @@
 | BOUNCE | Commercial & Procurement Analyst (Finance — F&B procurement/pricing/inventory) | bounce--commercial-procurement-analyst | Applying | Owner: submit application + review outreach; confirm displayed current-role title; `/review-outreach`; `/review-calendar` | — | 2026-07-22 |
 | Linktree | Data Analyst (Business Analytics, L3) | linktree--data-analyst | Applying | Owner: confirm displayed title ("Data Analyst"); review PDF + cover letter → submit; `/review-outreach`; `/review-calendar` | submit by 2026-07-18 | 2026-07-15 |
 | RevenueCat | Data Analyst (analytics partner, remote-first) | revenuecat--data-analyst | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-08 | 2026-08-04 |
+| Quantium | Data Scientist (Transformation AI, Telstra — predictive + GenAI/agentic) | quantium--data-scientist-transformation-ai | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-13 | 2026-08-08 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
 |---------|------|---------|------|
-| | | | |
+| 7-Eleven | Data Scientist — Advanced Analytics & Pricing | Not selected — reached final behavioural round, edged out on articulation | 2026-08-08 |
