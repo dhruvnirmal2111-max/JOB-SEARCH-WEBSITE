@@ -1,4 +1,4 @@
-# Outreach Plan: Quantium (wiq) — Data Scientist
+# Outreach Plan: Quantium (wiq), Data Scientist
 
 **Status: DRAFTS ONLY. Nothing here has been sent. Owner reviews and sends manually via `/review-outreach`.**
 
@@ -32,7 +32,7 @@ Scoring: Relevance to role 30%, Response likelihood 25%, Information value 25%, 
 
 ---
 
-### 1. Matthew Carle — Manager (Priority 7.75/10)
+### 1. Matthew Carle, Manager (Priority 7.75/10)
 
 - **Suggested title to search:** "Executive, Data Science - wiq - Quantium"
 - **LinkedIn search query:** `Matthew Carle Quantium wiq Executive Data Science`
@@ -52,7 +52,7 @@ Scoring: Relevance to role 30%, Response likelihood 25%, Information value 25%, 
 
 ---
 
-### 2. Chloe Law — Peer (Priority 7.50/10)
+### 2. Chloe Law, Peer (Priority 7.50/10)
 
 - **Suggested title to search:** "Senior Data Scientist at wiq"
 - **LinkedIn search query:** `Chloe Law Quantium wiq Senior Data Scientist`
@@ -71,7 +71,7 @@ Scoring: Relevance to role 30%, Response likelihood 25%, Information value 25%, 
 
 ---
 
-### 3. Katie Neill — Recruiter (Priority 7.25/10)
+### 3. Katie Neill, Recruiter (Priority 7.25/10)
 
 - **Suggested title to search:** "Talent Acquisition Partner, Data & Analytics"
 - **LinkedIn search query:** `Katie Neill Woolworths Group Talent Acquisition Data Analytics`
@@ -90,7 +90,7 @@ Scoring: Relevance to role 30%, Response likelihood 25%, Information value 25%, 
 
 ---
 
-### 4. Anne Fernando — Peer (Priority 6.75/10)
+### 4. Anne Fernando, Peer (Priority 6.75/10)
 
 - **Suggested title to search:** "Senior Analyst, WiQ (Woolworths x Quantium)"
 - **LinkedIn search query:** `Anne Fernando Quantium wiq Senior Analyst`
@@ -109,7 +109,7 @@ Scoring: Relevance to role 30%, Response likelihood 25%, Information value 25%, 
 
 ---
 
-### 5. Amitabh Mall — Senior Leader (Priority 5.50/10)
+### 5. Amitabh Mall, Senior Leader (Priority 5.50/10)
 
 - **Suggested title to search:** "Managing Director, wiq / Chief Digital & Analytics Officer, Woolworths Group"
 - **LinkedIn search query:** `Amitabh Mall Woolworths Group wiq Chief Digital Analytics Officer`
@@ -139,9 +139,9 @@ Week 3: Amitabh Mall (Senior): only after initial conversations, respectful and 
 
 Rules applied:
 - Every message is personalised to wiq's actual scope (pricing, ranging, supply chain, loyalty/personalisation) and to Dhruv's real, truthful project history, no fabricated experience.
-- Follow up **once**, 5–7 business days after the connection/follow-up if no reply. Never more than twice.
+- Follow up **once**, 5 to 7 business days after the connection/follow-up if no reply. Never more than twice.
 - Send the thank-you within 24 hours of any real conversation.
-- No referral ask anywhere in these drafts — these are connection + follow-up + thank-you only.
+- No referral ask anywhere in these drafts, these are connection + follow-up + thank-you only.
 - No em dashes in any message (commas/colons used instead), per style constraint.
 
 ---
