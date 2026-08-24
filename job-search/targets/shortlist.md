@@ -1889,3 +1889,28 @@
 - [Canva — Senior Analytics Engineer Open to remote ANZ (Canva Careers)](https://www.lifeatcanva.com/en/jobs/90b77e7b-a863-49f5-bba4-eb4516fa5217/senior-analytics-engineer-open-to-remote-across-australia-nz/)
 - [CRED — Data Engineer Bengaluru (careers.cred.club / Glassdoor)](https://careers.cred.club)
 - [Groww — ML Engineer Bengaluru (Peerlist)](https://peerlist.io/company/groww/careers/machine-learning-engineer)
+
+### Daily scout — 2026-08-24
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 300 | Xero | Senior Engineer – AI Workflows | Melbourne (hybrid) | Active Aug 2026 | **Distinct from rows 13 + 206 + 246 + 272**: Internal AI Accelerator Squad — embed within business teams to co-design + operationalise agentic AI workflows that remove manual toil; explicitly uses **Claude + Gemini + MCP**; own high-stakes delivery from discovery to production; AUD **$160k–$220k** (Xero senior band); role description is the closest possible match to the multi-agent agentic-AI OS the owner built in this very repo | 10 | Specific posting | |
+| 301 | Xero | Senior Engineer – AI Agentic | Melbourne (hybrid) | Active Aug 2026 | **Distinct from row 300 (AI Workflows)**; separate Xero Careers posting (job 8fed11a8) in the same Internal AI Accelerator Squad; forward-deployed production agentic-AI systems engineer — design + build + operate multi-agent systems using Claude + Gemini + MCP; confirmed salary **AUD $180k–$210k** — highest confirmed base for an agentic-AI role on this shortlist | 10 | Specific posting | |
+| 302 | Culture Amp | Senior Applied AI Engineer | Melbourne (hybrid) | Active Aug 2026 | **Distinct from row 46 (Senior Data Engineer)**; builds applied AI features + ML-powered people-analytics products at Culture Amp HR-tech SaaS unicorn (Melbourne HQ); LLM integration + model evaluation + applied AI engineering at SaaS product scale; est. AUD $130k–$165k (Culture Amp senior band Glassdoor/Levels.fyi) | 8 | Specific posting | |
+
+### Remote-first scout — 2026-08-24
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R169 | Freshworks | ML Engineer (MLOps) | Bengaluru, India | Active Aug 2026 | Nasdaq-listed Indian SaaS unicorn ($4B+ val, 60k+ enterprise customers globally); production ML infrastructure: model serving, experimentation pipelines, monitoring + observability at scale; Python + PyTorch/TF/Scikit-learn; 6–10 yrs; 17 active Freshworks Bengaluru openings confirmed Aug 19 2026; **new company on shortlist**; est. ₹30–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R170 | Freshworks | Lead Data Scientist – GenAI | Bengaluru, India | Active Aug 2026 | **Distinct from R169 (MLOps)**; applies GenAI + NLP + ML to build conversational AI bots + intelligent CX/ITSM features within Freshworks suite; NLP + LLMs + Python + TensorFlow; lead-level scope; median Lead DS comp at Freshworks ₹65 LPA (Levels.fyi); est. ₹45–75 LPA. **Survives move: YES** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-08-24 (rows 300–302, R169–R170)
+- [Xero — Senior Engineer AI Workflows, Melbourne (Xero Careers job 207b3ed7)](https://careers.xero.com/jobs/207b3ed7-594a-4fde-acb9-0d215d18c989/senior-engineer-ai-workflows/)
+- [Xero — Senior Engineer AI Workflows, Melbourne (Indeed)](https://au.indeed.com/viewjob?jk=3f99d98878c902f0)
+- [Xero — Senior Engineer AI Agentic, Melbourne (Xero Careers job 8fed11a8)](https://careers.xero.com/jobs/8fed11a8-5109-4787-8a2a-a75d860703e2/senior-engineer-ai-agentic/)
+- [Xero — Senior Engineer AI Workflows (RemoteRocketship)](https://www.remoterocketship.com/company/xero-3/jobs/senior-engineer-ai-workflows-melbourne-hybrid/)
+- [Culture Amp — Senior Applied AI Engineer, Melbourne (startup.jobs)](https://startup.jobs/senior-applied-ai-engineer-culture-amp-7693487)
+- [Freshworks — ML Engineer MLOps, Bengaluru (Instahyre)](https://www.instahyre.com/job-324893-ml-engineer-mlops-at-freshworks-bangalore/)
+- [Freshworks — Lead Data Scientist GenAI, Bengaluru (Instahyre)](https://www.instahyre.com/job-437736-lead-data-scientist-at-freshworks-bangalore/)
+- [Freshworks — Bengaluru jobs Aug 19 2026 (Indeed India)](https://in.indeed.com/q-freshworks-l-bengaluru,-karnataka-jobs.html)
