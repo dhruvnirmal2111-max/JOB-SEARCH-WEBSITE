@@ -1914,3 +1914,31 @@
 - [Freshworks — ML Engineer MLOps, Bengaluru (Instahyre)](https://www.instahyre.com/job-324893-ml-engineer-mlops-at-freshworks-bangalore/)
 - [Freshworks — Lead Data Scientist GenAI, Bengaluru (Instahyre)](https://www.instahyre.com/job-437736-lead-data-scientist-at-freshworks-bangalore/)
 - [Freshworks — Bengaluru jobs Aug 19 2026 (Indeed India)](https://in.indeed.com/q-freshworks-l-bengaluru,-karnataka-jobs.html)
+
+### Daily scout — 2026-08-25
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 303 | Halaxy | Data Engineer | Melbourne (hybrid) | ~Aug 2026 | Healthcare SaaS (AFR Best Places to Work 2026 shortlisted); Microsoft Fabric + Power BI + Azure data platform + AI-powered patient-data migration; new healthtech-SaaS sector on shortlist; $120k–$140k + super | 7 | Specific posting | |
+| 304 | Alinta Energy | Data Scientist | Melbourne (hybrid) | ~Aug 2026 | Major energy retailer (1.1M+ AU customers); predictive modelling across pricing/customer/marketing analytics; Python + ML scope; Circle Back Initiative employer; DISTINCT from AGL (row 37), Origin (row 156), Red Energy (row 190), Jemena (row 31); est. $105–$135k ⚠️ confirm salary ≥ AUD 95k floor | 7 | Specific posting | |
+| 305 | Alinta Energy | Senior AI Engineer | Melbourne (hybrid) | ~late Jul–Aug 2026 | Same company as row 304 — DISTINCT role; Azure + Databricks + MLflow ML platform engineering; "world-leading internal data & AI platform"; building + scaling ML solutions for energy sector; est. $130–$165k | 8 | Specific posting | |
+| 306 | Monash University (Faculty of IT / CSL Behring collaboration) | Research Fellow — AI & ML for Pharmaceutical Data | Clayton, Melbourne (hybrid) | Active Aug 2026 | Anomaly detection + predictive ML models on real-world CSL Behring pharma datasets in multidisciplinary Monash+CSL environment; anomaly-detection background directly maps; salary est. $111k–$136k + 17% super; DISTINCT from row 44 (Senior DE at Clayton); ⚠️ academic/research track — confirm if industry is preferred | 6 | Specific posting | |
+| 307 | Grant Thornton Australia | Senior Associate — Data Analytics | Melbourne (hybrid, 9-day fortnight) | ~Aug 2026 | Mid-tier professional services (distinct from Big 4 rows); data analytics consulting across government + commercial clients; 9-day fortnight flexible schedule; est. $100–$130k ⚠️ confirm technical stack depth (may be BI/SQL-focused vs engineering-heavy) | 6 | Specific posting | |
+
+### Remote-first scout — 2026-08-25
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R171 | Barclays India | AI Engineer (Python, FastAPI, LangGraph, LLM, RAG, MCP/A2A) | Pune, India (hybrid) | Aug 19, 2026 | Global bank's Pune tech campus (9,000+ staff, largest Barclays campus outside London); builds LLM-based enterprise apps (RAG, summarisation, data analysis at scale) using agentic frameworks (Strands/LangGraph/Google ADK) + MCP/A2A protocols — rare requirement directly matching rare LLM/agentic-AI edge; new company on shortlist; est. ₹20–40 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R172 | Abacus Digital Pvt Ltd | Generative AI / Agentic AI Engineer (LLM + RAG + Knowledge Graphs) | India (fully remote) | ~Aug 2026 | AI product company; end-to-end GenAI + agentic workflows + knowledge-graph construction for enterprise clients; distinct LLM + RAG + knowledge-graph combination; India remote confirmed; new company on shortlist; est. ₹15–35 LPA ⚠️ small firm — verify funding stability + full remote-India policy before applying. **Survives move: YES** | 7 | Specific posting | |
+| R173 | BLDX (BLDO Technologies) | AI Engineer — Agentic AI & RAG Systems | Bengaluru, India (hybrid) | ~Aug 2026 | Construction-tech AI startup (AI-powered project scheduling, risk management, document intelligence for real-estate/infra projects); high-ownership lean team; LangGraph + RAG + production AI delivery; new company on shortlist; early-stage ⚠️ verify funding stability + comp band before applying. **Survives move: YES** | 6 | Specific posting | |
+
+### Daily scout sources — 2026-08-25 (rows 303–307, R171–R173)
+- [Halaxy — Data Engineer, Melbourne hybrid (SEEK Aug 2026)](https://au.seek.com/Halaxy-jobs)
+- [Alinta Energy — Data Scientist + Senior AI Engineer, Melbourne (SEEK Aug 2026)](https://au.seek.com/Alinta-Energy-jobs/in-All-Melbourne-VIC)
+- [Monash University / CSL Behring — Research Fellow AI & ML for Pharmaceutical Data, Clayton Melbourne (Monash Careers Aug 2026)](https://www.monash.edu/jobs)
+- [Grant Thornton Australia — Senior Associate Data Analytics, Melbourne (SEEK Aug 2026)](https://au.seek.com/Grant-Thornton-jobs/in-All-Melbourne-VIC)
+- [Barclays India — AI Engineer Pune (Barclays Careers, Aug 19 2026)](https://search.jobs.barclays/job/pune/ai-engineer/13015/99028208832)
+- [Barclays India — Applied AI Engineer Bengaluru (Barclays Careers)](https://search.jobs.barclays/job/bengaluru/applied-ai-engineer/13015/98506833776)
+- [Abacus Digital — Generative AI / Agentic AI Engineer, India Remote (LinkedIn India)](https://in.linkedin.com/jobs/view/generative-ai-agentic-ai-engineer-llm-+-rag-+-knowledge-graphs-at-abacus-digital-pvt-ltd-4402384684)
+- [BLDX — AI Engineer Agentic AI & RAG, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-%E2%80%93-agentic-ai-rag-systems-at-bldx-4264415525)
