@@ -686,6 +686,34 @@
 - [Cox Purtell — Data Engineer Snowflake or Databricks, Sydney (Cox Purtell Careers, Aug 10 2026)](https://www.coxpurtell.com.au/job-details/data-engineer-snowflake-or-databricks-in-jobs-1674138)
 - [Tvara — AI Engineer LangChain & Agentic Systems (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-langchain-agentic-systems-python-at-tvara-4321717133)
 
+### Daily scout — 2026-08-27
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 223 | Victoria Legal Aid | Data Engineer | Melbourne (hybrid) | Aug 26, 2026 | State govt legal-aid org; build data warehouse + ETL pipelines + dashboards using Python + SQL + AWS + Metabase; salary $113,668–$131,153 + super + $15,900 salary packaging (total package well above floor); freshest posting (listed 2 days ago on SEEK/EthicalJobs); government/public-sector domain; new company on shortlist | 7 | Specific posting | |
+| 224 | MA Financial Group | Senior Data Science Engineer | Sydney / Brisbane / Melbourne (hybrid; open to all three cities) | ~Aug 2026 | Alternative asset manager + lending platform; deliver advanced analytics across lending, credit risk, portfolios + client outcomes; Python + ML + DS; fintech/financial-services domain strength; open to Melbourne; fresh posting; new company on shortlist; est. $130–$165k | 7 | Specific posting | |
+| 225 | Domain / CoStar Group | Senior Data Engineer – Product | Sydney (hybrid) | ~Aug 2026 | AU's #2 property tech marketplace (Domain acquired by CoStar 2025); design + operate data platform + pipelines on AWS + Snowflake + Databricks + Apache Iceberg for product, data science + ML/AI teams; DISTINCT from row 101 (company-target Analytics Engineer); direct stack match; est. $145–$175k ⚠️ Sydney primary — confirm Melbourne/remote option before applying | 7 | Specific posting | |
+| 226 | Airwallex | Staff Data Engineer | Melbourne (hybrid) | ~Aug 2026 | Global fintech unicorn (Melbourne-founded, $8B+ valuation, 2,000+ staff, 26 offices); large-scale data platform engineering at Staff level; DISTINCT from row 50 (Senior Data Scientist ANZ) and row 227 (Staff DS GTM); Staff-level comp est. $160–$200k (AU median $195k per levels.fyi); high ownership, elite engineering culture | 8 | Specific posting | |
+| 227 | Airwallex | Staff Data Scientist, GTM | Melbourne (hybrid) | ~Aug 2026 | Same global fintech unicorn; GTM/growth analytics at Staff level — 8+ yrs exp, advanced degree preferred; DISTINCT from row 50 (Senior Data Scientist ANZ) and row 226 (Staff DE); est. $155–$195k; rare Staff-level DS role at a US$8B fintech | 7 | Specific posting | |
+| 228 | Brighte | Data Engineer | Sydney (hybrid) | ~Aug 2026 | Green energy fintech (solar + EV financing for AU households); own ELT pipelines + Snowflake data warehouse + data architecture; real-time pipelines + AI use cases; Airflow + AWS + CI/CD + dbt + Snowflake + Git stack is a direct match; avg Brighte salary $139k; est. $125–$155k; new company on shortlist ⚠️ Sydney-primary — confirm Melbourne/remote option before applying | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-27
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R103 | Neuron7 AI | Senior AI Solutions Engineer | Bengaluru / India (hybrid) | ~Jul–Aug 2026 | Enterprise AI platform for field-service + support intelligence; LangGraph + LLM + streaming anomaly detection + evidence-based root cause reasoning on real enterprise data problems; 3–6 yrs exp; US-HQ startup with India engineering hub; 14 active India openings confirmed Jul–Aug 2026 on Foundit/Lever; est. ₹28–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R104 | Pulsora | Forward Deployed AI Engineer | Remote (global; confirm India eligibility) | ~Aug 2026 | Sustainability intelligence SaaS (ESG + climate data for enterprises); client-embedded agentic AI deployment using LangGraph + RAG + LLM pipelines; same FDE model as Palantir/Databricks/Salesforce rows; listed on agentic-engineering-jobs.com ($140k–$220k US comp band — India remote comp TBC); ESG/sustainability domain entirely new to shortlist; ⚠️ confirm India eligibility + comp before applying. **Survives move: PARTIAL** | 6 | Specific posting | |
+
+### Daily scout sources — 2026-08-27 (rows 223–228, R103–R104)
+- [Victoria Legal Aid — Data Engineer, Melbourne (SEEK / EthicalJobs, Aug 26, 2026)](https://www.seek.com.au/Victoria-Legal-Aid-jobs/in-All-Melbourne-VIC)
+- [MA Financial Group — Senior Data Science Engineer, multiple AU cities (SEEK Aug 2026)](https://au.seek.com/data-scientist-jobs)
+- [Domain / CoStar Group — Senior Data Engineer – Product, Sydney (Haystack)](https://haystackapp.io/jobs/a6bff5fb-c37f-4906-ae2e-13d0a2a8b050)
+- [Airwallex — Staff Data Engineer, Melbourne (Airwallex Careers)](https://careers.airwallex.com/job/93dd70e9-9aa7-4fd6-b8c0-623e0d80b41f/staff-data-engineer/)
+- [Airwallex — Staff Data Scientist GTM, Melbourne (Airwallex Careers)](https://careers.airwallex.com/job/4182ef4d-85b7-4272-8b00-ce6fbf4cb8f1/staff-data-scientist-gtm/)
+- [Brighte — Data Engineer, Sydney (Built In Sydney Aug 2026)](https://builtinsydney.au/jobs/data-analytics/search/data-engineer)
+- [Neuron7 AI — Senior AI Solutions Engineer, India (Lever)](https://jobs.lever.co/neuron7/924af245-a478-406f-a9e4-c75075423d29)
+- [Pulsora — Forward Deployed AI Engineer, Remote (Agentic Engineering Jobs)](https://agentic-engineering-jobs.com/jobs/remote)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
