@@ -1970,3 +1970,26 @@
 - [Barclays India — Applied AI Engineer Bengaluru (Barclays Careers)](https://search.jobs.barclays/job/bengaluru/applied-ai-engineer/13015/98506833776)
 - [Abacus Digital — Generative AI / Agentic AI Engineer, India Remote (LinkedIn India)](https://in.linkedin.com/jobs/view/generative-ai-agentic-ai-engineer-llm-+-rag-+-knowledge-graphs-at-abacus-digital-pvt-ltd-4402384684)
 - [BLDX — AI Engineer Agentic AI & RAG, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/ai-engineer-%E2%80%93-agentic-ai-rag-systems-at-bldx-4264415525)
+
+### Daily scout — 2026-08-28
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 308 | Deloitte Australia | ML / AI Engineering Lead | Melbourne (hybrid) | ~Aug 2026 | Big-4 consulting; AI & Data team (500+ specialists); 6+ yrs ML/AI engineering; Python + cloud (AWS/Azure/Google/Snowflake/Databricks) stack match; leadership scope (lead-level, not just IC); technology-consulting domain crossover; DISTINCT from row 35 (DE/Analytics) and R87 (Deloitte India GDS); est. $140–$180k | 8 | Specific posting | |
+| 309 | Bupa Australia | Health Insurance Data Scientist (ML & Insights Lead) | Melbourne CBD (hybrid) | ~Aug 2026 | 12-month FTC with permanency potential; 3+ yrs DS; Python/SQL/R/SAS; ML models for health insurance analytics and pricing insights; lead-level scope; DISTINCT from row 102 (Bupa Senior Data Engineer); est. $100–$130k ⚠️ confirm salary ≥ AUD 95k floor | 7 | Specific posting | |
+| 310 | ESSSuper | Senior Data Engineer | Melbourne (hybrid) | Aug 2026 | Superannuation fund (ESS — government employees); Azure + Microsoft Fabric + EDW; design, develop, and optimise Enterprise Data Warehouse + data integration pipelines; new company on shortlist; hybrid + flexible working arrangements; AUD $132k–$140k (well above floor) | 7 | Specific posting | |
+
+### Remote-first scout — 2026-08-28
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R174 | Razorpay | Lead AI Engineer | Bengaluru, India (in-office) | Active Aug 2026 | India's #1 payments fintech unicorn (BNPL + payment gateway at scale); LLM-based AI product engineering; lead-level scope; DISTINCT from R30 (Razorpay Data Scientist); 5–9 yrs; Python; top-tier fintech brand + strong India pay band; est. ₹40–70 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R175 | Zepto | Data Scientist / ML Engineer | Bengaluru, India | Active Aug 2026 | Ultra-fast commerce startup (SoftBank-backed, ~₹72B valuation, 10-minute grocery delivery); ML at consumer-tech scale (demand forecasting, personalisation, supply optimisation); Python; new company on shortlist; high-growth brand + strong compensation (Levels.fyi: ₹2.5M–₹3.7M TC reported); est. ₹25–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-28 (rows 308–310, R174–R175)
+- [Deloitte Australia — ML/AI Engineering Lead, Melbourne (Deloitte Careers, job 1063906066)](https://jobs.deloitte.com.au/job/Melbourne-ML-AI-Engineering-Lead-VIC/1063906066/)
+- [Bupa Australia — Health Insurance Data Scientist (ML & Insights Lead), Melbourne CBD (au.talent.com)](https://au.talent.com/view?id=619535262036795076)
+- [Bupa Australia — careers portal](https://careers.bupa.com.au)
+- [ESSSuper — Senior Data Engineer, Melbourne (au.talent.com)](https://au.talent.com/view?id=633230378240714712)
+- [Razorpay — Lead AI Engineer, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/lead-ai-engineer-at-razorpay-4398381418)
+- [Zepto — Data Scientist / ML Engineer, Bengaluru (Naukri)](https://www.naukri.com/zepto-jobs)
