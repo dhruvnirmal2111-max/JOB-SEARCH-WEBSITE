@@ -714,6 +714,31 @@
 - [Neuron7 AI — Senior AI Solutions Engineer, India (Lever)](https://jobs.lever.co/neuron7/924af245-a478-406f-a9e4-c75075423d29)
 - [Pulsora — Forward Deployed AI Engineer, Remote (Agentic Engineering Jobs)](https://agentic-engineering-jobs.com/jobs/remote)
 
+### Daily scout — 2026-08-29
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 229 | Wesfarmers Health | Data Scientist | Docklands, Melbourne (hybrid) | ~Aug 2026 | Lead AI/ML data science initiatives across the Wesfarmers Health portfolio (Priceline, Silk Laser Clinics, InstantScripts, Clear Skincare Clinics, SISU Health); new company on shortlist distinct from Wesfarmers OneDigital (row 40); Python + ML for commercial insights at health-retail scale; confirmed specific posting on careers.wesfarmershealth.com.au (job 1060899166); est. $120–$155k | 8 | Specific posting | |
+| 230 | Chisholm Institute of TAFE | Senior Data Scientist | Dandenong, Melbourne (hybrid) | ~Aug 2026 | Government-funded TAFE (AU's largest dual-sector institution); Senior DS in TAFE Transformation Office — Python + ML + analytics to drive strategic transformation; full-time FTC to October 2028; public-sector/education domain entirely new to shortlist; confirmed active SEEK listing Aug 2026; est. $115–$140k ⚠️ confirm salary ≥ AUD 95k floor (TAFE award rates) | 7 | Specific posting | |
+| 231 | Arinco | Azure AI Platform Architect | Melbourne (hybrid) | ~Aug 2026 | Microsoft Australia Partner of the Year 2024 (250+ crew, 400+ enterprise clients); Intelligent Platforms Practice — embed AI into Azure cloud platform architecture + delivery using Azure AI Foundry, Terraform/Bicep, IaC, DevOps; client-facing consulting + IP development; new company on shortlist; confirmed on Haystack (job 0a78890e); est. $140–$190k AUD ⚠️ architect-level scope — confirm experience threshold and data-engineering relevance | 7 | Specific posting | |
+| 232 | Infosys Australia | Data Engineer (Quantexa), Melbourne | Melbourne (hybrid) | ~Aug 2026 | Global IT services giant (800k+ staff); Quantexa entity-resolution + analytics platform data engineering role; confirmed salary $108,571–$119,893 AUD (above $95k floor); analytics consulting domain match; new company on shortlist distinct from Cognizant (row 8) and Accenture (row 57); confirmed on australiajobs.app + The Muse; ⚠️ IT staffing/consulting model — confirm end-client + permanent vs contract | 6 | Specific posting | |
+
+### Remote-first scout — 2026-08-29
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R105 | Alliance IT | Agentic AI Engineer (LangGraph + LangChain + Golang) | Fully remote (global, India-eligible) | ~Aug 2026 | Design + deploy next-gen AI agents and autonomous systems; multi-agent orchestration (LangGraph + LangChain), RAG architectures, scalable backend services (Python + Golang), LLM integration into enterprise apps; fully remote confirmed on Dice.com; new company for India scout; est. ₹25–50 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R106 | EY GDS India | Agentic AI Engineer — Manager Level | Kolkata / Pan-India (hybrid) | ~Aug 2026 | EY Global Delivery Services AI practice — **Manager** level, distinct from R81 (Senior/Consultant level); team leadership + agentic AI delivery (LangGraph + RAG + Mistral LLMs) for banking/FS enterprise clients; confirmed on EY careers (job 1403211533 Kolkata); est. ₹40–65 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-29 (rows 229–232, R105–R106)
+- [Wesfarmers Health — Data Scientist, Docklands Melbourne (Wesfarmers Health Careers job 1060899166)](https://careers.wesfarmershealth.com.au/job/Docklands-Data-Scientist-VIC/1060899166/)
+- [Chisholm Institute of TAFE — Senior Data Scientist, Dandenong Melbourne (SEEK Aug 2026)](https://au.seek.com/Chisholm-Institute-of-TAFE-jobs/in-Dandenong-VIC-3175)
+- [Arinco — Azure AI Platform Architect, Melbourne (Haystack)](https://haystackapp.io/jobs/0a78890e-4749-42da-982a-b359dd139bea)
+- [Infosys Australia — Data Engineer (Quantexa), Melbourne (australiajobs.app)](https://www.australiajobs.app/job/infosys-quantexa-engineer)
+- [Infosys — Data Engineer Melbourne (The Muse)](https://www.themuse.com/jobs/infosys/data-engineer-ad6e58)
+- [Alliance IT — Agentic AI Engineer LangGraph + Golang, Fully Remote (Dice.com)](https://www.dice.com/job-detail/221e51e8-22a7-4984-a872-308532181861)
+- [EY GDS India — Agentic AI Engineer Manager, Kolkata (EY Careers job 1403211533)](https://careers.ey.com/ey/job/Kolkata-EY-GDS-Consulting-AIA-Agentic-AI-Engineer-Manager-WB-700091/1403211533)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
