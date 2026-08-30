@@ -739,6 +739,35 @@
 - [Alliance IT — Agentic AI Engineer LangGraph + Golang, Fully Remote (Dice.com)](https://www.dice.com/job-detail/221e51e8-22a7-4984-a872-308532181861)
 - [EY GDS India — Agentic AI Engineer Manager, Kolkata (EY Careers job 1403211533)](https://careers.ey.com/ey/job/Kolkata-EY-GDS-Consulting-AIA-Agentic-AI-Engineer-Manager-WB-700091/1403211533)
 
+### Daily scout — 2026-08-30
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 233 | The Onset | Data/ML/AI Engineer | Melbourne (hybrid) | ~Aug 2026 | New boutique AI consultancy (enterprise + government AI projects; "proper AI work in a team of PhDs"); end-to-end AI/data engineering on real client problems; new company on shortlist; confirmed on SEEK with multiple openings; est. $140k–$160k + super | 8 | Specific posting | |
+| 234 | Canva | Senior ML Engineer – Agent Tools Interop | AU remote (Melbourne / Sydney / Brisbane) | ~Aug 2026 | Makes tool calling reliable, safe + scalable across Canva's growing agentic AI ecosystem; works on MCP, function calling + A2A protocols — directly matches rare agentic-AI/LLM production edge; 3 city-specific SmartRecruiters postings confirmed (job IDs 981862/981857/981867); **8th distinct Canva role**, all previous ones accounted for; est. $161–$205k TC (Canva Senior ML IC3 median ~$280k TC incl. equity) | 9 | Specific posting | |
+| 235 | Arkeus | Data Engineer | Remote AU (Port Melbourne HQ) | ~Aug 2026 | Defence-tech AI startup (AI sensing systems for autonomous platforms — AU + allied markets); remote-eligible with Port Melbourne office; backed by Main Sequence, QIC, Folklore Ventures + Beaten Zone Ventures; data engineering for production AI sensing/tracking systems; new company on shortlist ⚠️ defence domain may require security clearance — confirm; salary TBC | 6 | Specific posting | |
+
+### Remote-first scout — 2026-08-30
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R107 | Intuitive Surgical | Senior Data Engineer – Supply Chain & Analytics Platforms | Bengaluru, India (hybrid) | ~Jul–Aug 2026 | Fortune 500 medical robotics GCC (da Vinci surgical systems, 17,000+ staff worldwide); designs + builds scalable data pipelines + enterprise data products for supply-chain, manufacturing + operational decision-making; supply-chain analytics domain directly maps to Comprara background; Python + SQL + cloud; confirmed on careers.intuitive.com (JOB215564) + LinkedIn (job 4436930565); est. ₹30–55 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R108 | Oscilar | Data Engineer | Fully remote (global; India-eligible per HN Aug 2026 hiring thread) | Active Aug 2026 | AI Risk Decisioning startup (founded by Meta/Uber/Citi/Confluent veterans); builds distributed data storage + ETL pipelines (ClickHouse + Postgres + Athena + cloud-native) serving mission-critical fraud detection + AML ML models; agentic fraud-risk platform; anomaly-detection domain match; confirmed on Ashby ATS (job ab26bd46); est. USD $100–$150k ⚠️ verify India remote policy + compensation band. **Survives move: PARTIAL** | 8 | Specific posting | |
+| R109 | Ocrolus | Staff Machine Learning Engineer | Remote (India confirmed on RemoteRocketship + in.indeed.com) | Active 2026 (4 live listings Aug 14, 2026) | Fintech lending AI platform (400+ customers incl. PayPal, Plaid, SoFi, Square, Better Mortgage); Staff ML Tech Lead for OCR + NLP + document intelligence + decision ML systems at production scale; hands-on + strategic ML leadership scope; confirmed on Glassdoor (jl 1009757804407) + Built In + Remotive; est. $200K USD (US-band) ⚠️ verify India-specific compensation band + confirm posting freshness. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-08-30 (rows 233–235, R107–R109)
+- [The Onset — Data/AI/ML Engineer roles, Melbourne (SEEK)](https://au.seek.com/The-Onset-jobs)
+- [The Onset — Boutique AI Consultancy Melbourne (talent.com)](https://au.talent.com/view?id=593273383476273846)
+- [Canva — Senior ML Engineer Agent Tools Interop, Melbourne (SmartRecruiters job 981862)](https://jobs.smartrecruiters.com/Canva/6000000000981862-senior-machine-learning-engineer-agent-tools-interop-au-remote-)
+- [Canva — Senior ML Engineer Agent Tools Interop, Sydney (SmartRecruiters job 981857)](https://jobs.smartrecruiters.com/Canva/6000000000981857-senior-machine-learning-engineer-agent-tools-interop-au-remote-)
+- [Arkeus — Data Engineer, Remote AU (australiajobs.app)](https://www.australiajobs.app/job/arkeus-data-engineer)
+- [Arkeus — Careers page](https://arkeus.com/careers)
+- [Intuitive Surgical — Senior DE Supply Chain & Analytics, Bengaluru (careers.intuitive.com JOB215564)](https://careers.intuitive.com/en/jobs/744000140379169/JOB215564/senior-data-engineer-supply-chain-analytics-platforms/)
+- [Intuitive Surgical — Senior DE LinkedIn listing (job 4436930565)](https://in.linkedin.com/jobs/view/senior-data-engineer-supply-chain-analytics-platforms-at-intuitive-4436930565)
+- [Oscilar — Data Engineer, Global remote (Ashby ATS)](https://jobs.ashbyhq.com/oscilar/ab26bd46-3912-4b1c-af58-9eaed19036dc)
+- [Ocrolus — Staff ML Engineer, Remote (Glassdoor jl 1009757804407)](https://www.glassdoor.com/job-listing/staff-machine-learning-engineer-ocrolus-JV_KO0,31_KE32,39.htm?jl=1009757804407)
+- [Ocrolus — Staff ML Engineer (Remotive)](https://remotive.com/remote/jobs/software-dev/staff-machine-learning-engineer-1687966)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
