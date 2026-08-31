@@ -2047,3 +2047,35 @@
 - [ESSSuper — Senior Data Engineer, Melbourne (au.talent.com)](https://au.talent.com/view?id=633230378240714712)
 - [Razorpay — Lead AI Engineer, Bengaluru (LinkedIn India)](https://in.linkedin.com/jobs/view/lead-ai-engineer-at-razorpay-4398381418)
 - [Zepto — Data Scientist / ML Engineer, Bengaluru (Naukri)](https://www.naukri.com/zepto-jobs)
+
+### Daily scout — 2026-08-31
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 311 | Undisclosed energy startup (SEEK / recruiter Sean Gray) | Senior Machine Learning Engineer — First Hire | Melbourne (hybrid) | ~mid-Aug 2026 | Early-stage energy startup hiring their first-ever ML engineer; $155k–$160k + super + ESOP; full greenfield ownership from model to production; clear pathway to Lead / Head of ML; energy sector new to shortlist; equity upside meaningful at early stage. ⚠️ Company name undisclosed — confirm via SEEK listing before applying | 8 | Specific posting | |
+| 312 | I-MED Radiology Network | Data Engineer | Mount Waverley, Melbourne (hybrid / FTC option) | ~Aug 2026 | Australia's largest private radiology network; build scalable AWS data pipelines for clinical, operational + commercial analytics; healthcare domain new to shortlist; modern AWS stack matches DE skills; est. $115–$140k ⚠️ salary not advertised — confirm ≥ AUD 95k floor | 7 | Specific posting | |
+| 313 | Service Stream | Data Engineer | Melbourne (hybrid) | ~Aug 2026 | ASX-listed essential-services delivery company (telecom / utilities / government infrastructure); build Microsoft Fabric + Azure + Power BI data solutions + AI-led insights for enterprise analytics transformation; utilities/gov domain crossover; est. $115–$140k ⚠️ salary not advertised — confirm ≥ AUD 95k floor | 7 | Specific posting | |
+| 314 | Undisclosed client via Morgan Consulting | Lead Data Engineer — Agentic AI | Melbourne (hybrid) | ~Aug 2026 | Role explicitly requires "productionised Agentic AI and Gen AI"; build production LLM-powered apps + advanced RAG on AWS with engineering discipline; lead-level scope; **advertised $180k–$190k** — highest confirmed AU base in this scout; new employer on shortlist | 9 | Specific posting | |
+
+### Remote-first scout — 2026-08-31
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R176 | Sarvam AI | Applied AI Engineer (Sarvam Agents) | Bengaluru, India (in-office) | Active Aug 2026 | India's leading home-grown AI startup (Series B $1.5B valuation, 26 open roles Aug 2026); build agents end-to-end — flow design, tool definitions, memory, LangGraph / ADK agentic frameworks, MCP server infrastructure at scale, RAG + hybrid search, observability; requires 3–5 yrs + 2+ yrs backend Python; directly maps to the multi-agent Job Hunt OS + MCP/production agentic work; est. ₹28–50 LPA (SDE-2) + ESOP. **Survives move: YES** | 9 | Specific posting | |
+| R177 | ServiceNow | Senior Staff AI-Native Software Engineer — Agentic Systems | Bangalore, India (in-office) | Active Aug 2026 | Global SaaS leader (Now Platform at Fortune 500 scale); design + ship production multi-agent systems — orchestration, tool use, planning loops, memory, failure recovery — integrated with CMDB, Workflow Data Fabric + Knowledge Graph; Senior Staff (IC5+) scope; est. ₹80–120 LPA. ⚠️ Senior Staff level — confirm experience bar (likely 7–10 yrs) before applying. **Survives move: YES** | 8 | Specific posting | |
+| R178 | Krutrim (Ola) | Lead Generative AI Research Engineer (AI Labs) | Bengaluru, India (in-office) | Active Aug 2026 | India's first AI unicorn (Ola); architect + train + deploy large-scale foundation models (LLMs, voice, vision, multimodal) — billion-parameter models to production with low-latency, high-throughput inference; 5–10 yrs; ⚠️ Research-engineering track (neural architecture + CUDA + inference infra) rather than applied agentic AI — confirm fit with career direction before applying; est. ₹40–80 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R179 | Singapore Airlines (SIA) | Senior Data Scientist — Advanced AI Track | Singapore (in-office) | Active Aug 2026 | Singapore's flag carrier; advanced AI initiatives for AI-powered features + products; Python + ML + algorithm design; ⚠️ PhD preferred (exceptional non-PhD considered); ⚠️ salary est. SGD 70k–100k (lower end of senior SG market — verify comp before applying); new country + employer on shortlist; employer sponsorship needed. **Survives move: PARTIAL (SG-based)** | 6 | Specific posting | |
+
+### Daily scout sources — 2026-08-31 (rows 311–314, R176–R179)
+- [SEEK — Senior Machine Learning Engineer Melbourne (Machine Learning Engineer Jobs Melbourne Aug 2026)](https://au.seek.com/machine-learning-engineer-jobs/in-All-Melbourne-VIC)
+- [SEEK — I-MED Radiology Network jobs Australia](https://au.seek.com/I+MED-Radiology-Network-jobs)
+- [ZipRecruiter AU — Data Engineer at I-MED Radiology Network](https://www.ziprecruiter.com.au/jobs/522346997-data-engineer-at-i-med-radiology-network)
+- [SEEK — Data Engineer jobs Melbourne Aug 2026 (Service Stream listing)](https://au.seek.com/data-engineer-jobs/in-All-Melbourne-VIC)
+- [SEEK — Data Engineer Financial Services Melbourne (Lead DE via Morgan Consulting)](https://au.seek.com/data-engineer-financial-services-jobs/in-Melbourne-VIC-3004)
+- [Sarvam AI Careers — Applied AI Engineer, Sarvam Agents (Ashby)](https://jobs.ashbyhq.com/sarvam/30259734-50c3-4f1c-81cd-8bff07e585e7/application)
+- [Sarvam AI Careers page](https://www.sarvam.ai/careers/jobs/30259734-50c3-4f1c-81cd-8bff07e585e7)
+- [ServiceNow Careers — Senior Staff AI-Native Software Engineer Agentic Systems, Bangalore](https://careers.servicenow.com/jobs/744000127578599/senior-staff-ai-native-software-engineer-agentic-systems/)
+- [ServiceNow job on SmartRecruiters](https://jobs.smartrecruiters.com/ServiceNow/744000127578599-senior-staff-ai-native-software-engineer-agentic-systems)
+- [Krutrim — Lead Generative AI Research Engineer (AI Labs) on jobaaj.com](https://www.jobaaj.com/job/krutrim-lead-generative-ai-research-engineer-ai-labs-bengaluru-bangalore-karnataka-5-to-10-years-674982)
+- [Krutrim Lead GenAI Research Engineer on Gravity Engineering](https://www.gravityer.com/jobs/lead-generative-ai-research-engineer-ai-labs-krutrim)
+- [Singapore Airlines — Senior Data Scientist Advanced AI Track (SIA Careers)](https://careers.singaporeair.com/sia/job/Information-Technology-Senior-Data-Scientist-(Advanced-AI-Track)/19657644/)
