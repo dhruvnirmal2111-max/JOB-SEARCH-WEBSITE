@@ -2079,3 +2079,31 @@
 - [Krutrim — Lead Generative AI Research Engineer (AI Labs) on jobaaj.com](https://www.jobaaj.com/job/krutrim-lead-generative-ai-research-engineer-ai-labs-bengaluru-bangalore-karnataka-5-to-10-years-674982)
 - [Krutrim Lead GenAI Research Engineer on Gravity Engineering](https://www.gravityer.com/jobs/lead-generative-ai-research-engineer-ai-labs-krutrim)
 - [Singapore Airlines — Senior Data Scientist Advanced AI Track (SIA Careers)](https://careers.singaporeair.com/sia/job/Information-Technology-Senior-Data-Scientist-(Advanced-AI-Track)/19657644/)
+
+### Daily scout — 2026-09-01
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 315 | CommBank | Staff Software Engineer — AI Powered Engineering | Melbourne / Sydney (hybrid) | ~Sep 2026 | Australia's #1 bank; engineers production-grade AI/ML, GenAI, and agentic solutions into CI/CD pipelines, SDLC, developer tooling + platform services at enterprise scale; Staff IC level (above Senior); directly matches agentic-AI/LLM coding edge; REQ244693; **DISTINCT from row 4 (company target) and row 157 (People Analytics DS)**; est. $160k–$200k+ (Staff SWE Glassdoor avg ~$192k) ⚠️ salary not disclosed — verify before applying | 8 | Specific posting | |
+| 316 | Cenitex | Senior AI Engineer (AI Centre of Excellence) | Collingwood, Melbourne (largely in-person) | ~Sep 2026 | VIC Government IT shared services (delivers ICT to 40+ state agencies); building new AI CoE from scratch — secure, scalable, responsible AI at government scale; est. $130k–$160k + bonus; government stability; new company on shortlist ⚠️ largely in-person + government pace — confirm WFH flexibility before applying | 7 | Specific posting | |
+| 317 | Kuga | Senior AI Engineer | Keysborough, Melbourne (hybrid) | ~Aug 2026 | Award-winning commercial energy company (national); **first-ever dedicated AI hire**; full greenfield AI roadmap ownership; builds AI layer inside Kuga's proprietary CRM using Claude + ChatGPT; $130k–$160k; new company on shortlist ⚠️ first AI hire = high ownership; verify long-term AI budget commitment | 7 | Specific posting | |
+| 318 | Triniti | Machine Learning Engineer | Melbourne (hybrid) | ~Aug 2026 | Established Australian org making "significant AI investment"; production LLMs + RAG + Agentic systems engineering; "shape future of AI engineering + influence architecture"; **$220k–$260k + bonuses — highest confirmed ML base in this shortlist**; new company ⚠️ verify org size, stability, and AI product scope before applying | 8 | Specific posting | |
+
+### Remote-first scout — 2026-09-01
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R180 | Flipkart | AI Engineer (GenAI / LLMs / NLP) | Bengaluru, India (hybrid) | Active Aug 2026 | India's #1 e-commerce platform (Walmart-owned, 350M+ users); builds production GenAI + LLMs + NLP systems at consumer-tech hyperscale; **DISTINCT from R32 (Senior Data Scientist — traditional ML/NLP)**; Instahyre job 425985; 4–8 yrs exp; Python; est. ₹35–65 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R181 | Sprinklr | Machine Learning Engineer | Bengaluru, India (hybrid) | Active 2026 | NYSE-listed Unified CXM SaaS ($3.5B+ valuation; 1,500+ Fortune enterprises); AI-first CX platform (social, voice, digital channels) built on LLMs + ML at scale; ML Engineer median ₹48 LPA (Levels.fyi); 163 active openings Jul 2026; new company on shortlist. **Survives move: YES** ⚠️ Company target — confirm active ML Engineer posting via sprinklr.wd1.myworkdayjobs.com before applying | 7 | Company target | |
+
+### Daily scout sources — 2026-09-01 (rows 315–318, R180–R181)
+- [CommBank — Staff Software Engineer AI Powered Engineering, Melbourne/Sydney (CBA Workday REQ244693)](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Staff-Software-Engineer---AI-Powered-Engineering_REQ244693)
+- [CommBank AI Powered Engineering team (BuiltIn)](https://builtin.com/job/staff-software-engineer-ai-powered-engineering/6807468)
+- [CommBank — Careers in Engineering](https://www.commbank.com.au/about-us/careers/engineering.html)
+- [Cenitex — Senior AI Engineer AI CoE, Collingwood Melbourne (SEEK AI Engineer Melbourne Sep 2026)](https://www.seek.com.au/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [Cenitex — All Melbourne VIC jobs on SEEK](https://www.seek.com.au/Cenitex-jobs/in-All-Melbourne-VIC)
+- [Kuga — Senior AI Engineer, Keysborough Melbourne (SEEK AI Engineer Melbourne)](https://www.seek.com.au/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [Triniti — Machine Learning Engineer, Melbourne hybrid (SEEK Machine Learning Engineer Melbourne)](https://au.seek.com/machine-learning-engineer-jobs/in-All-Melbourne-VIC)
+- [Flipkart — AI Engineer GenAI/LLMs, Bengaluru (Instahyre job 425985)](https://www.instahyre.com/job-425985-ai-engineer-at-flipkart-bangalore/)
+- [Sprinklr — ML Engineer roles, Bengaluru (Sprinklr Careers Workday)](https://sprinklr.wd1.myworkdayjobs.com/careers)
+- [Sprinklr ML Engineer salary India — Levels.fyi](https://www.levels.fyi/companies/sprinklr/salaries/software-engineer/title/machine-learning-engineer)
