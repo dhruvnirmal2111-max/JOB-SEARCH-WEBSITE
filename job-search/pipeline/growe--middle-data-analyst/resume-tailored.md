@@ -4,7 +4,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](
 
 ## Professional Summary
 
-I'm the analyst a business team comes to with a rough question and expects a clean answer back: the right SQL, a dashboard people trust without checking with me first, and a plain-language read of what it means. I run analytical projects end to end, from gathering requirements through to presenting the result to senior stakeholders, and I take data accuracy personally, I'd rather catch my own error than have a client find it first. The clearest proof is a pricing and cost engagement I owned solo for a multi-venue client group, which surfaced close to A$2M in savings and went straight to the Chief Procurement Officer. That same discipline, cost and revenue analysis, catching anomalies, and building dashboards teams use without coming back to me, is what I'd bring to Growe as a Middle Data Analyst, applied to revenue, customer and retention metrics instead of procurement spend, and the fully remote setup suits how I already work with clients I've never met in person.
+Data analyst who owns projects end to end: from a stakeholder's rough question through the SQL, a Tableau dashboard teams trust without re-checking, and a plain-language recommendation they can act on. I ran a pricing and cost engagement for a multi-venue client group solo that surfaced close to A$2M in savings, presented straight to the Chief Procurement Officer, and I take data accuracy personally. I'd bring that same discipline to Growe as a Middle Data Analyst, applied to revenue, customer and retention metrics, in the fully remote setup I already work in.
 
 ## Key Skills
 
@@ -41,7 +41,7 @@ A data and analytics consultancy serving enterprise clients across Australia and
 
 ## Projects
 
-- **[MyFacit](https://www.myfacit.com) (personal SaaS):** a weekly profitability and decision-support product for independent cafes; unifies POS, wages and supplier invoices into one revenue and margin view, plus forecasting. Live with a design-partner cafe, closest personal analog to ongoing revenue/performance monitoring.
+- **[MyFacit](https://www.myfacit.com) (personal SaaS):** a weekly profitability and decision-support product I built for independent cafes. It unifies POS sales, wages and supplier invoices into one revenue and margin view, then runs item-level menu engineering (which dishes actually carry the margin versus which just look popular) and short-term sales forecasting, surfacing the handful of decisions an owner should make that week. Live with a design-partner cafe, it is my closest personal analog to ongoing revenue and performance monitoring: defining the metrics, tracking the trend, and turning it into a plain recommendation.
 - **Cloud Data Platform (personal):** SQL-based data modelling and an automated ingestion pipeline into Snowflake, built with Terraform for a reproducible, version-controlled setup.
 
 ## Education
