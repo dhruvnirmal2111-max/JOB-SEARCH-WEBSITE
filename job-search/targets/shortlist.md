@@ -2107,3 +2107,33 @@
 - [Flipkart — AI Engineer GenAI/LLMs, Bengaluru (Instahyre job 425985)](https://www.instahyre.com/job-425985-ai-engineer-at-flipkart-bangalore/)
 - [Sprinklr — ML Engineer roles, Bengaluru (Sprinklr Careers Workday)](https://sprinklr.wd1.myworkdayjobs.com/careers)
 - [Sprinklr ML Engineer salary India — Levels.fyi](https://www.levels.fyi/companies/sprinklr/salaries/software-engineer/title/machine-learning-engineer)
+
+### Daily scout — 2026-09-02
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 319 | Prezzee | Senior ML Engineer (Fraud & Customer AI) | Melbourne / remote AU | Active Sep 2026 | Global digital gifting platform (140M+ gift cards, 6M+ customers, 1,500+ brand partners); designs + deploys advanced ML models for fraud detection + anomaly detection + customer-growth optimisation across Keras/PyTorch/AWS/MLOps; "~15% client cost savings via anomaly detection" resume bullet maps directly; fintech-adjacent gifting domain; new company on shortlist; est. AUD $140–$180k (Computerworld Best Places to Work 2026, Great Place to Work 2026) | 7 | Specific posting | |
+| 320 | Entain | ML Engineer – MLOps | Fully remote AU (Brisbane HQ; Melbourne/Sydney offices) | Active Sep 2026 | Global sports betting tech giant (Ladbrokes, Neds, Bookmaker, Betstar); **DISTINCT from row 14 (Data Scientist)**; design + evolve cloud-based ML Platform on Databricks + AWS; automate full ML lifecycle from training to monitoring; production MLOps + CI/CD + Sagemaker/Databricks scope aligns to AI-engineering growth track; fully remote-AU; est. AUD $120–$160k | 7 | Specific posting | |
+| 321 | Canva | Senior ML Engineer – Search Quality | Remote across ANZ (Melbourne campus + Sydney HQ) | Aug 28, 2026 | **DISTINCT from rows 18 / 21 / 293 / 294 / 298–299**; Search & Recommendations Group — build + ship ML models powering search relevance, ranking + personalisation for 240M+ MAU; end-to-end ML pipeline (training → deployment → experimentation frameworks); AU remote; est. AUD $160–$220k (Canva MLE median A$243k TC on Levels.fyi) ⚠ confirm specific listing still live before applying | 7 | Specific posting | |
+| 322 | PRA (Professional Recruitment Australia) | Senior AI Engineer (contract) | Melbourne (hybrid) | Active Sep 2026 | Enterprise agentic AI platform build via recruiter; MCP server design + multi-agent orchestration + LLM observability / evals + OAuth2/OIDC security architecture; **$1,000/day (~$260k annualised)**, 6+ months; new company on shortlist ⚠ recruiter/contract listing — confirm end-client identity + renewal pathway before applying | 7 | Recruiter posting | |
+
+### Remote-first scout — 2026-09-02
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R182 | Tilt Finance | Staff Data Scientist – Cashalo (credit ML) | Remote AU / Melbourne | Jul 17, 2026 (active Sep 2026) | Fintech group (formerly Empower); leads end-to-end ML credit-risk model development with 250+ real-time financial signals for Philippines lending business (Cashalo); remote-AU confirmed on Ashby ATS (two variants: Cashalo + General remote); Staff-level scope; fintech + credit ML domain well-aligned; salary not advertised ⚠ verify comp band before applying. **Survives move: CONDITIONAL** | 7 | Specific posting | |
+| R183 | Amtech Software | Senior AI Engineer – Agentic Platform | Remote (global — ⚠ verify AU/India eligibility) | Sep 1, 2026 | Packaging/label management SaaS; builds MCP-native headless agentic intelligence layer (LangGraph + RAG + Claude / OpenAI / Azure OpenAI / AWS Bedrock); self-directed platform architect role designing build-vs-buy on agent tooling; India SRE role active on same board → possible global remote; posted 1 day ago — fresh; est. USD $140–$180k ⚠ confirm AU/India work eligibility in first contact. **Survives move: PARTIAL** | 7 | Specific posting | |
+| R184 | YMinds AI | Agentic AI Engineer | India (remote) | ~Aug–Sep 2026 | AI-specialist firm; 3–5 yrs agentic AI; LangGraph + LangChain + multi-agent orchestration + production RAG; immediate joiner; new company on shortlist; est. ₹18–32 LPA ⚠ small firm — verify funding + remote policy before applying. **Survives move: YES** | 6 | Specific posting | |
+
+### Daily scout sources — 2026-09-02 (rows 319–322, R182–R184)
+- [Prezzee — Senior Machine Learning Engineer, Melbourne (startup.jobs)](https://startup.jobs/senior-machine-learning-engineer-prezzee-8925902)
+- [Prezzee — Senior Machine Learning Engineer (aijobs.net job 282625)](https://aijobs.net/job/senior-machine-learning-engineer-melbourne-australia-282625/)
+- [Prezzee — Senior Machine Learning Engineer (Greenhouse job 4450387006)](https://job-boards.greenhouse.io/prezzee/jobs/4450387006)
+- [Entain — Machine Learning Engineer MLOps, fully remote AU (startup.jobs)](https://startup.jobs/machine-learning-engineer-mlops-entain-4011549)
+- [Canva — Senior ML Engineer Search Quality, remote ANZ (au.talent.com)](https://au.talent.com/view?id=dc473e9b1a47)
+- [Canva — Senior ML Engineer Recommendations Search AI, remote ANZ (echojobs.io)](https://echojobs.io/job/canva-senior-machine-learning-engineer-recommendations-search-ai-open-to-remote-across-anz-8bdr1)
+- [PRA — Senior AI Engineer (contract, agentic MCP), Melbourne hybrid (SEEK AI Engineer Melbourne Sep 2026)](https://www.seek.com.au/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [Tilt Finance — Staff Data Scientist Cashalo, remote AU (Ashby)](https://jobs.ashbyhq.com/tilthq/d19de864-4260-4759-b4aa-bea9b04ac53d)
+- [Tilt Finance — Staff Data Scientist (general remote), remote AU (Ashby)](https://jobs.ashbyhq.com/tilthq/6bcd299e-1c92-42a5-81d7-fa92a76aba6a)
+- [Amtech Software — Senior AI Engineer Agentic Platform (Greenhouse job 4387878009)](https://job-boards.greenhouse.io/amtechsoftware/jobs/4387878009)
+- [YMinds AI — Agentic AI Engineer 3-5 yrs, remote India (LinkedIn job 4454026087)](https://in.linkedin.com/jobs/view/agentic-ai-engineer-3-5-years-experience-immediate-joiner-remote-at-yminds-ai-4454026087)
