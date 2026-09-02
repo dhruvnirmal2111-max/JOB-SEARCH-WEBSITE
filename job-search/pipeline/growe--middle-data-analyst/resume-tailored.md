@@ -4,7 +4,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](
 
 ## Professional Summary
 
-Data analyst who owns projects end to end: from a stakeholder's rough question through the SQL, a Tableau dashboard teams trust without re-checking, and a plain-language recommendation they can act on. I ran a pricing and cost engagement for a multi-venue client group solo that surfaced close to A$2M in savings, presented straight to the Chief Procurement Officer, and I take data accuracy personally. I'd bring that same discipline to Growe as a Middle Data Analyst, applied to revenue, customer and retention metrics, in the fully remote setup I already work in.
+Data Analyst with over two years of experience owning analytical projects end to end for enterprise clients, spanning requirements gathering, SQL data modelling, Tableau dashboards and presentation of findings to senior stakeholders. Led a pricing and cost analysis engagement for a multi-venue hospitality group that identified close to A$2M in savings, presented directly to the Chief Procurement Officer, and built the automated validation that safeguards a six-million-row client dataset. Seeking to apply this end-to-end discipline to revenue, customer and retention analytics as a Middle Data Analyst in a fully remote team.
 
 ## Key Skills
 
