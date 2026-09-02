@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 18
+- Active applications: 19
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -35,6 +35,7 @@
 | RevenueCat | Data Analyst (analytics partner, remote-first) | revenuecat--data-analyst | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-08 | 2026-08-04 |
 | Quantium | Data Scientist (Transformation AI, Telstra — predictive + GenAI/agentic) | quantium--data-scientist-transformation-ai | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-13 | 2026-08-08 |
 | Quantium (wiq) | Data Scientist (wiq — Quantium × Woolworths retail: pricing/ranging/supply chain) | quantium-wiq--data-scientist | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-29 | 2026-08-24 |
+| Growe | Middle Data Analyst (remote "Anywhere" — iGaming/betting-tech: revenue/funnel/retention/churn analytics; SQL + Tableau + dbt) | growe--middle-data-analyst | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-08 | 2026-09-02 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |

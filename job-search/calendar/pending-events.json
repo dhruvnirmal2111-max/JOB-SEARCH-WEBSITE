@@ -342,5 +342,17 @@
     "status": "created",
     "gcal_event_id": "e74rk8j0r0a4306ggac3e179v0",
     "gcal_link": "https://www.google.com/calendar/event?eid=ZTc0cms4ajByMGE0MzA2Z2dhYzNlMTc5djAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "growe-outreach-20260905",
+    "title": "Send outreach: Growe Middle Data Analyst",
+    "kind": "outreach",
+    "start": "2026-09-05T09:00:00",
+    "end": "2026-09-05T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/growe--middle-data-analyst/outreach.md. Growe = iGaming/betting-tech, remote 'Anywhere'. Verify each person is current at Growe on LinkedIn before sending (check any VERIFY flags in the file). You send manually.",
+    "source": "growe--middle-data-analyst",
+    "status": "created",
+    "gcal_event_id": "napmu778h7jr9pvmc5jluoekd0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=bmFwbXU3NzhoN2pyOXB2bWM1amx1b2VrZDAgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
