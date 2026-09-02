@@ -354,5 +354,17 @@
     "status": "created",
     "gcal_event_id": "napmu778h7jr9pvmc5jluoekd0",
     "gcal_link": "https://www.google.com/calendar/event?eid=bmFwbXU3NzhoN2pyOXB2bWM1amx1b2VrZDAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "brighty-outreach-20260905",
+    "title": "Send outreach: Brighty Data Analyst",
+    "kind": "outreach",
+    "start": "2026-09-05T09:30:00",
+    "end": "2026-09-05T09:50:00",
+    "notes": "Send the drafted messages in job-search/pipeline/brighty--data-analyst/outreach.md. Brighty = fintech/crypto app (brighty.app), remote/hybrid. Verify each person is current at Brighty on LinkedIn before sending (check any VERIFY flags in the file). You send manually.",
+    "source": "brighty--data-analyst",
+    "status": "created",
+    "gcal_event_id": "pc119j0seigh3kkgi3th6lai5s",
+    "gcal_link": "https://www.google.com/calendar/event?eid=cGMxMTlqMHNlaWdoM2trZ2kzdGg2bGFpNXMgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
