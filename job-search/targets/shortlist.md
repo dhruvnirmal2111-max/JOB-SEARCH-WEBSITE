@@ -2137,3 +2137,27 @@
 - [Tilt Finance — Staff Data Scientist (general remote), remote AU (Ashby)](https://jobs.ashbyhq.com/tilthq/6bcd299e-1c92-42a5-81d7-fa92a76aba6a)
 - [Amtech Software — Senior AI Engineer Agentic Platform (Greenhouse job 4387878009)](https://job-boards.greenhouse.io/amtechsoftware/jobs/4387878009)
 - [YMinds AI — Agentic AI Engineer 3-5 yrs, remote India (LinkedIn job 4454026087)](https://in.linkedin.com/jobs/view/agentic-ai-engineer-3-5-years-experience-immediate-joiner-remote-at-yminds-ai-4454026087)
+
+### Daily scout — 2026-09-03
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 323 | Champion Data | Lead Data Scientist | Melbourne CBD (on-site) | Active Sep 2026 | AFL's official sports-data analytics company since 1999; DS enhances product suite + analysis capabilities across AFL/NRL/football/horse racing; Lead + Senior DS variants both active on LinkedIn; sports analytics is a highly differentiated, new-to-shortlist domain; salary not advertised ⚠ confirm AUD 95k+ floor before applying | 7 | Specific posting | |
+| 324 | CommBank | Staff Software Engineer – AI Powered Engineering | Melbourne / Sydney (hybrid) | Active Sep 2026 | CBA's new "AI Powered Engineering" function (CIO/Technology); engineers production-grade AI capabilities embedded into CI/CD pipelines + SDLC developer tooling at AU's largest bank (40,000+ engineers impacted); LLM integration + agentic-AI tooling at enterprise scale; **distinct from CBA Data Scientist row 4**; Staff-level scope; est. AUD $160–$210k | 7 | Specific posting | |
+| 325 | Confidential legal-tech startup (via Novum Global) | Lead Engineer – Legal AI / Automation | Sydney or Melbourne (hybrid) | Active Sep 2026 | Well-funded AU legal automation startup building LLM-driven document AI, APIs, and production ML pipeline in Python; new legal-tech sector on shortlist; Sydney-or-Melbourne flexibility; recruiter listing (Novum Global) ⚠ confirm end-client identity + comp band + WFH ratio before applying | 6 | Recruiter posting | |
+
+### Remote-first scout — 2026-09-03
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R185 | Hightouch | Staff Engineer, AI Productivity | Remote (US HQ, location-independent worldwide) | Active Sep 2026 | Data activation + AI platform at the intersection of LLMs + Snowflake/Databricks; Staff AI Productivity Engineer accelerates how the engineering org works with AI coding tools; $180k–$400k USD location-independent salary ⚠ US HQ — confirm AU/India employment eligibility (contractor vs. employee) before applying. **Survives move: CONDITIONAL** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-09-03 (rows 323–325, R185)
+- [Champion Data — Data Scientist / Lead Data Scientist, Melbourne (LinkedIn)](https://au.linkedin.com/jobs/champion-data-jobs)
+- [Champion Data — jobs on SEEK](https://au.seek.com/Champion-Data-jobs)
+- [CommBank — Staff Software Engineer AI Powered Engineering REQ244693 (CBA Workday)](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Staff-Software-Engineer---AI-Powered-Engineering_REQ244693)
+- [CommBank Staff SWE AI Powered Engineering (aijobs.net)](https://aijobs.net/job/1145560-staff-software-engineer-ai-powered-engineering/)
+- [CommBank Staff SWE AI Powered Engineering (Built In Melbourne)](https://builtinmelbourne.com/job/staff-engineer-ai-powered-engineering/4084000)
+- [Novum Global — Lead Engineer Full Stack Developer Sydney or Melbourne Legal Automation/AI](https://www.novumglobal.com/jobs/7309585-lead-engineer-full-stack-developer-sydney-or-melbourne-legal-automation-ai)
+- [Hightouch — Staff Engineer AI Productivity (Greenhouse job 6020404004)](https://job-boards.greenhouse.io/hightouch/jobs/6020404004)
+- [Hightouch — Remote jobs (Working Nomads)](https://www.workingnomads.com/remote-company/hightouch)
