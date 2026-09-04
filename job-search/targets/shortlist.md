@@ -768,6 +768,38 @@
 - [Ocrolus — Staff ML Engineer, Remote (Glassdoor jl 1009757804407)](https://www.glassdoor.com/job-listing/staff-machine-learning-engineer-ocrolus-JV_KO0,31_KE32,39.htm?jl=1009757804407)
 - [Ocrolus — Staff ML Engineer (Remotive)](https://remotive.com/remote/jobs/software-dev/staff-machine-learning-engineer-1687966)
 
+### Daily scout — 2026-09-04
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 236 | Airwallex | Lead AI Engineer | Melbourne (hybrid) | ~Sep 2026 | Lead the "Kai" agentic-AI engineering team; turns LLM + agent capabilities into reliable production systems; hands-on technical + people leadership at global fintech unicorn; DISTINCT from rows 50/226/227; est. $185–$230k TC | 9 | Specific posting | |
+| 237 | Airwallex | Staff AI Engineer | Melbourne (hybrid) | ~Sep 2026 | Designs + deploys intelligent agentic financial workflows; agentic frameworks + LLM orchestration automating multi-step financial processes; DISTINCT from rows 50/226/227/236; est. $170–$210k TC | 8 | Specific posting | |
+| 238 | CommBank (CBA) | Staff Software Engineer – AI Powered Engineering | Melbourne / Sydney (hybrid) | ~Sep 2026 | Operationalises AI coding agents (Claude Code, GitHub Copilot) into enterprise CI/CD at scale; "next-gen AI-powered engineering platforms"; agentic-AI/LLM edge IS the core req (rare — candidate has production Claude Code multi-agent system); DISTINCT from rows 4/157; est. $150–$190k | 9 | Specific posting | |
+| 239 | CommBank (CBA) | Staff Software Engineer (.Net/Python, AI) | Melbourne (hybrid) | ~Sep 2026 | Delivers agentic AI features into risk management processes using LLM APIs; Python + .Net; DISTINCT from row 238 and rows 4/157; est. $140–$175k | 8 | Specific posting | |
+| 240 | Westpac | AI Engineer – Data Platforms (Azure SME) | Sydney (hybrid) | ~Sep 2026 | ML models + agentic applications + RPA bots on Azure ML/Synapse/AI Services; transforms manual processes into intelligent solutions; DISTINCT from row 69 (Senior DS); est. $110–$155k ⚠️ Sydney-primary — confirm Melbourne/remote option before applying | 7 | Specific posting | |
+| 241 | Intelligen Group | Senior Data Engineer | Melbourne / Adelaide (hybrid) | ~Sep 2026 | $150k–$165k confirmed; large-scale data capability uplift for essential utilities + complex asset-heavy environments; multi-cloud data platforms; DISTINCT from row 160 (Data Engineer Consultant); est. $150–$165k | 8 | Specific posting | |
+| 242 | Deloitte Australia | Consultant Data Engineer | Melbourne (hybrid) | Jun 22, 2026 (active Sep 2026) | Deloitte Data & AI Operate team; data engineering consulting + analytics + delivery at Big 4 scale; confirmed specific posting (Req 41384) on jobs.deloitte.com.au; DISTINCT from company-target row 35; analytics consulting domain match; est. $104–$145k | 7 | Specific posting | |
+
+### Remote-first scout — 2026-09-04
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R110 | SpotDraft | Applied AI Engineer | Bengaluru (hybrid) | ~2026 (active Sep 2026) | LegalTech AI SaaS; Python + GenAI + NLP + RAG for legal document intelligence + contract review AI; 4–8 yrs exp; strong India product company; India-based = relocation-ready; est. ₹30–55 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R111 | Sigmoid | Principal Data Scientist | Bengaluru, India | Active Sep 2026 | Global Fortune 500 AI/analytics consultancy (CPG-retail, BFSI, life sciences, manufacturing clients); lead DS initiatives + team; GenAI + ML + data engineering at scale; 9–14 yrs exp ⚠️ verify experience threshold; India-based = relocation-ready; est. ₹35–65 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R112 | GoTo Group | Senior Data Engineer – ML/AI Platform | Bengaluru / India (hybrid, remote-flexible) | ~Sep 2026 | ASEAN super-app (ride/food/payments); PySpark + Airflow + Databricks/AWS + Delta Lake + Lakehouse ML platform; strong ML/AI data platform focus; India-based; est. ₹25–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-09-04 (rows 236–242, R110–R112)
+- [Airwallex — Lead AI Engineer, Melbourne (Airwallex Careers)](https://careers.airwallex.com/job/02234e0a-e1fc-4b23-b3e6-513200e4ff80/lead-ai-engineer/)
+- [Airwallex — Staff AI Engineer, Melbourne (Airwallex Careers)](https://careers.airwallex.com/job/9ccb29da-56e0-48d7-8476-4c2b0b716598/staff-ai-engineer/)
+- [CommBank — Staff Software Engineer AI Powered Engineering, Melbourne (CBA Workday REQ244693)](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Staff-Software-Engineer---AI-Powered-Engineering_REQ244693)
+- [CommBank — Staff Software Engineer (.Net/Python AI), Melbourne (JobLeads)](https://www.jobleads.com/au/job/staff-software-engineer--city-of-melbourne--ee2cb00b840a65bafcb2b6768f894198d)
+- [Westpac — AI Engineer Data Platforms Azure SME, Sydney (PitchMe AI)](https://pitchmeai.com/jobs/westpac/ai-engineer-data-platforms-jk02lpiz1q)
+- [Intelligen Group — Senior Data Engineer, Melbourne/Adelaide (Haystack)](https://haystackapp.io/jobs/2a7db3a3-4706-43db-ab42-b5aa1ecf3d63)
+- [Deloitte Australia — Consultant Data Engineer, Melbourne (jobs.deloitte.com.au Req 41384)](https://jobs.deloitte.com.au/job/Melbourne-Consultant-Data-Engineer-VIC/1363186766/)
+- [SpotDraft — Applied AI Engineer, Bengaluru (Instahyre job 413810)](https://www.instahyre.com/job-413810-applied-ai-engineer-at-spotdraft-bangalore/)
+- [Sigmoid — Principal Data Scientist, Bengaluru (Greenhouse)](https://boards.greenhouse.io/sigmoid/jobs/5083649002)
+- [GoTo Group — Senior Data Engineer ML/AI Platform, India (Built In)](https://builtin.com/job/senior-data-engineer/7263200)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
