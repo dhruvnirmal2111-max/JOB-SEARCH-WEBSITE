@@ -175,11 +175,11 @@
   },
   {
     "id": "7eleven-send-revised-resume-20260714",
-    "title": "Send revised resume to 7-Eleven recruiter — URGENT",
+    "title": "Send revised resume to 7-Eleven recruiter \u2014 URGENT",
     "kind": "follow-up",
     "start": "2026-07-14T09:00:00",
     "end": "2026-07-14T09:30:00",
-    "notes": "Revised 2-page PDF is at job-search/pipeline/7-eleven--data-scientist-pricing/Dhruv_Nirmal_7-Eleven_Data_Scientist.pdf (revised 2026-07-11 per interviewer feedback: engagement-grouped stories, tools named, LLM work labelled as internal). Send to the recruiter who contacted you about the Richmond role. This is the ONLY active interview — don't let it go cold.",
+    "notes": "Revised 2-page PDF is at job-search/pipeline/7-eleven--data-scientist-pricing/Dhruv_Nirmal_7-Eleven_Data_Scientist.pdf (revised 2026-07-11 per interviewer feedback: engagement-grouped stories, tools named, LLM work labelled as internal). Send to the recruiter who contacted you about the Richmond role. This is the ONLY active interview \u2014 don't let it go cold.",
     "source": "7-eleven--data-scientist-pricing",
     "status": "pending"
   },
@@ -189,7 +189,7 @@
     "kind": "deadline",
     "start": "2026-07-15T09:00:00",
     "end": "2026-07-15T09:30:00",
-    "notes": "Row R56 in shortlist.md. Fully remote (global, APAC-eligible). Design + deploy agentic LLM workflows for enterprise clients (RAG pipelines, orchestration, vector DBs). Closes Jul 16 — set Pursue? = yes in shortlist.md TODAY so tonight's engine builds the package, or run /quick-apply immediately. Fit 9. Survives move to India: YES.",
+    "notes": "Row R56 in shortlist.md. Fully remote (global, APAC-eligible). Design + deploy agentic LLM workflows for enterprise clients (RAG pipelines, orchestration, vector DBs). Closes Jul 16 \u2014 set Pursue? = yes in shortlist.md TODAY so tonight's engine builds the package, or run /quick-apply immediately. Fit 9. Survives move to India: YES.",
     "source": "campaign",
     "status": "pending"
   },
@@ -199,7 +199,7 @@
     "kind": "deadline",
     "start": "2026-07-16T09:00:00",
     "end": "2026-07-16T09:30:00",
-    "notes": "Row 132 in shortlist.md. Melbourne / multi-site AU (flexible). Healthcare nonprofit; lead + build ML/AI team to productionise models in regulated health environment. Est. $140–180k. Closes Jul 17 — set Pursue? = yes in shortlist.md tonight so the application engine can build it. Permanent full-time.",
+    "notes": "Row 132 in shortlist.md. Melbourne / multi-site AU (flexible). Healthcare nonprofit; lead + build ML/AI team to productionise models in regulated health environment. Est. $140\u2013180k. Closes Jul 17 \u2014 set Pursue? = yes in shortlist.md tonight so the application engine can build it. Permanent full-time.",
     "source": "campaign",
     "status": "pending"
   },
@@ -210,7 +210,9 @@
     "start": "2026-07-17T15:00:00",
     "end": "2026-07-17T16:00:00",
     "timeZone": "Australia/Melbourne",
-    "recurrence": ["RRULE:FREQ=WEEKLY"],
+    "recurrence": [
+      "RRULE:FREQ=WEEKLY"
+    ],
     "notes": "Run /networking-hour. Remote + India/Dubai/Singapore data & AI focus: confirm scouted dream companies (Pursue? = yes in network/target-accounts.md), run /connect <company> on confirmed ones, send today's due connection requests + touches (all drafts, you send manually). Weekly recurring block; move it if the time doesn't suit.",
     "source": "networking",
     "status": "created",
@@ -281,5 +283,112 @@
     "status": "created",
     "gcal_event_id": "p6a2cmufdtosj7patmbe9n8ik0",
     "gcal_link": "https://www.google.com/calendar/event?eid=cDZhMmNtdWZkdG9zajdwYXRtYmU5bjhpazAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "bounce-outreach-week1-20260727",
+    "title": "Send outreach: BOUNCE Commercial & Procurement Analyst",
+    "kind": "outreach",
+    "start": "2026-07-27T09:00:00",
+    "end": "2026-07-27T09:20:00",
+    "timeZone": "Australia/Melbourne",
+    "notes": "Send the drafted messages in job-search/pipeline/bounce--commercial-procurement-analyst/outreach.md. Company = BOUNCEinc (indoor trampoline / active-entertainment, HQ Glen Iris VIC) - do NOT confuse with other 'Bounce' brands. VERIFIED: Melinda Cunliffe (CFO, senior slot) - double-check her actual LinkedIn matches the CFO before sending. The other 4 seats (recruiter, Commercial Manager, 2 peers) are title-slots with [Name] placeholders + LinkedIn search strings - find + confirm real current employees and fill the names before sending, or check the live SEEK/LinkedIn ad which may name the recruiter/hiring team. You send manually.",
+    "source": "bounce--commercial-procurement-analyst",
+    "status": "created",
+    "gcal_event_id": "57li2qppqv97o4bl2e9cgeoh74",
+    "gcal_link": "https://www.google.com/calendar/event?eid=NTdsaTJxcHBxdjk3bzRibDJlOWNnZW9oNzQgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "linktree-outreach-week1-20260716",
+    "title": "Send outreach: Linktree Data Analyst (recruiter + senior)",
+    "kind": "outreach",
+    "start": "2026-07-16T09:00:00",
+    "end": "2026-07-16T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/linktree--data-analyst/outreach.md. Confirmed leads: Nathalie Grandy (recruiter, verify still Linktree + APAC vs US) + Martin Gould (Senior Director, senior). The 2 peers + 1 manager slots hold LinkedIn search filters, not names \u2014 find + verify the real current Linktree analyst/manager before sending those. You send manually.",
+    "source": "linktree--data-analyst",
+    "status": "pending"
+  },
+  {
+    "id": "revenuecat-outreach-20260807",
+    "title": "Send outreach: RevenueCat Data Analyst",
+    "kind": "outreach",
+    "start": "2026-08-07T09:00:00",
+    "end": "2026-08-07T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/revenuecat--data-analyst/outreach.md. Verify each person is current at RevenueCat on LinkedIn before sending (remote-first, global; placeholders need real names). You send manually.",
+    "source": "revenuecat--data-analyst",
+    "status": "created",
+    "gcal_event_id": "2l36dsh205uu2uqgb3u6f31lc0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=MmwzNmRzaDIwNXV1MnVxZ2IzdTZmMzFsYzAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "quantium-ds-outreach-20260811",
+    "title": "Send outreach: Quantium Data Scientist (Transformation AI)",
+    "kind": "outreach",
+    "start": "2026-08-11T09:00:00",
+    "end": "2026-08-11T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/quantium--data-scientist-transformation-ai/outreach.md. Verify each person is current at Quantium (ideally Quantium Telstra / Transformation AI) on LinkedIn before sending. You send manually.",
+    "source": "quantium--data-scientist-transformation-ai",
+    "status": "created",
+    "gcal_event_id": "rqj8not0ao0fehb2k5pt6b53l0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=cnFqOG5vdDBhbzBmZWhiMms1cHQ2YjUzbDAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "quantium-wiq-outreach-20260827",
+    "title": "Send outreach: Quantium wiq Data Scientist",
+    "kind": "outreach",
+    "start": "2026-08-27T09:00:00",
+    "end": "2026-08-27T09:20:00",
+    "notes": "Send drafted messages in job-search/pipeline/quantium-wiq--data-scientist/outreach.md. Verify each person is current at Quantium/wiq (Woolworths account) on LinkedIn before sending. You send manually.",
+    "source": "quantium-wiq--data-scientist",
+    "status": "created",
+    "gcal_event_id": "e74rk8j0r0a4306ggac3e179v0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=ZTc0cms4ajByMGE0MzA2Z2dhYzNlMTc5djAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "growe-outreach-20260905",
+    "title": "Send outreach: Growe Middle Data Analyst",
+    "kind": "outreach",
+    "start": "2026-09-05T09:00:00",
+    "end": "2026-09-05T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/growe--middle-data-analyst/outreach.md. Growe = iGaming/betting-tech, remote 'Anywhere'. Verify each person is current at Growe on LinkedIn before sending (check any VERIFY flags in the file). You send manually.",
+    "source": "growe--middle-data-analyst",
+    "status": "created",
+    "gcal_event_id": "napmu778h7jr9pvmc5jluoekd0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=bmFwbXU3NzhoN2pyOXB2bWM1amx1b2VrZDAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "brighty-outreach-20260905",
+    "title": "Send outreach: Brighty Data Analyst",
+    "kind": "outreach",
+    "start": "2026-09-05T09:30:00",
+    "end": "2026-09-05T09:50:00",
+    "notes": "Send the drafted messages in job-search/pipeline/brighty--data-analyst/outreach.md. Brighty = fintech/crypto app (brighty.app), remote/hybrid. Verify each person is current at Brighty on LinkedIn before sending (check any VERIFY flags in the file). You send manually.",
+    "source": "brighty--data-analyst",
+    "status": "created",
+    "gcal_event_id": "pc119j0seigh3kkgi3th6lai5s",
+    "gcal_link": "https://www.google.com/calendar/event?eid=cGMxMTlqMHNlaWdoM2trZ2kzdGg2bGFpNXMgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "tabby-outreach-20260909",
+    "title": "Send outreach: Tabby Data Engineer",
+    "kind": "outreach",
+    "start": "2026-09-09T09:00:00",
+    "end": "2026-09-09T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/tabby--data-engineer/outreach.md. Tabby = BNPL fintech, GCC/Dubai (tabby.ai). Verify each person is current at Tabby on LinkedIn before sending (check any VERIFY flags). A light note that you are open to relocating to the GCC helps. You send manually.",
+    "source": "tabby--data-engineer",
+    "status": "created",
+    "gcal_event_id": "5aqk5b4ou586qfhtm3jt85ldfk",
+    "gcal_link": "https://www.google.com/calendar/event?eid=NWFxazViNG91NTg2cWZodG0zanQ4NWxkZmsgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "stellartech-outreach-20260909",
+    "title": "Send outreach: StellarTech Senior Data Analyst",
+    "kind": "outreach",
+    "start": "2026-09-09T09:30:00",
+    "end": "2026-09-09T09:50:00",
+    "notes": "Send the drafted messages in job-search/pipeline/stellartech--senior-data-analyst-ltv/outreach.md. StellarTech = EdTech B2C mobile subscription publisher (generic name, verify it is the right company). Verify each person is current at StellarTech on LinkedIn before sending (check VERIFY flags). You send manually.",
+    "source": "stellartech--senior-data-analyst-ltv",
+    "status": "created",
+    "gcal_event_id": "qkckv73nm7d9dbevnv6pct6s4s",
+    "gcal_link": "https://www.google.com/calendar/event?eid=cWtja3Y3M25tN2Q5ZGJldm52NnBjdDZzNHMgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
