@@ -800,6 +800,30 @@
 - [Sigmoid — Principal Data Scientist, Bengaluru (Greenhouse)](https://boards.greenhouse.io/sigmoid/jobs/5083649002)
 - [GoTo Group — Senior Data Engineer ML/AI Platform, India (Built In)](https://builtin.com/job/senior-data-engineer/7263200)
 
+### Daily scout — 2026-09-05
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 243 | Triniti | AI Engineer | Melbourne (hybrid) | ~Sep 2026 | Well-established AU organisation making major investment in production AI; build LLMs, RAG + agentic systems end-to-end and shape AI architecture standards; directly matches rare LLM/agentic-AI profile; top-of-market comp; new company on shortlist; est. $220k–$260k + bonuses | 9 | Specific posting | |
+| 244 | Cenitex | AI Centre of Excellence — AI Engineer | Melbourne (hybrid) | ~Sep 2026 | Victorian Government ICT shared services body; newly established AI CoE delivering secure, scalable, responsible AI solutions across AU govt agencies; LLM + RAG + agentic AI scope; public-sector stability + PSWC benefits; new company on shortlist; salary confirmed VPS5.2 $128,635–$140,849 + 12% super (~$144k–$158k total) | 7 | Specific posting | |
+| 245 | Salt Recruitment (client: financial services) | AI Data Scientist (Agentic Systems) | Melbourne (hybrid) | Apr 20, 2026 (active Sep 2026) | Designs + builds production agentic AI systems — reasoning loops, orchestration logic, tool integrations, memory + context management — for a financial services firm; evaluation/monitoring/safety frameworks; bridges DS experimentation and scalable engineering; agentic-AI/LLM edge directly matches; est. $130k–$180k AUD ⚠️ recruiter — confirm client identity + verify posting still live before applying | 8 | Recruiter posting | |
+| 246 | Confidential AI startup (via SEEK) | Lead GenAI & Agentic AI Engineer | Collingwood, Melbourne (largely in-person) | ~Sep 2026 | Rapidly growing AI-first business; lead end-to-end GenAI + agentic AI projects with "bleeding edge AI-centric approach + complete technical freedom and ownership"; small high-performance team; directly matches AI engineer career direction; $130k–$160k + bonus ⚠️ largely in-person — confirm WFH flexibility before applying | 8 | Specific posting | |
+
+### Remote-first scout — 2026-09-05
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R113 | Blend360 | Lead / Manager Agentic AI Engineer | Hyderabad, India (hybrid) | ~Aug–Sep 2026 | Premier global AI services firm (US-HQ); explicitly requires **Claude Code + Codex + MCP** — the candidate's Claude-based multi-agent Job Hunt OS built on Claude Code + MCP is a rare production reference almost no other applicant will have; builds autonomous production agents with enterprise integrations; confirmed on SmartRecruiters (job 744000144002479); est. ₹35–60 LPA. **Survives move: YES** | 9 | Specific posting | |
+| R114 | Gnani.ai | Applied ML Engineer (GenAI, RAG & Agentic AI) | Bengaluru, India | ~Jan 2026 (active Sep 2026) | India's leading speech + conversational AI product company (Bengaluru-HQ); build scalable RAG systems + agentic architectures (LangGraph, CrewAI, AutoGen) + multilingual LLM serving (vLLM/SGLang) for products reaching millions of users; document intelligence + Indic-language AI; Bengaluru = primary relocation target; confirmed on gnani.ai careers; est. ₹25–50 LPA. **Survives move: YES** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-09-05 (rows 243–246, R113–R114)
+- [Triniti — AI Engineer, Melbourne (SEEK AI Engineer Jobs Melbourne, Sep 2026)](https://www.seek.com.au/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [Cenitex — AI Centre of Excellence AI Engineer, Melbourne (SEEK, Sep 2026)](https://au.seek.com/Cenitex-jobs)
+- [Salt Recruitment — AI Data Scientist (Agentic Systems), Melbourne (Salt Careers job 712922)](https://welovesalt.com/jobs/ai-data-scientist-712922)
+- [Confidential AI startup — Lead GenAI & Agentic AI Engineer, Collingwood (SEEK AI Engineer Melbourne, Sep 2026)](https://www.seek.com.au/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [Blend360 — Lead/Manager Agentic AI Engineer Claude Code & Codex, Hyderabad India (SmartRecruiters job 744000144002479)](https://jobs.smartrecruiters.com/Blend360/744000144002479-lead-manager-agentic-ai-engineer-claude-code-codex)
+- [Gnani.ai — Applied ML Engineer GenAI RAG Agentic AI, Bengaluru (Gnani.ai Careers)](https://careers.gnani.ai/apply/App-Sal-2026-01-21-27)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
