@@ -378,5 +378,17 @@
     "status": "created",
     "gcal_event_id": "5aqk5b4ou586qfhtm3jt85ldfk",
     "gcal_link": "https://www.google.com/calendar/event?eid=NWFxazViNG91NTg2cWZodG0zanQ4NWxkZmsgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "stellartech-outreach-20260909",
+    "title": "Send outreach: StellarTech Senior Data Analyst",
+    "kind": "outreach",
+    "start": "2026-09-09T09:30:00",
+    "end": "2026-09-09T09:50:00",
+    "notes": "Send the drafted messages in job-search/pipeline/stellartech--senior-data-analyst-ltv/outreach.md. StellarTech = EdTech B2C mobile subscription publisher (generic name, verify it is the right company). Verify each person is current at StellarTech on LinkedIn before sending (check VERIFY flags). You send manually.",
+    "source": "stellartech--senior-data-analyst-ltv",
+    "status": "created",
+    "gcal_event_id": "qkckv73nm7d9dbevnv6pct6s4s",
+    "gcal_link": "https://www.google.com/calendar/event?eid=cWtja3Y3M25tN2Q5ZGJldm52NnBjdDZzNHMgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

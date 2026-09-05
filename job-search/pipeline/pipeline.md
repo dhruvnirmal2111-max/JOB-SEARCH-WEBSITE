@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 21
+- Active applications: 22
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -38,6 +38,7 @@
 | Growe | Middle Data Analyst (remote "Anywhere" — iGaming/betting-tech: revenue/funnel/retention/churn analytics; SQL + Tableau + dbt) | growe--middle-data-analyst | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-08 | 2026-09-02 |
 | Brighty | Data Analyst (remote/hybrid — fintech/crypto app: cohort/retention/segmentation, A/B testing; SQL + Metabase/Tableau + BigQuery) | brighty--data-analyst | Applied | Submitted 2026-09-02. Improved MyFacit-forward resume on file for any follow-up round | — | 2026-09-02 |
 | Tabby | Data Engineer (DWH Team — BNPL fintech, GCC/Dubai: corporate DWH, ETL/ELT, data modelling; Python + SQL + Snowflake/Airflow/dbt) | tabby--data-engineer | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-11 | 2026-09-05 |
+| StellarTech | Senior Data Analyst (LTV / Predictive Analytics — EdTech B2C mobile subs: LTV forecasting, factor analysis; SQL + stats/ML) | stellartech--senior-data-analyst-ltv | Applying | Owner: STRETCH (4+ yrs seniority + in-app monetization domain) — review PDF + cover, decide whether to submit; `/review-outreach`; `/review-calendar` | submit by 2026-09-11 | 2026-09-05 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
