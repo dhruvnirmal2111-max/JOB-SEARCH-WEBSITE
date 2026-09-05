@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 20
+- Active applications: 21
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -36,7 +36,8 @@
 | Quantium | Data Scientist (Transformation AI, Telstra — predictive + GenAI/agentic) | quantium--data-scientist-transformation-ai | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-13 | 2026-08-08 |
 | Quantium (wiq) | Data Scientist (wiq — Quantium × Woolworths retail: pricing/ranging/supply chain) | quantium-wiq--data-scientist | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-08-29 | 2026-08-24 |
 | Growe | Middle Data Analyst (remote "Anywhere" — iGaming/betting-tech: revenue/funnel/retention/churn analytics; SQL + Tableau + dbt) | growe--middle-data-analyst | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-08 | 2026-09-02 |
-| Brighty | Data Analyst (remote/hybrid — fintech/crypto app: cohort/retention/segmentation, A/B testing; SQL + Metabase/Tableau + BigQuery) | brighty--data-analyst | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-08 | 2026-09-02 |
+| Brighty | Data Analyst (remote/hybrid — fintech/crypto app: cohort/retention/segmentation, A/B testing; SQL + Metabase/Tableau + BigQuery) | brighty--data-analyst | Applied | Submitted 2026-09-02. Improved MyFacit-forward resume on file for any follow-up round | — | 2026-09-02 |
+| Tabby | Data Engineer (DWH Team — BNPL fintech, GCC/Dubai: corporate DWH, ETL/ELT, data modelling; Python + SQL + Snowflake/Airflow/dbt) | tabby--data-engineer | Applying | Owner: submit application + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-11 | 2026-09-05 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |

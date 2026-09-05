@@ -366,5 +366,17 @@
     "status": "created",
     "gcal_event_id": "pc119j0seigh3kkgi3th6lai5s",
     "gcal_link": "https://www.google.com/calendar/event?eid=cGMxMTlqMHNlaWdoM2trZ2kzdGg2bGFpNXMgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "tabby-outreach-20260909",
+    "title": "Send outreach: Tabby Data Engineer",
+    "kind": "outreach",
+    "start": "2026-09-09T09:00:00",
+    "end": "2026-09-09T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/tabby--data-engineer/outreach.md. Tabby = BNPL fintech, GCC/Dubai (tabby.ai). Verify each person is current at Tabby on LinkedIn before sending (check any VERIFY flags). A light note that you are open to relocating to the GCC helps. You send manually.",
+    "source": "tabby--data-engineer",
+    "status": "created",
+    "gcal_event_id": "5aqk5b4ou586qfhtm3jt85ldfk",
+    "gcal_link": "https://www.google.com/calendar/event?eid=NWFxazViNG91NTg2cWZodG0zanQ4NWxkZmsgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
