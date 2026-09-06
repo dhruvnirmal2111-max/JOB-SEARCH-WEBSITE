@@ -824,6 +824,34 @@
 - [Blend360 — Lead/Manager Agentic AI Engineer Claude Code & Codex, Hyderabad India (SmartRecruiters job 744000144002479)](https://jobs.smartrecruiters.com/Blend360/744000144002479-lead-manager-agentic-ai-engineer-claude-code-codex)
 - [Gnani.ai — Applied ML Engineer GenAI RAG Agentic AI, Bengaluru (Gnani.ai Careers)](https://careers.gnani.ai/apply/App-Sal-2026-01-21-27)
 
+### Daily scout — 2026-09-06 (rows 247–253)
+
+| # | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|-------------|-----|------|---------|
+| 247 | Karbon | Senior AI Engineer | Melbourne / Remote WFH | Active Sep 2026 | AI-powered accounting SaaS; designs + builds AI agents, workflows + internal AI systems; LLM/agentic AI focus; confirmed $160k–$185k; **DISTINCT from rows 3 (DE) + 173 (Lead DE)** | 8 | Specific posting | |
+| 248 | MYOB | Senior AI Enablement Engineer | Melbourne (hybrid) | Active Sep 2026 | SMB accounting SaaS; AI-first workflow redesign + LLM agent orchestration + coaching teams on AI adoption; Enterprise AI Enablement team; est. $130–$175k; **DISTINCT from row 24 (Senior DE)** | 7 | Specific posting | |
+| 249 | Tyro Payments | Principal Engineer – Agentic AI | Sydney (hybrid 3d/wk) | ~Aug–Sep 2026 | Melbourne fintech (payments); Principal IC + tech leadership on agentic AI for online payments (MCP/tool-calling/agents); $125k–$207k Glassdoor est.; **DISTINCT from row 71 (DE)**. ⚠️ Sydney-primary — confirm Melbourne/remote option | 7 | Specific posting | |
+| 250 | Acenda (MLC Life Insurance) | Agentic AI Engineer | Melbourne Docklands (hybrid) | Active Sep 2026 | Life insurance/fintech (Nippon Life subsidiary; MLC Life rebranded Acenda 2025); newly created role reporting to Sr Manager AI; designs + deploys production AI agents; agentic-AI/LLM edge applies directly; est. $130–$165k | 7 | Specific posting | |
+| 251 | PRA Australia | Senior AI Engineer | Melbourne (hybrid 3d/wk) | ~May 2026 (active Sep 2026) | Technology consulting; builds full-stack agentic experiences (MCP servers, OAuth2/OIDC/JWT, streaming, tool visualisation + evals); directly matches rare agentic-AI/LLM edge; $1,000/day (~$260k annualised). ⚠️ 6+ month contract — confirm perm preference | 8 | Specific posting | |
+| 252 | Axsys | Senior AI Enablement Engineer | Melbourne (hybrid) | Active Sep 2026 | Enterprise services; AI-first workflow automation using LangChain/AutoGen/Claude Code/Cursor agentic tooling + Python/TypeScript integrations; explicitly lists Claude Code as required tool — candidate's production Job Hunt OS is a rare reference; est. $130–$165k | 7 | Specific posting | |
+| 253 | Pluralis Research | ML Engineer (Distributed ML Systems) | Remote-first + optional Melbourne hub | Active 2026 | Deep-tech AI research startup (Union Square Ventures-backed; ex-Google/Amazon/Microsoft team); foundational Protocol Learning research — decentralised LLM training; senior-level (5+ yrs distributed systems + large-scale ML training); fully remote-AU eligible; est. $140–$200k + equity | 7 | Specific posting | |
+
+### Remote-first scout — 2026-09-06 (R115)
+
+| # | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R115 | Contentstack | GEN AI Engineer (ML, LLM, RAG) | Bengaluru, India (hybrid) | Active Sep 2026 | Global headless CMS SaaS (Walmart, Mattel, AirFrance KLM, Burberry; $500M+ funded); 4–8 yrs exp; Python + ML + NLP + GenAI + RAG pipelines; Bengaluru = primary relocation target; confirmed on Instahyre (job 385536); est. ₹25–50 LPA. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-09-06 (rows 247–253, R115)
+- [Karbon — Senior AI Engineer, Melbourne Remote (startup.jobs/company/karbon; Glassdoor $160k–$185k)](https://www.glassdoor.com.au/Jobs/Karbon-HQ-Jobs-E3007498.htm)
+- [MYOB — Senior AI Enablement Engineer, Melbourne (jobs.lever.co/myob-2; aijobsaustralia.com.au)](https://aijobsaustralia.com.au/)
+- [Tyro Payments — Principal Engineer Agentic AI, Sydney (LinkedIn job 4439149068; Glassdoor jl 1010190599081)](https://au.linkedin.com/jobs/view/principal-engineer-agentic-ai-at-tyro-payments-4439149068)
+- [Acenda — Agentic AI Engineer, Melbourne Docklands (LinkedIn job 4281439363; jobs.weekday.works/acenda-agentic-ai-engineer)](https://au.linkedin.com/jobs/view/agentic-ai-engineer-at-acenda-4281439363)
+- [PRA Australia — Senior AI Engineer, Melbourne (pra.com.au/job-details/senior-ai-engineer-in-it-jobs-1545656)](https://www.pra.com.au/job-details/senior-ai-engineer-in-it-jobs-1545656)
+- [Axsys — Senior AI Enablement Engineer, Melbourne (bebee.com/au/jobs/senior-ai-enablement-engineer-axsys-melbourne)](https://au.bebee.com/jobs/senior-ai-enablement-engineer-axsys-melbourne)
+- [Pluralis Research — ML Engineer Distributed ML Systems, Remote-AU (au.talent.com; aijobsaustralia.com.au)](https://au.talent.com/jobs?k=pluralis+research)
+- [Contentstack — GEN AI Engineer ML LLM RAG, Bengaluru (instahyre.com/job-385536)](https://www.instahyre.com/job-385536)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
