@@ -390,5 +390,17 @@
     "status": "created",
     "gcal_event_id": "qkckv73nm7d9dbevnv6pct6s4s",
     "gcal_link": "https://www.google.com/calendar/event?eid=cWtja3Y3M25tN2Q5ZGJldm52NnBjdDZzNHMgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "johnson-fw-outreach-20260911",
+    "title": "Send outreach: Johnson Fitness & Wellness Ecommerce Data & Analytics Engineer",
+    "kind": "outreach",
+    "start": "2026-09-11T09:00:00",
+    "end": "2026-09-11T09:20:00",
+    "notes": "FIRST confirm US work-eligibility + onsite/driver's-license fit (this is a US in-person role). Then send the drafted messages in job-search/pipeline/johnson-fitness-wellness--ecommerce-data-analytics-engineer/outreach.md. Verify each person is current at Johnson Fitness & Wellness / Johnson Health Tech on LinkedIn (check VERIFY flags). You send manually.",
+    "source": "johnson-fitness-wellness--ecommerce-data-analytics-engineer",
+    "status": "created",
+    "gcal_event_id": "fdvqhkvman3e26rhfqtlv1p3tc",
+    "gcal_link": "https://www.google.com/calendar/event?eid=ZmR2cWhrdm1hbjNlMjZyaGZxdGx2MXAzdGMgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
