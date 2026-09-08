@@ -402,5 +402,17 @@
     "status": "created",
     "gcal_event_id": "fdvqhkvman3e26rhfqtlv1p3tc",
     "gcal_link": "https://www.google.com/calendar/event?eid=ZmR2cWhrdm1hbjNlMjZyaGZxdGx2MXAzdGMgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "coterie-outreach-20260911",
+    "title": "Send outreach: Coterie Insurance Data Analyst",
+    "kind": "outreach",
+    "start": "2026-09-11T09:30:00",
+    "end": "2026-09-11T09:50:00",
+    "notes": "Confirm US-remote work eligibility first. Then send the drafted messages in job-search/pipeline/coterie-insurance--data-analyst/outreach.md. Coterie Insurance = US insurtech (100% remote). Verify each person is current at Coterie on LinkedIn (check VERIFY flags). You send manually.",
+    "source": "coterie-insurance--data-analyst",
+    "status": "created",
+    "gcal_event_id": "99urn759hsdvbpjk35qmogckj0",
+    "gcal_link": "https://www.google.com/calendar/event?eid=OTl1cm43NTloc2R2YnBqazM1cW1vZ2NrajAgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
