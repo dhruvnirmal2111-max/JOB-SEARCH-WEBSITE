@@ -414,5 +414,17 @@
     "status": "created",
     "gcal_event_id": "99urn759hsdvbpjk35qmogckj0",
     "gcal_link": "https://www.google.com/calendar/event?eid=OTl1cm43NTloc2R2YnBqazM1cW1vZ2NrajAgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "saela-outreach-20260911",
+    "title": "Send outreach: Saela Data Analyst / Engineer",
+    "kind": "outreach",
+    "start": "2026-09-11T10:00:00",
+    "end": "2026-09-11T10:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/saela--data-analyst-engineer/outreach.md. Saela = early-stage health-privacy SaaS (verify it is the right Saela, not the pest-control company). Founder-directed outreach likely highest-value at this stage. Verify each person on LinkedIn (check VERIFY flags). You send manually.",
+    "source": "saela--data-analyst-engineer",
+    "status": "created",
+    "gcal_event_id": "u6psls2h65epc5mvdgf5ttdvfk",
+    "gcal_link": "https://www.google.com/calendar/event?eid=dTZwc2xzMmg2NWVwYzVtdmRnZjV0dGR2ZmsgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

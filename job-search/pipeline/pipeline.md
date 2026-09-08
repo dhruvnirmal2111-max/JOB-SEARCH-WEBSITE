@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 24
+- Active applications: 25
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -41,6 +41,7 @@
 | StellarTech | Senior Data Analyst (LTV / Predictive Analytics — EdTech B2C mobile subs: LTV forecasting, factor analysis; SQL + stats/ML) | stellartech--senior-data-analyst-ltv | Applying | Owner: STRETCH (4+ yrs seniority + in-app monetization domain) — review PDF + cover, decide whether to submit; `/review-outreach`; `/review-calendar` | submit by 2026-09-11 | 2026-09-05 |
 | Johnson Fitness & Wellness | Ecommerce Data & Analytics Engineer (DE + BI hybrid — pipelines/ETL, Snowflake, Tableau; ecommerce/customer-journey) | johnson-fitness-wellness--ecommerce-data-analytics-engineer | Applying | **Owner: confirm US work-eligibility + onsite/driver's-license fit BEFORE submitting**; review PDF + cover; `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-09-07 |
 | Coterie Insurance | Data Analyst (100% remote — insurtech: SQL + medallion/Databricks, segmentation, forecasting, data integrity) | coterie-insurance--data-analyst | Applying | **Owner: confirm US-remote work eligibility BEFORE submitting**; review PDF + cover (insurance domain is the gap); `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-09-08 |
+| Saela | Data Analyst / Engineer (early health-privacy SaaS — SQL-first, Python pipelines, build the data layer, manage AI agents) | saela--data-analyst-engineer | Applying | Owner: confirm location (remote?); review PDF + cover → submit; `/review-outreach`; `/review-calendar` | submit by 2026-09-15 | 2026-09-08 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
