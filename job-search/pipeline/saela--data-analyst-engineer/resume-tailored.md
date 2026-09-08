@@ -24,6 +24,12 @@ A data and analytics consultancy analysing supplier and transaction data for ent
 - Own automated validation on the company's highest-volume client pipeline (row counts, data-type and column-consistency checks), replacing a manual upload process with automated ingestion and flagging discrepancies before they reach downstream reporting, the same integrity discipline a privacy-sensitive, internal-only product needs.
 - Segment spend and transaction data by product, venue and supplier in SQL to isolate cost trends, then surface the analysis in Tableau and Power BI dashboards for procurement and finance stakeholders; this analysis helped one client identify close to A$2M in savings in a single spend category.
 
+### Founder, [MyFacit](https://www.myfacit.com) (self-directed venture)
+2024 to Present | Melbourne, Australia
+- Founded and run MyFacit, a profitability SaaS for independent hospitality venues, owning it end to end from deciding what it measures to building the data layer underneath it.
+- Unifies POS transactions, staff wages and invoices from 14 suppliers into one weekly view, surfacing revenue, wage cost %, food cost % and gross margin plus one recommended action for the week ahead; also runs revenue forecasting, menu engineering and supplier price-creep detection.
+- Live in day-to-day use with a design-partner venue, with weekly reviews to refine the metrics. The closest analog to this role: I own a product's data from the inside and build the layer that makes it useful.
+
 ### Data Engineer Intern, Victorian Centre for Data Insights (VCDI)
 Aug 2023 to Nov 2023 | Melbourne, Australia
 - Built a distributed anomaly-detection pipeline in Databricks using PySpark on government procurement data, then delivered the results through a Power BI solution adopted by senior Department of Transport stakeholders; detection accuracy improved about 20%.
@@ -33,10 +39,6 @@ Jan 2021 to Jul 2021
 - Analysed blast-wave sensor data with statistical models and Butterworth filtering to predict noise levels, improving prediction accuracy about 20%.
 
 ## Projects
-### [MyFacit](https://www.myfacit.com): profitability SaaS I founded (product ownership, data layer, metrics)
-- Designed and built this product end to end, including deciding what it measures: unifies POS transactions, staff wages and invoices from 14 suppliers into one weekly view, then surfaces revenue, wage cost %, food cost % and gross margin alongside one recommended action for the week ahead. Also does revenue forecasting, menu engineering and supplier price-creep detection.
-- Live in day-to-day use with a design-partner venue, with weekly reviews to fix issues and refine the metrics. The closest thing I have to this role: I own the product's data from the inside, deciding what it tracks and why, and building the layer that makes it useful.
-
 ### Cloud Data Warehouse with Terraform (personal project): AWS, Snowflake, Terraform
 - Provisioned a cloud data warehouse from scratch as infrastructure as code (S3, IAM, EC2, networking) and built an automated ingestion pipeline from external APIs into Snowflake, with modular Terraform patterns for dev, staging and prod environments. The same kind of build out a product needs once a single database stops being enough on its own.
 
