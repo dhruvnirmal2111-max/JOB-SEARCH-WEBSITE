@@ -3,7 +3,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](
 
 ## Professional Summary
 
-I build and maintain the pipelines that pull data from different source systems into one reliable base, then turn it into the dashboards and reporting that business teams use to make decisions. In my current role at Purchasing Index Data Analytics I own the end-to-end pipeline for the firm's largest client, close to six million transaction rows drawn from five global regions, and I have built and maintained 20+ automated ETL pipelines across five enterprise clients, backed by Tableau reporting for stakeholders. I also design and run MyFacit, a live product I built that unifies point-of-sale, payroll and supplier invoice data for independent cafes into a single weekly profitability view, direct experience integrating retail and operational systems into one source of truth. I want to bring that pipeline-to-insight discipline to the Data & Analytics Engineer role at Johnson Fitness & Wellness.
+I build and maintain the pipelines that pull data from different source systems into one reliable base, then turn it into the dashboards and reporting that business teams use to make decisions. In my current role at Purchasing Index Data Analytics I own the end-to-end pipeline for the firm's largest client, close to six million transaction rows drawn from five global regions, and I have built and maintained 20+ automated ETL pipelines across five enterprise clients, backed by Tableau reporting for stakeholders. On one engagement my analysis and dashboards helped a client identify close to A$2 million in savings. I also design and run MyFacit, a live product I built that unifies point-of-sale, payroll and supplier invoice data for independent cafes into a single weekly profitability view, direct experience integrating retail and operational systems into one source of truth. I want to bring that pipeline-to-insight discipline to the Data & Analytics Engineer role at Johnson Fitness & Wellness.
 
 ## Key Skills
 
@@ -24,6 +24,11 @@ A data and analytics consultancy building pipelines and reporting across supplie
 - Problem: the account ran on a manual upload-and-check process, about 4 to 5 hours every week, across close to six million invoice rows spanning 5 global regions and 13 sub-regions, each submitting files in its own format.
 - Approach: replaced it with automated email-based ingestion (Microsoft Graph API into a remote SQL Server via batch scripts), standardised file submission and naming conventions so every region feeds one consistent intake, and built automated validation (row and hour counts, data-type and column-consistency checks) that drops stray columns and logs discrepancies for review.
 - Result: cut weekly processing from 4 to 5 hours down to about 75 minutes, roughly 3 to 3.5 hours saved every week, with one standardised pipeline now feeding downstream reporting for the company's highest-billing client.
+
+**Pricing and cost analytics: multi-venue hospitality client (~A$2M savings)**
+- Problem: the client suspected significant supplier overspend but had no dataset or visibility into where cost was leaking across products, venues and suppliers.
+- Approach: sole analyst on the account; built a roughly 3,000-item product catalogue from scratch, segmented spend by product, venue and supplier, and built a Tableau dashboard tracking price movement and cost leakage, presenting findings directly to the client's Chief Procurement Officer and category managers.
+- Result: helped the client identify close to A$2 million (about 30%) in savings in their largest category over a year, used directly in supplier negotiations.
 
 **Enterprise ETL pipelines across 5 clients**
 - Problem: each client's procurement and transaction data needed repeatable, reliable ingestion from separate source systems.
