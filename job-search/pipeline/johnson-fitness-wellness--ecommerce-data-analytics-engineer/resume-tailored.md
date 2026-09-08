@@ -8,7 +8,7 @@ I build and maintain the pipelines that pull data from different source systems 
 ## Key Skills
 
 **Data Engineering & Pipelines:** Python, SQL, ETL/ELT pipeline design, API integration (Microsoft Graph API), batch automation, full and incremental refresh, data modelling, data validation and quality monitoring, documentation
-**Cloud & Data Warehousing:** Snowflake, AWS (S3, EC2, IAM, Lambda), Azure, Terraform (IaC), Docker
+**Cloud & Data Warehousing:** Snowflake, Databricks, PySpark, AWS (S3, EC2, IAM, Lambda), Azure, Terraform (IaC), Docker
 **BI & Reporting:** Tableau, Power BI, KPI reporting, dashboard design, data storytelling
 **Analytics & Forecasting:** Prophet time-series forecasting, anomaly detection, statistical analysis, scikit-learn
 **Tools & Practices:** Git / version control, KNIME, stakeholder communication
