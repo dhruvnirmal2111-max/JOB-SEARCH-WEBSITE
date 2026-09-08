@@ -852,6 +852,32 @@
 - [Pluralis Research — ML Engineer Distributed ML Systems, Remote-AU (au.talent.com; aijobsaustralia.com.au)](https://au.talent.com/jobs?k=pluralis+research)
 - [Contentstack — GEN AI Engineer ML LLM RAG, Bengaluru (instahyre.com/job-385536)](https://www.instahyre.com/job-385536)
 
+### Daily scout — 2026-09-08
+
+| # | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|-------------|-----|------|---------|
+| 254 | CommBank (CBA) | Chief Engineer, Gen AI Engineering | Melbourne (hybrid) | ~Sep 2026 | Principal-level technical leadership for Agentic + GenAI distributed systems at AU's #1 bank; designs + architects large-scale agentic AI workloads; mentors engineering teams; drives thought leadership; agentic-AI/LLM edge IS the core req at this seniority (rare); **DISTINCT from rows 238/239 (Staff SWEs) / 4 / 157**; est. $200–$280k TC | 9 | Specific posting | |
+| 255 | RACV | Senior AI Engineer | Melbourne CBD (485 Bourke St, hybrid) | ~late Aug–Sep 2026 | Design + build + operate production LLM-centric and agentic AI systems (retrieval, orchestration, evals, security); LangGraph / LlamaIndex / PydanticAI / LangSmith; 5+ yrs + 3 yrs hands-on AI eng req; meaningful real-world use cases at a trusted AU brand; **DISTINCT from row 123 (Lead Data Scientist)**; est. $140–$200k | 8 | Specific posting | |
+| 256 | CommBank (CBA) | Staff/Lead Platform Engineer (ML & AI) | Sydney (hybrid); CBA Melbourne tech hub | ~Sep 2026 | ML platform engineering for Fraud & Scams Analytics (Chief Data & Analytics Office); strategic AI/MLOps platform uplift + reliability at Big-4 bank scale; REQ245957; **DISTINCT from rows 238/239/4/157**; est. $145–$190k ⚠️ Sydney-primary — confirm Melbourne remote option before applying | 7 | Specific posting | |
+| 257 | Macquarie Group | AI Engineer | Sydney / Melbourne (hybrid) | May 22, 2026 (active Sep 2026) | Hands-on Claude Code + GitHub Copilot + Playwright automation frameworks applied to software delivery; 4+ yrs Python; improves engineering velocity with AI tooling; **DISTINCT from rows 5 / 134 / 158**; the explicit Claude Code requirement is a rare differentiator almost no other applicant will have; est. $130–$170k ⚠️ Sydney-primary — confirm Melbourne option | 7 | Specific posting | |
+
+### Remote-first scout — 2026-09-08
+
+| # | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R116 | JPMorgan Chase | Software Engineer II – Gen AI / Agentic AI | Hyderabad, India | ~Mar 2026 (active Sep 2026) | Designs + delivers market-leading agentic AI technology products in Business Banking at the world's largest bank by market cap; Python + agentic frameworks at elite IB scale; new company on shortlist; Hyderabad = fast-growing India AI hub (Microsoft / Amazon / JPM all expanding); est. ₹25–55 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R117 | Deloitte India GDS | Senior Consultant – ML Data & GEN AI | Bengaluru, India (hybrid) | Active Sep 2026 | Big 4 ML Data + GenAI engineering for enterprise clients at scale; 3–7 yrs exp; SAP technology track — **DISTINCT from R87** (GenAI/Agentic AI engineering track, separate job posting job 37612844); est. ₹25–45 LPA ⚠️ confirm exact comp band fits experience level. **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-09-08 (rows 254–257, R116–R117)
+- [CommBank — Chief Engineer Gen AI Engineering, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/chief-engineer-gen-ai-engineering/4218615)
+- [RACV — Senior AI Engineer, 485 Bourke St Melbourne (RACV Careers)](https://careers.racv.com.au/job/485-Bourke-Street-Melbourne-Senior-AI-Engineer/1366442266/)
+- [CommBank — Staff/Lead Platform Engineer ML & AI REQ245957, Sydney (Talentify)](https://www.talentify.io/job/staff-platform-engineer-aiml-sydney-new-south-wales-au-commonwealth-bank-req245957)
+- [CommBank — Staff Platform Engineer ML & AI (CBA Workday REQ245957)](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Staff---Lead-Platform-Engineer-AI-and-ML_REQ245957)
+- [Macquarie Group — AI Engineer job 22353, Sydney (Macquarie Careers)](https://recruitment.macquarie.com/en_US/careers/JobDetail/AI-Engineer/22353)
+- [Macquarie AI Engineer job 22353 — Glassdoor listing](https://www.glassdoor.com.au/job-listing/ai-engineer-macquarie-group-JV_IC2235932_KO0,11_KE12,27.htm?jl=1010194929382)
+- [JPMorgan Chase — Software Engineer II Gen AI Agentic AI, Hyderabad (Techstars/hackajob job 70655936)](https://jobs.techstars.com/companies/hackajob/jobs/70655936-software-engineer-ii-gen-ai-agentic-ai)
+- [Deloitte India GDS — Senior Consultant ML Data-GEN AI, Bengaluru SAP (Deloitte USI Careers job 37612844)](https://southasiacareers.deloitte.com/job/Bengaluru-Senior-Consultant-ML-Data-GEN-AI-Bengaluru-SAP/37612844)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
