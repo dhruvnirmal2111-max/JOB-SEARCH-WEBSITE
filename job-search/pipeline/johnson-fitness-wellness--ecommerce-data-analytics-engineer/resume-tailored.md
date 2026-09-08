@@ -3,7 +3,7 @@ Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](
 
 ## Professional Summary
 
-I build and maintain the pipelines that pull data from different source systems into one reliable base, then turn it into the dashboards and reporting that business teams use to make decisions. In my current role at Purchasing Index Data Analytics I own the end-to-end pipeline for the firm's largest client, close to six million transaction rows drawn from five global regions, and I have built and maintained 20+ automated ETL pipelines across five enterprise clients, backed by Tableau reporting for stakeholders. On one engagement my analysis and dashboards helped a client identify close to A$2 million in savings. I also design and run MyFacit, a live product I built that unifies point-of-sale, payroll and supplier invoice data for independent cafes into a single weekly profitability view, direct experience integrating retail and operational systems into one source of truth. I want to bring that pipeline-to-insight discipline to the Data & Analytics Engineer role at Johnson Fitness & Wellness.
+I build and maintain the pipelines that pull data from different source systems into one reliable base, then turn it into the dashboards and reporting that business teams use to make decisions. In my current role at Purchasing Index Data Analytics I own the end-to-end pipeline for the firm's largest client, close to six million transaction rows drawn from five global regions, and I have built and maintained 20+ automated ETL pipelines across five enterprise clients, plus 16+ Tableau dashboards that turn transaction and supplier data into the KPIs and cost-optimisation views stakeholders act on. On one engagement my analysis and dashboards helped a client identify close to A$2 million in savings. I also design and run MyFacit, a live product I built that unifies point-of-sale, payroll and supplier invoice data for independent cafes into a single weekly profitability view, direct experience integrating retail and operational systems into one source of truth. I want to bring that pipeline-to-insight discipline to the Data & Analytics Engineer role at Johnson Fitness & Wellness.
 
 ## Key Skills
 
@@ -39,10 +39,6 @@ A data and analytics consultancy building pipelines and reporting across supplie
 - Problem: refreshing each of the firm's 26 client datasets was a manual, specialist task that tied up the analytics team.
 - Approach: leading the automation behind a company-wide app that turns each client refresh into a one-click run, with separate controls for ingestion, validation and downstream processing, both full and incremental, version-controlled in Git with maintained documentation and clean underlying databases.
 - Result: on track to save about 60 hours a month across the team once complete.
-
-**Reporting, BI and data quality:** developed and maintain 16+ Tableau dashboards for procurement and finance stakeholders, translating transaction and supplier data into KPIs and cost-optimisation opportunities; ran anomaly detection across procurement datasets to flag cost-leakage patterns, contributing to about 15% in client savings.
-
-**Forecasting for inventory planning:** built a Prophet time-series forecasting model for a fresh-produce client, projecting raw-material and chemical inventory needs about three months ahead and incorporating external price drivers such as sea-freight trends, delivered on a dashboard within a 12.5 to 14% error margin, well inside the client's tolerance.
 
 ### Data Engineer Intern, Victorian Centre for Data Insights (VCDI)
 Aug 2023 to Nov 2023 | Melbourne, Australia
