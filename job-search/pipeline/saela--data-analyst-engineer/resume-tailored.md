@@ -2,7 +2,7 @@
 Melbourne, Australia | dhruvnirmal2111@gmail.com | +61 406 259 619 | [LinkedIn](https://www.linkedin.com/in/dhruv-nirmal-data) | [GitHub](https://github.com/dhruvnirmal2111-max)
 
 ## Professional Summary
-I build the data layer a product needs and then use SQL and Python to turn it into answers, not just reports. I have stood up a cloud data warehouse from nothing on Snowflake, provisioned as infrastructure as code with Terraform and paired with automated ingestion, so weighing what should sit alongside a workhorse database, then building it, is work I have already done once. I use AI agents daily to move faster, including an independent verification agent that re-derives numbers before anything reaches a client, treating agents as a way to strengthen the work rather than hand it over. Outside client work I designed and run MyFacit, a live profitability product for independent cafes, where I define every metric it tracks and decide what the data needs to surface for a non-technical owner, the closest thing I have to owning a product's data from the inside. I build validation checks into everything I ship, a habit suited to a role built around privacy and keeping data in house.
+I have built and run a product end to end, deciding what it measures and building the data layer underneath it, which is the heart of this role. That product is MyFacit, a live profitability SaaS I founded for independent hospitality venues, where I define every metric it tracks and decide what the data needs to surface for a non-technical owner. Alongside it my work is SQL-first: I write and tune complex SQL (window functions, multi-table joins, query optimisation) to query and validate large transaction datasets, and I have stood up a cloud data warehouse from nothing on Snowflake with Terraform, so deciding what should sit alongside a workhorse database and building it is work I have already done. I use AI agents daily, including an independent verification pass that re-derives numbers before anything reaches a client, and I build validation into everything I ship, a habit suited to a role built around privacy and keeping data in house.
 
 ## Key Skills
 **SQL & Query Performance:** Advanced SQL (window functions, multi-table joins, query optimisation), large-dataset validation, SQL Server, Snowflake
@@ -33,15 +33,15 @@ Jan 2021 to Jul 2021
 - Analysed blast-wave sensor data with statistical models and Butterworth filtering to predict noise levels, improving prediction accuracy about 20%.
 
 ## Projects
+### [MyFacit](https://www.myfacit.com): profitability SaaS I founded (product ownership, data layer, metrics)
+- Designed and built this product end to end, including deciding what it measures: unifies POS transactions, staff wages and invoices from 14 suppliers into one weekly view, then surfaces revenue, wage cost %, food cost % and gross margin alongside one recommended action for the week ahead. Also does revenue forecasting, menu engineering and supplier price-creep detection.
+- Live in day-to-day use with a design-partner venue, with weekly reviews to fix issues and refine the metrics. The closest thing I have to this role: I own the product's data from the inside, deciding what it tracks and why, and building the layer that makes it useful.
+
 ### Cloud Data Warehouse with Terraform (personal project): AWS, Snowflake, Terraform
 - Provisioned a cloud data warehouse from scratch as infrastructure as code (S3, IAM, EC2, networking) and built an automated ingestion pipeline from external APIs into Snowflake, with modular Terraform patterns for dev, staging and prod environments. The same kind of build out a product needs once a single database stops being enough on its own.
 
 ### Job Hunt OS (personal project): Claude Code, multi-agent orchestration, Python
 - Designed and built a multi-agent system that runs entirely on Claude Code with no paid APIs: an orchestrator plus specialist agents for resume tailoring, outreach and career coaching, each with a built-in verification pass that re-checks numbers and attribution before anything is finalised. Run and maintain this as a system I rely on daily, not a one-off experiment, directing agents to do real work while keeping a human check on the output.
-
-### [MyFacit](https://www.myfacit.com): multi-tenant profitability SaaS for independent cafes
-- Designed and built this product end to end, including deciding what it measures: unifies POS transactions, staff wages and invoices from 14 suppliers into one weekly view, then surfaces revenue, wage cost %, food cost % and gross margin alongside one recommended action for the week ahead. Also does revenue forecasting, menu engineering and supplier price-creep detection.
-- Live in day-to-day use with a design-partner cafe (Neighbours Cafe, St Kilda), with weekly reviews to fix issues and refine the metrics. The closest thing I have to owning a product's data end to end, since I decide what it tracks and why.
 
 ## Education
 ### Master of Data Science, Monash University | Feb 2022 to Dec 2023
