@@ -25,7 +25,7 @@ A data and analytics consultancy analysing supplier and transaction data for ent
 - Segment spend and transaction data by product, venue and supplier in SQL to isolate cost trends, then surface the analysis in Tableau and Power BI dashboards for procurement and finance stakeholders; this analysis helped one client identify close to A$2M in savings in a single spend category.
 
 ### Founder, [MyFacit](https://www.myfacit.com) (self-directed venture)
-2024 to Present | Melbourne, Australia
+May 2026 to Present | Melbourne, Australia
 - Founded and run MyFacit, a profitability SaaS for independent hospitality venues, owning it end to end from deciding what it measures to building the data layer underneath it.
 - Unifies POS transactions, staff wages and invoices from 14 suppliers into one weekly view, surfacing revenue, wage cost %, food cost % and gross margin plus one recommended action for the week ahead; also runs revenue forecasting, menu engineering and supplier price-creep detection.
 - Live in day-to-day use with a design-partner venue, with weekly reviews to refine the metrics. The closest analog to this role: I own a product's data from the inside and build the layer that makes it useful.
