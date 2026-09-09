@@ -878,6 +878,32 @@
 - [JPMorgan Chase — Software Engineer II Gen AI Agentic AI, Hyderabad (Techstars/hackajob job 70655936)](https://jobs.techstars.com/companies/hackajob/jobs/70655936-software-engineer-ii-gen-ai-agentic-ai)
 - [Deloitte India GDS — Senior Consultant ML Data-GEN AI, Bengaluru SAP (Deloitte USI Careers job 37612844)](https://southasiacareers.deloitte.com/job/Bengaluru-Senior-Consultant-ML-Data-GEN-AI-Bengaluru-SAP/37612844)
 
+### Daily scout — 2026-09-09
+
+| # | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|-------------|-----|------|---------|
+| 258 | NAB | Senior AI Engineer | Melbourne CBD (hybrid) | ~Aug–Sep 2026 | Builds core agentic AI products — agent reasoning loops, tool-use interfaces, memory systems, context management, orchestration logic; LLM/RAG/prompt engineering at Big-4 bank scale; Python + cloud (AWS/Azure); **DISTINCT from row 20 (Data Engineer, Databricks)**; est. $140–$185k | 8 | Specific posting | |
+| 259 | Deloitte Australia | Senior ML/AI Engineer | Melbourne (hybrid) | Sep 2026 | Big 4 AI & Data practice (500+ specialists); 4–6 yrs ML/AI engineering; Python + PyTorch/TF + dbt + cloud (AWS/Azure/GCP); model development → deployment → monitoring pipeline; **DISTINCT from rows 35 (company target), 172 (DE), 242 (Consultant DE)**; est. $140–$175k | 7 | Specific posting | |
+| 260 | MYOB | Principal AI Engineer | Melbourne (hybrid) | May 30, 2026 (active Sep 2026) | Foundational AI team member; LLMs + foundation models (GPT, Claude, Llama) on AWS Bedrock/SageMaker; automated document understanding + financial forecasting + conversational interfaces; MLOps leadership; principal-level scope; **DISTINCT from rows 24 (Senior DE) and 248 (Senior AI Enablement Engineer)**; est. $155–$220k | 8 | Specific posting | |
+| 261 | Luxoft | AI Engineer (Banking) | Sydney (hybrid) | ~Mar 2026 (active Sep 2026) | Large AU bank capital markets/risk automation; explicitly requires "experience with AI Tools like Cursor, Claude building custom agents preferably for a banking domain" — owner's production Claude Code multi-agent system is a rare direct match; RAG + AI orchestration + risk domain agents; **DISTINCT from R45 (Remote India)**; est. $130–$165k ⚠️ Sydney-primary — confirm Melbourne/remote option | 8 | Specific posting | |
+
+### Remote-first scout — 2026-09-09
+
+| # | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R118 | Optum India (UnitedHealth Group) | Senior AI/ML Engineer – Python, Agentic AI | Bengaluru, India | ~Aug 26, 2026 | Python-focused agentic AI track (LangChain/LangGraph/LlamaIndex/CrewAI + Azure cloud); health-tech at global scale; **DISTINCT from R49 (LLM/RAG/Java track, Jun 2026)**; est. ₹30–55 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R119 | Deloitte India GDS | Senior Consultant – Generative AI (Platform Dev & Integration) | Bengaluru, India (hybrid) | ~Sep 2, 2026 | LangGraph + RAG + agentic workflows in Engineering/Platform Development & Integration track; freshest Deloitte India GenAI posting (job 59415344); **DISTINCT from R87 (GenAI/Agentic AI track) and R117 (SAP track)**; est. ₹25–45 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R120 | Adobe India | AI Engineer | Bengaluru, India | Active Sep 2026 | Applied AI engineering for Adobe GenAI/Firefly product suite; premium employer (India avg ₹50L); strong brand signal for AI-Engineer career trajectory; R168849 confirmed active on Adobe Careers; est. ₹40–90 LPA. **Survives move: YES** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-09-09 (rows 258–261, R118–R120)
+- [NAB — Senior AI Engineer, Melbourne CBD (NAB Careers)](https://careers.nab.com.au/jobs/senior-ai-engineer-vic-melbourne-cbd-vic-australia-a112c801-4079-4205-a4cb-c50d7204ace4)
+- [Deloitte Australia — Senior ML/AI Engineer, Melbourne (Deloitte AU Careers)](https://jobs.deloitte.com.au/job/Melbourne-Senior-MLAI-Engineer-VIC/1063959466/)
+- [MYOB — Principal AI Engineer, Melbourne (Lever)](https://jobs.lever.co/myob-2/2ccdd1e8-c0c7-4a25-8362-1fc7117c7f58)
+- [Luxoft — AI Engineer (Banking), Sydney (Luxoft Careers job 22453)](https://career.luxoft.com/jobs/ai-engineer-22453)
+- [Optum India — Senior AI/ML Engineer Python Agentic AI, Bengaluru (LinkedIn job 4458744000)](https://in.linkedin.com/jobs/view/senior-ai-ml-engineer-python-agentic-ai-ai-ml-at-optum-india-4458744000)
+- [Deloitte India GDS — Senior Consultant Generative AI Platform Dev & Integration, Bengaluru (Deloitte USI Careers job 59415344)](https://southasiacareers.deloitte.com/job/Bengaluru-Senior-Consultant-Generative-AI-Bengaluru-Engineering-Platform-Development-&-Integration/59415344/)
+- [Adobe India — AI Engineer R168849, Bengaluru (Adobe Careers)](https://careers.adobe.com/us/en/job/R168849/AI-Engineer)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
