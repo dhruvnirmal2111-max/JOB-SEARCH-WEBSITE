@@ -2329,3 +2329,30 @@
 - [Stellar Technologies — Machine Learning Engineer GenAI LLMs RAG, Abu Dhabi UAE (Indeed UAE)](https://ae.indeed.com/q-ai-engineer,-llm-engineer,-genai-l-dubai-jobs.html)
 - [Stellar Technologies — Machine Learning Engineer GenAI (Jooble AE)](https://ae.jooble.org/jdp/-5940662354522562907)
 - [ANZ Bank — AI Engineer GenAI Bengaluru (ANZ Careers job 1361268266)](https://careers.anz.com/job/Bengaluru-AI-Engineer/1361268266/)
+
+### Daily scout — 2026-09-10
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 329 | Wesfarmers OneDigital | Senior AI Engineer: LLMOps Lead & AI Accelerator Architect | Melbourne (hybrid) | Sep 8, 2026 | AU's largest retailer tech arm; leads solution architecture + hands-on delivery of the hardest AI work in the AI Accelerator — establishes architectural patterns, coding standards, quality practices, champions LLMOps + AI operationalisation; coordinates OpenAI + Microsoft partner integrations for groupwide agentic AI; **DISTINCT from rows 40 (OneDigital DE), 155 (Bunnings DE Team Lead), 269 (Catch DE)**; freshest posting on shortlist; est. AUD $135–165k | 9 | Specific posting | |
+| 330 | Xero | Senior Engineer, ML Systems (AI Products) | Sydney (hybrid) | Active Sep 2026 | Leads design + implementation of AI research and production ML infrastructure powering Xero's customer-facing AI products — different mission from the internal AI Accelerator roles (rows 300/301); Python + ML systems engineering from research to live product; **DISTINCT from rows 13 (Senior DE Platforms), 205 (Staff DS Product), 206 (Team Lead DE), 246 (Analytics Engineer), 300 (AI Workflows), 301 (AI Agentic)**; est. AUD $150–175k ⚠ Sydney-primary — confirm Melbourne/remote option before applying | 8 | Specific posting | |
+
+### Remote-first scout — 2026-09-10
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R191 | Multibank Group | AI Engineer – Generative AI and Automation | Dubai, UAE (onsite) | Active Sep 2026 | Global fintech pioneer ($35B daily trading volume, 2M+ clients across 100 countries); designs + deploys intelligent AI agents + automated workflows addressing real business problems in the AI & Advanced Analytics team; agentic AI systems engineering at fintech scale maps directly to the rare multi-agent/LLM edge; AED 25k–35k/month + performance bonus (~AUD 125–175k/yr equivalent, tax-free); new company on shortlist. ⚠ UAE residency or existing Dubai visa required — confirm employer visa sponsorship in first contact. **Survives move: YES (if Dubai sponsorship confirmed)** | 7 | Specific posting | |
+| R192 | Razorpay | AI Engineer (Infrastructure) | Bengaluru, India (hybrid) | Sep 3, 2026 | India's #1 payments fintech unicorn (Sequoia/Tiger Global, 200M+ users); builds agentic infrastructure automation — incident-triaging agents, self-healing pipelines, eval harnesses for infra AI agents at scale of millions of daily payment transactions; SRE + AI engineering intersection is a rare, high-demand profile; 2–6 yrs exp; Python + LLMs (Llama/Mistral) + Kubernetes + Terraform + AWS + Kafka; **DISTINCT from R30 (Data Scientist) and R174 (Lead AI Engineer)**; est. ₹28–40 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R193 | Humai | Senior AI Engineer | Dubai, UAE (onsite) | Active Sep 2026 | Dubai AI startup (founded 2025) building AI accountability platform — Huscribe (agentic-workflow compliance checks) + Mairit (qualified sign-off on AI-produced work); role: multi-step agentic pipelines with human-in-the-loop gates + evaluation that decides what ships + RAG with pgvector (PostgreSQL) + model fine-tuning/serving + OCR + vision; 4–6 yrs exp; UAE employment visa + medical insurance provided (full employer visa sponsorship confirmed); new company on shortlist. ⚠ Early-stage startup (2025 founded) — verify funding + runway before committing. **Survives move: YES (Dubai-based)** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-09-10 (rows 329–330, R191–R193)
+- [Wesfarmers — Senior AI Engineer LLMOps Lead & AI Accelerator Architect, Melbourne (ZipRecruiter AU job 593277680)](https://www.ziprecruiter.com.au/jobs/593277680-senior-ai-engineer-llmops-lead-ai-accelerator-architect-at-wesfarmers-limited)
+- [Wesfarmers AI Build Squad (AI Engineer + Senior AI Engineer + AI Data Engineer openings)](https://www.ziprecruiter.com.au/jobs/592190455-ai-engineer-at-wesfarmers-limited)
+- [Wesfarmers to deploy agentic AI groupwide (iTnews)](https://www.itnews.com.au/news/wesfarmers-to-deploy-agentic-ai-groupwide-623590)
+- [Xero — Senior Engineer ML Systems (AI Products), Sydney (Xero Careers job 45663119-ef1a)](https://careers.xero.com/jobs/45663119-ef1a-43a3-ba10-86a5a9837556/senior-engineer-ml-systems-ai-products/)
+- [Xero — Senior ML Engineer AI Products, Sydney (Xero Careers job 80be1c3c)](https://careers.xero.com/jobs/80be1c3c-9f81-413e-9c80-028c2a7e8969/senior-machine-learning-ml-engineer/)
+- [Multibank Group — AI Engineer Generative AI and Automation, Dubai (Uplift GCC)](https://www.upliftgcc.com/jobs/ai-engineer-generative-ai-and-automation-dubai-office-51bfda)
+- [Multibank Group — AI Data Engineer, Dubai salary (ZeroTaxJobs)](https://zerotaxjobs.com/salaries/companies/multibank-group/ai-data-engineer-t63k723z)
+- [Razorpay — AI Engineer (Infrastructure), Bengaluru Sep 3 2026 (Jobfound)](https://jobfound.org/job/razorpay-is-hiring-for-ai-engineer-infrastructure-bengaluru-india-3-september-2026)
+- [Razorpay — AI Engineer Platform, Bengaluru (Greenhouse job 4729957005)](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729957005)
+- [Humai — Senior AI Engineer, Dubai (Foundit Gulf listing)](https://www.founditgulf.com/job/senior-ai-engineer-humai-united-arab-emirates-65737303)
