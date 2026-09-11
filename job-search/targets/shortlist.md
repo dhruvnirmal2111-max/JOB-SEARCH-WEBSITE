@@ -904,6 +904,31 @@
 - [Deloitte India GDS — Senior Consultant Generative AI Platform Dev & Integration, Bengaluru (Deloitte USI Careers job 59415344)](https://southasiacareers.deloitte.com/job/Bengaluru-Senior-Consultant-Generative-AI-Bengaluru-Engineering-Platform-Development-&-Integration/59415344/)
 - [Adobe India — AI Engineer R168849, Bengaluru (Adobe Careers)](https://careers.adobe.com/us/en/job/R168849/AI-Engineer)
 
+### Daily scout — 2026-09-11
+
+| # | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|-------------|-----|------|---------|
+| 262 | Marqo | Staff Software Engineer – Machine Learning / Agentic Search | Melbourne | Active Sep 2026 | AI-powered e-commerce product search startup (vector search + LLMs for product discovery + ranking at scale); Staff MLE scope — search relevance, embedding models, LLM integration into production search systems; Blackbird Ventures portfolio; new company on shortlist; directly maps to vector DB / RAG / embedding skills from AI-engineer direction; est. $15k/month+ (≈ $180k+/yr) | 8 | Specific posting | |
+| 263 | Cbus Super | Data Engineer | Melbourne CBD (hybrid) | Active Sep 2026 | Large construction industry super fund ($90B+ AUM, ~2,700 staff); data models + pipelines + workflows for investment data governance + analytics; modern cloud data stack; **DISTINCT from AustralianSuper (row 51), Hostplus (row 52)**; confirmed active on SEEK + Cbus Careers Sep 2026; est. $120–$155k | 6 | Specific posting | |
+| 264 | Morgan Consulting (client undisclosed) | Lead Data Engineer | Melbourne | Active Sep 2026 | $180k advertised; large-scale data platform uplift with "productionised Agentic AI + GenAI" scope embedded; SEEK recruiter listing (Morgan Consulting); likely financial services / enterprise client; est. $175–$185k ⚠️ recruiter listing — confirm client identity + verify posting still active before applying | 7 | Recruiter posting | |
+
+### Remote-first scout — 2026-09-11
+
+| # | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R121 | Grab | Senior AI Engineer | Bengaluru, India (hybrid) | Active Sep 2026 | Southeast Asia super-app (ride, food, payments, FinServices; $2B+ revenue); designs + builds production agentic AI products using LangGraph/LangSmith/LangChain + MLOps (MLflow, Kubeflow, SageMaker); Bengaluru engineering hub; new company on shortlist; confirmed on Grab Careers (job 744000146650079); est. ₹40–80 LPA. **Survives move: YES** | 8 | Specific posting | |
+| R122 | Nextiva | Software Engineer – AI/ML | Bengaluru, India (hybrid, 4d/wk in-office) | Active Sep 2026 | US cloud communications + CX platform (150k+ enterprise customers); builds advanced NLP + GenAI models for AI-driven customer experience products; Bengaluru India engineering hub; confirmed on Glassdoor (jl 1010202495880); est. ₹35–40 LPA ⚠️ 4d/week onsite — not fully remote; confirm flexibility. **Survives move: PARTIAL** | 6 | Specific posting | |
+| R123 | Cognizant | AI Engineer (Python, LangChain, LangGraph, Agentic AI) | Bengaluru, India | Active Sep 2026 | Multi-agent orchestration + autonomous agents (LangGraph/LangChain + tool calling) for enterprise clients; 7–13 yrs exp req; **DISTINCT from row 8 (Melbourne consulting, Data Engineer track)**; Cognizant India delivery centre; confirmed on Cognizant Careers (job 00068075031); est. ₹40–80 LPA ⚠️ confirm experience-threshold match (7–13 yrs may be high). **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-09-11 (rows 262–264, R121–R123)
+- [Marqo — Staff Software Engineer Machine Learning / Agentic Search, Melbourne (Blackbird Ventures job board)](https://jobs.blackbird.vc/companies/marqo-2/jobs/42275410-staff-software-engineer-machine-learning)
+- [Cbus Super — Data Engineer, Melbourne CBD (Cbus Careers)](https://www.cbussuper.com.au/about-us/careers/current-opportunities)
+- [Cbus Super — SEEK Jobs Melbourne](https://au.seek.com/CBUS-jobs/in-All-Melbourne-VIC)
+- [Morgan Consulting — Lead Data Engineer $180k Melbourne (SEEK)](https://www.seek.com.au/data-engineer-jobs/in-All-Melbourne-VIC)
+- [Grab — Senior AI Engineer, Bengaluru (Grab Careers job 744000146650079)](https://www.grab.careers/en/jobs/744000146650079/senior-ai-engineer/)
+- [Nextiva — Software Engineer AI/ML, Bengaluru (Glassdoor jl 1010202495880)](https://www.glassdoor.com/job-listing/software-engineer-ai-ml-nextiva-JV_KO0,26_KE27,34.htm?jl=1010202495880)
+- [Cognizant — AI Engineer Python LangChain LangGraph Agentic AI, Bengaluru (Cognizant Careers job 00068075031)](https://careers.cognizant.com/global-en/jobs/00068075031/ai-engineer-python-langchain-langgraph-agentic-ai-api-llms/)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
