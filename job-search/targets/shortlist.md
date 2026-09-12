@@ -2381,3 +2381,31 @@
 - [Razorpay — AI Engineer (Infrastructure), Bengaluru Sep 3 2026 (Jobfound)](https://jobfound.org/job/razorpay-is-hiring-for-ai-engineer-infrastructure-bengaluru-india-3-september-2026)
 - [Razorpay — AI Engineer Platform, Bengaluru (Greenhouse job 4729957005)](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729957005)
 - [Humai — Senior AI Engineer, Dubai (Foundit Gulf listing)](https://www.founditgulf.com/job/senior-ai-engineer-humai-united-arab-emirates-65737303)
+
+### Daily scout — 2026-09-12
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 331 | Johns Lyng Group | AI Lead Engineer (Agentic AI / GenAI) | Richmond, Melbourne (hybrid) | ~Sep 2026 | ASX-listed property-insurance services giant; leads production agentic AI + GenAI system delivery — builds intelligent agents + automates complex workflows for a live AI business; agentic-AI/LLM edge IS the core req (rare); new company on shortlist; est. AUD $180–$220k | 9 | Specific posting | |
+| 332 | Chisholm Institute of TAFE | Senior Data Scientist (TAFE Transformation Office) | Dandenong, Melbourne (hybrid) | Active Sep 2026 | Education sector DS for TAFE digital transformation; confirmed salary $128,635–$140,849 + super p.a. (FTC to Oct 2028); ML/analytics ownership; new education-sector company on shortlist ⚠ Dandenong outer-SE Melbourne (~50 km from CBD) — confirm WFH ratio before applying | 7 | Specific posting | |
+| 333 | Wesfarmers Health | Senior Data Scientist | Docklands, Melbourne (hybrid) | Active Sep 2026 | Wesfarmers Health arm (Priceline Pharmacy, Clear Skincare, InstantScripts); leads commercial ML + e-commerce analytics + AI innovation + stakeholder-engagement at health-retail scale; Python/SQL/Power BI; **DISTINCT from Wesfarmers OneDigital (rows 40, 329), Bunnings (row 155)**; est. $120–$155k | 8 | Specific posting | |
+| 334 | Alinta Energy | Data Scientist | Melbourne (hybrid) | Active Sep 2026 | AU's 2nd-largest energy retailer (1.6M+ customers); predictive models for customer/commercial/pricing/marketing decisions; Python/SQL/R; energy sector company not yet on shortlist (**distinct from AGL Energy row 37**); est. $100–$135k ⚠ confirm salary ≥ AUD 95k floor before applying | 7 | Specific posting | |
+| 335 | Medibank | Data Science Analyst (Payment Integrity Analytics) | Docklands, Melbourne (hybrid) | Active Sep 2026 | Healthcare payment fraud/error ML analytics at AU's largest health insurer; anomaly-detection work maps directly to "~15% client cost savings via anomaly detection" resume bullet; est. AUD $127–$153k (Glassdoor); **DISTINCT from company-target row 79 (Senior Data Engineer)** — confirmed specific posting | 7 | Specific posting | |
+
+### Remote-first scout — 2026-09-12
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R194 | CRED | Machine Learning Engineer / Data Scientist | Bengaluru, India (hybrid) | Active Sep 2026 | India's #1 premium credit-card fintech (Series F, $2.2B+ valuation, Sequoia/Tiger/SoftBank; 8M+ users); ML at scale for credit risk, rewards-optimisation + AI product features; active hiring confirmed on Naukri/ProductBased.in Sep 2026; SWE comp ₹31–120 LPA at CRED (Levels.fyi); est. ₹30–70 LPA for ML/DS. **Survives move: YES** ⚠ Company target — confirm specific ML/DS opening on cred.club/careers before applying | 8 | Company target | |
+
+### Daily scout sources — 2026-09-12 (rows 331–335, R194)
+- [Johns Lyng Group — AI Lead Engineer, Richmond Melbourne (SEEK AI Engineer jobs Sep 2026)](https://www.seek.com.au/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [Johns Lyng Group — Careers page](https://www.johnslyngcareers.com.au/)
+- [Chisholm Institute of TAFE — Senior Data Scientist Transformation Office, Dandenong (SEEK)](https://au.seek.com/Chisholm-Institute-of-TAFE-jobs/in-All-Melbourne-VIC)
+- [Wesfarmers Health — Senior Data Scientist, Docklands Melbourne (Glassdoor jl=1010232171045)](https://www.glassdoor.com.au/job-listing/senior-data-scientist-wesfarmers-JV_IC4076945_KO0,21_KE22,32.htm?jl=1010232171045)
+- [Alinta Energy — Data Scientist, Melbourne hybrid (Alinta Energy Careers)](https://careers.alintaenergy.com.au/jobs/data-scientist-melbourne-vic-australia)
+- [Alinta Energy — Jobs in All Melbourne VIC Sep 2026 (SEEK)](https://au.seek.com/Alinta-Energy-jobs/in-All-Melbourne-VIC)
+- [Medibank — Senior AI Solutions Analyst + Data Science Analyst listings, Docklands (Glassdoor)](https://www.glassdoor.com.au/job-listing/senior-ai-solutions-analyst-medibank-JV_IC4076945_KO0,27_KE28,36.htm?jl=1010211461122)
+- [Medibank — Jobs in All Melbourne VIC Sep 2026 (SEEK)](https://au.seek.com/Medibank-jobs/in-All-Melbourne-VIC)
+- [CRED — Active ML/DS hiring Sep 2026 (ProductBased.in)](https://www.productbased.in/)
+- [CRED — Software Engineer compensation benchmarks (Levels.fyi)](https://www.levels.fyi/companies/cred/salaries/software-engineer)
