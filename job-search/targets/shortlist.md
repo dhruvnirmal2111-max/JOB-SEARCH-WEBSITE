@@ -929,6 +929,33 @@
 - [Nextiva — Software Engineer AI/ML, Bengaluru (Glassdoor jl 1010202495880)](https://www.glassdoor.com/job-listing/software-engineer-ai-ml-nextiva-JV_KO0,26_KE27,34.htm?jl=1010202495880)
 - [Cognizant — AI Engineer Python LangChain LangGraph Agentic AI, Bengaluru (Cognizant Careers job 00068075031)](https://careers.cognizant.com/global-en/jobs/00068075031/ai-engineer-python-langchain-langgraph-agentic-ai-api-llms/)
 
+### Daily scout — 2026-09-13
+
+| # | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|-------------|-----|------|---------|
+| 265 | Future Secure AI | Staff AI Engineer – Agentic LLM & Autonomous Workflows | Melbourne / Sydney / Brisbane (hybrid) | Sep 2, 2026 | Purpose-built AU AI company; builds production agentic AI co-workers + multi-step reasoning + autonomous workflow systems; LLM orchestration + RAG + leadership scope; confirmed Greenhouse (job 4001501201) + Glassdoor; **directly matches AI Engineer career direction**; $180k–$250k | 9 | Specific posting | |
+| 266 | Nuage Technology Group | Staff AI Engineer | Melbourne (hybrid) | ~Sep 2026 | Tech consultancy recruiting for enterprise client; builds + productionises GenAI and agentic AI apps; LLM/RAG architecture + APIs + enterprise integrations across AWS + Databricks; $200k confirmed salary; **new company** | 8 | Specific posting | |
+| 267 | Nuage Technology Group | Senior AI Data Engineer – AWS & Real-Time Pipelines | Melbourne (hybrid) | ~Sep 2026 | **DISTINCT from row 266**; designs + scales enterprise Databricks pipelines, productionises AI models, real-time Kafka pipelines on AWS + Python; est. $130–$165k | 7 | Specific posting | |
+| 268 | Opus Recruitment Solutions (OpenAI-backed client) | Lead AI Engineer | Melbourne (hybrid) | ~Aug 27, 2026 | Recruiter posting for fast-growing OpenAI-backed AI company; leads end-to-end GenAI + agentic AI projects; LLM architecture + Python + enterprise stakeholder mgmt; highest Melbourne AI comp on shortlist: $230k–$340k; ⚠️ recruiter — confirm client identity before applying | 9 | Recruiter posting | |
+
+### Remote-first scout — 2026-09-13
+
+| # | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R124 | Future Secure AI | Senior AI Engineer – Agentic LLM & Autonomous Workflows | Melbourne / Sydney / Brisbane / Auckland (hybrid) | Sep 2, 2026 | Same company as row 265 (**DISTINCT Senior level**); production-grade agentic LLM systems + RAG + multi-agent orchestration; $180k–$240k AU; ⚠️ AU-based hybrid — confirm remote-from-India viability. **Survives move: AU-only** | 8 | Specific posting | |
+| R125 | Nuage Technology Group | Azure AI Engineer | Remote (AU East Coast) | ~Sep 2026 | Same employer as rows 266–267 (**DISTINCT remote role**); delivers + improves production Copilot solutions on Microsoft AI stack (Azure OpenAI + Copilot Studio + AI Foundry); AU citizenship/PR required; remote AU East Coast confirmed. **Survives move: AU-only** | 7 | Specific posting | |
+| R126 | Brillio | Senior Lead AI/ML Engineer | Bengaluru, India (hybrid) | Active Sep 2026 | US-HQ global digital consultancy (10,000+ staff, Fortune 500 clients); leads architecture + implementation of agentic AI systems; LangGraph + RAG + vector DBs + RLHF/RLAIF + multi-agent systems; mentoring scope; est. ₹25–45 LPA ⚠️ hybrid — confirm remote flexibility. **Survives move: YES** | 7 | Specific posting | |
+| R127 | In Time Tec Australia | Agentic AI Engineer | Melbourne (hybrid) | Active Sep 2026 (verify) | AU entity of global tech product co; builds AI agents + automated workflows for HR/talent use cases; confirmed LinkedIn listing (job 4269414172); agentic-AI/LLM edge applies; est. $120–$150k ⚠️ confirm salary ≥ $95k floor + India portability. **Survives move: PARTIAL** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-09-13 (rows 265–268, R124–R127)
+- [Future Secure AI — Staff AI Engineer & Senior AI Engineer, Greenhouse job 4001501201](https://job-boards.greenhouse.io/futuresecureai/jobs/4001501201)
+- [Future Secure AI — Glassdoor job listing Sep 2026](https://www.glassdoor.com.au/job-listing/staff-ai-engineer-future-secure-ai)
+- [Nuage Technology Group — Staff AI Engineer, Melbourne (SEEK ~Sep 2026)](https://www.seek.com.au/job/nuage-technology-group-staff-ai-engineer)
+- [Nuage Technology Group — Senior AI Data Engineer & Azure AI Engineer (SEEK ~Sep 2026)](https://www.seek.com.au/job/nuage-technology-group-senior-ai-data-engineer)
+- [Opus Recruitment Solutions — Lead AI Engineer $230k–$340k, Melbourne (SEEK Aug 27 2026)](https://www.seek.com.au/job/opus-recruitment-solutions-lead-ai-engineer)
+- [Brillio — Senior Lead AI/ML Engineer, Bengaluru (LinkedIn / Brillio Careers Sep 2026)](https://www.linkedin.com/jobs/view/senior-lead-ai-ml-engineer-at-brillio)
+- [In Time Tec Australia — Agentic AI Engineer, Melbourne (LinkedIn job 4269414172)](https://www.linkedin.com/jobs/view/4269414172)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
