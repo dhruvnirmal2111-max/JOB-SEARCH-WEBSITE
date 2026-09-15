@@ -426,5 +426,17 @@
     "status": "created",
     "gcal_event_id": "u6psls2h65epc5mvdgf5ttdvfk",
     "gcal_link": "https://www.google.com/calendar/event?eid=dTZwc2xzMmg2NWVwYzVtdmRnZjV0dGR2ZmsgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "sporty-outreach-20260918",
+    "title": "Send outreach: Sporty Group Data Analyst",
+    "kind": "outreach",
+    "start": "2026-09-18T09:00:00",
+    "end": "2026-09-18T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/sporty-group--data-analyst/outreach.md. Sporty Group = fully remote-first sports-tech. USE THE PERSONALISED, LOW-ASK STYLE (fill the [personalise] slot per person, one small question, no bulk-outreach tells) - the generic version got zero replies elsewhere. Verify each person on LinkedIn (check VERIFY flags). You send manually.",
+    "source": "sporty-group--data-analyst",
+    "status": "created",
+    "gcal_event_id": "of5eveh5v9b0h1kqr7k4arlcvc",
+    "gcal_link": "https://www.google.com/calendar/event?eid=b2Y1ZXZlaDV2OWIwaDFrcXI3azRhcmxjdmMgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]
