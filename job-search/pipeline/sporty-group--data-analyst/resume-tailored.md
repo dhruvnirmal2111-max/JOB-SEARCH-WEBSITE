@@ -2,7 +2,7 @@
 Melbourne, Australia | dhruvnirmal2111@gmail.com | +61406259619 | [LinkedIn](https://www.linkedin.com/in/dhruv-nirmal-data) | [GitHub](https://github.com/dhruvnirmal2111-max)
 
 ## Professional Summary
-I work with large, complex datasets to build the dashboards and KPI frameworks that let business teams make faster, better-informed decisions, plus the pipelines that keep those numbers reliable underneath. In my current data analyst role at a client-facing analytics consultancy, I maintain 20+ automated SQL and Python pipelines alongside 16+ Tableau dashboards used daily by procurement and finance stakeholders across five enterprise clients, work that has helped one client identify roughly A$2M in category savings. I am used to turning an open-ended business question into a structured piece of analysis on my own, then presenting it plainly to non-technical stakeholders. Because I already work with distributed client teams, I default to clear written updates and documentation so people who are not in the room stay aligned. I would bring that same discipline, along with a genuine interest in applying statistics and machine learning where they add value, to the Data Analyst role at Sporty Group.
+I work with large, complex datasets to build the dashboards and KPI frameworks that let business teams make faster, better-informed decisions, plus the pipelines that keep those numbers reliable underneath. In my current role at a client-facing analytics consultancy, I build and own 16+ Tableau dashboards and KPI frameworks used daily by procurement and finance stakeholders across five enterprise clients, backed by 20+ automated SQL and Python pipelines that keep the numbers reliable, work that has helped one client identify roughly A$2M in category savings. I am used to turning an open-ended business question into a structured piece of analysis on my own, then presenting it plainly to non-technical stakeholders. Because I already work with distributed client teams, I default to clear written updates and documentation so people who are not in the room stay aligned. I would bring that same discipline, along with a genuine interest in applying statistics and machine learning where they add value, to the Data Analyst role at Sporty Group.
 
 ## Key Skills
 **SQL & Analysis:** SQL (SQL Server, Snowflake), Python, statistical analysis, ad hoc analysis, data storytelling
@@ -12,7 +12,7 @@ I work with large, complex datasets to build the dashboards and KPI frameworks t
 **Machine Learning (applied, as needed):** scikit-learn, logistic regression, Prophet forecasting, anomaly detection
 
 ## Experience
-### Data Analyst, Purchasing Index Data Analytics (Comprara Group)
+### Data & Analytics Engineer, Purchasing Index Data Analytics (Comprara Group)
 Jun 2024 to Present | Melbourne, Australia (remote-capable client analytics consulting)
 - Analyse large, complex supplier and transaction datasets in SQL across five enterprise clients, working independently to surface trends and cost-optimisation opportunities for procurement and finance stakeholders.
 - Design and maintain 16+ Tableau dashboards that define and monitor core KPIs such as spend and supplier performance, giving stakeholders self-service access to daily reporting instead of waiting on ad hoc requests.
