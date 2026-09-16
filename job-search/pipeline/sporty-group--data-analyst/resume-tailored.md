@@ -2,7 +2,7 @@
 Melbourne, Australia | dhruvnirmal2111@gmail.com | +61406259619 | [LinkedIn](https://www.linkedin.com/in/dhruv-nirmal-data) | [GitHub](https://github.com/dhruvnirmal2111-max)
 
 ## Professional Summary
-I work with large, complex datasets to build the dashboards and KPI frameworks that let business teams make faster, better-informed decisions, plus the pipelines that keep those numbers reliable underneath. In my current role at a client-facing analytics consultancy, I build and own 16+ Tableau dashboards and KPI frameworks used daily by procurement and finance stakeholders across five enterprise clients, backed by 20+ automated SQL and Python pipelines that keep the numbers reliable, work that has helped one client identify roughly A$2M in category savings. I am used to turning an open-ended business question into a structured piece of analysis on my own, then presenting it plainly to non-technical stakeholders. Because I already work with distributed client teams, I default to clear written updates and documentation so people who are not in the room stay aligned. I would bring that same discipline, along with a genuine interest in applying statistics and machine learning where they add value, to the Data Analyst role at Sporty Group.
+Data and analytics engineer who turns large, messy datasets into the dashboards and KPI frameworks business teams actually decide from, and owns the pipelines that keep those numbers reliable. I build and own 16+ Tableau dashboards used daily across five enterprise clients, backed by 20+ automated SQL and Python pipelines; one pricing analysis helped a client identify roughly A$2M in savings. I work SQL-first, own problems end to end from an open question to a plain recommendation, and communicate clearly for distributed, remote teams.
 
 ## Key Skills
 **SQL & Analysis:** SQL (SQL Server, Snowflake), Python, statistical analysis, ad hoc analysis, data storytelling
@@ -15,13 +15,11 @@ I work with large, complex datasets to build the dashboards and KPI frameworks t
 ### Data & Analytics Engineer, Purchasing Index Data Analytics (Comprara Group)
 Jun 2024 to Present | Melbourne, Australia (remote-capable client analytics consulting)
 - Analyse large, complex supplier and transaction datasets in SQL across five enterprise clients, working independently to surface trends and cost-optimisation opportunities for procurement and finance stakeholders.
-- Design and maintain 16+ Tableau dashboards that define and monitor core KPIs such as spend and supplier performance, giving stakeholders self-service access to daily reporting instead of waiting on ad hoc requests.
-- Build and maintain 20+ automated ETL pipelines in Python and SQL that process millions of transactions monthly, standardising data intake across clients and keeping the reporting infrastructure stable and reliable.
-- Own data quality and integrity on the firm's largest client account, spend data spanning 5 global regions and roughly 6 million invoice rows, by building automated validation, row and column consistency checks, that catch discrepancies before they reach the client.
-- Translate ad hoc business questions from category managers and executives into structured analysis and clear written reports, presenting findings directly in bi-weekly and monthly stakeholder meetings.
-- Keep documentation and proactive written updates current across five distributed client accounts so stakeholders who are not in the room stay aligned on data definitions, refresh schedules and known issues.
-- Applied statistical anomaly detection to procurement datasets to flag cost-leakage patterns, contributing to roughly 15% savings for one client.
-- Led a one-vs-all logistic regression classifier (scikit-learn) to categorise a roughly A$12B, five-year client spend dataset, cutting a manual categorisation cycle from about six weeks to a single day's model run; separately built a Prophet time-series forecasting model for a fresh-produce client's raw-material and chemical inventory, accurate within a 12.5-14% error margin.
+- Build and own 16+ Tableau dashboards that define and monitor core KPIs (spend, supplier performance), giving stakeholders self-service daily reporting instead of waiting on ad hoc requests.
+- Build and maintain 20+ automated ETL pipelines (Python, SQL) processing millions of transactions monthly, standardising intake so the reporting stays reliable.
+- Own data quality on the firm's largest account (5 global regions, ~6M invoice rows) with automated validation and consistency checks that catch discrepancies before they reach the client.
+- Turn open-ended questions from category managers and executives into structured analysis and clear reports, presenting directly in bi-weekly and monthly stakeholder meetings.
+- Applied ML where it adds value: a one-vs-all logistic-regression classifier (scikit-learn) that cut a client's ~A$12B spend categorisation from ~6 weeks to a one-day run, Prophet forecasting within a 12.5-14% error margin, and anomaly detection that flagged cost leakage worth ~15% savings for one client.
 
 ### Data Engineer Intern, Victorian Centre for Data Insights (VCDI)
 Aug 2023 to Nov 2023 | Melbourne, Australia
