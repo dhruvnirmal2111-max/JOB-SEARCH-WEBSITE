@@ -438,5 +438,17 @@
     "status": "created",
     "gcal_event_id": "of5eveh5v9b0h1kqr7k4arlcvc",
     "gcal_link": "https://www.google.com/calendar/event?eid=b2Y1ZXZlaDV2OWIwaDFrcXI3azRhcmxjdmMgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "sporty-ds-outreach-20260919",
+    "title": "Send outreach: Sporty Group Data Scientist",
+    "kind": "outreach",
+    "start": "2026-09-19T09:00:00",
+    "end": "2026-09-19T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/sporty-group--data-scientist/outreach.md. Sporty Group = fully remote-first sports-tech (DS role). Personalised low-ask style; fill [personalise] slots, one small question, no bulk tells. Verify each person on LinkedIn (check VERIFY flags). Overlaps the Sporty Data Analyst contacts - avoid double-messaging the same person for both roles. You send manually.",
+    "source": "sporty-group--data-scientist",
+    "status": "created",
+    "gcal_event_id": "pednjvu0krg0au3m6cs17p4m3s",
+    "gcal_link": "https://www.google.com/calendar/event?eid=cGVkbmp2dTBrcmcwYXUzbTZjczE3cDRtM3MgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

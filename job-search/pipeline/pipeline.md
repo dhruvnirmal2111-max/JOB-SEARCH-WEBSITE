@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 26
+- Active applications: 27
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -43,6 +43,7 @@
 | Coterie Insurance | Data Analyst (100% remote — insurtech: SQL + medallion/Databricks, segmentation, forecasting, data integrity) | coterie-insurance--data-analyst | Applying | **Owner: confirm US-remote work eligibility BEFORE submitting**; review PDF + cover (insurance domain is the gap); `/review-outreach`; `/review-calendar` | confirm eligibility first | 2026-09-08 |
 | Saela | Data Analyst / Engineer (early health-privacy SaaS — SQL-first, Python pipelines, build the data layer, manage AI agents) | saela--data-analyst-engineer | Applying | Owner: confirm location (remote?); review PDF + cover → submit; `/review-outreach`; `/review-calendar` | submit by 2026-09-15 | 2026-09-08 |
 | Sporty Group | Data Analyst (fully remote-first sports-tech — SQL + dashboards + KPIs + ETL/data-quality; MySQL/Airflow/Metabase/Redshift stack) | sporty-group--data-analyst | Applying | Owner: submit application + review outreach (personalised style); `/review-outreach`; `/review-calendar` | submit by 2026-09-22 | 2026-09-15 |
+| Sporty Group | Data Scientist (Europe/Asia, remote — personalisation/search/recommendation ML; Python + stats + AI-agents-daily) | sporty-group--data-scientist | Applying | Owner: confirm displayed title (Data Scientist vs Analytics Engineer); submit + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-23 | 2026-09-16 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
