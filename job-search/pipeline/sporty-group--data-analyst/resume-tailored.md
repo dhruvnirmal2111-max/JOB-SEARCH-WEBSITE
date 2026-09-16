@@ -7,7 +7,7 @@ Data and analytics engineer who turns large, messy datasets into the dashboards 
 ## Key Skills
 **SQL & Analysis:** SQL (SQL Server, Snowflake), Python, statistical analysis, ad hoc analysis, data storytelling
 **BI & Dashboards:** Tableau, Power BI, KPI design and monitoring, dashboard development, self-service reporting
-**ETL & Data Pipelines:** automated Python/SQL pipelines, workflow scheduling, data validation, standardised data intake
+**ETL & Data Pipelines:** automated Python/SQL pipelines, workflow orchestration and scheduling (familiar with Airflow), data validation, standardised data intake
 **Cloud & Data Warehousing:** AWS (S3, Lambda, IAM, EC2), Azure, Snowflake, Terraform (IaC), relational database design
 **Machine Learning (applied, as needed):** scikit-learn, logistic regression, Prophet forecasting, anomaly detection
 
@@ -55,7 +55,7 @@ Coursework: Statistics I & II, Machine Learning, Communicating with Data, Applie
 
 **Honest gaps and adjacencies (named, not papered over):**
 - **Years of experience:** the JD asks for 3+ years in a similar role. I have about 2 years full-time plus a 2023 data engineering internship and an ongoing founder project (Facit). Kept out of the summary rather than inflated.
-- **Stack specifics:** the JD names MySQL, Redshift, Metabase and Airflow. I have not used any of these directly. My genuine equivalents are SQL Server and Snowflake (relational DB/warehouse), Tableau and Power BI (the "range of BI tools" the JD asks for), and 20+ automated Python/SQL pipelines (the ETL depth the JD asks for). The JD's specific "familiarity with Airflow" is a real gap; I have not used it.
+- **Stack specifics:** the JD names MySQL, Redshift, Metabase and Airflow. My genuine equivalents are SQL Server and Snowflake (relational DB/warehouse), Tableau and Power BI (the "range of BI tools" the JD asks for), and 20+ automated Python/SQL pipelines (the ETL depth the JD asks for). Airflow: getting hands-on with the basics (DAG orchestration) to meet the JD's "familiarity" bar; my production pipelines already use scheduled orchestration, so the concept transfers. Do the reading before interviewing and keep the claim at familiarity, not expertise.
 - **A/B testing:** the JD asks for strong knowledge. I have a statistics foundation (Monash coursework) and experience validating forecasts against error tolerances, but no shipped A/B testing program. Presented via genuine stats grounding, not claimed as live experimentation experience.
 - **OKRs:** I design and monitor KPIs directly with clients but have not worked inside a formal, named OKR framework; framed honestly as KPI ownership rather than OKRs specifically.
 - **Sports and gaming domain:** not held. The JD lists it as beneficial, not required, and no gaming experience is claimed anywhere in this resume.
