@@ -956,6 +956,30 @@
 - [Brillio — Senior Lead AI/ML Engineer, Bengaluru (LinkedIn / Brillio Careers Sep 2026)](https://www.linkedin.com/jobs/view/senior-lead-ai-ml-engineer-at-brillio)
 - [In Time Tec Australia — Agentic AI Engineer, Melbourne (LinkedIn job 4269414172)](https://www.linkedin.com/jobs/view/4269414172)
 
+### Daily scout — 2026-09-16
+
+| # | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|-------------|-----|------|---------|
+| 269 | Xero | Senior Engineer – AI Workflows | Hawthorn, Melbourne (hybrid) | ~Sep 2026 | Internal AI Accelerator Squad; forward-deployed engineer co-designing + operationalising production agentic AI workflows across business teams; leads high-stakes AI agents from discovery to production; sets patterns/guardrails/tooling for intelligent automation; LLM + RAG + agentic systems; **DISTINCT from rows 13 (Senior DE Platforms), 205 (Staff DS Product), 206 (Team Lead DE DevOps)**; est. $160k–$220k | 9 | Specific posting | |
+| 270 | Bendigo Bank | Senior Data Engineer – GCP Lakehouse | Melbourne/Bendigo (hybrid) | ~Sep 2026 | GCP Lakehouse architect; dbt Core/Cloud + BigQuery + Data Vault 2.0 + dimensional modelling; enterprise data governance + CI/CD; permanent full-time; **DISTINCT from row 93 (Bendigo and Adelaide Bank, Azure streaming)**; est. $120k–$155k | 7 | Specific posting | |
+| 271 | Accenture Australia | AI Engineering Associate Director / Principal Engineer | Melbourne | ~Sep 2026 | Senior consulting role (job R00227317); leads design/development/deployment of AI solutions; GenAI + AI/ML + full-stack; client-facing leadership designing/evolving advanced AI architecture blueprints; **DISTINCT from row 57 (company target, Data Engineer)**; est. $155k–$225k | 8 | Specific posting | |
+| 272 | EPAM Systems | Data and AI Architect | Melbourne | Aug–Sep 2026 | New company on shortlist; global IT services (NASDAQ: EPAM); designs shared data architecture for Agentic AI solutions on Databricks; Delta Lake + Unity Catalog + Spark + Vector Search; IoT/time-series ingestion + RAG retrieval patterns; est. $150k–$185k | 7 | Specific posting | |
+| 273 | Emmbr | AI Engineer | Melbourne (hybrid) | ~Sep 2026 | New company on shortlist; builds production agentic AI systems — AI agents, multi-agent workflows, MCP servers — on AWS; Python + LLM/RAG pipelines + vector databases + MLOps/LLMOps; building MCP servers = direct match to owner's rare Claude Code/MCP production edge; **$190k–$210k package + bonus confirmed** | 9 | Specific posting | |
+
+### Remote-first scout — 2026-09-16
+
+| # | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|---|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R128 | SciSpace | Senior Agentic AI Engineer | Bengaluru, India (hybrid) | ~2026 | New company on shortlist; world's largest research AI platform (MIT/Stanford/CERN/NASA clients); owns SciSpace Agent for Research Workflows — owns vision, strategy, roadmap for AI research agent; modular extensible multi-agent platform; est. ₹30L–₹55L. **Survives move: YES** | 8 | Specific posting | |
+
+### Daily scout sources — 2026-09-16 (rows 269–273, R128)
+- [Xero — Senior Engineer AI Workflows, AI Accelerator Squad, Hawthorn Melbourne (Xero Careers job 207b3ed7-594a-4fde-acb9-0d215d18c989)](https://careers.xero.com/jobs/207b3ed7-594a-4fde-acb9-0d215d18c989)
+- [Bendigo Bank — Senior Data Engineer GCP Lakehouse, Melbourne/Bendigo (freehire.me Aug–Sep 2026)](https://freehire.me/jobs/bendigo-bank-senior-data-engineer)
+- [Accenture Australia — AI Engineering Associate Director, Melbourne (Accenture Careers job R00227317)](https://www.accenture.com/au-en/careers/jobdetails?id=R00227317)
+- [EPAM Systems — Data and AI Architect, Melbourne (ZipRecruiter.com.au job 597663616)](https://www.ziprecruiter.com.au/jobs/597663616)
+- [Emmbr — AI Engineer, Melbourne (Built In Melbourne)](https://builtinmelbourne.com/job/ai-engineer/emmbr)
+- [SciSpace — Senior Agentic AI Engineer, Bengaluru (Wellfound job 3534689)](https://wellfound.com/jobs/3534689)
+
 ## How to work this list
 - **To apply to something: set its `Pursue? = yes`.** The engine only builds confirmed rows. Unconfirmed rows are just candidates.
 - Capital.com + Kogan.com already built (marked `built`).
