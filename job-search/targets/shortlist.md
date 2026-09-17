@@ -2523,3 +2523,34 @@
 - [Infineon Technologies — Contract Staff AI Engineer LLM-Powered RAG & Agents 24 months, Singapore (BeBee)](https://bebee.com/sg/jobs/contract-staff-ai-engineer-llm-powered-rag-agents-24-months-infineon-singapore--t7xk-824850697)
 - [Infineon Technologies — Contract Staff AI Engineer LLM-Powered RAG & Agents (freehire)](https://freehire.me/jobs/contract-staff-ai-engineer-llm-powered-rag-agents-24-months-infineon-technologies-qcbnv6pu)
 - [Bramwith Consulting — Senior AI Engineer FinTech Software House Dubai AED 25k PCM](https://bramwithconsulting.com/jobs/senior-ai-engineer-fintech-software-house-dubai-based-409120/)
+
+### Daily scout — 2026-09-17
+
+| Rank | Company | Role | Location | Posted | Why it fits | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|-------------|-----|------|---------|
+| 343 | Automic Group | Senior AI Engineer | Sydney / Melbourne / Brisbane (hybrid) | Sep 2026 | Builds AI-powered investor admin + share registry platform on proprietary cloud-native infra; Go + Python, LLM-powered solutions, agentic workflows, RAG pipelines; **new company on shortlist**; AUD $180k–$220k confirmed | 8 | Specific posting | |
+| 344 | Cenitex | AI Engineer | Melbourne VIC (hybrid) | Sep 16–17, 2026 | Victorian Govt shared IT services; production AI systems (LLMs, RAG, agentic pipelines) in newly stood-up AI Centre of Excellence; influence on architecture + engineering standards across Victorian public sector; **new company on shortlist**; AUD $128,635–$140,849 + 12% super confirmed | 8 | Specific posting | |
+| 345 | Commonwealth Bank (CBA) | Staff Software Engineer – AI Innovation | Melbourne / Sydney (hybrid) | Sep 2026 | CBA AI Innovation team; designs + productionises AI agents + agentic workflows; develops RAG + grounding patterns; integrates models with enterprise data, APIs + internal systems; establishes observability + guardrails; **DISTINCT from rows 238/239/254/256/315/324/340** — AI Innovation is a separate team from Payments Technology, DevEx and Fraud; est. AUD $170k–$220k | 8 | Specific posting | |
+| 346 | Cox Purtell (client undisclosed) | Senior Data Engineer (Snowflake / Databricks) | Sydney (hybrid) | Aug–Sep 2026 | Boutique AU data staffing; AWS + Snowflake or Databricks stack for a fast-growing Data & AI consulting practice serving large enterprise + govt clients; ⚠ AU citizen / PR only — confirm; **new company on shortlist**; AUD $150k–$200k + super confirmed | 7 | Recruiter posting | |
+
+### Remote-first scout — 2026-09-17
+
+| Rank | Company | Role | Location | Posted | Why it fits / Survives move? | Fit | Type | Pursue? |
+|------|---------|------|----------|--------|------------------------------|-----|------|---------|
+| R202 | Katonic AI | Forward Deployed AI Engineer | India (fully remote) | Sep 4, 2026 | Sovereign AI platform company; FDE role supporting govt + large-enterprise customers running the Katonic platform on their own infra; product-focused AI deployment + customer engagement; **new company on shortlist**; 20–35 LPA confirmed. **Survives move: YES** | 8 | Specific posting | |
+| R203 | Supervity | Forward Deployed AI Engineer | Mumbai, India (hybrid) | Sep 2026 | Enterprise AI agent deployment firm; builds + deploys AI agents that connect to SAP / Oracle / Salesforce via REST APIs; LangChain + Python + TypeScript; customer-facing C-suite engagement + agentic workflow delivery; **new company on shortlist**; est. ₹25–55 LPA. **Survives move: YES** | 7 | Specific posting | |
+| R204 | Ahura Workforce Solutions | Agentic AI Engineer (LangChain / LangGraph / Claude) | 100% remote | Sep 2026 | Long-term contract; builds multi-step agentic workflows + AI agents using LangChain / LangGraph; integrates Claude / GPT / LLaMA; memory management, tool use, RAG pipelines; direct match to Job Hunt OS stack; **new company on shortlist**; est. ₹20–40 LPA (contract). ⚠ Confirm geography + daily rate before applying. **Survives move: YES** | 8 | Specific posting | |
+| R205 | Humai | Senior AI Engineer | Dubai, UAE (partial remote) | Sep 2026 | Dubai startup (est. 2025) building AI accountability + governance tooling (Huscribe for agentic workflow auditing, Mairit for accountable AI outputs); production agents + MCP integration + LLMs + multi-agent systems; requires 2+ yrs shipping LLM systems real users depended on; **new company on shortlist**; est. USD $100k–$135k/yr (tax-free). ⚠ Confirm remote arrangement + UAE visa sponsorship. **Survives move: YES (if Dubai-based)** | 8 | Specific posting | |
+| R206 | Cognizant | AI Engineer (Python / LangChain / LangGraph / Agentic AI / LLMs) | Bengaluru, India (remote flex) | Sep 2026 | Tier-1 tech services; designs + deploys agentic AI systems — autonomous agents with planning, reasoning + tool use; multi-agent workflows + RAG pipelines; integrates LLMs with enterprise APIs + databases; **new company on shortlist** (Cognizant AI-engineering track — distinct from generic IT services rows); est. ₹30–50 LPA (senior 7–13 yr track). **Survives move: YES** | 7 | Specific posting | |
+
+### Daily scout sources — 2026-09-17 (rows 343–346, R202–R206)
+- [Automic Group — Senior AI Engineer (SEEK / Automic Careers)](https://www.seek.com.au/ai-engineer-jobs/in-All-Melbourne-VIC)
+- [Cenitex — AI Engineer, Melbourne (SEEK / LiveHire)](https://www.livehire.com/careers/cenitex/jobs)
+- [CommBank — Staff Software Engineer AI Innovation (freehire.me)](https://freehire.me/jobs/staff-software-engineer-ai-innovation-commbank-utz5h2gr)
+- [Cox Purtell — Senior Data Engineer Snowflake or Databricks, Sydney (coxpurtell.com.au)](https://www.coxpurtell.com.au/job-details/data-engineer-snowflake-or-databricks-in-jobs-1674138)
+- [Cox Purtell — Senior Data Engineer (freehire.me)](https://freehire.me/jobs/data-engineer-snowflake-or-databricks-cox-purtell-staffing-services-ofll7uy6)
+- [Katonic AI — Forward Deployed AI Engineer, India remote (Naukri / Katonic Careers)](https://www.naukri.com/job-listings-forward-deployed-engineer-katonic-ai-bengaluru-3-to-7-years-040926908225)
+- [Supervity — Forward Deployed AI Engineer, Mumbai (LinkedIn India)](https://in.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-supervity-4414414082)
+- [Ahura Workforce Solutions — Agentic AI Engineer LangChain LangGraph Claude (LinkedIn)](https://www.linkedin.com/jobs/view/agentic-ai-engineer-langchain-langgraph-claude-at-ahura-workforce-solutions-4421855960)
+- [Humai — Senior AI Engineer, Dubai UAE (founditgulf.com)](https://www.founditgulf.com/job/senior-ai-engineer-humai-united-arab-emirates-65737303)
+- [Cognizant — AI Engineer Python LangChain LangGraph Agentic AI API LLMs, Bengaluru (careers.cognizant.com)](https://careers.cognizant.com/global-en/jobs/00067116281/ai-engineer-python-langchain-langgraph-agentic-ai-api-llms/)
