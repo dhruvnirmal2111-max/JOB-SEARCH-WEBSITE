@@ -450,5 +450,17 @@
     "status": "created",
     "gcal_event_id": "pednjvu0krg0au3m6cs17p4m3s",
     "gcal_link": "https://www.google.com/calendar/event?eid=cGVkbmp2dTBrcmcwYXUzbTZjczE3cDRtM3MgZGhydXZuaXJtYWwyMTExQG0"
+  },
+  {
+    "id": "deel-outreach-20260922",
+    "title": "Send outreach: Deel Analytics Engineer",
+    "kind": "outreach",
+    "start": "2026-09-22T09:00:00",
+    "end": "2026-09-22T09:20:00",
+    "notes": "Send the drafted messages in job-search/pipeline/deel--analytics-engineer/outreach.md. Deel = fully remote global payroll/HR SaaS. Personalised low-ask style; fill [personalise] slots, one small question, no bulk tells. Verify each person on LinkedIn (check VERIFY flags). You send manually.",
+    "source": "deel--analytics-engineer",
+    "status": "created",
+    "gcal_event_id": "1uv8k9sabaf903t2rlil3n2c8g",
+    "gcal_link": "https://www.google.com/calendar/event?eid=MXV2OGs5c2FiYWY5MDN0MnJsaWwzbjJjOGcgZGhydXZuaXJtYWwyMTExQG0"
   }
 ]

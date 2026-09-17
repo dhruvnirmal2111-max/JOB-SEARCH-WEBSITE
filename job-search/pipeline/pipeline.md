@@ -4,7 +4,7 @@
 > Status flow: **Researching → Applying → Applied → Interviewing → Offer** (or **Closed**).
 
 ## Summary
-- Active applications: 27
+- Active applications: 28
 - This week: applied 0 · responses 0 · interviews 0
 
 ## Board
@@ -44,6 +44,7 @@
 | Saela | Data Analyst / Engineer (early health-privacy SaaS — SQL-first, Python pipelines, build the data layer, manage AI agents) | saela--data-analyst-engineer | Applying | Owner: confirm location (remote?); review PDF + cover → submit; `/review-outreach`; `/review-calendar` | submit by 2026-09-15 | 2026-09-08 |
 | Sporty Group | Data Analyst (fully remote-first sports-tech — SQL + dashboards + KPIs + ETL/data-quality; MySQL/Airflow/Metabase/Redshift stack) | sporty-group--data-analyst | Applying | Owner: submit application + review outreach (personalised style); `/review-outreach`; `/review-calendar` | submit by 2026-09-22 | 2026-09-15 |
 | Sporty Group | Data Scientist (Europe/Asia, remote — personalisation/search/recommendation ML; Python + stats + AI-agents-daily) | sporty-group--data-scientist | Applying | Owner: confirm displayed title (Data Scientist vs Analytics Engineer); submit + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-23 | 2026-09-16 |
+| Deel | Analytics Engineer (fully remote global — data modelling/dbt, SQL, pipelines, data quality, BI) | deel--analytics-engineer | Applying | Owner: submit + review outreach; `/review-outreach`; `/review-calendar` | submit by 2026-09-24 | 2026-09-17 |
 
 ## Closed / archived
 | Company | Role | Outcome | Date |
