@@ -21,3 +21,6 @@
 ## Notes
 - Strong-fit role: pricing + forecasting + ML. Databricks/PySpark via VCDI.
 - Honest gaps: no retail/loyalty/energy domain, no formal A/B experiment design.
+
+## Round 2 prep (2026-07-23)
+- Interview scheduled Mon PM / Tue AM. Built interview-prep.md: role read, 7-Eleven pricing/fuel/loyalty domain cheat sheet, 3 hero stories in STAR (A$2M pricing / A$12B classifier / Prophet forecasting), technical Q&A (pricing, forecasting, ML, stats/experimentation, SQL, PySpark), a pricing-case framework, behavioural bank, gap-handling (retail domain + A/B experimentation), questions to ask, Thu→Mon study plan.

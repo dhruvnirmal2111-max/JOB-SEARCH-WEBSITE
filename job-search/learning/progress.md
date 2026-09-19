@@ -5,19 +5,19 @@
 > Direction (updated 2026-07-21): primary long-term = **AI Engineer (applied LLM / agentic AI)**; DS foundations kept for interview-readiness + the near-term DA/DS bridge. See `roadmap.md` Parts 1-3 and `goals.md`.
 
 ## Snapshot
-- Current module: **M1 — Statistics & Probability** (finishing Part 1 foundation before weaving in the AI-engineering core)
+- Current module: **M1 — Statistics & Probability — COMPLETE** (all 5 topics taught); next lesson begins weaving in **M9 — Modern NLP & LLM Foundations** (Part 2, the AI-engineering core)
 - Direction note: roadmap re-sequenced 2026-07-21 toward **AI Engineering**. Modules renumbered — see mapping notes below.
-- Streak: 3 days · Lessons completed: 4 · Mock interviews: 0
+- Streak: 4 days · Lessons completed: 5 · Mock interviews: 0
 - Weak areas to revisit: _(none yet)_
-- Next up: **M1.5 — Bayes' theorem & Bayesian vs frequentist thinking** (last stats pillar), then start weaving in **M9 — Modern NLP & LLM Foundations** (Part 2, the AI-engineering core).
-- Last lesson: 2026-07-21 — Common tests: t-test, chi-square & ANOVA (`lessons/2026-07-21-m1.4-common-tests.md`)
+- Next up: **M9.1 — Text representation recap (BoW → TF-IDF → embeddings)**, grounded in P6 (spend classifier) and P4/P5 (LLM workflows) — start of the AI-engineering core.
+- Last lesson: 2026-07-26 — Bayes' theorem & Bayesian vs frequentist thinking (`lessons/2026-07-26-m1.5-bayes-theorem.md`)
 
 ## Topic status
 
 | Module | Topic | Status | Confidence | Last touched | Notes |
 |--------|-------|--------|-----------|--------------|-------|
 | **Part 1 — Foundations** | | | | | |
-| M1 | Stats & probability | learning | 🟡 | 2026-07-21 | done: distributions+CLT, sampling/SE/CI, hypothesis testing, common tests (t/chi-sq/ANOVA + when to use); next: Bayes, then correlation/causation |
+| M1 | Stats & probability | learning | 🟢 | 2026-07-26 | done: distributions+CLT, sampling/SE/CI, hypothesis testing, common tests (t/chi-sq/ANOVA), Bayes' theorem + Bayesian vs frequentist (incl. shrinkage/cold-start link). M1 stats topics complete through 1.5 — correlation/causation (1.6) deprioritised for now per roadmap weave into M9 |
 | M2 | ML fundamentals | not-started | 🔴 | — | real gap; classical ML used at work is narrow (logistic regression, P6) — needs the fuller toolkit |
 | M3 | Model evaluation & validation | not-started | 🟡 | — | strong from real work (P6: CV, class imbalance, hyperparameter tuning) — formalise the theory |
 | M4 | Feature engineering | not-started | 🟡 | — | done in practice (P6, P7); theory pass, esp. TF-IDF→embeddings bridge into Part 2 |
